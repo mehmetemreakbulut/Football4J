@@ -16,17 +16,15 @@ load_dotenv()
 logging.basicConfig(level="INFO")
 logger = logging.getLogger(__name__)
 
-NODE_CREATION_PIPELINE = [
+PIPELINE = [
     create_competitions,
     create_clubs,
     create_players,
     create_games,
+    create_appearances,
+    create_valuations,
 ]
 
-RELATIONSHIP_CREATION_PIPELINE = [
-    create_appearances,
-    #create_valuations,
-]
 
 
 def run_pipeline():
@@ -34,11 +32,9 @@ def run_pipeline():
                               auth=(os.getenv("NEO4J_USER"),
                                     os.getenv("NEO4J_PASSWORD"))) as driver:
         with driver.session() as session:
-            for step in NODE_CREATION_PIPELINE:
-                continue
+            for step in PIPELINE:
                 step(session)
-            for step in RELATIONSHIP_CREATION_PIPELINE:
-                step(session)
+
 
 
 if __name__ == "__main__":
