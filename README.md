@@ -16,7 +16,7 @@ pip install -r src/requirements.txt
 ## Usage
 
 ```bash
-python3 -m src.load_graph.py
+python3 -m src.load_graph
 ```
 
 ## License

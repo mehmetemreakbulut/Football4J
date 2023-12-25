@@ -55,23 +55,11 @@ def fetch_appearances():
     return appearances
 
 
-def create_constraints(session: neo4j.Session):
-    """
-    Creates constraints for the appearance nodes.
-    """
-    logger.info("Creating constraints for appearance nodes")
-    with session.begin_transaction() as tx:
-        tx.run(
-            "CREATE CONSTRAINT IF NOT EXISTS FOR (a:Appearance) REQUIRE a.appearance_id IS UNIQUE"
-        )
-
-
 def create_appearances(session: neo4j.Session):
     """
     Creates relationships between appearances and games.
     """
     logger.info("Creating relationships between appearances and games")
-    create_constraints(session)
     appearances = fetch_appearances()
     query = """
     UNWIND $appearances AS appearance
