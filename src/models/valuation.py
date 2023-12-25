@@ -40,7 +40,8 @@ def create_valuations(session: neo4j.Session):
         session.run(
             """
             MATCH (p:Player {player_id: $player_id})
-            MERGE (p)-[:HAS_VALUATION {date: $date}]->(v:Valuation {market_value_in_eur: $market_value_in_eur})        
+            MERGE (v:Valuation {market_value_in_eur: $market_value_in_eur})
+            MERGE (p)-[:HAS_VALUATION {date: $date}]->(v)    
             """,
             player_id=valuations[i]["player_id"],
             date=valuations[i]["date"],
