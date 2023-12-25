@@ -80,12 +80,15 @@ def create_appearances(session: neo4j.Session):
     MERGE (p) - [r: APPEARED_IN]->(g) 
     ON CREATE SET
     r.appearance_id = appearance.appearance_id,
+    r.player_club_id = appearance.player_club_id,
     r.date = appearance.date,
     r.yellow_cards = appearance.yellow_cards,
     r.red_cards = appearance.red_cards,
     r.goals = appearance.goals,
     r.assists = appearance.assists,
     r.minutes_played = appearance.minutes_played
+    ON MATCH SET
+    r.player_club_id = appearance.player_club_id
     """
     #create batches of 1000 appearances
     batch_size = 1000

@@ -25,7 +25,7 @@ NODE_CREATION_PIPELINE = [
 
 RELATIONSHIP_CREATION_PIPELINE = [
     create_appearances,
-    create_valuations,
+    #create_valuations,
 ]
 
 
@@ -35,6 +35,7 @@ def run_pipeline():
                                     os.getenv("NEO4J_PASSWORD"))) as driver:
         with driver.session() as session:
             for step in NODE_CREATION_PIPELINE:
+                continue
                 step(session)
             for step in RELATIONSHIP_CREATION_PIPELINE:
                 step(session)
