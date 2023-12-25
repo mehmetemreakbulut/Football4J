@@ -83,6 +83,7 @@ def create_player_constraints(neo4j_session: neo4j.Session):
 
 def create_players(neo4j_session: neo4j.Session):
     create_player_constraints(neo4j_session)
+    logger.info("Creating player nodes")
     with neo4j_session.begin_transaction() as tx:
         for player in fetch_players():
             tx.run(
@@ -145,6 +146,51 @@ def create_players(neo4j_session: neo4j.Session):
                 player_id=player.player_id,
                 club_id=player.current_club_id,
             )
+
+
+            if player.country_of_birth:
+                tx.run(
+                    """
+                    MATCH (p:Player {player_id: $player_id})
+                    MERGE (c:Country {country_name: $country_name})
+                    MERGE (p)-[r:BORN_IN]->(c)
+                    """,
+                    player_id=player.player_id,
+                    country_name=player.country_of_birth,
+                )
+
+            if player.country_of_citizenship:
+                tx.run(
+                    """
+                    MATCH (p:Player {player_id: $player_id})
+                    MERGE (c:Country {country_name: $country_name})
+                    MERGE (p)-[r:CITIZEN_OF]->(c)
+                    """,
+                    player_id=player.player_id,
+                    country_name=player.country_of_citizenship,
+                )
+
+            if player.position:
+                tx.run(
+                    """
+                    MATCH (p:Player {player_id: $player_id})
+                    MERGE (po:Position {position_name: $position_name})
+                    MERGE (p)-[r:PLAYS_POSITION]->(po)
+                    """,
+                    player_id=player.player_id,
+                    position_name=player.position,
+                )
+
+            if player.sub_position:
+                tx.run(
+                    """
+                    MATCH (p:Player {player_id: $player_id})
+                    MERGE (po:Position {position_name: $position_name})
+                    MERGE (p)-[r:PLAYS_SUB_POSITION]->(po)
+                    """,
+                    player_id=player.player_id,
+                    position_name=player.sub_position,
+                )
 
         tx.commit()
 

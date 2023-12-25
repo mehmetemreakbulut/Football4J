@@ -11,7 +11,6 @@ class Valuation(BaseModel):
     player_id: int
     date: str
     market_value_in_eur: int
-    current_club_id: int
 
 
 def fetch_valuations():
@@ -25,9 +24,8 @@ def fetch_valuations():
             player_id=row["player_id"],
             date=row["date"],
             market_value_in_eur=row["market_value_in_eur"],
-            current_club_id=row["current_club_id"],
         )
-        valuations.append(valuation)
+        valuations.append(valuation.model_dump())
     return valuations
 
 
@@ -35,19 +33,23 @@ def create_valuations(session: neo4j.Session):
     """
     Creates valuation nodes.
     """
-    logger.info("Creating valuation nodes")
     valuations = fetch_valuations()
-    for valuation in valuations:
-        query = (
-            "MATCH (c:Club {club_id: $current_club_id}) "
-            "MATCH (p:Player {player_id: $player_id}) "
-            "MERGE (p)-[:HAS_VALUATION]->(v:Valuation {date: $date, market_value_in_eur: $market_value_in_eur}) "
-        )
+    print(len(valuations))
+    for i in range(0, len(valuations)):
+        logger.info(f"Creating valuation {i+1}/{len(valuations)}")
         session.run(
-            query,
-            player_id=valuation.player_id,
-            date=valuation.date,
-            market_value_in_eur=valuation.market_value_in_eur,
-            current_club_id=valuation.current_club_id,
+            """
+            MATCH (p:Player {player_id: $player_id})
+            MERGE (p)-[:HAS_VALUATION {date: $date}]->(v:Valuation {market_value_in_eur: $market_value_in_eur})        
+            """,
+            player_id=valuations[i]["player_id"],
+            date=valuations[i]["date"],
+            market_value_in_eur=valuations[i]["market_value_in_eur"],
         )
+
+
+
+
+
+    logger.info("Created valuations")
 

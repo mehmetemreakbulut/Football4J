@@ -121,6 +121,15 @@ def create_clubs(session: neo4j.Session):
                 competition_id=club.domestic_competition_id,
             )
 
+            tx.run(
+                """
+                MATCH (club:Club {club_id: $club_id})
+                MERGE (stadium:Stadium {name: $stadium_name})
+                MERGE (club)-[r:HAS_STADIUM]->(stadium)
+                """,
+                club_id=club.club_id,
+                stadium_name=club.stadium_name,
+            )
         tx.commit()
 
     logger.info("Clubs are created")

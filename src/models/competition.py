@@ -94,6 +94,17 @@ def create_competitions(session: neo4j.Session):
                 confederation=competition.confederation,
                 url=competition.url,
             )
+
+            if competition.country_name:
+                tx.run(
+                    """
+                    MATCH (c:Competition {competition_id: $competition_id})
+                    MERGE (co:Country {name: $country_name})
+                    MERGE (c)-[:IN_COUNTRY]->(co)
+                    """,
+                    competition_id=competition.competition_id,
+                    country_name=competition.country_name,
+                )
         tx.commit()
 
     logger.info("Created competition nodes")

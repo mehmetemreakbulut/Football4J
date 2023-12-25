@@ -62,7 +62,7 @@ def fetch_games():
             home_club_formation=row["home_club_formation"],
             away_club_formation=row["away_club_formation"],
         )
-        games.append(game)
+        games.append(game.model_dump())
     return games
 
 
@@ -81,84 +81,61 @@ def create_games(session: neo4j.Session):
     Creates game nodes.
     """
     create_game_constraints(session)
-    with session.begin_transaction() as tx:
-        for game in fetch_games():
-            tx.run(
-                "MERGE (g:Game {game_id: $game_id}) "
-                "ON CREATE SET g.competition_id = $competition_id, "
-                "g.season = $season, "
-                "g.round = $round, "
-                "g.date = $date, "
-                "g.home_club_id = $home_club_id, "
-                "g.away_club_id = $away_club_id, "
-                "g.home_club_goals = $home_club_goals, "
-                "g.away_club_goals = $away_club_goals, "
-                "g.home_club_position = $home_club_position, "
-                "g.away_club_position = $away_club_position, "
-                "g.home_club_manager_name = $home_club_manager_name, "
-                "g.away_club_manager_name = $away_club_manager_name, "
-                "g.stadium = $stadium, "
-                "g.attendance = $attendance, "
-                "g.referee = $referee, "
-                "g.url = $url, "
-                "g.home_club_formation = $home_club_formation, "
-                "g.away_club_formation = $away_club_formation "
-                ,
-                game_id=game.game_id,
-                competition_id=game.competition_id,
-                season=game.season,
-                round=game.round,
-                date=game.date,
-                home_club_id=game.home_club_id,
-                away_club_id=game.away_club_id,
-                home_club_goals=game.home_club_goals,
-                away_club_goals=game.away_club_goals,
-                home_club_position=game.home_club_position,
-                away_club_position=game.away_club_position,
-                home_club_manager_name=game.home_club_manager_name,
-                away_club_manager_name=game.away_club_manager_name,
-                stadium=game.stadium,
-                attendance=game.attendance,
-                referee=game.referee,
-                url=game.url,
-                home_club_formation=game.home_club_formation,
-                away_club_formation=game.away_club_formation,
-            )
-
-            tx.run(
-                """
-                MATCH (g:Game {game_id: $game_id})
-                MATCH (c:Club {club_id: $club_id})
-                MERGE (g)-[r:HOME_CLUB]->(c)
-                """,
-                game_id=game.game_id,
-                club_id=game.home_club_id,
-            )
-
-
-            tx.run(
-                """
-                MATCH (g:Game {game_id: $game_id})
-                MATCH (c:Club {club_id: $club_id})
-                MERGE (g)-[r:AWAY_CLUB]->(c)
-                """,
-                game_id=game.game_id,
-                club_id=game.away_club_id,
-            )
-
-
-            tx.run(
-                """
-                MATCH (g:Game {game_id: $game_id})
-                MATCH (c:Competition {competition_id: $competition_id})
-                MERGE (g)-[r:COMPETITION]->(c)
-                """,
-                game_id=game.game_id,
-                competition_id=game.competition_id,
-            )
+    games = fetch_games()
+    batch_size = 10000
+    for i in range(0, len(games), batch_size):
+        logger.info(f"Creating game nodes {i} to {i+batch_size}")
+        batch = games[i : i + batch_size]
+        query = (
+            "UNWIND $games as game "
+            "MERGE (g:Game {game_id: game.game_id}) "
+            "ON CREATE SET g.competition_id = game.competition_id, "
+            "g.season = game.season, "
+            "g.round = game.round, "
+            "g.date = game.date, "
+            "g.home_club_id = game.home_club_id, "
+            "g.away_club_id = game.away_club_id, "
+            "g.home_club_goals = game.home_club_goals, "
+            "g.away_club_goals = game.away_club_goals, "
+            "g.home_club_position = game.home_club_position, "
+            "g.away_club_position = game.away_club_position, "
+            "g.home_club_manager_name = game.home_club_manager_name, "
+            "g.away_club_manager_name = game.away_club_manager_name, "
+            "g.stadium = game.stadium, "
+            "g.attendance = game.attendance, "
+            "g.referee = game.referee, "
+            "g.url = game.url, "
+            "g.home_club_formation = game.home_club_formation, "
+            "g.away_club_formation = game.away_club_formation "
+            "MERGE (h:Club {club_id: game.home_club_id}) "
+            "MERGE (a:Club {club_id: game.away_club_id}) "
+            "MERGE (c:Competition {competition_id: game.competition_id}) "
+            "MERGE (g)-[:HOME_CLUB]->(h) "
+            "MERGE (g)-[:AWAY_CLUB]->(a) "
+            "MERGE (g)-[:COMPETITION]->(c) "
+        )
 
 
 
-        tx.commit()
+        games_with_referee = [game for game in batch if game["referee"]]
+        games_with_stadium = [game for game in batch if game["stadium"]]
 
-        logger.info("Created game nodes")
+        query2 = (
+            "UNWIND $games_with_referee as game "
+            "MATCH (g:Game {game_id: game.game_id}) "
+            "MERGE (r:Referee {name: game.referee}) "
+            "MERGE (g)-[:REFEREE]->(r) "
+        )
+
+        query3 = (
+            "UNWIND $games_with_stadium as game "
+            "MATCH (g:Game {game_id: game.game_id}) "
+            "MERGE (s:Stadium {name: game.stadium}) "
+            "MERGE (g)-[:STADIUM]->(s) "
+        )
+
+        session.run(query, games=batch)
+        session.run(query2, games_with_referee=games_with_referee)
+        session.run(query3, games_with_stadium=games_with_stadium)
+
+

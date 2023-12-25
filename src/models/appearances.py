@@ -50,7 +50,7 @@ def fetch_appearances():
             assists=row["assists"],
             minutes_played=row["minutes_played"],
         )
-        appearances.append(appearance)
+        appearances.append(appearance.model_dump())
 
     return appearances
 
@@ -72,30 +72,28 @@ def create_appearances(session: neo4j.Session):
     """
     logger.info("Creating relationships between appearances and games")
     create_constraints(session)
-    with session.begin_transaction() as tx:
-        for appearance in fetch_appearances():
-            tx.run(
-                """
-                MATCH (p:Player {player_id: $player_id} )
-                MATCH (g:Game {game_id: $game_id} )
-                MERGE (p)-[r:APPEARED_IN]->(g)
-                ON CREATE SET r.appearance_id = $appearance_id, 
-                r.player_club_id = $player_club_id,
-                r.yellow_cards = $yellow_cards,
-                r.red_cards = $red_cards,
-                r.goals = $goals,
-                r.assists = $assists,
-                r.minutes_played = $minutes_played
-                """,
-                player_id=appearance.player_id,
-                game_id=appearance.game_id,
-                appearance_id=appearance.appearance_id,
-                player_club_id=appearance.player_club_id,
-                yellow_cards=appearance.yellow_cards,
-                red_cards=appearance.red_cards,
-                goals=appearance.goals,
-                assists=appearance.assists,
-                minutes_played=appearance.minutes_played,
-            )
+    appearances = fetch_appearances()
+    query = """
+    UNWIND $appearances AS appearance
+    MATCH (p:Player {player_id: appearance.player_id})
+    MATCH (g:Game {game_id: appearance.game_id})
+    MERGE (p) - [r: APPEARED_IN]->(g) 
+    ON CREATE SET
+    r.appearance_id = appearance.appearance_id,
+    r.date = appearance.date,
+    r.yellow_cards = appearance.yellow_cards,
+    r.red_cards = appearance.red_cards,
+    r.goals = appearance.goals,
+    r.assists = appearance.assists,
+    r.minutes_played = appearance.minutes_played
+    """
+    #create batches of 1000 appearances
+    batch_size = 1000
+    batches = [appearances[i:i + batch_size] for i in range(0, len(appearances), batch_size)]
+    for i in range(len(batches)):
+        batch = batches[i]
+        logger.info(f"Creating relationships between appearances and games: batch {i+1}")
+        session.run(query, appearances=batch)
 
-        tx.commit()
+
+    logger.info("Created relationships between appearances and games")

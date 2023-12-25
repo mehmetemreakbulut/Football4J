@@ -1,3 +1,4 @@
+import logging
 import os
 
 from dotenv import load_dotenv
@@ -12,6 +13,9 @@ from src.models.valuation import create_valuations
 
 load_dotenv()
 
+logging.basicConfig(level="INFO")
+logger = logging.getLogger(__name__)
+
 NODE_CREATION_PIPELINE = [
     create_competitions,
     create_clubs,
@@ -20,6 +24,7 @@ NODE_CREATION_PIPELINE = [
 ]
 
 RELATIONSHIP_CREATION_PIPELINE = [
+    create_appearances,
     create_valuations,
 ]
 
