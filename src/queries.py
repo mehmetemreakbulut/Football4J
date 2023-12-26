@@ -162,6 +162,31 @@ ORDER BY total_wins DESC
 
 
 
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+"""
+This query returns the pair clubs that played games with the highest red cards. Find red card from the appearances.
+Returns the club1, club2, total_red_cards
+Return format:
+[
+    {
+        "club1": "FC Barcelona",
+        "club2": "Real Madrid",
+        "total_matches": 10,
+        "total_red_cards": 10
+    }
+]
+"""
+
+CLUBS_WITH_MOST_RED_CARDS = """
+MATCH (c1:Club)<-[:HOME_CLUB|AWAY_CLUB]-(g:Game)-[:HOME_CLUB|AWAY_CLUB]->(c2:Club)
+WHERE c1.club_id < c2.club_id and c1.name is not null and c2.name is not null
+MATCH (p:Player)-[r:APPEARED_IN]->(g)
+RETURN c1.name AS club1, c2.name AS club2, COUNT(DISTINCT g) AS total_matches, SUM(r.red_cards) AS total_red_cards
+ORDER BY total_red_cards DESC
+"""
 
 
 
