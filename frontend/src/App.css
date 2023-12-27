@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+}
+
+.landing {
+  display: flex;
+  height: 100vh;
+}
+
+.landing:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  bottom: 30%;
+  width: 2px; /* Width of the line */
+  background-color: white; /* Color of the line */
+}
+
+
+.half-page {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.half-page:first-child {
+  background-color: #000;
+  color: white;
+}
+
+.half-page:last-child {
+  background-color: #000;
+  color: white;
+}
+
+
+.half-page:hover {
+  background-color: #e4cece; /* A slightly darker shade for better contrast */
+  color: #333; /* Change text color for better visibility */
+}
+
+
+/* App.css */
+.twenty-areas-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 columns */
+  grid-template-rows: repeat(4, 1fr); /* 4 rows */
+  gap: 10px; /* Space between the grid items */
+  height: 100vh;
+  padding: 5px; /* Padding to avoid lines touching the container edges */
+  background-color: #000; /* Background color of the container */
+}
+
+.area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  background-color: #000;
+  color: white;
+  position: relative;
+}
+
+/* Vertical lines */
+.area:not(:nth-child(5n))::after {
+  content: '';
+  position: absolute;
+  right: -5px; /* Half of the gap to center the line */
+  top: 50%;
+  transform: translateY(-50%);
+  height: calc(100% - 30%); /* 100% of the area height minus 20% total vertical margin */
+  width: 1px;
+  background-color: white;
+}
+
+/* Horizontal lines */
+.area:not(:nth-last-child(-n+5))::before {
+  content: '';
+  position: absolute;
+  bottom: -5px; /* Half of the gap to center the line */
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 30%); /* 100% of the area width minus 20% total horizontal margin */
+  height: 1px;
+  background-color: white;
+}
+
+.area:hover {
+  background-color: #e9e9e9;
+  color: #333;
+}
