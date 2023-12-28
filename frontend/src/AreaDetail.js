@@ -3,9 +3,15 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import TableComponent from './TableComponent';
 
-const AreaDetail = ({ data }) => {
+const AreaDetail = ({ details }) => {
   const { queryId } = useParams();
-  const detail = data.find(item => item.queryId === queryId);
+  console.log('queryId', queryId);
+  const detail = details.find(item => item.queryId.toString() === queryId);
+  console.log('detail');
+
+  if (!detail) {
+    return <p>Detail not found!</p>;
+  }
 
   return (
     <div className="area-detail">

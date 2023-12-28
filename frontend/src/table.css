@@ -1,0 +1,89 @@
+/* table.css */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  th,
+  td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  th {
+    background-color: #080808;
+    color: #ffffff;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  th.ascending::after {
+    content: " \2191"; /* Unicode arrow for ascending sorting */
+  }
+  
+  th.descending::after {
+    content: " \2193"; /* Unicode arrow for descending sorting */
+  }
+  
+  tr {
+    transition: background-color 0.3s ease;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f3f3f3;
+  }
+  
+  tr:hover {
+    background-color: #4a3a3a;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Add a black background color to the top navigation bar */
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  /* Right-aligned section inside the top navigation */
+  .topnav-right {
+    float: right;
+  }
+  
+  /* Responsive table */
+  @media screen and (max-width: 600px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+  }
+  
