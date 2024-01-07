@@ -112,7 +112,7 @@ def create_games(session: neo4j.Session):
             "MERGE (c:Competition {competition_id: game.competition_id}) "
             "MERGE (g)-[:HOME_CLUB]->(h) "
             "MERGE (g)-[:AWAY_CLUB]->(a) "
-            "MERGE (g)-[:COMPETITION]->(c) "
+            "MERGE (g)-[:PLAYED_FOR]->(c) "
         )
 
 
@@ -131,7 +131,7 @@ def create_games(session: neo4j.Session):
             "UNWIND $games_with_stadium as game "
             "MATCH (g:Game {game_id: game.game_id}) "
             "MERGE (s:Stadium {name: game.stadium}) "
-            "MERGE (g)-[:STADIUM]->(s) "
+            "MERGE (g)-[:PLAYED_IN]->(s) "
         )
 
         session.run(query, games=batch)
