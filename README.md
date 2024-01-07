@@ -22,6 +22,9 @@ python3 -m src.load_graph
 ## Information about the Report
 Even though the figures including the outcomes are of small scale, they have a high resolution. They can be zoomed in for better visualisation. However, if you prefer, you can check them out from the `supplementaries`.
 
+## Web Interface
+Reach from this link: http://smbud.s3-website.eu-north-1.amazonaws.com/
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
