@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Country_Name": "Denmark",
+    "Goals_Scored": 881,
+    "Matches_Played": 270,
+    "Average_Goals": 3.26
+  },
+  {
+    "Country_Name": "Netherlands",
+    "Goals_Scored": 1264,
+    "Matches_Played": 389,
+    "Average_Goals": 3.25
+  },
+  {
+    "Country_Name": "Germany",
+    "Goals_Scored": 1200,
+    "Matches_Played": 370,
+    "Average_Goals": 3.24
+  },
+  {
+    "Country_Name": "Italy",
+    "Goals_Scored": 1435,
+    "Matches_Played": 459,
+    "Average_Goals": 3.13
+  },
+  {
+    "Country_Name": "Spain",
+    "Goals_Scored": 1505,
+    "Matches_Played": 493,
+    "Average_Goals": 3.05
+  },
+  {
+    "Country_Name": "Scotland",
+    "Goals_Scored": 885,
+    "Matches_Played": 303,
+    "Average_Goals": 2.92
+  },
+  {
+    "Country_Name": "England",
+    "Goals_Scored": 1563,
+    "Matches_Played": 537,
+    "Average_Goals": 2.91
+  },
+  {
+    "Country_Name": "Belgium",
+    "Goals_Scored": 657,
+    "Matches_Played": 241,
+    "Average_Goals": 2.73
+  },
+  {
+    "Country_Name": "Turkey",
+    "Goals_Scored": 829,
+    "Matches_Played": 306,
+    "Average_Goals": 2.71
+  },
+  {
+    "Country_Name": "France",
+    "Goals_Scored": 996,
+    "Matches_Played": 381,
+    "Average_Goals": 2.61
+  },
+  {
+    "Country_Name": "Russia",
+    "Goals_Scored": 855,
+    "Matches_Played": 336,
+    "Average_Goals": 2.54
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Goals_Scored": 576,
+    "Matches_Played": 229,
+    "Average_Goals": 2.52
+  },
+  {
+    "Country_Name": "Portugal",
+    "Goals_Scored": 866,
+    "Matches_Played": 352,
+    "Average_Goals": 2.46
+  },
+  {
+    "Country_Name": "Greece",
+    "Goals_Scored": 764,
+    "Matches_Played": 321,
+    "Average_Goals": 2.38
+  }
+]

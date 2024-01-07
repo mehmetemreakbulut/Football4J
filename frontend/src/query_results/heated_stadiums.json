@@ -1,0 +1,2252 @@
+﻿[
+  {
+    "Stadium": "Nuevo Mirandilla",
+    "Club": "Cádiz Club de Fútbol S.A.D",
+    "Total_Attendance": 149026,
+    "Matches_Played": 9,
+    "Average_Attendance": 16558.4,
+    "Total_Red_Cards": 5,
+    "Average_Red_Cards": 0.56,
+    "Score": 9.81901836960213
+  },
+  {
+    "Stadium": "Coliseum",
+    "Club": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Total_Attendance": 91696,
+    "Matches_Played": 8,
+    "Average_Attendance": 11462.0,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.5,
+    "Score": 9.05926040412173
+  },
+  {
+    "Stadium": "Estádio da Luz",
+    "Club": "Sport Lisboa e Benfica",
+    "Total_Attendance": 519364,
+    "Matches_Played": 10,
+    "Average_Attendance": 51936.4,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.4,
+    "Score": 8.715471842976772
+  },
+  {
+    "Stadium": "El Sadar",
+    "Club": "Club Atlético Osasuna",
+    "Total_Attendance": 203941,
+    "Matches_Played": 10,
+    "Average_Attendance": 20394.1,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.4,
+    "Score": 8.30950454448233
+  },
+  {
+    "Stadium": "Estádio do Bessa Século XXI",
+    "Club": "Boavista Futebol Clube",
+    "Total_Attendance": 60224,
+    "Matches_Played": 9,
+    "Average_Attendance": 6691.6,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.44,
+    "Score": 8.225529972489884
+  },
+  {
+    "Stadium": "Stade Océane",
+    "Club": "Le Havre Athletic Club",
+    "Total_Attendance": 171409,
+    "Matches_Played": 8,
+    "Average_Attendance": 21426.1,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.38,
+    "Score": 8.130943127522512
+  },
+  {
+    "Stadium": "Stade du Pays de Charleroi",
+    "Club": "Royal Charleroi Sporting Club",
+    "Total_Attendance": 48269,
+    "Matches_Played": 9,
+    "Average_Attendance": 5363.2,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.44,
+    "Score": 8.129423992614164
+  },
+  {
+    "Stadium": "Merck-Stadion am Böllenfalltor",
+    "Club": "Sportverein Darmstadt 1898 e. V.",
+    "Total_Attendance": 141570,
+    "Matches_Played": 8,
+    "Average_Attendance": 17696.3,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.38,
+    "Score": 8.047882472149478
+  },
+  {
+    "Stadium": "Orange Vélodrome",
+    "Club": "Olympique de Marseille",
+    "Total_Attendance": 627628,
+    "Matches_Played": 12,
+    "Average_Attendance": 52302.3,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.33,
+    "Score": 8.01852078743984
+  },
+  {
+    "Stadium": "Estádio José Gomes",
+    "Club": "Club Football Estrela da Amadora",
+    "Total_Attendance": 24125,
+    "Matches_Played": 7,
+    "Average_Attendance": 3446.4,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.43,
+    "Score": 7.837365681617888
+  },
+  {
+    "Stadium": "The City Ground",
+    "Club": "Nottingham Forest Football Club",
+    "Total_Attendance": 234172,
+    "Matches_Played": 9,
+    "Average_Attendance": 26019.1,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.33,
+    "Score": 7.7152922702504085
+  },
+  {
+    "Stadium": "Abanca Balaídos",
+    "Club": "Real Club Celta de Vigo S. A. D.",
+    "Total_Attendance": 171458,
+    "Matches_Played": 9,
+    "Average_Attendance": 19050.9,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.33,
+    "Score": 7.579915497376518
+  },
+  {
+    "Stadium": "Allianz Arena",
+    "Club": "FC Bayern München",
+    "Total_Attendance": 825024,
+    "Matches_Played": 11,
+    "Average_Attendance": 75002.2,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.27,
+    "Score": 7.5750740025096635
+  },
+  {
+    "Stadium": "Mendizorroza",
+    "Club": "Deportivo Alavés S.A.D.",
+    "Total_Attendance": 156024,
+    "Matches_Played": 9,
+    "Average_Attendance": 17336.0,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.33,
+    "Score": 7.538948898311762
+  },
+  {
+    "Stadium": "Tony Macaroni Arena",
+    "Club": "Livingston Football Club",
+    "Total_Attendance": 25535,
+    "Matches_Played": 8,
+    "Average_Attendance": 3191.9,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.38,
+    "Score": 7.304049276748714
+  },
+  {
+    "Stadium": "Tottenham Hotspur Stadium",
+    "Club": "Tottenham Hotspur Football Club",
+    "Total_Attendance": 492212,
+    "Matches_Played": 8,
+    "Average_Attendance": 61526.5,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.25,
+    "Score": 7.289062210489945
+  },
+  {
+    "Stadium": "Recep Tayyip Erdoğan Stadyumu",
+    "Club": "Kasımpaşa Spor Kulübü",
+    "Total_Attendance": 23237,
+    "Matches_Played": 8,
+    "Average_Attendance": 2904.6,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.38,
+    "Score": 7.263086333024534
+  },
+  {
+    "Stadium": "Estádio do Vizela",
+    "Club": "Futebol Clube de Vizela",
+    "Total_Attendance": 22284,
+    "Matches_Played": 8,
+    "Average_Attendance": 2785.5,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.38,
+    "Score": 7.244903162795461
+  },
+  {
+    "Stadium": "GelreDome",
+    "Club": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Total_Attendance": 107916,
+    "Matches_Played": 7,
+    "Average_Attendance": 15416.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.29,
+    "Score": 7.087988604321136
+  },
+  {
+    "Stadium": "Akhmat-Arena",
+    "Club": "RFK Akhmat Grozny",
+    "Total_Attendance": 65863,
+    "Matches_Played": 12,
+    "Average_Attendance": 5488.6,
+    "Total_Red_Cards": 4,
+    "Average_Red_Cards": 0.33,
+    "Score": 7.039461581278474
+  },
+  {
+    "Stadium": "Apostolos Nikolaidis",
+    "Club": "Panathinaikos Athlitikos Omilos",
+    "Total_Attendance": 108332,
+    "Matches_Played": 10,
+    "Average_Attendance": 10833.2,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.3,
+    "Score": 7.0347567610634645
+  },
+  {
+    "Stadium": "Roazhon Park",
+    "Club": "Stade Rennais Football Club",
+    "Total_Attendance": 303561,
+    "Matches_Played": 12,
+    "Average_Attendance": 25296.8,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.25,
+    "Score": 6.903065587174302
+  },
+  {
+    "Stadium": "Groupama Stadium",
+    "Club": "Olympique Lyonnais",
+    "Total_Attendance": 375713,
+    "Matches_Played": 9,
+    "Average_Attendance": 41745.9,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.820613828446866
+  },
+  {
+    "Stadium": "Lyngby Stadion",
+    "Club": "Lyngby Boldklubben af 1921",
+    "Total_Attendance": 60449,
+    "Matches_Played": 10,
+    "Average_Attendance": 6044.9,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.3,
+    "Score": 6.781389120778691
+  },
+  {
+    "Stadium": "Stade de la Beaujoire",
+    "Club": "Football Club de Nantes",
+    "Total_Attendance": 270777,
+    "Matches_Played": 9,
+    "Average_Attendance": 30086.3,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.6783687816787225
+  },
+  {
+    "Stadium": "Kras Stadion",
+    "Club": "Football Club Volendam",
+    "Total_Attendance": 39391,
+    "Matches_Played": 7,
+    "Average_Attendance": 5627.3,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.29,
+    "Score": 6.650300068676575
+  },
+  {
+    "Stadium": "Allianz Riviera",
+    "Club": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Total_Attendance": 234796,
+    "Matches_Played": 9,
+    "Average_Attendance": 26088.4,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.616447444662551
+  },
+  {
+    "Stadium": "Estádio Cidade de Barcelos",
+    "Club": "Gil Vicente Futebol Clube",
+    "Total_Attendance": 30819,
+    "Matches_Played": 7,
+    "Average_Attendance": 4402.7,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.29,
+    "Score": 6.54371909363954
+  },
+  {
+    "Stadium": "Ceres Park",
+    "Club": "Aarhus Gymnastik Forening",
+    "Total_Attendance": 129324,
+    "Matches_Played": 12,
+    "Average_Attendance": 10777.0,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.25,
+    "Score": 6.53249788285711
+  },
+  {
+    "Stadium": "Sparta-stadion - Het Kasteel",
+    "Club": "Sparta Rotterdam",
+    "Total_Attendance": 61997,
+    "Matches_Played": 8,
+    "Average_Attendance": 7749.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.25,
+    "Score": 6.389279286728767
+  },
+  {
+    "Stadium": "Estádio D. Afonso Henriques",
+    "Club": "Vitória Sport Clube",
+    "Total_Attendance": 123928,
+    "Matches_Played": 9,
+    "Average_Attendance": 13769.8,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.338927632375502
+  },
+  {
+    "Stadium": "Estádio Municipal de Famalicão",
+    "Club": "Futebol Clube de Famalicão",
+    "Total_Attendance": 19006,
+    "Matches_Played": 7,
+    "Average_Attendance": 2715.1,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.29,
+    "Score": 6.3337858297438
+  },
+  {
+    "Stadium": "Medaş Konya Büyükşehir Stadyumu",
+    "Club": "Konyaspor",
+    "Total_Attendance": 51133,
+    "Matches_Played": 8,
+    "Average_Attendance": 6391.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.25,
+    "Score": 6.3056095880787035
+  },
+  {
+    "Stadium": "Bluenergy Stadium",
+    "Club": "Udinese Calcio",
+    "Total_Attendance": 182596,
+    "Matches_Played": 10,
+    "Average_Attendance": 18259.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.2,
+    "Score": 6.261491259523828
+  },
+  {
+    "Stadium": "Ramón Sánchez-Pizjuán",
+    "Club": "Sevilla Fútbol Club S.A.D.",
+    "Total_Attendance": 425491,
+    "Matches_Played": 12,
+    "Average_Attendance": 35457.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.17,
+    "Score": 6.249709336396574
+  },
+  {
+    "Stadium": "Gtech Community Stadium",
+    "Club": "Brentford Football Club",
+    "Total_Attendance": 170147,
+    "Matches_Played": 10,
+    "Average_Attendance": 17014.7,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.2,
+    "Score": 6.230824296100463
+  },
+  {
+    "Stadium": "Reale Arena",
+    "Club": "Real Sociedad de Fútbol S.A.D.",
+    "Total_Attendance": 399696,
+    "Matches_Played": 12,
+    "Average_Attendance": 33308.0,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.17,
+    "Score": 6.22254855598626
+  },
+  {
+    "Stadium": "St James' Park",
+    "Club": "Newcastle United Football Club",
+    "Total_Attendance": 676895,
+    "Matches_Played": 13,
+    "Average_Attendance": 52068.8,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.15,
+    "Score": 6.2165775688532685
+  },
+  {
+    "Stadium": "De Grolsch Veste",
+    "Club": "Football Club Twente",
+    "Total_Attendance": 284500,
+    "Matches_Played": 11,
+    "Average_Attendance": 25863.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.18,
+    "Score": 6.212688974965079
+  },
+  {
+    "Stadium": "Çaykur Didi",
+    "Club": "Çaykur Rizespor Kulübü",
+    "Total_Attendance": 39438,
+    "Matches_Played": 8,
+    "Average_Attendance": 4929.8,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.25,
+    "Score": 6.192829300482449
+  },
+  {
+    "Stadium": "Stade Gabriel-Montpied",
+    "Club": "Clermont Foot 63",
+    "Total_Attendance": 87974,
+    "Matches_Played": 9,
+    "Average_Attendance": 9774.9,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.190112323134878
+  },
+  {
+    "Stadium": "Stadion Feyenoord \"De Kuip\"",
+    "Club": "Feyenoord Rotterdam",
+    "Total_Attendance": 552031,
+    "Matches_Played": 13,
+    "Average_Attendance": 42463.9,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.15,
+    "Score": 6.128019878447451
+  },
+  {
+    "Stadium": "RheinEnergieSTADION",
+    "Club": "1. Fußball-Club Köln",
+    "Total_Attendance": 348100,
+    "Matches_Played": 7,
+    "Average_Attendance": 49728.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.14,
+    "Score": 6.096606232792788
+  },
+  {
+    "Stadium": "De Adelaarshorst",
+    "Club": "Go Ahead Eagles",
+    "Total_Attendance": 68265,
+    "Matches_Played": 9,
+    "Average_Attendance": 7585.0,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.079955585122749
+  },
+  {
+    "Stadium": "Gazovik",
+    "Club": "FC Orenburg",
+    "Total_Attendance": 42055,
+    "Matches_Played": 12,
+    "Average_Attendance": 3504.6,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.25,
+    "Score": 6.044638456623337
+  },
+  {
+    "Stadium": "Ibrox Stadium",
+    "Club": "Rangers Football Club",
+    "Total_Attendance": 584639,
+    "Matches_Played": 14,
+    "Average_Attendance": 41759.9,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.14,
+    "Score": 6.0207594500157535
+  },
+  {
+    "Stadium": "Guldensporenstadion",
+    "Club": "Koninklijke Voetbalclub Kortrijk",
+    "Total_Attendance": 57106,
+    "Matches_Played": 9,
+    "Average_Attendance": 6345.1,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 6.002438471049473
+  },
+  {
+    "Stadium": "Olimpico di Roma",
+    "Club": "Associazione Sportiva Roma",
+    "Total_Attendance": 1155857,
+    "Matches_Played": 23,
+    "Average_Attendance": 50254.7,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.13,
+    "Score": 6.001176684771383
+  },
+  {
+    "Stadium": "Olimpico di Roma",
+    "Club": "Società Sportiva Lazio S.p.A.",
+    "Total_Attendance": 1155857,
+    "Matches_Played": 23,
+    "Average_Attendance": 50254.7,
+    "Total_Red_Cards": 3,
+    "Average_Red_Cards": 0.13,
+    "Score": 6.001176684771383
+  },
+  {
+    "Stadium": "Ali Sami Yen Spor Kompleksi RAMS Park",
+    "Club": "Galatasaray Spor Kulübü",
+    "Total_Attendance": 546442,
+    "Matches_Played": 14,
+    "Average_Attendance": 39031.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.14,
+    "Score": 5.991416354430842
+  },
+  {
+    "Stadium": "Daio Wasabi Stayen Stadium",
+    "Club": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Total_Attendance": 52392,
+    "Matches_Played": 9,
+    "Average_Attendance": 5821.3,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.22,
+    "Score": 5.965019981175847
+  },
+  {
+    "Stadium": "Mestalla",
+    "Club": "Valencia Club de Fútbol S. A. D.",
+    "Total_Attendance": 349525,
+    "Matches_Played": 8,
+    "Average_Attendance": 43690.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.940388008886723
+  },
+  {
+    "Stadium": "Cegeka Arena",
+    "Club": "Koninklijke Racing Club Genk",
+    "Total_Attendance": 191361,
+    "Matches_Played": 12,
+    "Average_Attendance": 15946.8,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.17,
+    "Score": 5.902673547470276
+  },
+  {
+    "Stadium": "Goffertstadion",
+    "Club": "Nijmegen Eendracht Combinatie",
+    "Total_Attendance": 73498,
+    "Matches_Played": 10,
+    "Average_Attendance": 7349.8,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.2,
+    "Score": 5.866275521386487
+  },
+  {
+    "Stadium": "WWK ARENA",
+    "Club": "FC Augsburg 1907",
+    "Total_Attendance": 227619,
+    "Matches_Played": 8,
+    "Average_Attendance": 28452.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.754118905627235
+  },
+  {
+    "Stadium": "Estádio do Dragão",
+    "Club": "Futebol Clube do Porto",
+    "Total_Attendance": 377593,
+    "Matches_Played": 9,
+    "Average_Attendance": 41954.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.722781655135147
+  },
+  {
+    "Stadium": "Wohninvest-Weserstadion",
+    "Club": "Sportverein Werder Bremen von 1899",
+    "Total_Attendance": 374500,
+    "Matches_Played": 9,
+    "Average_Attendance": 41611.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.719209196629661
+  },
+  {
+    "Stadium": "SIGNAL IDUNA PARK",
+    "Club": "Borussia Dortmund",
+    "Total_Attendance": 1056730,
+    "Matches_Played": 13,
+    "Average_Attendance": 81286.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.710020561385928
+  },
+  {
+    "Stadium": "Estadio de Gran Canaria",
+    "Club": "Unión Deportiva Las Palmas S.A.D.",
+    "Total_Attendance": 198570,
+    "Matches_Played": 8,
+    "Average_Attendance": 24821.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.694824523659141
+  },
+  {
+    "Stadium": "VEB Arena",
+    "Club": "PFK CSKA Moskva",
+    "Total_Attendance": 114052,
+    "Matches_Played": 12,
+    "Average_Attendance": 9504.3,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.17,
+    "Score": 5.677920136211224
+  },
+  {
+    "Stadium": "Stade Saint-Symphorien",
+    "Club": "Football Club de Metz",
+    "Total_Attendance": 186776,
+    "Matches_Played": 8,
+    "Average_Attendance": 23347.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.668231083311129
+  },
+  {
+    "Stadium": "Decathlon Arena-Stade Pierre-Mauroy",
+    "Club": "Lille Olympique Sporting Club Lille Métropole",
+    "Total_Attendance": 320339,
+    "Matches_Played": 9,
+    "Average_Attendance": 35593.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.651367034923428
+  },
+  {
+    "Stadium": "San Mamés",
+    "Club": "Athletic Club Bilbao",
+    "Total_Attendance": 446855,
+    "Matches_Played": 10,
+    "Average_Attendance": 44685.5,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 5.650166621754357
+  },
+  {
+    "Stadium": "Stadion An der Alten Försterei",
+    "Club": "1. FC Union Berlin",
+    "Total_Attendance": 174084,
+    "Matches_Played": 8,
+    "Average_Attendance": 21760.5,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.637668870104552
+  },
+  {
+    "Stadium": "Etihad Stadium",
+    "Club": "Manchester City Football Club",
+    "Total_Attendance": 579084,
+    "Matches_Played": 11,
+    "Average_Attendance": 52644.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.621348880452571
+  },
+  {
+    "Stadium": "Panthessaliko Stadio",
+    "Club": "Niki Volou",
+    "Total_Attendance": 9714,
+    "Matches_Played": 8,
+    "Average_Attendance": 1214.3,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.25,
+    "Score": 5.584325995016827
+  },
+  {
+    "Stadium": "Panthessaliko Stadio",
+    "Club": "Neos Podosferikos Syllogos Volou",
+    "Total_Attendance": 9714,
+    "Matches_Played": 8,
+    "Average_Attendance": 1214.3,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.25,
+    "Score": 5.584325995016827
+  },
+  {
+    "Stadium": "Emirates Stadium",
+    "Club": "Arsenal Football Club",
+    "Total_Attendance": 719441,
+    "Matches_Played": 12,
+    "Average_Attendance": 59953.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.577813817282542
+  },
+  {
+    "Stadium": "Marcantonio Bentegodi",
+    "Club": "Verona Hellas Football Club",
+    "Total_Attendance": 149787,
+    "Matches_Played": 8,
+    "Average_Attendance": 18723.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.572384715511149
+  },
+  {
+    "Stadium": "Marcantonio Bentegodi",
+    "Club": "Chievo Verona",
+    "Total_Attendance": 149787,
+    "Matches_Played": 8,
+    "Average_Attendance": 18723.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.572384715511149
+  },
+  {
+    "Stadium": "Civitas Metropolitano",
+    "Club": "Club Atlético de Madrid S.A.D.",
+    "Total_Attendance": 697087,
+    "Matches_Played": 12,
+    "Average_Attendance": 58090.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.564105862193967
+  },
+  {
+    "Stadium": "Rostov Arena",
+    "Club": "FK Rostov",
+    "Total_Attendance": 146823,
+    "Matches_Played": 13,
+    "Average_Attendance": 11294.1,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.15,
+    "Score": 5.552851628739617
+  },
+  {
+    "Stadium": "De Bosuil",
+    "Club": "Royal Antwerp Football Club",
+    "Total_Attendance": 193329,
+    "Matches_Played": 14,
+    "Average_Attendance": 13809.2,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.14,
+    "Score": 5.540168519588826
+  },
+  {
+    "Stadium": "Old Trafford",
+    "Club": "Manchester United Football Club",
+    "Total_Attendance": 953571,
+    "Matches_Played": 14,
+    "Average_Attendance": 68112.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.07,
+    "Score": 5.5332249080675115
+  },
+  {
+    "Stadium": "Stade Auguste-Delaune",
+    "Club": "Stade de Reims",
+    "Total_Attendance": 124384,
+    "Matches_Played": 8,
+    "Average_Attendance": 15548.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.491674531959228
+  },
+  {
+    "Stadium": "Stade Bollaert-Delelis",
+    "Club": "Racing Club de Lens",
+    "Total_Attendance": 416327,
+    "Matches_Played": 11,
+    "Average_Attendance": 37847.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.4780417875688965
+  },
+  {
+    "Stadium": "Anfield",
+    "Club": "Liverpool Football Club",
+    "Total_Attendance": 618076,
+    "Matches_Played": 13,
+    "Average_Attendance": 47544.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.477098457615573
+  },
+  {
+    "Stadium": "Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi",
+    "Club": "Fenerbahçe Spor Kulübü",
+    "Total_Attendance": 413553,
+    "Matches_Played": 11,
+    "Average_Attendance": 37595.7,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.4751381754312884
+  },
+  {
+    "Stadium": "Stade Francis-Le Blé",
+    "Club": "Stade brestois 29",
+    "Total_Attendance": 118051,
+    "Matches_Played": 8,
+    "Average_Attendance": 14756.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.468980419083789
+  },
+  {
+    "Stadium": "Stadio Diego Armando Maradona",
+    "Club": "Società Sportiva Calcio Napoli",
+    "Total_Attendance": 529574,
+    "Matches_Played": 12,
+    "Average_Attendance": 44131.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.444745736789878
+  },
+  {
+    "Stadium": "Turf Moor",
+    "Club": "Burnley Football Club",
+    "Total_Attendance": 193361,
+    "Matches_Played": 9,
+    "Average_Attendance": 21484.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.432127272406243
+  },
+  {
+    "Stadium": "Europa-Park Stadion",
+    "Club": "Sport-Club Freiburg",
+    "Total_Attendance": 371034,
+    "Matches_Played": 11,
+    "Average_Attendance": 33730.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.42802149140452
+  },
+  {
+    "Stadium": "Stamford Bridge",
+    "Club": "Chelsea Football Club",
+    "Total_Attendance": 510501,
+    "Matches_Played": 13,
+    "Average_Attendance": 39269.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.3940531597668055
+  },
+  {
+    "Stadium": "McDiarmid Park",
+    "Club": "Saint Johnstone Football Club",
+    "Total_Attendance": 23709,
+    "Matches_Played": 10,
+    "Average_Attendance": 2370.9,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.2,
+    "Score": 5.374913236658887
+  },
+  {
+    "Stadium": "Erve Asito",
+    "Club": "Heracles Almelo",
+    "Total_Attendance": 94392,
+    "Matches_Played": 8,
+    "Average_Attendance": 11799.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.371845201129409
+  },
+  {
+    "Stadium": "Stadio Renato Dall’Ara",
+    "Club": "Bologna Football Club 1909",
+    "Total_Attendance": 226254,
+    "Matches_Played": 10,
+    "Average_Attendance": 22625.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 5.354596265943855
+  },
+  {
+    "Stadium": "Nuevo Los Cármenes",
+    "Club": "Granada Club de Fútbol S.A.D.",
+    "Total_Attendance": 154443,
+    "Matches_Played": 9,
+    "Average_Attendance": 17160.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.334524876007192
+  },
+  {
+    "Stadium": "Luigi Ferraris",
+    "Club": "Genoa Cricket and Football Club",
+    "Total_Attendance": 294647,
+    "Matches_Played": 11,
+    "Average_Attendance": 26786.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.327909485844993
+  },
+  {
+    "Stadium": "Luigi Ferraris",
+    "Club": "UC Sampdoria",
+    "Total_Attendance": 294647,
+    "Matches_Played": 11,
+    "Average_Attendance": 26786.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.327909485844993
+  },
+  {
+    "Stadium": "Abe Lenstra Stadion",
+    "Club": "Sportclub Heerenveen",
+    "Total_Attendance": 142685,
+    "Matches_Played": 9,
+    "Average_Attendance": 15853.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.30013611451178
+  },
+  {
+    "Stadium": "Stade du Moustoir",
+    "Club": "Football Club Lorient-Bretagne Sud",
+    "Total_Attendance": 137895,
+    "Matches_Played": 9,
+    "Average_Attendance": 15321.7,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.285306954569373
+  },
+  {
+    "Stadium": "Estádio José Alvalade XXI",
+    "Club": "Sporting Clube de Portugal",
+    "Total_Attendance": 366132,
+    "Matches_Played": 12,
+    "Average_Attendance": 30511.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.284456441905429
+  },
+  {
+    "Stadium": "Ettore Giardiniero",
+    "Club": "Unione Sportiva Lecce",
+    "Total_Attendance": 259336,
+    "Matches_Played": 11,
+    "Average_Attendance": 23576.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.2724701228418684
+  },
+  {
+    "Stadium": "Stadium Municipal",
+    "Club": "Toulouse Football Club",
+    "Total_Attendance": 258592,
+    "Matches_Played": 11,
+    "Average_Attendance": 23508.4,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.27122307171034
+  },
+  {
+    "Stadium": "Mallorca Son Moix",
+    "Club": "Real Club Deportivo Mallorca S.A.D.",
+    "Total_Attendance": 132678,
+    "Matches_Played": 9,
+    "Average_Attendance": 14742.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.268556406863725
+  },
+  {
+    "Stadium": "AMEX Stadium",
+    "Club": "Brighton and Hove Albion Football Club",
+    "Total_Attendance": 344275,
+    "Matches_Played": 12,
+    "Average_Attendance": 28689.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.257724493209269
+  },
+  {
+    "Stadium": "Giuseppe Meazza",
+    "Club": "Football Club Internazionale Milano S.p.A.",
+    "Total_Attendance": 1654496,
+    "Matches_Played": 23,
+    "Average_Attendance": 71934.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.04,
+    "Score": 5.256937833006754
+  },
+  {
+    "Stadium": "Giuseppe Meazza",
+    "Club": "Associazione Calcio Milan",
+    "Total_Attendance": 1654496,
+    "Matches_Played": 23,
+    "Average_Attendance": 71934.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.04,
+    "Score": 5.256937833006754
+  },
+  {
+    "Stadium": "Power Horse Stadium",
+    "Club": "Unión Deportiva Almería S.A.D.",
+    "Total_Attendance": 126461,
+    "Matches_Played": 9,
+    "Average_Attendance": 14051.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.247713415424293
+  },
+  {
+    "Stadium": "Gazprom Arena",
+    "Club": "AO FK Zenit Sankt-Peterburg",
+    "Total_Attendance": 310098,
+    "Matches_Played": 12,
+    "Average_Attendance": 25841.5,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.212317719184333
+  },
+  {
+    "Stadium": "Stade Louis-II",
+    "Club": "Association sportive de Monaco Football Club",
+    "Total_Attendance": 64853,
+    "Matches_Played": 8,
+    "Average_Attendance": 8106.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.208838744365676
+  },
+  {
+    "Stadium": "Campo de Fútbol de Vallecas",
+    "Club": "Rayo Vallecano de Madrid S.A.D.",
+    "Total_Attendance": 115319,
+    "Matches_Played": 9,
+    "Average_Attendance": 12813.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.207657605059973
+  },
+  {
+    "Stadium": "OPAP Arena",
+    "Club": "Athlitiki Enosi Konstantinoupoleos",
+    "Total_Attendance": 302995,
+    "Matches_Played": 12,
+    "Average_Attendance": 25249.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.202254502487601
+  },
+  {
+    "Stadium": "Montilivi",
+    "Club": "Girona Fútbol Club S. A. D.",
+    "Total_Attendance": 112931,
+    "Matches_Played": 9,
+    "Average_Attendance": 12547.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.198571048946551
+  },
+  {
+    "Stadium": "Stadion Krasnodar",
+    "Club": "FK Krasnodar",
+    "Total_Attendance": 262798,
+    "Matches_Played": 12,
+    "Average_Attendance": 21899.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.140440148662355
+  },
+  {
+    "Stadium": "Kenilworth Road",
+    "Club": "Luton Town Football Club",
+    "Total_Attendance": 96608,
+    "Matches_Played": 9,
+    "Average_Attendance": 10734.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 5.130769682816789
+  },
+  {
+    "Stadium": "Yeni Adana Stadyumu",
+    "Club": "Adanaspor",
+    "Total_Attendance": 181971,
+    "Matches_Played": 11,
+    "Average_Attendance": 16542.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.118609019220919
+  },
+  {
+    "Stadium": "Yeni Adana Stadyumu",
+    "Club": "Adana Demirspor Kulübü",
+    "Total_Attendance": 181971,
+    "Matches_Played": 11,
+    "Average_Attendance": 16542.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.118609019220919
+  },
+  {
+    "Stadium": "Fortuna Sittard Stadion",
+    "Club": "Fortuna Sittardia Combinatie",
+    "Total_Attendance": 51714,
+    "Matches_Played": 8,
+    "Average_Attendance": 6464.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.110521503292715
+  },
+  {
+    "Stadium": "Kilmac Stadium at Dens Park",
+    "Club": "Dundee Football Club",
+    "Total_Attendance": 51370,
+    "Matches_Played": 8,
+    "Average_Attendance": 6421.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 5.107622960416576
+  },
+  {
+    "Stadium": "Mapei Stadium - Città del Tricolore",
+    "Club": "Unione Sportiva Sassuolo Calcio",
+    "Total_Attendance": 118472,
+    "Matches_Played": 10,
+    "Average_Attendance": 11847.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 5.073615720115126
+  },
+  {
+    "Stadium": "AFAS Stadion",
+    "Club": "Alkmaar Zaanstreek",
+    "Total_Attendance": 237987,
+    "Matches_Played": 21,
+    "Average_Attendance": 11332.7,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.1,
+    "Score": 5.054333392246934
+  },
+  {
+    "Stadium": "AFAS Stadion",
+    "Club": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Total_Attendance": 237987,
+    "Matches_Played": 21,
+    "Average_Attendance": 11332.7,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.1,
+    "Score": 5.054333392246934
+  },
+  {
+    "Stadium": "Parken",
+    "Club": "Football Club København",
+    "Total_Attendance": 457488,
+    "Matches_Played": 17,
+    "Average_Attendance": 26911.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.06,
+    "Score": 5.029931450055334
+  },
+  {
+    "Stadium": "Jan-Breydel-Stadion",
+    "Club": "Club Brugge Koninklijke Voetbalvereniging",
+    "Total_Attendance": 295847,
+    "Matches_Played": 22,
+    "Average_Attendance": 13447.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.02864478249742
+  },
+  {
+    "Stadium": "Jan-Breydel-Stadion",
+    "Club": "Cercle Brugge Koninklijke Sportvereniging",
+    "Total_Attendance": 295847,
+    "Matches_Played": 22,
+    "Average_Attendance": 13447.6,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.09,
+    "Score": 5.02864478249742
+  },
+  {
+    "Stadium": "Estádio Municipal de Braga",
+    "Club": "Sporting Clube de Braga",
+    "Total_Attendance": 211972,
+    "Matches_Played": 13,
+    "Average_Attendance": 16305.5,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 5.01233412076918
+  },
+  {
+    "Stadium": "U-Power Stadium - Brianteo",
+    "Club": "Associazione Calcio Monza",
+    "Total_Attendance": 101350,
+    "Matches_Played": 10,
+    "Average_Attendance": 10135.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 5.005823753029028
+  },
+  {
+    "Stadium": "Vitality Stadium",
+    "Club": "Association Football Club Bournemouth",
+    "Total_Attendance": 99016,
+    "Matches_Played": 10,
+    "Average_Attendance": 9901.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 4.995705377933499
+  },
+  {
+    "Stadium": "Stadio Georgios Karaiskakis",
+    "Club": "Olympiakos Syndesmos Filathlon Peiraios",
+    "Total_Attendance": 276571,
+    "Matches_Played": 14,
+    "Average_Attendance": 19755.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.07,
+    "Score": 4.995679232414745
+  },
+  {
+    "Stadium": "Mandemakers Stadion",
+    "Club": "Rooms Katholieke Combinatie Waalwijk",
+    "Total_Attendance": 39057,
+    "Matches_Played": 8,
+    "Average_Attendance": 4882.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 4.988606670821318
+  },
+  {
+    "Stadium": "Corendon Airlines Park Antalya Stadı",
+    "Club": "Antalyaspor",
+    "Total_Attendance": 67849,
+    "Matches_Played": 9,
+    "Average_Attendance": 7538.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 4.977302221883862
+  },
+  {
+    "Stadium": "Ghelamco Arena",
+    "Club": "Koninklijke Atletiek Associatie Gent",
+    "Total_Attendance": 184603,
+    "Matches_Played": 13,
+    "Average_Attendance": 14200.2,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.952294461163669
+  },
+  {
+    "Stadium": "Estádio Municipal de Arouca",
+    "Club": "Futebol Clube de Arouca",
+    "Total_Attendance": 15470,
+    "Matches_Played": 11,
+    "Average_Attendance": 1406.4,
+    "Total_Red_Cards": 2,
+    "Average_Red_Cards": 0.18,
+    "Score": 4.9481088577296966
+  },
+  {
+    "Stadium": "RHG Enertürk Enerji Stadyumu",
+    "Club": "Kayserispor Kulübü",
+    "Total_Attendance": 54459,
+    "Matches_Played": 9,
+    "Average_Attendance": 6051.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 4.881827152932428
+  },
+  {
+    "Stadium": "Estádio Municipal Eng.º Manuel Branco Teixeira",
+    "Club": "Grupo Desportivo de Chaves",
+    "Total_Attendance": 21062,
+    "Matches_Played": 7,
+    "Average_Attendance": 3008.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.14,
+    "Score": 4.878407754317061
+  },
+  {
+    "Stadium": "Central Stadium of Profsoyuzes",
+    "Club": "FK Fakel Voronezh",
+    "Total_Attendance": 138112,
+    "Matches_Played": 12,
+    "Average_Attendance": 11509.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.861048910477574
+  },
+  {
+    "Stadium": "Santiago Bernabéu",
+    "Club": "Real Madrid Club de Fútbol",
+    "Total_Attendance": 773502,
+    "Matches_Played": 11,
+    "Average_Attendance": 70318.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.847068980395118
+  },
+  {
+    "Stadium": "Fir Park",
+    "Club": "Motherwell Football Club",
+    "Total_Attendance": 49580,
+    "Matches_Played": 9,
+    "Average_Attendance": 5508.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 4.841064888938512
+  },
+  {
+    "Stadium": "The SMISA Stadium",
+    "Club": "Saint Mirren Football Club",
+    "Total_Attendance": 45385,
+    "Matches_Played": 9,
+    "Average_Attendance": 5042.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 4.802671744161753
+  },
+  {
+    "Stadium": "Yekaterinburg Arena",
+    "Club": "FK Ural Yekaterinburg",
+    "Total_Attendance": 118101,
+    "Matches_Played": 12,
+    "Average_Attendance": 9841.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.793074535278541
+  },
+  {
+    "Stadium": "Solidarnost Samara Arena",
+    "Club": "PFK Krylya Sovetov Samara",
+    "Total_Attendance": 110027,
+    "Matches_Played": 12,
+    "Average_Attendance": 9168.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.762317236151438
+  },
+  {
+    "Stadium": "London Stadium",
+    "Club": "West Ham United Football Club",
+    "Total_Attendance": 659069,
+    "Matches_Played": 12,
+    "Average_Attendance": 54922.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.739749506787275
+  },
+  {
+    "Stadium": "Nizhny Novgorod Stadium",
+    "Club": "FK Nizhny Novgorod",
+    "Total_Attendance": 104112,
+    "Matches_Played": 12,
+    "Average_Attendance": 8676.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.738319543342156
+  },
+  {
+    "Stadium": "MHPArena Stuttgart",
+    "Club": "Verein für Bewegungsspiele Stuttgart 1893",
+    "Total_Attendance": 590300,
+    "Matches_Played": 11,
+    "Average_Attendance": 53663.6,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.7296798037755705
+  },
+  {
+    "Stadium": "MCH Arena",
+    "Club": "Fodbold Club Midtjylland",
+    "Total_Attendance": 101985,
+    "Matches_Played": 12,
+    "Average_Attendance": 8498.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.729357609223817
+  },
+  {
+    "Stadium": "Cepheus Park Randers",
+    "Club": "Randers Fodbold Club",
+    "Total_Attendance": 51633,
+    "Matches_Played": 10,
+    "Average_Attendance": 5163.3,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 4.712927359321766
+  },
+  {
+    "Stadium": "Global Energy Stadium",
+    "Club": "Ross County Football Club",
+    "Total_Attendance": 35018,
+    "Matches_Played": 9,
+    "Average_Attendance": 3890.9,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.11,
+    "Score": 4.690050069147029
+  },
+  {
+    "Stadium": "Stadion im Borussia-Park",
+    "Club": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Total_Attendance": 488072,
+    "Matches_Played": 10,
+    "Average_Attendance": 48807.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.688483893511275
+  },
+  {
+    "Stadium": "RZD Arena",
+    "Club": "Футбольный клуб \"Локомотив\" Москва",
+    "Total_Attendance": 99333,
+    "Matches_Played": 13,
+    "Average_Attendance": 7641.0,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.683150199683277
+  },
+  {
+    "Stadium": "Celtic Park",
+    "Club": "The Celtic Football Club",
+    "Total_Attendance": 578086,
+    "Matches_Played": 12,
+    "Average_Attendance": 48173.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.682810905271047
+  },
+  {
+    "Stadium": "Portimonense Estádio",
+    "Club": "Portimonense Futebol SAD",
+    "Total_Attendance": 13095,
+    "Matches_Played": 7,
+    "Average_Attendance": 1870.7,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.14,
+    "Score": 4.6720041462434425
+  },
+  {
+    "Stadium": "Parc des Princes",
+    "Club": "Paris Saint-Germain Football Club",
+    "Total_Attendance": 562061,
+    "Matches_Played": 12,
+    "Average_Attendance": 46838.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.6706020511518345
+  },
+  {
+    "Stadium": "Benito Villamarín",
+    "Club": "Real Betis Balompié S.A.D.",
+    "Total_Attendance": 547770,
+    "Matches_Played": 12,
+    "Average_Attendance": 45647.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.659416997293412
+  },
+  {
+    "Stadium": "Johan Cruijff ArenA",
+    "Club": "AFC Ajax Amsterdam",
+    "Total_Attendance": 534896,
+    "Matches_Played": 12,
+    "Average_Attendance": 44574.7,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.649088428935827
+  },
+  {
+    "Stadium": "Red Bull Arena",
+    "Club": "RasenBallsport Leipzig",
+    "Total_Attendance": 488366,
+    "Matches_Played": 11,
+    "Average_Attendance": 44396.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.647352646693545
+  },
+  {
+    "Stadium": "Olímpic Lluís Companys",
+    "Club": "Futbol Club Barcelona",
+    "Total_Attendance": 533303,
+    "Matches_Played": 13,
+    "Average_Attendance": 41023.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.613030592993466
+  },
+  {
+    "Stadium": "Başakşehir Fatih Terim",
+    "Club": "İstanbul Başakşehir Futbol Kulübü",
+    "Total_Attendance": 15837,
+    "Matches_Played": 8,
+    "Average_Attendance": 1979.6,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.13,
+    "Score": 4.596577445139118
+  },
+  {
+    "Stadium": "Allianz Stadium",
+    "Club": "Juventus Football Club",
+    "Total_Attendance": 315343,
+    "Matches_Played": 8,
+    "Average_Attendance": 39417.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.595693483395845
+  },
+  {
+    "Stadium": "Goodison Park",
+    "Club": "Everton Football Club",
+    "Total_Attendance": 429086,
+    "Matches_Played": 11,
+    "Average_Attendance": 39007.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.591151457238148
+  },
+  {
+    "Stadium": "JYSK Park",
+    "Club": "Silkeborg Idrætsforening",
+    "Total_Attendance": 51954,
+    "Matches_Played": 11,
+    "Average_Attendance": 4723.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.09,
+    "Score": 4.574227140789157
+  },
+  {
+    "Stadium": "Mewa Arena",
+    "Club": "1. Fußball- und Sportverein Mainz 05",
+    "Total_Attendance": 250150,
+    "Matches_Played": 8,
+    "Average_Attendance": 31268.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.495111214681428
+  },
+  {
+    "Stadium": "Estádio São Luís",
+    "Club": "Sporting Clube Farense",
+    "Total_Attendance": 31138,
+    "Matches_Played": 10,
+    "Average_Attendance": 3113.8,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.1,
+    "Score": 4.493290714306024
+  },
+  {
+    "Stadium": "Villa Park",
+    "Club": "Aston Villa Football Club",
+    "Total_Attendance": 330054,
+    "Matches_Played": 11,
+    "Average_Attendance": 30004.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.477192183692665
+  },
+  {
+    "Stadium": "BayArena",
+    "Club": "Bayer 04 Leverkusen Fußball",
+    "Total_Attendance": 381305,
+    "Matches_Played": 13,
+    "Average_Attendance": 29331.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.467329831228674
+  },
+  {
+    "Stadium": "Artemio Franchi",
+    "Club": "Siena FC",
+    "Total_Attendance": 292004,
+    "Matches_Played": 10,
+    "Average_Attendance": 29200.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.4653888006471485
+  },
+  {
+    "Stadium": "Artemio Franchi",
+    "Club": "Associazione Calcio Fiorentina",
+    "Total_Attendance": 292004,
+    "Matches_Played": 10,
+    "Average_Attendance": 29200.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.4653888006471485
+  },
+  {
+    "Stadium": "Fisht Olympic Stadium",
+    "Club": "FK Sochi",
+    "Total_Attendance": 54474,
+    "Matches_Played": 12,
+    "Average_Attendance": 4539.5,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.08,
+    "Score": 4.457008020434356
+  },
+  {
+    "Stadium": "Bramall Lane",
+    "Club": "Sheffield United Football Club",
+    "Total_Attendance": 286382,
+    "Matches_Played": 10,
+    "Average_Attendance": 28638.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.456945717733793
+  },
+  {
+    "Stadium": "Philips Stadion",
+    "Club": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Total_Attendance": 372252,
+    "Matches_Played": 13,
+    "Average_Attendance": 28634.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.456894154126501
+  },
+  {
+    "Stadium": "Molineux Stadium",
+    "Club": "Wolverhampton Wanderers Football Club",
+    "Total_Attendance": 250775,
+    "Matches_Played": 9,
+    "Average_Attendance": 27863.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.445041902825212
+  },
+  {
+    "Stadium": "Vonovia Ruhrstadion",
+    "Club": "Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft",
+    "Total_Attendance": 179650,
+    "Matches_Played": 7,
+    "Average_Attendance": 25664.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.4093294232711155
+  },
+  {
+    "Stadium": "Stade de la Meinau",
+    "Club": "Racing Club de Strasbourg Alsace",
+    "Total_Attendance": 227931,
+    "Matches_Played": 9,
+    "Average_Attendance": 25325.7,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.403561458057429
+  },
+  {
+    "Stadium": "Volkswagen Arena",
+    "Club": "Verein für Leibesübungen Wolfsburg",
+    "Total_Attendance": 227438,
+    "Matches_Played": 9,
+    "Average_Attendance": 25270.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.4026207091962695
+  },
+  {
+    "Stadium": "Stadio Peristeriou",
+    "Club": "APS Atromitos Athinon",
+    "Total_Attendance": 6875,
+    "Matches_Played": 7,
+    "Average_Attendance": 982.1,
+    "Total_Red_Cards": 1,
+    "Average_Red_Cards": 0.14,
+    "Score": 4.392155711042617
+  },
+  {
+    "Stadium": "PreZero Arena",
+    "Club": "TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH",
+    "Total_Attendance": 189988,
+    "Matches_Played": 8,
+    "Average_Attendance": 23748.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.375636183969493
+  },
+  {
+    "Stadium": "Papara Park",
+    "Club": "Trabzonspor Kulübü",
+    "Total_Attendance": 162717,
+    "Matches_Played": 7,
+    "Average_Attendance": 23245.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.366335155488081
+  },
+  {
+    "Stadium": "Selhurst Park",
+    "Club": "Crystal Palace Football Club",
+    "Total_Attendance": 198481,
+    "Matches_Played": 9,
+    "Average_Attendance": 22053.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.3434755546840345
+  },
+  {
+    "Stadium": "Tüpraş Stadyumu",
+    "Club": "Beşiktaş Jimnastik Kulübü",
+    "Total_Attendance": 241769,
+    "Matches_Played": 11,
+    "Average_Attendance": 21979.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.342007929017339
+  },
+  {
+    "Stadium": "Maurice Dufrasne Stadion",
+    "Club": "Royal Standard Club de Liège",
+    "Total_Attendance": 189234,
+    "Matches_Played": 9,
+    "Average_Attendance": 21026.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.322756660077759
+  },
+  {
+    "Stadium": "Craven Cottage",
+    "Club": "Fulham Football Club",
+    "Total_Attendance": 207214,
+    "Matches_Played": 10,
+    "Average_Attendance": 20721.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.316419094303631
+  },
+  {
+    "Stadium": "Tynecastle Park",
+    "Club": "Heart of Midlothian Football Club",
+    "Total_Attendance": 181475,
+    "Matches_Played": 10,
+    "Average_Attendance": 18147.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.258816805075336
+  },
+  {
+    "Stadium": "La Cerámica",
+    "Club": "Villarreal Club de Fútbol S.A.D.",
+    "Total_Attendance": 221851,
+    "Matches_Played": 13,
+    "Average_Attendance": 17065.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.232119017142043
+  },
+  {
+    "Stadium": "Brøndby Stadion",
+    "Club": "Brøndby Idrætsforening",
+    "Total_Attendance": 169517,
+    "Matches_Played": 10,
+    "Average_Attendance": 16951.7,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.229213257913601
+  },
+  {
+    "Stadium": "Arechi",
+    "Club": "U.S. Salernitana 1919 S.r.l.",
+    "Total_Attendance": 184858,
+    "Matches_Played": 11,
+    "Average_Attendance": 16805.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.225446269687474
+  },
+  {
+    "Stadium": "Stadion \"Galgenwaard\"",
+    "Club": "Football Club Utrecht",
+    "Total_Attendance": 168045,
+    "Matches_Played": 10,
+    "Average_Attendance": 16804.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.225425595027965
+  },
+  {
+    "Stadium": "Stadio Olimpico Grande Torino",
+    "Club": "Torino Calcio",
+    "Total_Attendance": 166228,
+    "Matches_Played": 10,
+    "Average_Attendance": 16622.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.220704179624263
+  },
+  {
+    "Stadium": "Pittodrie Stadium",
+    "Club": "Aberdeen Football Club",
+    "Total_Attendance": 146729,
+    "Matches_Played": 9,
+    "Average_Attendance": 16303.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.212272856302333
+  },
+  {
+    "Stadium": "Easter Road Stadium",
+    "Club": "Hibernian Football Club",
+    "Total_Attendance": 179072,
+    "Matches_Played": 11,
+    "Average_Attendance": 16279.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.211635726556052
+  },
+  {
+    "Stadium": "Lotto Park",
+    "Club": "Royal Sporting Club Anderlecht",
+    "Total_Attendance": 193838,
+    "Matches_Played": 12,
+    "Average_Attendance": 16153.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.208258570300361
+  },
+  {
+    "Stadium": "Unipol Domus",
+    "Club": "Cagliari Calcio",
+    "Total_Attendance": 143523,
+    "Matches_Played": 9,
+    "Average_Attendance": 15947.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.2026789942277265
+  },
+  {
+    "Stadium": "Voith-Arena",
+    "Club": "1. Fußballclub Heidenheim 1846",
+    "Total_Attendance": 120000,
+    "Matches_Played": 8,
+    "Average_Attendance": 15000.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.176091259055681
+  },
+  {
+    "Stadium": "Otkrytie Bank Arena",
+    "Club": "FK Spartak Moskva",
+    "Total_Attendance": 193244,
+    "Matches_Played": 13,
+    "Average_Attendance": 14864.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.172161991940266
+  },
+  {
+    "Stadium": "Gewiss Stadium",
+    "Club": "Atalanta Bergamasca Calcio S.p.a.",
+    "Total_Attendance": 161546,
+    "Matches_Played": 11,
+    "Average_Attendance": 14686.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.166903523871796
+  },
+  {
+    "Stadium": "Samsun Yeni 19 Mayıs Stadyumu",
+    "Club": "Samsunspor",
+    "Total_Attendance": 104438,
+    "Matches_Played": 8,
+    "Average_Attendance": 13054.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.115770222803029
+  },
+  {
+    "Stadium": "Stade de la Mosson",
+    "Club": "Montpellier Hérault Sport Club",
+    "Total_Attendance": 117454,
+    "Matches_Played": 9,
+    "Average_Attendance": 13050.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.1156238231785505
+  },
+  {
+    "Stadium": "Benito Stirpe",
+    "Club": "Frosinone Calcio S.r.l.",
+    "Total_Attendance": 115028,
+    "Matches_Played": 9,
+    "Average_Attendance": 12780.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.10656143686397
+  },
+  {
+    "Stadium": "Rostech Arena",
+    "Club": "FK Baltika",
+    "Total_Attendance": 147421,
+    "Matches_Played": 13,
+    "Average_Attendance": 11340.1,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.054616884297338
+  },
+  {
+    "Stadium": "Toumba Stadium",
+    "Club": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Total_Attendance": 144562,
+    "Matches_Played": 13,
+    "Average_Attendance": 11120.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.046112598227629
+  },
+  {
+    "Stadium": "VTB-Arena",
+    "Club": "FK Dinamo Moskva",
+    "Total_Attendance": 133349,
+    "Matches_Played": 12,
+    "Average_Attendance": 11112.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.045807865798869
+  },
+  {
+    "Stadium": "MAC³PARK stadion",
+    "Club": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Total_Attendance": 81574,
+    "Matches_Played": 8,
+    "Average_Attendance": 10196.8,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 4.008463901135791
+  },
+  {
+    "Stadium": "Ak Bars Arena",
+    "Club": "FC Rubin Kazan",
+    "Total_Attendance": 118824,
+    "Matches_Played": 13,
+    "Average_Attendance": 9140.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.960960450242191
+  },
+  {
+    "Stadium": "Eryaman Stadyumu",
+    "Club": "Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü",
+    "Total_Attendance": 72932,
+    "Matches_Played": 8,
+    "Average_Attendance": 9116.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.9598281363071592
+  },
+  {
+    "Stadium": "Eryaman Stadyumu",
+    "Club": "Genclerbirligi Ankara",
+    "Total_Attendance": 72932,
+    "Matches_Played": 8,
+    "Average_Attendance": 9116.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.9598281363071592
+  },
+  {
+    "Stadium": "Carlo Castellani",
+    "Club": "Empoli Football Club S.r.l.",
+    "Total_Attendance": 89916,
+    "Matches_Played": 10,
+    "Average_Attendance": 8991.6,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.9538369786457257
+  },
+  {
+    "Stadium": "Mersin Stadyumu",
+    "Club": "Mersin Talimyurdu SK",
+    "Total_Attendance": 60826,
+    "Matches_Played": 7,
+    "Average_Attendance": 8689.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.938989789603408
+  },
+  {
+    "Stadium": "Mersin Stadyumu",
+    "Club": "Hatayspor Futbol Kulübü",
+    "Total_Attendance": 60826,
+    "Matches_Played": 7,
+    "Average_Attendance": 8689.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.938989789603408
+  },
+  {
+    "Stadium": "Nature Energy Park",
+    "Club": "Odense Boldklub",
+    "Total_Attendance": 76096,
+    "Matches_Played": 9,
+    "Average_Attendance": 8455.1,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.9271187484436796
+  },
+  {
+    "Stadium": "Vejle Stadion",
+    "Club": "Vejle Boldklub",
+    "Total_Attendance": 67601,
+    "Matches_Played": 9,
+    "Average_Attendance": 7511.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.875709326051567
+  },
+  {
+    "Stadium": "King Power at Den Dreef Stadion",
+    "Club": "Oud-Heverlee Leuven",
+    "Total_Attendance": 66915,
+    "Matches_Played": 9,
+    "Average_Attendance": 7435.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.871280972857973
+  },
+  {
+    "Stadium": "Kalyon Stadyumu",
+    "Club": "Gaziantep Futbol Kulübü A.Ş.",
+    "Total_Attendance": 55912,
+    "Matches_Played": 8,
+    "Average_Attendance": 6989.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.8444150404738244
+  },
+  {
+    "Stadium": "Het Kuipje",
+    "Club": "Koninklijke Voetbal Club Westerlo",
+    "Total_Attendance": 59300,
+    "Matches_Played": 9,
+    "Average_Attendance": 6588.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.8188129162927553
+  },
+  {
+    "Stadium": "Stade Joseph Mariën",
+    "Club": "Royale Union Saint-Gilloise",
+    "Total_Attendance": 62579,
+    "Matches_Played": 10,
+    "Average_Attendance": 6257.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.7964286189259964
+  },
+  {
+    "Stadium": "Viborg Stadion",
+    "Club": "Viborg Fodsports Forening",
+    "Total_Attendance": 54406,
+    "Matches_Played": 9,
+    "Average_Attendance": 6045.1,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.7814034894960424
+  },
+  {
+    "Stadium": "Gipedo \"Kleanthis Vikelidis\"",
+    "Club": "Aris Thessalonikis",
+    "Total_Attendance": 63951,
+    "Matches_Played": 11,
+    "Average_Attendance": 5813.7,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.7644526174402397
+  },
+  {
+    "Stadium": "Edmond Machtensstadion",
+    "Club": "Racing White Daring Molenbeek",
+    "Total_Attendance": 46300,
+    "Matches_Played": 10,
+    "Average_Attendance": 4630.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.6655809910179533
+  },
+  {
+    "Stadium": "Right to Dream Park",
+    "Club": "Fodbold Club Nordsjælland",
+    "Total_Attendance": 53250,
+    "Matches_Played": 12,
+    "Average_Attendance": 4437.5,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.6471383660631504
+  },
+  {
+    "Stadium": "BBSP Stadium, Rugby Park",
+    "Club": "Kilmarnock Football Club",
+    "Total_Attendance": 39286,
+    "Matches_Played": 9,
+    "Average_Attendance": 4365.1,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.6399941974002883
+  },
+  {
+    "Stadium": "PRO VENTILATION Arena",
+    "Club": "Hvidovre Idrætsforening",
+    "Total_Attendance": 38616,
+    "Matches_Played": 9,
+    "Average_Attendance": 4290.7,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.632528150305392
+  },
+  {
+    "Stadium": "Van Donge & De Roo Stadion - Woudestein",
+    "Club": "Excelsior Rotterdam",
+    "Total_Attendance": 30539,
+    "Matches_Played": 8,
+    "Average_Attendance": 3817.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.581767669168663
+  },
+  {
+    "Stadium": "Yeni 4 Eylül Stadı",
+    "Club": "Sivasspor Kulübü",
+    "Total_Attendance": 26616,
+    "Matches_Played": 7,
+    "Average_Attendance": 3802.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.5800463795479898
+  },
+  {
+    "Stadium": "Kehrweg-Stadion",
+    "Club": "Königliche Allgemeine Sportvereinigung Eupen",
+    "Total_Attendance": 31538,
+    "Matches_Played": 9,
+    "Average_Attendance": 3504.2,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.544588885286461
+  },
+  {
+    "Stadium": "Gipedo Theodoros Vardinogiannis",
+    "Club": "Omilos Filathlon Irakliou FC",
+    "Total_Attendance": 31515,
+    "Matches_Played": 9,
+    "Average_Attendance": 3501.7,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.544278936171903
+  },
+  {
+    "Stadium": "Kırbıyık Holding Stadyumu",
+    "Club": "Alanyaspor",
+    "Total_Attendance": 24877,
+    "Matches_Played": 8,
+    "Average_Attendance": 3109.6,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.49270452762321
+  },
+  {
+    "Stadium": "Gipedo Theodoros Kolokotronis",
+    "Club": "A.G.S Asteras Tripolis",
+    "Total_Attendance": 20541,
+    "Matches_Played": 9,
+    "Average_Attendance": 2282.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.358372730258021
+  },
+  {
+    "Stadium": "Estádio António Coimbra da Mota",
+    "Club": "Grupo Desportivo Estoril Praia",
+    "Total_Attendance": 19684,
+    "Matches_Played": 9,
+    "Average_Attendance": 2187.1,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.3398686405846516
+  },
+  {
+    "Stadium": "Estádio C. J. de Almeida Freitas",
+    "Club": "Moreirense Futebol Clube",
+    "Total_Attendance": 16983,
+    "Matches_Played": 8,
+    "Average_Attendance": 2122.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.326929537043505
+  },
+  {
+    "Stadium": "Estádio dos Arcos",
+    "Club": "Rio Ave Futebol Clube",
+    "Total_Attendance": 18894,
+    "Matches_Played": 9,
+    "Average_Attendance": 2099.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.322074505773784
+  },
+  {
+    "Stadium": "Stadio Zosimades",
+    "Club": "Panipirotikos Athlitikos Syllogos Giannina",
+    "Total_Attendance": 16147,
+    "Matches_Played": 8,
+    "Average_Attendance": 2018.4,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.305007237509518
+  },
+  {
+    "Stadium": "Yanmar Stadion",
+    "Club": "Almere City Football Club",
+    "Total_Attendance": 16000,
+    "Matches_Played": 8,
+    "Average_Attendance": 2000.0,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.3010299956639813
+  },
+  {
+    "Stadium": "Stadio Lamia \"Athanasios Diakos\"",
+    "Club": "PAS Lamia 1964",
+    "Total_Attendance": 12070,
+    "Matches_Played": 7,
+    "Average_Attendance": 1724.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.236612828199769
+  },
+  {
+    "Stadium": "Gipedo Panetolikou",
+    "Club": "Panetolikos Agrinio",
+    "Total_Attendance": 9503,
+    "Matches_Played": 8,
+    "Average_Attendance": 1187.9,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 3.074779882331933
+  },
+  {
+    "Stadium": "Atatürk Olimpiyat",
+    "Club": "Fatih Karagümrük Sportif Faaliyetler San. Tic. A.Ş.",
+    "Total_Attendance": 6400,
+    "Matches_Played": 7,
+    "Average_Attendance": 914.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 2.961088719767896
+  },
+  {
+    "Stadium": "Esenyurt Necmi Kadıoğlu Stadyumu",
+    "Club": "İstanbulspor A.Ş.",
+    "Total_Attendance": 4933,
+    "Matches_Played": 9,
+    "Average_Attendance": 548.1,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 2.7388598020722004
+  },
+  {
+    "Stadium": "Gipedo Kesarianis \"Michalis Kritikopoulos\"",
+    "Club": "Athlitiki Enosi Kifisias",
+    "Total_Attendance": 3607,
+    "Matches_Played": 7,
+    "Average_Attendance": 515.3,
+    "Total_Red_Cards": 0,
+    "Average_Red_Cards": 0.0,
+    "Score": 2.7120601424610746
+  }
+]

@@ -1,0 +1,1882 @@
+﻿[
+  {
+    "Manager": "Edward Sturing",
+    "Average_Goal_Difference": 4.0,
+    "Matches_Played": 84
+  },
+  {
+    "Manager": "Unai Emery",
+    "Average_Goal_Difference": 2.11,
+    "Matches_Played": 1284
+  },
+  {
+    "Manager": "Jupp Heynckes",
+    "Average_Goal_Difference": 1.85,
+    "Matches_Played": 1128
+  },
+  {
+    "Manager": "Pep Guardiola",
+    "Average_Goal_Difference": 1.83,
+    "Matches_Played": 1310
+  },
+  {
+    "Manager": "Marcel Keizer",
+    "Average_Goal_Difference": 1.7,
+    "Matches_Played": 554
+  },
+  {
+    "Manager": "Fatih Terim",
+    "Average_Goal_Difference": 1.61,
+    "Matches_Played": 504
+  },
+  {
+    "Manager": "David Gallego",
+    "Average_Goal_Difference": 1.6,
+    "Matches_Played": 140
+  },
+  {
+    "Manager": "Ernesto Valverde",
+    "Average_Goal_Difference": 1.6,
+    "Matches_Played": 1585
+  },
+  {
+    "Manager": "Razvan Lucescu",
+    "Average_Goal_Difference": 1.54,
+    "Matches_Played": 971
+  },
+  {
+    "Manager": "Sérgio Conceição",
+    "Average_Goal_Difference": 1.49,
+    "Matches_Played": 1262
+  },
+  {
+    "Manager": "Christos Kontis",
+    "Average_Goal_Difference": 1.46,
+    "Matches_Played": 138
+  },
+  {
+    "Manager": "Phillip Cocu",
+    "Average_Goal_Difference": 1.38,
+    "Matches_Played": 1000
+  },
+  {
+    "Manager": "Massimiliano Allegri",
+    "Average_Goal_Difference": 1.35,
+    "Matches_Played": 1505
+  },
+  {
+    "Manager": "Alexander Zorniger",
+    "Average_Goal_Difference": 1.33,
+    "Matches_Played": 832
+  },
+  {
+    "Manager": "Paulo Fonseca",
+    "Average_Goal_Difference": 1.3,
+    "Matches_Played": 931
+  },
+  {
+    "Manager": "Rui Vitória",
+    "Average_Goal_Difference": 1.29,
+    "Matches_Played": 1170
+  },
+  {
+    "Manager": "Aykut Kocaman",
+    "Average_Goal_Difference": 1.23,
+    "Matches_Played": 946
+  },
+  {
+    "Manager": "Jürgen Klopp",
+    "Average_Goal_Difference": 1.21,
+    "Matches_Played": 1468
+  },
+  {
+    "Manager": "Zinédine Zidane",
+    "Average_Goal_Difference": 1.17,
+    "Matches_Played": 1493
+  },
+  {
+    "Manager": "Jess Thorup",
+    "Average_Goal_Difference": 1.14,
+    "Matches_Played": 804
+  },
+  {
+    "Manager": "Carlo Ancelotti",
+    "Average_Goal_Difference": 1.11,
+    "Matches_Played": 252
+  },
+  {
+    "Manager": "John van den Brom",
+    "Average_Goal_Difference": 1.1,
+    "Matches_Played": 1026
+  },
+  {
+    "Manager": "Abel Ferreira",
+    "Average_Goal_Difference": 1.05,
+    "Matches_Played": 1226
+  },
+  {
+    "Manager": "Maurizio Sarri",
+    "Average_Goal_Difference": 1.04,
+    "Matches_Played": 1393
+  },
+  {
+    "Manager": "Bruno Génésio",
+    "Average_Goal_Difference": 1.01,
+    "Matches_Played": 1229
+  },
+  {
+    "Manager": "Aleksandar Stanojevic",
+    "Average_Goal_Difference": 1.0,
+    "Matches_Played": 54
+  },
+  {
+    "Manager": "Lorenzo D'Anna",
+    "Average_Goal_Difference": 1.0,
+    "Matches_Played": 82
+  },
+  {
+    "Manager": "Murad Musaev",
+    "Average_Goal_Difference": 1.0,
+    "Matches_Played": 165
+  },
+  {
+    "Manager": "José Mourinho",
+    "Average_Goal_Difference": 1.0,
+    "Matches_Played": 1349
+  },
+  {
+    "Manager": "Mauricio Pochettino",
+    "Average_Goal_Difference": 0.97,
+    "Matches_Played": 1263
+  },
+  {
+    "Manager": "Javier Cabello",
+    "Average_Goal_Difference": 0.96,
+    "Matches_Played": 55
+  },
+  {
+    "Manager": "Simone Inzaghi",
+    "Average_Goal_Difference": 0.96,
+    "Matches_Played": 1393
+  },
+  {
+    "Manager": "Diego Simeone",
+    "Average_Goal_Difference": 0.96,
+    "Matches_Played": 1489
+  },
+  {
+    "Manager": "Manolo Jiménez",
+    "Average_Goal_Difference": 0.95,
+    "Matches_Played": 1279
+  },
+  {
+    "Manager": "Senol Günes",
+    "Average_Goal_Difference": 0.92,
+    "Matches_Played": 1142
+  },
+  {
+    "Manager": "Giovanni van Bronckhorst",
+    "Average_Goal_Difference": 0.91,
+    "Matches_Played": 1248
+  },
+  {
+    "Manager": "Luciano Spalletti",
+    "Average_Goal_Difference": 0.9,
+    "Matches_Played": 1086
+  },
+  {
+    "Manager": "Jorge Jesus",
+    "Average_Goal_Difference": 0.9,
+    "Matches_Played": 1298
+  },
+  {
+    "Manager": "Imanol Alguacil",
+    "Average_Goal_Difference": 0.89,
+    "Matches_Played": 251
+  },
+  {
+    "Manager": "Pedro Caixinha",
+    "Average_Goal_Difference": 0.88,
+    "Matches_Played": 257
+  },
+  {
+    "Manager": "Ivan Leko",
+    "Average_Goal_Difference": 0.88,
+    "Matches_Played": 938
+  },
+  {
+    "Manager": "Igor Ledyakhov",
+    "Average_Goal_Difference": 0.82,
+    "Matches_Played": 165
+  },
+  {
+    "Manager": "Roberto Mancini",
+    "Average_Goal_Difference": 0.82,
+    "Matches_Played": 1052
+  },
+  {
+    "Manager": "Brendan Rodgers",
+    "Average_Goal_Difference": 0.79,
+    "Matches_Played": 1173
+  },
+  {
+    "Manager": "Rudi Garcia",
+    "Average_Goal_Difference": 0.78,
+    "Matches_Played": 1409
+  },
+  {
+    "Manager": "Glen De Boeck",
+    "Average_Goal_Difference": 0.76,
+    "Matches_Played": 439
+  },
+  {
+    "Manager": "Aleksandr Khatskevich",
+    "Average_Goal_Difference": 0.76,
+    "Matches_Played": 821
+  },
+  {
+    "Manager": "Joaquín Caparrós",
+    "Average_Goal_Difference": 0.75,
+    "Matches_Played": 111
+  },
+  {
+    "Manager": "Kasper Hjulmand",
+    "Average_Goal_Difference": 0.73,
+    "Matches_Played": 737
+  },
+  {
+    "Manager": "Tayfun Korkut",
+    "Average_Goal_Difference": 0.72,
+    "Matches_Played": 389
+  },
+  {
+    "Manager": "Gustavo Poyet",
+    "Average_Goal_Difference": 0.72,
+    "Matches_Played": 435
+  },
+  {
+    "Manager": "Marcelino",
+    "Average_Goal_Difference": 0.72,
+    "Matches_Played": 1240
+  },
+  {
+    "Manager": "Paul Cook",
+    "Average_Goal_Difference": 0.7,
+    "Matches_Played": 73
+  },
+  {
+    "Manager": "Sergen Yalcin",
+    "Average_Goal_Difference": 0.7,
+    "Matches_Played": 279
+  },
+  {
+    "Manager": "Arsène Wenger",
+    "Average_Goal_Difference": 0.7,
+    "Matches_Played": 1288
+  },
+  {
+    "Manager": "David Badia",
+    "Average_Goal_Difference": 0.67,
+    "Matches_Played": 84
+  },
+  {
+    "Manager": "Graeme Murty",
+    "Average_Goal_Difference": 0.65,
+    "Matches_Played": 617
+  },
+  {
+    "Manager": "Leonardo Jardim",
+    "Average_Goal_Difference": 0.65,
+    "Matches_Played": 1240
+  },
+  {
+    "Manager": "Eusebio Di Francesco",
+    "Average_Goal_Difference": 0.65,
+    "Matches_Played": 1362
+  },
+  {
+    "Manager": "Jean-Louis Gasset",
+    "Average_Goal_Difference": 0.64,
+    "Matches_Played": 523
+  },
+  {
+    "Manager": "Abdullah Avci",
+    "Average_Goal_Difference": 0.64,
+    "Matches_Played": 1170
+  },
+  {
+    "Manager": "Yuri Svirkov",
+    "Average_Goal_Difference": 0.62,
+    "Matches_Played": 76
+  },
+  {
+    "Manager": "Oleksandr Sevidov",
+    "Average_Goal_Difference": 0.62,
+    "Matches_Played": 227
+  },
+  {
+    "Manager": "Viktor Goncharenko",
+    "Average_Goal_Difference": 0.62,
+    "Matches_Played": 1098
+  },
+  {
+    "Manager": "Damir Canadi",
+    "Average_Goal_Difference": 0.6,
+    "Matches_Played": 972
+  },
+  {
+    "Manager": "Igor Tudor",
+    "Average_Goal_Difference": 0.57,
+    "Matches_Played": 558
+  },
+  {
+    "Manager": "Óscar García",
+    "Average_Goal_Difference": 0.56,
+    "Matches_Played": 631
+  },
+  {
+    "Manager": "Paco López",
+    "Average_Goal_Difference": 0.55,
+    "Matches_Played": 307
+  },
+  {
+    "Manager": "Felice Mazzù",
+    "Average_Goal_Difference": 0.54,
+    "Matches_Played": 832
+  },
+  {
+    "Manager": "Walter Mazzarri",
+    "Average_Goal_Difference": 0.53,
+    "Matches_Played": 530
+  },
+  {
+    "Manager": "Gian Piero Gasperini",
+    "Average_Goal_Difference": 0.52,
+    "Matches_Played": 1328
+  },
+  {
+    "Manager": "Antonio Conte",
+    "Average_Goal_Difference": 0.51,
+    "Matches_Played": 1397
+  },
+  {
+    "Manager": "Savvas Pantelidis",
+    "Average_Goal_Difference": 0.5,
+    "Matches_Played": 835
+  },
+  {
+    "Manager": "Eric Deflandre",
+    "Average_Goal_Difference": 0.49,
+    "Matches_Played": 55
+  },
+  {
+    "Manager": "Igor Shalimov",
+    "Average_Goal_Difference": 0.48,
+    "Matches_Played": 726
+  },
+  {
+    "Manager": "Wim De Decker",
+    "Average_Goal_Difference": 0.47,
+    "Matches_Played": 53
+  },
+  {
+    "Manager": "Steve Clarke",
+    "Average_Goal_Difference": 0.46,
+    "Matches_Played": 722
+  },
+  {
+    "Manager": "Domenico Tedesco",
+    "Average_Goal_Difference": 0.46,
+    "Matches_Played": 1030
+  },
+  {
+    "Manager": "Takis Lemonis",
+    "Average_Goal_Difference": 0.44,
+    "Matches_Played": 447
+  },
+  {
+    "Manager": "Adnan Custovic",
+    "Average_Goal_Difference": 0.44,
+    "Matches_Played": 637
+  },
+  {
+    "Manager": "Besnik Hasi",
+    "Average_Goal_Difference": 0.43,
+    "Matches_Played": 196
+  },
+  {
+    "Manager": "Erik ten Hag",
+    "Average_Goal_Difference": 0.41,
+    "Matches_Played": 984
+  },
+  {
+    "Manager": "Reinier Robbemond",
+    "Average_Goal_Difference": 0.4,
+    "Matches_Played": 222
+  },
+  {
+    "Manager": "Massimo Carrera",
+    "Average_Goal_Difference": 0.4,
+    "Matches_Played": 1064
+  },
+  {
+    "Manager": "Riza Calimbay",
+    "Average_Goal_Difference": 0.39,
+    "Matches_Played": 861
+  },
+  {
+    "Manager": "Derek McInnes",
+    "Average_Goal_Difference": 0.39,
+    "Matches_Played": 996
+  },
+  {
+    "Manager": "Yuri Semin",
+    "Average_Goal_Difference": 0.39,
+    "Matches_Played": 1013
+  },
+  {
+    "Manager": "Heiko Herrlich",
+    "Average_Goal_Difference": 0.39,
+    "Matches_Played": 1047
+  },
+  {
+    "Manager": "Neil Lennon",
+    "Average_Goal_Difference": 0.38,
+    "Matches_Played": 884
+  },
+  {
+    "Manager": "Jean-Paul de Jong",
+    "Average_Goal_Difference": 0.36,
+    "Matches_Played": 462
+  },
+  {
+    "Manager": "Stale Solbakken",
+    "Average_Goal_Difference": 0.36,
+    "Matches_Played": 859
+  },
+  {
+    "Manager": "Philippe Clement",
+    "Average_Goal_Difference": 0.34,
+    "Matches_Played": 822
+  },
+  {
+    "Manager": "Yves Vanderhaeghe",
+    "Average_Goal_Difference": 0.34,
+    "Matches_Played": 833
+  },
+  {
+    "Manager": "Craig Levein",
+    "Average_Goal_Difference": 0.32,
+    "Matches_Played": 797
+  },
+  {
+    "Manager": "Gennaro Gattuso",
+    "Average_Goal_Difference": 0.32,
+    "Matches_Played": 862
+  },
+  {
+    "Manager": "Julian Nagelsmann",
+    "Average_Goal_Difference": 0.32,
+    "Matches_Played": 1144
+  },
+  {
+    "Manager": "Vasyl Sachko",
+    "Average_Goal_Difference": 0.29,
+    "Matches_Played": 642
+  },
+  {
+    "Manager": "José Peseiro",
+    "Average_Goal_Difference": 0.28,
+    "Matches_Played": 276
+  },
+  {
+    "Manager": "Yuriy Vernydub",
+    "Average_Goal_Difference": 0.28,
+    "Matches_Played": 714
+  },
+  {
+    "Manager": "Sabri Lamouchi",
+    "Average_Goal_Difference": 0.27,
+    "Matches_Played": 713
+  },
+  {
+    "Manager": "Kurban Berdyev",
+    "Average_Goal_Difference": 0.26,
+    "Matches_Played": 839
+  },
+  {
+    "Manager": "Peter Bosz",
+    "Average_Goal_Difference": 0.25,
+    "Matches_Played": 557
+  },
+  {
+    "Manager": "Ratko Dostanic",
+    "Average_Goal_Difference": 0.24,
+    "Matches_Played": 111
+  },
+  {
+    "Manager": "Mustafa Er",
+    "Average_Goal_Difference": 0.22,
+    "Matches_Played": 138
+  },
+  {
+    "Manager": "Dmitri Khokhlov",
+    "Average_Goal_Difference": 0.22,
+    "Matches_Played": 495
+  },
+  {
+    "Manager": "Stefano Pioli",
+    "Average_Goal_Difference": 0.2,
+    "Matches_Played": 1117
+  },
+  {
+    "Manager": "Florian Kohfeldt",
+    "Average_Goal_Difference": 0.19,
+    "Matches_Played": 723
+  },
+  {
+    "Manager": "Javier Calleja",
+    "Average_Goal_Difference": 0.19,
+    "Matches_Played": 998
+  },
+  {
+    "Manager": "Darren Moore",
+    "Average_Goal_Difference": 0.18,
+    "Matches_Played": 165
+  },
+  {
+    "Manager": "Yuriy Virt",
+    "Average_Goal_Difference": 0.18,
+    "Matches_Played": 557
+  },
+  {
+    "Manager": "Niko Kovac",
+    "Average_Goal_Difference": 0.18,
+    "Matches_Played": 1045
+  },
+  {
+    "Manager": "Morten Wieghorst",
+    "Average_Goal_Difference": 0.16,
+    "Matches_Played": 770
+  },
+  {
+    "Manager": "Ricardo Sá Pinto",
+    "Average_Goal_Difference": 0.12,
+    "Matches_Played": 744
+  },
+  {
+    "Manager": "Pepe Bordalás",
+    "Average_Goal_Difference": 0.12,
+    "Matches_Played": 1106
+  },
+  {
+    "Manager": "Abelardo",
+    "Average_Goal_Difference": 0.11,
+    "Matches_Played": 739
+  },
+  {
+    "Manager": "Milan Rastavac",
+    "Average_Goal_Difference": 0.11,
+    "Matches_Played": 943
+  },
+  {
+    "Manager": "Michalis Grigoriou",
+    "Average_Goal_Difference": 0.09,
+    "Matches_Played": 1011
+  },
+  {
+    "Manager": "Sergey Semak",
+    "Average_Goal_Difference": 0.08,
+    "Matches_Played": 841
+  },
+  {
+    "Manager": "Michel Der Zakarian",
+    "Average_Goal_Difference": 0.07,
+    "Matches_Played": 1045
+  },
+  {
+    "Manager": "Albert Stuivenberg",
+    "Average_Goal_Difference": 0.05,
+    "Matches_Played": 500
+  },
+  {
+    "Manager": "Claus Nörgaard",
+    "Average_Goal_Difference": 0.05,
+    "Matches_Played": 756
+  },
+  {
+    "Manager": "Ralph Hasenhüttl",
+    "Average_Goal_Difference": 0.02,
+    "Matches_Played": 1304
+  },
+  {
+    "Manager": "Dennis van Wijk",
+    "Average_Goal_Difference": 0.01,
+    "Matches_Played": 191
+  },
+  {
+    "Manager": "Gary Megson",
+    "Average_Goal_Difference": 0.0,
+    "Matches_Played": 55
+  },
+  {
+    "Manager": "Steven Ferguson",
+    "Average_Goal_Difference": 0.0,
+    "Matches_Played": 139
+  },
+  {
+    "Manager": null,
+    "Average_Goal_Difference": 0.0,
+    "Matches_Played": 250
+  },
+  {
+    "Manager": "José Mota",
+    "Average_Goal_Difference": 0.0,
+    "Matches_Played": 420
+  },
+  {
+    "Manager": "Martin Schmidt",
+    "Average_Goal_Difference": 0.0,
+    "Matches_Played": 594
+  },
+  {
+    "Manager": "Lucien Favre",
+    "Average_Goal_Difference": 0.0,
+    "Matches_Played": 1355
+  },
+  {
+    "Manager": "Thomas Thomasberg",
+    "Average_Goal_Difference": -0.01,
+    "Matches_Played": 777
+  },
+  {
+    "Manager": "Aleksandr Tarkhanov",
+    "Average_Goal_Difference": -0.03,
+    "Matches_Played": 813
+  },
+  {
+    "Manager": "Tamer Tuna",
+    "Average_Goal_Difference": -0.03,
+    "Matches_Played": 947
+  },
+  {
+    "Manager": "Stephen Robinson",
+    "Average_Goal_Difference": -0.04,
+    "Matches_Played": 938
+  },
+  {
+    "Manager": "Quique Setién",
+    "Average_Goal_Difference": -0.04,
+    "Matches_Played": 1090
+  },
+  {
+    "Manager": "Andrey Tikhonov",
+    "Average_Goal_Difference": -0.05,
+    "Matches_Played": 43
+  },
+  {
+    "Manager": "Claude Makélélé",
+    "Average_Goal_Difference": -0.05,
+    "Matches_Played": 430
+  },
+  {
+    "Manager": "Kemal Özdes",
+    "Average_Goal_Difference": -0.05,
+    "Matches_Played": 914
+  },
+  {
+    "Manager": "Ernest Faber",
+    "Average_Goal_Difference": -0.06,
+    "Matches_Played": 949
+  },
+  {
+    "Manager": "Giannis Petrakis",
+    "Average_Goal_Difference": -0.06,
+    "Matches_Played": 982
+  },
+  {
+    "Manager": "Christian Gourcuff",
+    "Average_Goal_Difference": -0.07,
+    "Matches_Played": 322
+  },
+  {
+    "Manager": "Bo Henriksen",
+    "Average_Goal_Difference": -0.07,
+    "Matches_Played": 682
+  },
+  {
+    "Manager": "Kent Nielsen",
+    "Average_Goal_Difference": -0.07,
+    "Matches_Played": 749
+  },
+  {
+    "Manager": "Davide Ballardini",
+    "Average_Goal_Difference": -0.07,
+    "Matches_Played": 779
+  },
+  {
+    "Manager": "Marinos Ouzounidis",
+    "Average_Goal_Difference": -0.07,
+    "Matches_Played": 971
+  },
+  {
+    "Manager": "Henk Fraser",
+    "Average_Goal_Difference": -0.07,
+    "Matches_Played": 1036
+  },
+  {
+    "Manager": "Marco Giampaolo",
+    "Average_Goal_Difference": -0.08,
+    "Matches_Played": 1101
+  },
+  {
+    "Manager": "Valeriy Karpin",
+    "Average_Goal_Difference": -0.09,
+    "Matches_Played": 276
+  },
+  {
+    "Manager": "Leonid Kuchuk",
+    "Average_Goal_Difference": -0.09,
+    "Matches_Played": 549
+  },
+  {
+    "Manager": "Siniša Mihajlović",
+    "Average_Goal_Difference": -0.09,
+    "Matches_Played": 594
+  },
+  {
+    "Manager": "Claude Puel",
+    "Average_Goal_Difference": -0.09,
+    "Matches_Played": 835
+  },
+  {
+    "Manager": "Manuel Baum",
+    "Average_Goal_Difference": -0.09,
+    "Matches_Played": 941
+  },
+  {
+    "Manager": "Irfan Buz",
+    "Average_Goal_Difference": -0.1,
+    "Matches_Played": 805
+  },
+  {
+    "Manager": "Roy Hodgson",
+    "Average_Goal_Difference": -0.1,
+    "Matches_Played": 924
+  },
+  {
+    "Manager": "Juan Carlos Unzué",
+    "Average_Goal_Difference": -0.1,
+    "Matches_Played": 1165
+  },
+  {
+    "Manager": "Christian Titz",
+    "Average_Goal_Difference": -0.12,
+    "Matches_Played": 224
+  },
+  {
+    "Manager": "Pál Dárdai",
+    "Average_Goal_Difference": -0.12,
+    "Matches_Played": 1075
+  },
+  {
+    "Manager": "Cuco Ziganda",
+    "Average_Goal_Difference": -0.12,
+    "Matches_Played": 1321
+  },
+  {
+    "Manager": "Sven Vermant",
+    "Average_Goal_Difference": -0.13,
+    "Matches_Played": 249
+  },
+  {
+    "Manager": "Claudio Ranieri",
+    "Average_Goal_Difference": -0.13,
+    "Matches_Played": 1044
+  },
+  {
+    "Manager": "Sérgio Vieira",
+    "Average_Goal_Difference": -0.14,
+    "Matches_Played": 391
+  },
+  {
+    "Manager": "László Bölöni",
+    "Average_Goal_Difference": -0.14,
+    "Matches_Played": 761
+  },
+  {
+    "Manager": "Dieter Hecking",
+    "Average_Goal_Difference": -0.15,
+    "Matches_Played": 986
+  },
+  {
+    "Manager": "Jurgen Streppel",
+    "Average_Goal_Difference": -0.15,
+    "Matches_Played": 986
+  },
+  {
+    "Manager": "Christophe Pélissier",
+    "Average_Goal_Difference": -0.15,
+    "Matches_Played": 1022
+  },
+  {
+    "Manager": "Eusebio",
+    "Average_Goal_Difference": -0.16,
+    "Matches_Played": 856
+  },
+  {
+    "Manager": "Hein Vanhaezebrouck",
+    "Average_Goal_Difference": -0.16,
+    "Matches_Played": 903
+  },
+  {
+    "Manager": "Eduardo Berizzo",
+    "Average_Goal_Difference": -0.17,
+    "Matches_Played": 641
+  },
+  {
+    "Manager": "Sam Allardyce",
+    "Average_Goal_Difference": -0.17,
+    "Matches_Played": 690
+  },
+  {
+    "Manager": "Sean Dyche",
+    "Average_Goal_Difference": -0.17,
+    "Matches_Played": 1038
+  },
+  {
+    "Manager": "Vincenzo Montella",
+    "Average_Goal_Difference": -0.17,
+    "Matches_Played": 1196
+  },
+  {
+    "Manager": "Glen Riddersholm",
+    "Average_Goal_Difference": -0.18,
+    "Matches_Played": 303
+  },
+  {
+    "Manager": "Vítor Oliveira",
+    "Average_Goal_Difference": -0.18,
+    "Matches_Played": 1052
+  },
+  {
+    "Manager": "Gadzhi Gadzhiev",
+    "Average_Goal_Difference": -0.19,
+    "Matches_Played": 593
+  },
+  {
+    "Manager": "Mesut Bakkal",
+    "Average_Goal_Difference": -0.2,
+    "Matches_Played": 559
+  },
+  {
+    "Manager": "Ilias Fyntanis",
+    "Average_Goal_Difference": -0.2,
+    "Matches_Played": 580
+  },
+  {
+    "Manager": "Miguel Cardoso",
+    "Average_Goal_Difference": -0.2,
+    "Matches_Played": 973
+  },
+  {
+    "Manager": "José Luis Mendilibar",
+    "Average_Goal_Difference": -0.2,
+    "Matches_Played": 1112
+  },
+  {
+    "Manager": "Traianos Dellas",
+    "Average_Goal_Difference": -0.21,
+    "Matches_Played": 387
+  },
+  {
+    "Manager": "Jorge Simão",
+    "Average_Goal_Difference": -0.21,
+    "Matches_Played": 808
+  },
+  {
+    "Manager": "Miodrag Bozovic",
+    "Average_Goal_Difference": -0.21,
+    "Matches_Played": 838
+  },
+  {
+    "Manager": "Oleg Dulub",
+    "Average_Goal_Difference": -0.22,
+    "Matches_Played": 338
+  },
+  {
+    "Manager": "Erol Bulut",
+    "Average_Goal_Difference": -0.22,
+    "Matches_Played": 781
+  },
+  {
+    "Manager": "Nikolaos Papadopoulos",
+    "Average_Goal_Difference": -0.23,
+    "Matches_Played": 62
+  },
+  {
+    "Manager": "Paul Le Guen",
+    "Average_Goal_Difference": -0.23,
+    "Matches_Played": 748
+  },
+  {
+    "Manager": "Marius Sumudica",
+    "Average_Goal_Difference": -0.23,
+    "Matches_Played": 865
+  },
+  {
+    "Manager": "Samet Aybaba",
+    "Average_Goal_Difference": -0.23,
+    "Matches_Played": 948
+  },
+  {
+    "Manager": "Volodymyr Sharan",
+    "Average_Goal_Difference": -0.24,
+    "Matches_Played": 609
+  },
+  {
+    "Manager": "Mickaël Debève",
+    "Average_Goal_Difference": -0.25,
+    "Matches_Played": 439
+  },
+  {
+    "Manager": "Silas",
+    "Average_Goal_Difference": -0.25,
+    "Matches_Played": 448
+  },
+  {
+    "Manager": "Roman Sanzhar",
+    "Average_Goal_Difference": -0.25,
+    "Matches_Played": 664
+  },
+  {
+    "Manager": "Sergiy Zaytsev",
+    "Average_Goal_Difference": -0.26,
+    "Matches_Played": 212
+  },
+  {
+    "Manager": "Rafael Benítez",
+    "Average_Goal_Difference": -0.26,
+    "Matches_Played": 1083
+  },
+  {
+    "Manager": "Stéphane Moulin",
+    "Average_Goal_Difference": -0.27,
+    "Matches_Played": 1049
+  },
+  {
+    "Manager": "Pêpa",
+    "Average_Goal_Difference": -0.28,
+    "Matches_Played": 973
+  },
+  {
+    "Manager": "Pablo Machín",
+    "Average_Goal_Difference": -0.28,
+    "Matches_Played": 1102
+  },
+  {
+    "Manager": "Vadim Evseev",
+    "Average_Goal_Difference": -0.29,
+    "Matches_Played": 277
+  },
+  {
+    "Manager": "Safet Susic",
+    "Average_Goal_Difference": -0.29,
+    "Matches_Played": 472
+  },
+  {
+    "Manager": "Luís Castro",
+    "Average_Goal_Difference": -0.29,
+    "Matches_Played": 977
+  },
+  {
+    "Manager": "Francky Dury",
+    "Average_Goal_Difference": -0.29,
+    "Matches_Played": 1012
+  },
+  {
+    "Manager": "Antoine Kombouaré",
+    "Average_Goal_Difference": -0.29,
+    "Matches_Played": 1045
+  },
+  {
+    "Manager": "Walter Zenga",
+    "Average_Goal_Difference": -0.3,
+    "Matches_Played": 641
+  },
+  {
+    "Manager": "Alfons Groenendijk",
+    "Average_Goal_Difference": -0.3,
+    "Matches_Played": 958
+  },
+  {
+    "Manager": "Okan Buruk",
+    "Average_Goal_Difference": -0.31,
+    "Matches_Played": 920
+  },
+  {
+    "Manager": "André Breitenreiter",
+    "Average_Goal_Difference": -0.31,
+    "Matches_Played": 973
+  },
+  {
+    "Manager": "David Moyes",
+    "Average_Goal_Difference": -0.32,
+    "Matches_Played": 744
+  },
+  {
+    "Manager": "Roberto Donadoni",
+    "Average_Goal_Difference": -0.32,
+    "Matches_Played": 1060
+  },
+  {
+    "Manager": "Erkan Sözeri",
+    "Average_Goal_Difference": -0.33,
+    "Matches_Played": 168
+  },
+  {
+    "Manager": "René Weiler",
+    "Average_Goal_Difference": -0.34,
+    "Matches_Played": 249
+  },
+  {
+    "Manager": "Daniel Ramos",
+    "Average_Goal_Difference": -0.34,
+    "Matches_Played": 1104
+  },
+  {
+    "Manager": "Nicolás Frutos",
+    "Average_Goal_Difference": -0.35,
+    "Matches_Played": 83
+  },
+  {
+    "Manager": "René Hake",
+    "Average_Goal_Difference": -0.35,
+    "Matches_Played": 217
+  },
+  {
+    "Manager": "Mustafa Resit Akcay",
+    "Average_Goal_Difference": -0.36,
+    "Matches_Played": 307
+  },
+  {
+    "Manager": "Luigi Delneri",
+    "Average_Goal_Difference": -0.36,
+    "Matches_Played": 348
+  },
+  {
+    "Manager": "Ümit Özat",
+    "Average_Goal_Difference": -0.36,
+    "Matches_Played": 642
+  },
+  {
+    "Manager": "Zoran Vulic",
+    "Average_Goal_Difference": -0.37,
+    "Matches_Played": 266
+  },
+  {
+    "Manager": "Mauricio Pellegrino",
+    "Average_Goal_Difference": -0.38,
+    "Matches_Played": 903
+  },
+  {
+    "Manager": "Quique Sánchez Flores",
+    "Average_Goal_Difference": -0.38,
+    "Matches_Played": 1024
+  },
+  {
+    "Manager": "Jocelyn Gourvennec",
+    "Average_Goal_Difference": -0.39,
+    "Matches_Played": 570
+  },
+  {
+    "Manager": "Massimo Oddo",
+    "Average_Goal_Difference": -0.39,
+    "Matches_Played": 642
+  },
+  {
+    "Manager": "John van 't Schip",
+    "Average_Goal_Difference": -0.39,
+    "Matches_Played": 971
+  },
+  {
+    "Manager": "Peter Stöger",
+    "Average_Goal_Difference": -0.39,
+    "Matches_Played": 1071
+  },
+  {
+    "Manager": "Ertugrul Saglam",
+    "Average_Goal_Difference": -0.4,
+    "Matches_Played": 139
+  },
+  {
+    "Manager": "Craig Shakespeare",
+    "Average_Goal_Difference": -0.4,
+    "Matches_Played": 221
+  },
+  {
+    "Manager": "Yuriy Kalitvintsev",
+    "Average_Goal_Difference": -0.4,
+    "Matches_Played": 327
+  },
+  {
+    "Manager": "Paul Lambert",
+    "Average_Goal_Difference": -0.4,
+    "Matches_Played": 404
+  },
+  {
+    "Manager": "Peter Maes",
+    "Average_Goal_Difference": -0.4,
+    "Matches_Played": 772
+  },
+  {
+    "Manager": "Hamza Hamzaoglu",
+    "Average_Goal_Difference": -0.41,
+    "Matches_Played": 475
+  },
+  {
+    "Manager": "Mehmet Özdilek",
+    "Average_Goal_Difference": -0.41,
+    "Matches_Played": 476
+  },
+  {
+    "Manager": "Asier Garitano",
+    "Average_Goal_Difference": -0.41,
+    "Matches_Played": 1244
+  },
+  {
+    "Manager": "Sandro Schwarz",
+    "Average_Goal_Difference": -0.42,
+    "Matches_Played": 1004
+  },
+  {
+    "Manager": "Mikhail Galaktionov",
+    "Average_Goal_Difference": -0.43,
+    "Matches_Played": 249
+  },
+  {
+    "Manager": "Oleg Kononov",
+    "Average_Goal_Difference": -0.44,
+    "Matches_Played": 414
+  },
+  {
+    "Manager": "Domingos Paciência",
+    "Average_Goal_Difference": -0.44,
+    "Matches_Played": 574
+  },
+  {
+    "Manager": "Jonas De Roeck",
+    "Average_Goal_Difference": -0.44,
+    "Matches_Played": 743
+  },
+  {
+    "Manager": "Makis Chavos",
+    "Average_Goal_Difference": -0.45,
+    "Matches_Played": 528
+  },
+  {
+    "Manager": "José Anigo",
+    "Average_Goal_Difference": -0.45,
+    "Matches_Played": 903
+  },
+  {
+    "Manager": "Eddie Howe",
+    "Average_Goal_Difference": -0.45,
+    "Matches_Played": 1072
+  },
+  {
+    "Manager": "Marco Silva",
+    "Average_Goal_Difference": -0.46,
+    "Matches_Played": 664
+  },
+  {
+    "Manager": "Mircea Rednic",
+    "Average_Goal_Difference": -0.46,
+    "Matches_Played": 717
+  },
+  {
+    "Manager": "Mitchell van der Gaag",
+    "Average_Goal_Difference": -0.46,
+    "Matches_Played": 965
+  },
+  {
+    "Manager": "Álvaro Cervera",
+    "Average_Goal_Difference": -0.47,
+    "Matches_Played": 57
+  },
+  {
+    "Manager": "Stijn Vreven",
+    "Average_Goal_Difference": -0.47,
+    "Matches_Played": 932
+  },
+  {
+    "Manager": "John Stegeman",
+    "Average_Goal_Difference": -0.47,
+    "Matches_Played": 961
+  },
+  {
+    "Manager": "Nuno Manta Santos",
+    "Average_Goal_Difference": -0.47,
+    "Matches_Played": 1001
+  },
+  {
+    "Manager": "Ersun Yanal",
+    "Average_Goal_Difference": -0.48,
+    "Matches_Played": 223
+  },
+  {
+    "Manager": "Olivier Dall'Oglio",
+    "Average_Goal_Difference": -0.48,
+    "Matches_Played": 1039
+  },
+  {
+    "Manager": "Tintín Márquez",
+    "Average_Goal_Difference": -0.5,
+    "Matches_Played": 56
+  },
+  {
+    "Manager": "Fran Escribá",
+    "Average_Goal_Difference": -0.5,
+    "Matches_Played": 167
+  },
+  {
+    "Manager": "Owen Coyle",
+    "Average_Goal_Difference": -0.5,
+    "Matches_Played": 552
+  },
+  {
+    "Manager": "Sotiris Antoniou",
+    "Average_Goal_Difference": -0.51,
+    "Matches_Played": 164
+  },
+  {
+    "Manager": "Peter Sörensen",
+    "Average_Goal_Difference": -0.52,
+    "Matches_Played": 807
+  },
+  {
+    "Manager": "Erwin van de Looi",
+    "Average_Goal_Difference": -0.52,
+    "Matches_Played": 807
+  },
+  {
+    "Manager": "Tommy Wright",
+    "Average_Goal_Difference": -0.52,
+    "Matches_Played": 878
+  },
+  {
+    "Manager": "Babis Tennes",
+    "Average_Goal_Difference": -0.52,
+    "Matches_Played": 974
+  },
+  {
+    "Manager": "Chris Hughton",
+    "Average_Goal_Difference": -0.52,
+    "Matches_Played": 1109
+  },
+  {
+    "Manager": "Marcelo Bielsa",
+    "Average_Goal_Difference": -0.53,
+    "Matches_Played": 344
+  },
+  {
+    "Manager": "Pedro Martins",
+    "Average_Goal_Difference": -0.53,
+    "Matches_Played": 835
+  },
+  {
+    "Manager": "Leonardo Semplici",
+    "Average_Goal_Difference": -0.53,
+    "Matches_Played": 1057
+  },
+  {
+    "Manager": "Carlos Carvalhal",
+    "Average_Goal_Difference": -0.54,
+    "Matches_Played": 549
+  },
+  {
+    "Manager": "José Couceiro",
+    "Average_Goal_Difference": -0.54,
+    "Matches_Played": 1085
+  },
+  {
+    "Manager": "Yannick Ferrera",
+    "Average_Goal_Difference": -0.55,
+    "Matches_Played": 305
+  },
+  {
+    "Manager": "Pascal Dupraz",
+    "Average_Goal_Difference": -0.55,
+    "Matches_Played": 606
+  },
+  {
+    "Manager": "Georgios Paraschos",
+    "Average_Goal_Difference": -0.55,
+    "Matches_Played": 740
+  },
+  {
+    "Manager": "Martin Canning",
+    "Average_Goal_Difference": -0.56,
+    "Matches_Played": 883
+  },
+  {
+    "Manager": "Nikolay Kostov",
+    "Average_Goal_Difference": -0.57,
+    "Matches_Played": 278
+  },
+  {
+    "Manager": "Maurice Steijn",
+    "Average_Goal_Difference": -0.57,
+    "Matches_Played": 983
+  },
+  {
+    "Manager": "Hannes Wolf",
+    "Average_Goal_Difference": -0.58,
+    "Matches_Played": 586
+  },
+  {
+    "Manager": "Oleksandr Babych",
+    "Average_Goal_Difference": -0.6,
+    "Matches_Played": 568
+  },
+  {
+    "Manager": "Giuseppe Iachini",
+    "Average_Goal_Difference": -0.6,
+    "Matches_Played": 698
+  },
+  {
+    "Manager": "Vasco Seabra",
+    "Average_Goal_Difference": -0.61,
+    "Matches_Played": 296
+  },
+  {
+    "Manager": "Thierry Laurey",
+    "Average_Goal_Difference": -0.61,
+    "Matches_Played": 1045
+  },
+  {
+    "Manager": "Juan Muñiz",
+    "Average_Goal_Difference": -0.62,
+    "Matches_Played": 858
+  },
+  {
+    "Manager": "Ivo Vieira",
+    "Average_Goal_Difference": -0.63,
+    "Matches_Played": 653
+  },
+  {
+    "Manager": "Marino Pusic",
+    "Average_Goal_Difference": -0.65,
+    "Matches_Played": 220
+  },
+  {
+    "Manager": "Giannis Anastasiou",
+    "Average_Goal_Difference": -0.65,
+    "Matches_Played": 389
+  },
+  {
+    "Manager": "João Henriques",
+    "Average_Goal_Difference": -0.65,
+    "Matches_Played": 472
+  },
+  {
+    "Manager": "Miguel Leal",
+    "Average_Goal_Difference": -0.66,
+    "Matches_Played": 165
+  },
+  {
+    "Manager": "Giovanni De Biasi",
+    "Average_Goal_Difference": -0.67,
+    "Matches_Played": 248
+  },
+  {
+    "Manager": "Ricardo Soares",
+    "Average_Goal_Difference": -0.67,
+    "Matches_Played": 252
+  },
+  {
+    "Manager": "Diego López",
+    "Average_Goal_Difference": -0.67,
+    "Matches_Played": 837
+  },
+  {
+    "Manager": "Ivan Juric",
+    "Average_Goal_Difference": -0.68,
+    "Matches_Played": 349
+  },
+  {
+    "Manager": "Javi Gracia",
+    "Average_Goal_Difference": -0.68,
+    "Matches_Played": 415
+  },
+  {
+    "Manager": "Clarence Seedorf",
+    "Average_Goal_Difference": -0.68,
+    "Matches_Played": 446
+  },
+  {
+    "Manager": "Neil McCann",
+    "Average_Goal_Difference": -0.68,
+    "Matches_Played": 861
+  },
+  {
+    "Manager": "Markus Gisdol",
+    "Average_Goal_Difference": -0.69,
+    "Matches_Played": 528
+  },
+  {
+    "Manager": "Patrice Garande",
+    "Average_Goal_Difference": -0.69,
+    "Matches_Played": 1001
+  },
+  {
+    "Manager": "Christophe Galtier",
+    "Average_Goal_Difference": -0.7,
+    "Matches_Played": 512
+  },
+  {
+    "Manager": "Vadim Skripchenko",
+    "Average_Goal_Difference": -0.7,
+    "Matches_Played": 665
+  },
+  {
+    "Manager": "Robert Molenaar",
+    "Average_Goal_Difference": -0.71,
+    "Matches_Played": 988
+  },
+  {
+    "Manager": "Alexander Nouri",
+    "Average_Goal_Difference": -0.72,
+    "Matches_Played": 304
+  },
+  {
+    "Manager": "Stefan Ruthenbeck",
+    "Average_Goal_Difference": -0.72,
+    "Matches_Played": 585
+  },
+  {
+    "Manager": "Jean-Louis Garcia",
+    "Average_Goal_Difference": -0.72,
+    "Matches_Played": 1047
+  },
+  {
+    "Manager": "Paquito",
+    "Average_Goal_Difference": -0.73,
+    "Matches_Played": 109
+  },
+  {
+    "Manager": "Bruno Labbadia",
+    "Average_Goal_Difference": -0.73,
+    "Matches_Played": 306
+  },
+  {
+    "Manager": "Ólafur Helgi Kristjánsson",
+    "Average_Goal_Difference": -0.73,
+    "Matches_Played": 308
+  },
+  {
+    "Manager": "Christian Streich",
+    "Average_Goal_Difference": -0.73,
+    "Matches_Played": 968
+  },
+  {
+    "Manager": "Jon Daly",
+    "Average_Goal_Difference": -0.75,
+    "Matches_Played": 102
+  },
+  {
+    "Manager": "Giannis Matzourakis",
+    "Average_Goal_Difference": -0.75,
+    "Matches_Played": 335
+  },
+  {
+    "Manager": "Andries Jonker",
+    "Average_Goal_Difference": -0.76,
+    "Matches_Played": 111
+  },
+  {
+    "Manager": "Tony Pulis",
+    "Average_Goal_Difference": -0.76,
+    "Matches_Played": 345
+  },
+  {
+    "Manager": "Rolando Maran",
+    "Average_Goal_Difference": -0.76,
+    "Matches_Played": 1001
+  },
+  {
+    "Manager": "Petit",
+    "Average_Goal_Difference": -0.8,
+    "Matches_Played": 560
+  },
+  {
+    "Manager": "Massimo Rastelli",
+    "Average_Goal_Difference": -0.81,
+    "Matches_Played": 239
+  },
+  {
+    "Manager": "Thomas Nörgaard",
+    "Average_Goal_Difference": -0.81,
+    "Matches_Played": 463
+  },
+  {
+    "Manager": "David Wagner",
+    "Average_Goal_Difference": -0.82,
+    "Matches_Played": 1078
+  },
+  {
+    "Manager": "Hikmet Karaman",
+    "Average_Goal_Difference": -0.83,
+    "Matches_Played": 165
+  },
+  {
+    "Manager": "Manolo Márquez",
+    "Average_Goal_Difference": -0.83,
+    "Matches_Played": 166
+  },
+  {
+    "Manager": "Apostolos Mantzios",
+    "Average_Goal_Difference": -0.83,
+    "Matches_Played": 167
+  },
+  {
+    "Manager": "Paul Clement",
+    "Average_Goal_Difference": -0.83,
+    "Matches_Played": 497
+  },
+  {
+    "Manager": "Alan Pardew",
+    "Average_Goal_Difference": -0.84,
+    "Matches_Played": 548
+  },
+  {
+    "Manager": "Alekos Vosniadis",
+    "Average_Goal_Difference": -0.86,
+    "Matches_Played": 390
+  },
+  {
+    "Manager": "Roman Monarev",
+    "Average_Goal_Difference": -0.86,
+    "Matches_Played": 562
+  },
+  {
+    "Manager": "Ricardo Moniz",
+    "Average_Goal_Difference": -0.89,
+    "Matches_Played": 220
+  },
+  {
+    "Manager": "Pepe Mel",
+    "Average_Goal_Difference": -0.89,
+    "Matches_Played": 252
+  },
+  {
+    "Manager": "David Nielsen",
+    "Average_Goal_Difference": -0.89,
+    "Matches_Played": 744
+  },
+  {
+    "Manager": "José González",
+    "Average_Goal_Difference": -0.9,
+    "Matches_Played": 525
+  },
+  {
+    "Manager": "Aleksandar Jankovic",
+    "Average_Goal_Difference": -0.91,
+    "Matches_Played": 279
+  },
+  {
+    "Manager": "Lito Vidigal",
+    "Average_Goal_Difference": -0.91,
+    "Matches_Played": 308
+  },
+  {
+    "Manager": "Mark Hughes",
+    "Average_Goal_Difference": -0.91,
+    "Matches_Played": 856
+  },
+  {
+    "Manager": "Frédéric Hantz",
+    "Average_Goal_Difference": -0.93,
+    "Matches_Played": 726
+  },
+  {
+    "Manager": "Dmitriy Parfenov",
+    "Average_Goal_Difference": -0.95,
+    "Matches_Played": 871
+  },
+  {
+    "Manager": "Gertjan Verbeek",
+    "Average_Goal_Difference": -0.96,
+    "Matches_Played": 556
+  },
+  {
+    "Manager": "Alan Archibald",
+    "Average_Goal_Difference": -0.98,
+    "Matches_Played": 896
+  },
+  {
+    "Manager": "David Unsworth",
+    "Average_Goal_Difference": -0.99,
+    "Matches_Played": 189
+  },
+  {
+    "Manager": "Staikos Vergetis",
+    "Average_Goal_Difference": -1.0,
+    "Matches_Played": 83
+  },
+  {
+    "Manager": "Fernando Da Cruz",
+    "Average_Goal_Difference": -1.0,
+    "Matches_Played": 164
+  },
+  {
+    "Manager": "Lee McCulloch",
+    "Average_Goal_Difference": -1.0,
+    "Matches_Played": 205
+  },
+  {
+    "Manager": "Manuel Machado",
+    "Average_Goal_Difference": -1.0,
+    "Matches_Played": 308
+  },
+  {
+    "Manager": "Dick Advocaat",
+    "Average_Goal_Difference": -1.0,
+    "Matches_Played": 464
+  },
+  {
+    "Manager": "Eghishe Melikyan",
+    "Average_Goal_Difference": -1.02,
+    "Matches_Played": 217
+  },
+  {
+    "Manager": "Cristian Bucchi",
+    "Average_Goal_Difference": -1.04,
+    "Matches_Played": 405
+  },
+  {
+    "Manager": "Aleksey Poddubskiy",
+    "Average_Goal_Difference": -1.04,
+    "Matches_Played": 551
+  },
+  {
+    "Manager": "Michel",
+    "Average_Goal_Difference": -1.05,
+    "Matches_Played": 519
+  },
+  {
+    "Manager": "Daniel Farke",
+    "Average_Goal_Difference": -1.06,
+    "Matches_Played": 34
+  },
+  {
+    "Manager": "Oleg Boichyshyn",
+    "Average_Goal_Difference": -1.07,
+    "Matches_Played": 172
+  },
+  {
+    "Manager": "Roberto De Zerbi",
+    "Average_Goal_Difference": -1.07,
+    "Matches_Played": 808
+  },
+  {
+    "Manager": "Slaven Bilic",
+    "Average_Goal_Difference": -1.08,
+    "Matches_Played": 302
+  },
+  {
+    "Manager": "Christian Lönstrup",
+    "Average_Goal_Difference": -1.11,
+    "Matches_Played": 758
+  },
+  {
+    "Manager": "Jordi Condom",
+    "Average_Goal_Difference": -1.14,
+    "Matches_Played": 384
+  },
+  {
+    "Manager": "Aleksandr Grigoryan",
+    "Average_Goal_Difference": -1.17,
+    "Matches_Played": 168
+  },
+  {
+    "Manager": "Rinat Bilyaletdinov",
+    "Average_Goal_Difference": -1.23,
+    "Matches_Played": 111
+  },
+  {
+    "Manager": "Alex Pastoor",
+    "Average_Goal_Difference": -1.24,
+    "Matches_Played": 455
+  },
+  {
+    "Manager": "Anthony Popovic",
+    "Average_Goal_Difference": -1.25,
+    "Matches_Played": 223
+  },
+  {
+    "Manager": "Leonardo",
+    "Average_Goal_Difference": -1.25,
+    "Matches_Played": 224
+  },
+  {
+    "Manager": "Fabio Pecchia",
+    "Average_Goal_Difference": -1.25,
+    "Matches_Played": 1117
+  },
+  {
+    "Manager": "Rasmus Bertelsen",
+    "Average_Goal_Difference": -1.26,
+    "Matches_Played": 221
+  },
+  {
+    "Manager": "Davide Nicola",
+    "Average_Goal_Difference": -1.26,
+    "Matches_Played": 445
+  },
+  {
+    "Manager": "Paco Jémez",
+    "Average_Goal_Difference": -1.26,
+    "Matches_Played": 637
+  },
+  {
+    "Manager": "Jim McIntyre",
+    "Average_Goal_Difference": -1.29,
+    "Matches_Played": 182
+  },
+  {
+    "Manager": "Ronald Koeman",
+    "Average_Goal_Difference": -1.37,
+    "Matches_Played": 304
+  },
+  {
+    "Manager": "Bernd Hollerbach",
+    "Average_Goal_Difference": -1.41,
+    "Matches_Played": 194
+  },
+  {
+    "Manager": "Philippe Hinschberger",
+    "Average_Goal_Difference": -1.41,
+    "Matches_Played": 268
+  },
+  {
+    "Manager": "Cristóbal Parralo",
+    "Average_Goal_Difference": -1.42,
+    "Matches_Played": 415
+  },
+  {
+    "Manager": "Cristian Petre",
+    "Average_Goal_Difference": -1.5,
+    "Matches_Played": 56
+  },
+  {
+    "Manager": "Tom Caluwé",
+    "Average_Goal_Difference": -1.51,
+    "Matches_Played": 55
+  },
+  {
+    "Manager": "Johan Van Rumst",
+    "Average_Goal_Difference": -1.51,
+    "Matches_Played": 55
+  },
+  {
+    "Manager": "Bülent Uygun",
+    "Average_Goal_Difference": -1.6,
+    "Matches_Played": 140
+  },
+  {
+    "Manager": "Pedro Emanuel",
+    "Average_Goal_Difference": -1.63,
+    "Matches_Played": 275
+  },
+  {
+    "Manager": "José Manuel Roca",
+    "Average_Goal_Difference": -1.65,
+    "Matches_Played": 302
+  },
+  {
+    "Manager": "Pako Ayestarán",
+    "Average_Goal_Difference": -1.66,
+    "Matches_Played": 247
+  },
+  {
+    "Manager": "Jacky Mathijssen",
+    "Average_Goal_Difference": -1.67,
+    "Matches_Played": 84
+  },
+  {
+    "Manager": "Sergio Navarro",
+    "Average_Goal_Difference": -1.74,
+    "Matches_Played": 208
+  },
+  {
+    "Manager": "Frank de Boer",
+    "Average_Goal_Difference": -1.75,
+    "Matches_Played": 109
+  },
+  {
+    "Manager": "Luis Zubeldía",
+    "Average_Goal_Difference": -1.75,
+    "Matches_Played": 112
+  },
+  {
+    "Manager": "Frank Defays",
+    "Average_Goal_Difference": -1.75,
+    "Matches_Played": 112
+  },
+  {
+    "Manager": "Julien Sablé",
+    "Average_Goal_Difference": -1.84,
+    "Matches_Played": 192
+  },
+  {
+    "Manager": "Kostyantyn Frolov",
+    "Average_Goal_Difference": -1.98,
+    "Matches_Played": 82
+  },
+  {
+    "Manager": "Sergey Perednya",
+    "Average_Goal_Difference": -2.17,
+    "Matches_Played": 168
+  },
+  {
+    "Manager": "Giannis Chatzinikolaou",
+    "Average_Goal_Difference": -2.19,
+    "Matches_Played": 305
+  },
+  {
+    "Manager": "Marco Baroni",
+    "Average_Goal_Difference": -2.22,
+    "Matches_Played": 251
+  },
+  {
+    "Manager": "André Paus",
+    "Average_Goal_Difference": -2.33,
+    "Matches_Played": 84
+  },
+  {
+    "Manager": "Rúnar Kristinsson",
+    "Average_Goal_Difference": -2.5,
+    "Matches_Played": 56
+  },
+  {
+    "Manager": "Leon Britton",
+    "Average_Goal_Difference": -2.55,
+    "Matches_Played": 55
+  },
+  {
+    "Manager": "Levent Acikgöz",
+    "Average_Goal_Difference": -2.6,
+    "Matches_Played": 333
+  },
+  {
+    "Manager": "Ünal Karaman",
+    "Average_Goal_Difference": -2.88,
+    "Matches_Played": 223
+  },
+  {
+    "Manager": "Sakis Tsiolis",
+    "Average_Goal_Difference": -2.99,
+    "Matches_Played": 83
+  }
+]

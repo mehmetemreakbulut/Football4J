@@ -1,0 +1,6002 @@
+﻿[
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Galatasaray Spor Kulübü",
+    "Matches_Played": 22,
+    "Red_Cards": 10
+  },
+  {
+    "Club_1_Name": "FK Spartak Moskva",
+    "Club_2_Name": "AO FK Zenit Sankt-Peterburg",
+    "Matches_Played": 27,
+    "Red_Cards": 10
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 20,
+    "Red_Cards": 9
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 22,
+    "Red_Cards": 9
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 23,
+    "Red_Cards": 9
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Società Sportiva Lazio S.p.A.",
+    "Matches_Played": 25,
+    "Red_Cards": 9
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Juventus Football Club",
+    "Matches_Played": 31,
+    "Red_Cards": 9
+  },
+  {
+    "Club_1_Name": "Vitória Setúbal FC",
+    "Club_2_Name": "Vitória Sport Clube",
+    "Matches_Played": 18,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Vitória Sport Clube",
+    "Matches_Played": 23,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Paris Saint-Germain Football Club",
+    "Matches_Played": 23,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 23,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 24,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 24,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Futbol Club Barcelona",
+    "Matches_Played": 34,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "FC Shakhtar Donetsk",
+    "Matches_Played": 39,
+    "Red_Cards": 8
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 4,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "Bologna Football Club 1909",
+    "Matches_Played": 18,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Toulouse Football Club",
+    "Club_2_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Matches_Played": 19,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "İstanbul Başakşehir Futbol Kulübü",
+    "Matches_Played": 21,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Football Club Utrecht",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 22,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 22,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Galatasaray Spor Kulübü",
+    "Club_2_Name": "Trabzonspor Kulübü",
+    "Matches_Played": 23,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 23,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Matches_Played": 23,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Club_2_Name": "FK Ural Yekaterinburg",
+    "Matches_Played": 26,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Sevilla Fútbol Club S.A.D.",
+    "Matches_Played": 31,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Real Madrid Club de Fútbol",
+    "Matches_Played": 34,
+    "Red_Cards": 7
+  },
+  {
+    "Club_1_Name": "Boavista Futebol Clube",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 9,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 13,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 15,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "AO FK Zenit Sankt-Peterburg",
+    "Club_2_Name": "Anzhi Makhachkala ( -2022)",
+    "Matches_Played": 15,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Matches_Played": 16,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "Vitória Sport Clube",
+    "Matches_Played": 17,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Arsenal Tula",
+    "Club_2_Name": "FK Ural Yekaterinburg",
+    "Matches_Played": 17,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "AS Saint-Étienne",
+    "Matches_Played": 19,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Grupo Desportivo Estoril Praia",
+    "Matches_Played": 19,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Moreirense Futebol Clube",
+    "Club_2_Name": "Vitória Sport Clube",
+    "Matches_Played": 19,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "KV Oostende",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 20,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "RCD Espanyol Barcelona",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 20,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 20,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Olympique de Marseille",
+    "Matches_Played": 20,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Ross County Football Club",
+    "Club_2_Name": "Hamilton Academical FC",
+    "Matches_Played": 20,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Valencia Club de Fútbol S. A. D.",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 21,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 21,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 22,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Sportclub Heerenveen",
+    "Club_2_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Matches_Played": 22,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Alkmaar Zaanstreek",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 23,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Matches_Played": 23,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Galatasaray Spor Kulübü",
+    "Matches_Played": 23,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 23,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 23,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Matches_Played": 24,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Athletic Club Bilbao",
+    "Matches_Played": 24,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Ross County Football Club",
+    "Matches_Played": 24,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Sevilla Fútbol Club S.A.D.",
+    "Matches_Played": 25,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Rangers Football Club",
+    "Club_2_Name": "Aberdeen Football Club",
+    "Matches_Played": 25,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 26,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "AO FK Zenit Sankt-Peterburg",
+    "Club_2_Name": "RFK Akhmat Grozny",
+    "Matches_Played": 26,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "Futebol Clube do Porto",
+    "Matches_Played": 27,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Real Madrid Club de Fútbol",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 27,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Club_2_Name": "Athlitiki Enosi Konstantinoupoleos",
+    "Matches_Played": 27,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "PFK CSKA Moskva",
+    "Matches_Played": 27,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 28,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Chelsea Football Club",
+    "Matches_Played": 28,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 28,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "Club_2_Name": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Matches_Played": 30,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Aberdeen Football Club",
+    "Matches_Played": 32,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 32,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Motherwell Football Club",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 33,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Athletic Club Bilbao",
+    "Matches_Played": 34,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "Aberdeen Football Club",
+    "Club_2_Name": "The Celtic Football Club",
+    "Matches_Played": 43,
+    "Red_Cards": 6
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 4,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "CD Santa Clara",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 8,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Panionios Athens",
+    "Club_2_Name": "AE Larisa",
+    "Matches_Played": 9,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Club_2_Name": "SM Caen",
+    "Matches_Played": 10,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Heracles Almelo",
+    "Club_2_Name": "Go Ahead Eagles",
+    "Matches_Played": 10,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Rooms Katholieke Combinatie Waalwijk",
+    "Matches_Played": 11,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Bursaspor",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 12,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 12,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Athlitiki Enosi Konstantinoupoleos",
+    "Club_2_Name": "Neos Podosferikos Syllogos Volou",
+    "Matches_Played": 12,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Parma Calcio 1913",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 13,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 13,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Oud-Heverlee Leuven",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 13,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 14,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FK Oleksandriya",
+    "Club_2_Name": "Olimpik Donetsk",
+    "Matches_Played": 14,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 14,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Toulouse Football Club",
+    "Matches_Played": 15,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Genclerbirligi Ankara",
+    "Matches_Played": 16,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 16,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FK Zarya Lugansk",
+    "Club_2_Name": "Olimpik Donetsk",
+    "Matches_Played": 16,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 17,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 17,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "AS Saint-Étienne",
+    "Matches_Played": 17,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 17,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Club Atlético Osasuna",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 17,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Bologna Football Club 1909",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 18,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Verona Hellas Football Club",
+    "Matches_Played": 18,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Toulouse Football Club",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 18,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 18,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 19,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 19,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Toulouse Football Club",
+    "Matches_Played": 19,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Grupo Desportivo Estoril Praia",
+    "Matches_Played": 19,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 19,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Dundee United FC",
+    "Matches_Played": 20,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Rangers Football Club",
+    "Club_2_Name": "Hibernian Football Club",
+    "Matches_Played": 20,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Royal Standard Club de Liège",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Liverpool Football Club",
+    "Club_2_Name": "Newcastle United Football Club",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "Udinese Calcio",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Villarreal Club de Fútbol S.A.D.",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Sportclub Heerenveen",
+    "Matches_Played": 21,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Genoa Cricket and Football Club",
+    "Matches_Played": 22,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 22,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Paris Saint-Germain Football Club",
+    "Matches_Played": 22,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Genoa Cricket and Football Club",
+    "Matches_Played": 22,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Football Club Twente",
+    "Matches_Played": 22,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Matches_Played": 23,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "CS Marítimo",
+    "Matches_Played": 23,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 23,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 23,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 24,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Motherwell Football Club",
+    "Club_2_Name": "Hamilton Academical FC",
+    "Matches_Played": 24,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "RCD Espanyol Barcelona",
+    "Matches_Played": 24,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Juventus Football Club",
+    "Matches_Played": 24,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "Sporting Clube de Braga",
+    "Matches_Played": 24,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 24,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Kilmarnock Football Club",
+    "Club_2_Name": "Hamilton Academical FC",
+    "Matches_Played": 25,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Fiorentina",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 26,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 26,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Società Sportiva Lazio S.p.A.",
+    "Matches_Played": 26,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Sevilla Fútbol Club S.A.D.",
+    "Matches_Played": 26,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "The Celtic Football Club",
+    "Club_2_Name": "Dundee United FC",
+    "Matches_Played": 28,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Rangers Football Club",
+    "Club_2_Name": "The Celtic Football Club",
+    "Matches_Played": 28,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "Sporting Clube de Braga",
+    "Matches_Played": 28,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 28,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Fodbold Club Midtjylland",
+    "Club_2_Name": "Randers Fodbold Club",
+    "Matches_Played": 28,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Panathinaikos Athlitikos Omilos",
+    "Club_2_Name": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Matches_Played": 31,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Kilmarnock Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 32,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Manchester City Football Club",
+    "Club_2_Name": "Chelsea Football Club",
+    "Matches_Played": 32,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Aberdeen Football Club",
+    "Club_2_Name": "Ross County Football Club",
+    "Matches_Played": 33,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Aberdeen Football Club",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 37,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Motherwell Football Club",
+    "Club_2_Name": "Ross County Football Club",
+    "Matches_Played": 37,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "Motherwell Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 38,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "The Celtic Football Club",
+    "Club_2_Name": "Motherwell Football Club",
+    "Matches_Played": 39,
+    "Red_Cards": 5
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "Spartak Vladikavkaz (-2020)",
+    "Matches_Played": 2,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "AS Nancy-Lorraine",
+    "Matches_Played": 4,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 6,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 6,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Lorient-Bretagne Sud",
+    "Club_2_Name": "SM Caen",
+    "Matches_Played": 6,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Nîmes Olympique",
+    "Matches_Played": 6,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "Dijon FCO",
+    "Matches_Played": 7,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 8,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "Kuban Krasnodar (-2018)",
+    "Matches_Played": 8,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Gaziantep Futbol Kulübü A.Ş.",
+    "Matches_Played": 8,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Elche CF",
+    "Matches_Played": 8,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Racing Club de Lens",
+    "Matches_Played": 9,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Racing Club de Lens",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 9,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "FK Kolos Kovalivka",
+    "Matches_Played": 9,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "FK Minaj",
+    "Matches_Played": 9,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 9,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "AS Saint-Étienne",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Konyaspor",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Deportivo Alavés S.A.D.",
+    "Club_2_Name": "SD Eibar",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 10,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "FC Groningen",
+    "Matches_Played": 11,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "Anzhi Makhachkala ( -2022)",
+    "Matches_Played": 11,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sivasspor Kulübü",
+    "Club_2_Name": "Akhisarspor",
+    "Matches_Played": 12,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Sparta Rotterdam",
+    "Matches_Played": 12,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Toulouse Football Club",
+    "Club_2_Name": "EA Guingamp",
+    "Matches_Played": 12,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 12,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Racing Club de Strasbourg Alsace",
+    "Matches_Played": 12,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Racing Club de Strasbourg Alsace",
+    "Matches_Played": 13,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 13,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 13,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "SV Zulte Waregem",
+    "Club_2_Name": "Royal Excel Mouscron (-2022)",
+    "Matches_Played": 14,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Athletic Club Bilbao",
+    "Club_2_Name": "Málaga CF",
+    "Matches_Played": 14,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Málaga CF",
+    "Matches_Played": 14,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Levante UD",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 14,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Club Atlético Osasuna",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Dundee Football Club",
+    "Club_2_Name": "Dundee United FC",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Königliche Allgemeine Sportvereinigung Eupen",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympique Lyonnais",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Aris Thessalonikis",
+    "Club_2_Name": "Athlitiki Enosi Konstantinoupoleos",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Lorient-Bretagne Sud",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Club Atlético Osasuna",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Kasımpaşa Spor Kulübü",
+    "Club_2_Name": "Alanyaspor",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Trabzonspor Kulübü",
+    "Club_2_Name": "Alanyaspor",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Gil Vicente Futebol Clube",
+    "Matches_Played": 15,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "The Celtic Football Club",
+    "Club_2_Name": "Livingston Football Club",
+    "Matches_Played": 16,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Vitória Setúbal FC",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 16,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Trabzonspor Kulübü",
+    "Club_2_Name": "Genclerbirligi Ankara",
+    "Matches_Played": 16,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Hamilton Academical FC",
+    "Matches_Played": 16,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Aris Thessalonikis",
+    "Club_2_Name": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Matches_Played": 16,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Cercle Brugge Koninklijke Sportvereniging",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 16,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Konyaspor",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Club Celta de Vigo S. A. D.",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Verona Hellas Football Club",
+    "Club_2_Name": "Bologna Football Club 1909",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympique Lyonnais",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "1. Fußball-Club Köln",
+    "Club_2_Name": "Bayer 04 Leverkusen Fußball",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 17,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Inverness Caledonian Thistle FC",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "ADO Den Haag",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Utrecht",
+    "Club_2_Name": "Willem II Tilburg",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympique Lyonnais",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "KV Oostende",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Dundee United FC",
+    "Club_2_Name": "Inverness Caledonian Thistle FC",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Vitória Setúbal FC",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Madrid Club de Fútbol",
+    "Club_2_Name": "Levante UD",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "Olimpik Donetsk",
+    "Matches_Played": 18,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 19,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 19,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Fiorentina",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 19,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 19,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 19,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Real Club Celta de Vigo S. A. D.",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "KV Oostende",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Udinese Calcio",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "Verein für Bewegungsspiele Stuttgart 1893",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Vitória Sport Clube",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Genoa Cricket and Football Club",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Athletic Club Bilbao",
+    "Club_2_Name": "Levante UD",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Panathinaikos Athlitikos Omilos",
+    "Club_2_Name": "Omilos Filathlon Irakliou FC",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "ADO Den Haag",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Matches_Played": 20,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "FC Schalke 04",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Madrid Club de Fútbol",
+    "Club_2_Name": "RCD Espanyol Barcelona",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Saint Johnstone Football Club",
+    "Club_2_Name": "Hamilton Academical FC",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Bologna Football Club 1909",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Feyenoord Rotterdam",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "Koninklijke Racing Club Genk",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Galatasaray Spor Kulübü",
+    "Club_2_Name": "Antalyaspor",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Trabzonspor Kulübü",
+    "Club_2_Name": "Konyaspor",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Twente",
+    "Club_2_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Matches_Played": 21,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "FC Paços de Ferreira",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sport-Club Freiburg",
+    "Club_2_Name": "TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "UC Sampdoria",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Vitória Sport Clube",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Saint Mirren Football Club",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Udinese Calcio",
+    "Club_2_Name": "UC Sampdoria",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Borussia Dortmund",
+    "Club_2_Name": "Hertha BSC",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Utrecht",
+    "Club_2_Name": "Football Club Twente",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Bologna Football Club 1909",
+    "Matches_Played": 22,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Torino Calcio",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Everton Football Club",
+    "Club_2_Name": "Tottenham Hotspur Football Club",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Associazione Sportiva Roma",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Beşiktaş Jimnastik Kulübü",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Stade Rennais Football Club",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Udinese Calcio",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Real Sociedad de Fútbol S.A.D.",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Twente",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Real Sociedad de Fútbol S.A.D.",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Club_2_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Koninklijke Atletiek Associatie Gent",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "FC Rubin Kazan",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "1. Fußball- und Sportverein Mainz 05",
+    "Club_2_Name": "TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH",
+    "Matches_Played": 23,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "1. Fußball- und Sportverein Mainz 05",
+    "Club_2_Name": "FC Augsburg 1907",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "RCD Espanyol Barcelona",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Koninklijke Racing Club Genk",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Moreirense Futebol Clube",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Utrecht",
+    "Club_2_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Torino Calcio",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Athletic Club Bilbao",
+    "Club_2_Name": "Real Sociedad de Fútbol S.A.D.",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Athletic Club Bilbao",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Athlitiki Enosi Konstantinoupoleos",
+    "Club_2_Name": "APS Atromitos Athinon",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "CS Marítimo",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Rangers Football Club",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Southampton FC",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 24,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Spartak Moskva",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 25,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "FK Spartak Moskva",
+    "Matches_Played": 25,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Spartak Moskva",
+    "Club_2_Name": "PFK CSKA Moskva",
+    "Matches_Played": 25,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 26,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Hibernian Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 26,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 26,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Brøndby Idrætsforening",
+    "Club_2_Name": "Aarhus Gymnastik Forening",
+    "Matches_Played": 27,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Club_2_Name": "FK Rostov",
+    "Matches_Played": 27,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Futebol Clube do Porto",
+    "Matches_Played": 27,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Panathinaikos Athlitikos Omilos",
+    "Club_2_Name": "APS Atromitos Athinon",
+    "Matches_Played": 27,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "RFK Akhmat Grozny",
+    "Matches_Played": 28,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "The Celtic Football Club",
+    "Club_2_Name": "Saint Mirren Football Club",
+    "Matches_Played": 28,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Manchester City Football Club",
+    "Matches_Played": 28,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "Club_2_Name": "Athlitiki Enosi Konstantinoupoleos",
+    "Matches_Played": 29,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Motherwell Football Club",
+    "Matches_Played": 29,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Club_2_Name": "AFC Ajax Amsterdam",
+    "Matches_Played": 30,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Brøndby Idrætsforening",
+    "Club_2_Name": "Randers Fodbold Club",
+    "Matches_Played": 30,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Motherwell Football Club",
+    "Matches_Played": 31,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Juventus Football Club",
+    "Matches_Played": 31,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Aberdeen Football Club",
+    "Club_2_Name": "Motherwell Football Club",
+    "Matches_Played": 39,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Aberdeen Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 39,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "The Celtic Football Club",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 41,
+    "Red_Cards": 4
+  },
+  {
+    "Club_1_Name": "Unione Sportiva Lecce",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 2,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AJ Auxerre",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 2,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "B SAD",
+    "Matches_Played": 2,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Zaragoza",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 2,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "NK Veres Rivne",
+    "Club_2_Name": "Ingulets Petrove",
+    "Matches_Played": 3,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Königliche Allgemeine Sportvereinigung Eupen",
+    "Club_2_Name": "Beerschot V.A.",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Adana Demirspor Kulübü",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "RFC Seraing",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Elazigspor",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Gil Vicente Futebol Clube",
+    "Club_2_Name": "SC Olhanense",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Genclerbirligi Ankara",
+    "Club_2_Name": "Gaziantep Futbol Kulübü A.Ş.",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Aris Thessalonikis",
+    "Club_2_Name": "AO Platanias",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Verona Hellas Football Club",
+    "Club_2_Name": "U.S. Salernitana 1919 S.r.l.",
+    "Matches_Played": 4,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "FK Kryvbas Kryvyi Rig",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Stade de Reims",
+    "Club_2_Name": "Clermont Foot 63",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Vorskla Poltava",
+    "Club_2_Name": "FK Kryvbas Kryvyi Rig",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club de Nantes",
+    "Club_2_Name": "Clermont Foot 63",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Nîmes Olympique",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Adana Demirspor Kulübü",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbal Club Westerlo",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo de Chaves",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Cádiz Club de Fútbol S.A.D",
+    "Matches_Played": 5,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Amiens SC",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "FC Rukh Lviv",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Nîmes Olympique",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Futebol Clube do Porto",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Lierse SK (- 2018)",
+    "Club_2_Name": "Cercle Brugge Koninklijke Sportvereniging",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Palermo FC",
+    "Club_2_Name": "Bologna Football Club 1909",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Omilos Filathlon Irakliou FC",
+    "Club_2_Name": "GS Ergotelis",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Lierse SK (- 2018)",
+    "Club_2_Name": "KSC Lokeren (- 2020)",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Racing Club de Strasbourg Alsace",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Bayern München",
+    "Club_2_Name": "Sportverein Darmstadt 1898 e. V.",
+    "Matches_Played": 6,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Galatasaray Spor Kulübü",
+    "Club_2_Name": "Fatih Karagümrük Sportif Faaliyetler San. Tic. A.Ş.",
+    "Matches_Played": 7,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "SPAL",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 7,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "CD Feirense",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 7,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 7,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Hull City",
+    "Matches_Played": 7,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Gil Vicente Futebol Clube",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 7,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Kuban Krasnodar (-2018)",
+    "Club_2_Name": "FC Rubin Kazan",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Twente",
+    "Club_2_Name": "Fortuna Sittardia Combinatie",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Paços de Ferreira",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Moreirense Futebol Clube",
+    "Club_2_Name": "B SAD",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "B SAD",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Palermo FC",
+    "Club_2_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Vitória Sport Clube",
+    "Club_2_Name": "Académica Coimbra",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Willem II Tilburg",
+    "Club_2_Name": "Nijmegen Eendracht Combinatie",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Genclerbirligi Ankara",
+    "Club_2_Name": "Eskisehirspor",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Mariupol",
+    "Club_2_Name": "PFK Lviv",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Deportivo de La Coruña",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "CD Santa Clara",
+    "Club_2_Name": "Gil Vicente Futebol Clube",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sportclub Heerenveen",
+    "Club_2_Name": "FC Emmen",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Kuban Krasnodar (-2018)",
+    "Club_2_Name": "Amkar Perm",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Gaziantep Futbol Kulübü A.Ş.",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 8,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Lorient-Bretagne Sud",
+    "Club_2_Name": "Stade brestois 29",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Club_2_Name": "Girona Fútbol Club S. A. D.",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Club Deportivo Mallorca S.A.D.",
+    "Club_2_Name": "Club Atlético Osasuna",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbal Club Westerlo",
+    "Club_2_Name": "Koninklijke Racing Club Genk",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbal Club Westerlo",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Gil Vicente Futebol Clube",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "Sport Klub Dnipro-1",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Vitória Setúbal FC",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Livingston Football Club",
+    "Club_2_Name": "Dundee United FC",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "Sport Klub Dnipro-1",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Vitória Sport Clube",
+    "Club_2_Name": "Futebol Clube de Famalicão",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Panionios Athens",
+    "Club_2_Name": "Aris Thessalonikis",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Zarya Lugansk",
+    "Club_2_Name": "Desna Chernigiv",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Panetolikos Agrinio",
+    "Club_2_Name": "Neos Podosferikos Syllogos Volou",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Villarreal Club de Fútbol S.A.D.",
+    "Club_2_Name": "Cádiz Club de Fútbol S.A.D",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 9,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Göztepe",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Newcastle United Football Club",
+    "Club_2_Name": "Norwich City",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "Metalist Kharkiv (- 2016)",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Karpaty Lviv (-2021)",
+    "Club_2_Name": "Metalist Kharkiv (- 2016)",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Kardemir Karabükspor",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Parma Calcio 1913",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Panathinaikos Athlitikos Omilos",
+    "Club_2_Name": "Veria NPS",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Orenburg",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique Lyonnais",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique Lyonnais",
+    "Club_2_Name": "SM Caen",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "SC Bastia",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "NAC Breda",
+    "Club_2_Name": "ADO Den Haag",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "ADO Den Haag",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club de Nantes",
+    "Club_2_Name": "Dijon FCO",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "SC Bastia",
+    "Matches_Played": 10,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Veria NPS",
+    "Club_2_Name": "A.G.S Asteras Tripolis",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Wolverhampton Wanderers Football Club",
+    "Club_2_Name": "Brighton and Hove Albion Football Club",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Club Celta de Vigo S. A. D.",
+    "Club_2_Name": "Unión Deportiva Almería S.A.D.",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Lyngby Boldklubben af 1921",
+    "Club_2_Name": "Fodbold Club Nordsjælland",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Manchester City Football Club",
+    "Club_2_Name": "Wolverhampton Wanderers Football Club",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "Grupo Desportivo de Chaves",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Newcastle United Football Club",
+    "Club_2_Name": "Fulham Football Club",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "CD Santa Clara",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fortuna Sittardia Combinatie",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Alkmaar Zaanstreek",
+    "Club_2_Name": "VVV-Venlo",
+    "Matches_Played": 11,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Málaga CF",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Racing Club de Strasbourg Alsace",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "CD Nacional",
+    "Club_2_Name": "Grupo Desportivo Estoril Praia",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sparta Rotterdam",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rooms Katholieke Combinatie Waalwijk",
+    "Club_2_Name": "Sportclub Heerenveen",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Schalke 04",
+    "Club_2_Name": "Hannover 96",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Angers SCO",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "EA Guingamp",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Borussia Dortmund",
+    "Club_2_Name": "Hamburger SV",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Football Club de Metz",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Football Club de Metz",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Cercle Brugge Koninklijke Sportvereniging",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Southampton FC",
+    "Club_2_Name": "Stoke City",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Deportivo Alavés S.A.D.",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Club_2_Name": "Go Ahead Eagles",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Bursaspor",
+    "Club_2_Name": "Antalyaspor",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Randers Fodbold Club",
+    "Club_2_Name": "Hobro IK",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Lyngby Boldklubben af 1921",
+    "Club_2_Name": "Fodbold Club Midtjylland",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "Portimonense Futebol SAD",
+    "Matches_Played": 12,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético Osasuna",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Omilos Filathlon Irakliou FC",
+    "Club_2_Name": "Athlitiki Enosi Konstantinoupoleos",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "Fortuna Sittardia Combinatie",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Nijmegen Eendracht Combinatie",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Portimonense Futebol SAD",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Empoli Football Club S.r.l.",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Dnipro Dnipropetrovsk (-2020)",
+    "Club_2_Name": "ZAO FK Chornomorets Odessa",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "PAS Lamia 1964",
+    "Club_2_Name": "Panetolikos Agrinio",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Inverness Caledonian Thistle FC",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Racing Club Genk",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Stoke City",
+    "Club_2_Name": "West Bromwich Albion",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "Royal Antwerp Football Club",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 13,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Nijmegen Eendracht Combinatie",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Chievo Verona",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Royal Antwerp Football Club",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "RCD Espanyol Barcelona",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Königliche Allgemeine Sportvereinigung Eupen",
+    "Club_2_Name": "KV Oostende",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "Nijmegen Eendracht Combinatie",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Aris Thessalonikis",
+    "Club_2_Name": "Panipirotikos Athlitikos Syllogos Giannina",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Arsenal Tula",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Sevilla Fútbol Club S.A.D.",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rooms Katholieke Combinatie Waalwijk",
+    "Club_2_Name": "Football Club Twente",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Toulouse Football Club",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Valencia Club de Fútbol S. A. D.",
+    "Club_2_Name": "SD Eibar",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sparta Rotterdam",
+    "Club_2_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Chievo Verona",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Chelsea Football Club",
+    "Club_2_Name": "West Bromwich Albion",
+    "Matches_Played": 14,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Twente",
+    "Club_2_Name": "ADO Den Haag",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Sivasspor Kulübü",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Galatasaray Spor Kulübü",
+    "Club_2_Name": "Alanyaspor",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "İstanbul Başakşehir Futbol Kulübü",
+    "Club_2_Name": "Alanyaspor",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "FK Mariupol",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Kayserispor Kulübü",
+    "Club_2_Name": "Alanyaspor",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "ZAO FK Chornomorets Odessa",
+    "Club_2_Name": "FK Oleksandriya",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Dundee United FC",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Real Valladolid CF",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Toulouse Football Club",
+    "Club_2_Name": "AS Saint-Étienne",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Southampton FC",
+    "Club_2_Name": "West Bromwich Albion",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "Königliche Allgemeine Sportvereinigung Eupen",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Willem II Tilburg",
+    "Club_2_Name": "ADO Den Haag",
+    "Matches_Played": 15,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Club Atlético Osasuna",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Moreirense Futebol Clube",
+    "Club_2_Name": "Vitória Setúbal FC",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "PFK Krylya Sovetov Samara",
+    "Club_2_Name": "FK Ural Yekaterinburg",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Toulouse Football Club",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AO Xanthi",
+    "Club_2_Name": "Panionios Athens",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Rangers Football Club",
+    "Club_2_Name": "Dundee Football Club",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Toulouse Football Club",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Moreirense Futebol Clube",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Burnley Football Club",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club de Nantes",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético Osasuna",
+    "Club_2_Name": "Sevilla Fútbol Club S.A.D.",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AO Xanthi",
+    "Club_2_Name": "A.G.S Asteras Tripolis",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "KV Oostende",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Çaykur Rizespor Kulübü",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Karpaty Lviv (-2021)",
+    "Club_2_Name": "FK Zarya Lugansk",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Vitória Sport Clube",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "Gil Vicente Futebol Clube",
+    "Matches_Played": 16,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Sint-Truidense Voetbalvereniging",
+    "Club_2_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Verona Hellas Football Club",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Galatasaray Spor Kulübü",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Aarhus Gymnastik Forening",
+    "Club_2_Name": "AC Horsens",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Verona Hellas Football Club",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Livingston Football Club",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Dundee Football Club",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Dundee Football Club",
+    "Club_2_Name": "Inverness Caledonian Thistle FC",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "PFK Krylya Sovetov Samara",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Club Celta de Vigo S. A. D.",
+    "Club_2_Name": "Levante UD",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "Cercle Brugge Koninklijke Sportvereniging",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 17,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Aris Thessalonikis",
+    "Club_2_Name": "A.G.S Asteras Tripolis",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AO Xanthi",
+    "Club_2_Name": "Panathinaikos Athlitikos Omilos",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Konyaspor",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Vitória Setúbal FC",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "West Ham United Football Club",
+    "Club_2_Name": "Leicester City",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Willem II Tilburg",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 18,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Levante UD",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Inverness Caledonian Thistle FC",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fodbold Club Midtjylland",
+    "Club_2_Name": "Esbjerg fB",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Bayern München",
+    "Club_2_Name": "RasenBallsport Leipzig",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Esbjerg fB",
+    "Club_2_Name": "SönderjyskE",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Athletic Club Bilbao",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Cagliari Calcio",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "Vitória Setúbal FC",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "AS Saint-Étienne",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sportclub Heerenveen",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Club_2_Name": "APO Levadiakos",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Schalke 04",
+    "Club_2_Name": "Hertha BSC",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AO Xanthi",
+    "Club_2_Name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sportclub Heerenveen",
+    "Club_2_Name": "Willem II Tilburg",
+    "Matches_Played": 19,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Konyaspor",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Bayer 04 Leverkusen Fußball",
+    "Club_2_Name": "FC Schalke 04",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Club_2_Name": "KV Oostende",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Stade Rennais Football Club",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Racing Club Genk",
+    "Club_2_Name": "KV Oostende",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Valencia Club de Fútbol S. A. D.",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "UC Sampdoria",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Utrecht",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Bayern München",
+    "Club_2_Name": "Verein für Bewegungsspiele Stuttgart 1893",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "UC Sampdoria",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Bologna Football Club 1909",
+    "Club_2_Name": "UC Sampdoria",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "Hertha BSC",
+    "Matches_Played": 20,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "Sport-Club Freiburg",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Athletic Club Bilbao",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Rubin Kazan",
+    "Club_2_Name": "RFK Akhmat Grozny",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Villarreal Club de Fútbol S.A.D.",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Stichting Betaald Voetbal Vitesse Arnhem",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Borussia Dortmund",
+    "Club_2_Name": "Sport-Club Freiburg",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Everton Football Club",
+    "Club_2_Name": "Newcastle United Football Club",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Udinese Calcio",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "Football Club Twente",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club de Nantes",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Alkmaar Zaanstreek",
+    "Club_2_Name": "Heracles Almelo",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Sivasspor Kulübü",
+    "Matches_Played": 21,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "FK Oleksandriya",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "FC Paços de Ferreira",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "FC Paços de Ferreira",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "Sportverein Werder Bremen von 1899",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Southampton FC",
+    "Club_2_Name": "Manchester United Football Club",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Società Sportiva Calcio Napoli",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Juventus Football Club",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "ZAO FK Chornomorets Odessa",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "1. Fußball- und Sportverein Mainz 05",
+    "Club_2_Name": "Verein für Leibesübungen Wolfsburg",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Football Club de Nantes",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Bologna Football Club 1909",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "FC Paços de Ferreira",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 22,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Club_2_Name": "FC Schalke 04",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Sociedad de Fútbol S.A.D.",
+    "Club_2_Name": "Real Club Celta de Vigo S. A. D.",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Braga",
+    "Club_2_Name": "FC Paços de Ferreira",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "AO FK Zenit Sankt-Peterburg",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "RFK Akhmat Grozny",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Club_2_Name": "FC Augsburg 1907",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Villarreal Club de Fútbol S.A.D.",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "Rangers Football Club",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Real Betis Balompié S.A.D.",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Racing Club Genk",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique de Marseille",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Southampton FC",
+    "Club_2_Name": "West Ham United Football Club",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "Vorskla Poltava",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Trabzonspor Kulübü",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Trabzonspor Kulübü",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "Società Sportiva Lazio S.p.A.",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Juventus Football Club",
+    "Club_2_Name": "UC Sampdoria",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Bayer 04 Leverkusen Fußball",
+    "Club_2_Name": "Borussia Dortmund",
+    "Matches_Played": 23,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Real Club Celta de Vigo S. A. D.",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Tottenham Hotspur Football Club",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Liverpool Football Club",
+    "Club_2_Name": "Tottenham Hotspur Football Club",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "PFK CSKA Moskva",
+    "Club_2_Name": "RFK Akhmat Grozny",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "1. Fußball- und Sportverein Mainz 05",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "APS Atromitos Athinon",
+    "Club_2_Name": "Panetolikos Agrinio",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Udinese Calcio",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Tottenham Hotspur Football Club",
+    "Club_2_Name": "Chelsea Football Club",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Udinese Calcio",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Fiorentina",
+    "Club_2_Name": "UC Sampdoria",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "Vorskla Poltava",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Koninklijke Racing Club Genk",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 24,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Real Club Celta de Vigo S. A. D.",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "Vitória Sport Clube",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Real Club Celta de Vigo S. A. D.",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sportclub Heerenveen",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Saint Mirren Football Club",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FC Shakhtar Donetsk",
+    "Club_2_Name": "FK Zarya Lugansk",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Dundee United FC",
+    "Club_2_Name": "Saint Johnstone Football Club",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Borussia Dortmund",
+    "Club_2_Name": "TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Real Madrid Club de Fútbol",
+    "Club_2_Name": "Athletic Club Bilbao",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "FK Ural Yekaterinburg",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 25,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Dundee Football Club",
+    "Club_2_Name": "Motherwell Football Club",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Club_2_Name": "Royal Standard Club de Liège",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "FK Spartak Moskva",
+    "Club_2_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Hibernian Football Club",
+    "Club_2_Name": "Kilmarnock Football Club",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Liverpool Football Club",
+    "Club_2_Name": "Manchester United Football Club",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "APS Atromitos Athinon",
+    "Club_2_Name": "A.G.S Asteras Tripolis",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fodbold Club Midtjylland",
+    "Club_2_Name": "SönderjyskE",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Sporting Clube de Portugal",
+    "Matches_Played": 26,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Aarhus Gymnastik Forening",
+    "Club_2_Name": "Randers Fodbold Club",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Hibernian Football Club",
+    "Club_2_Name": "Motherwell Football Club",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Fodbold Club Nordsjælland",
+    "Club_2_Name": "Randers Fodbold Club",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Torino Calcio",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Brøndby Idrætsforening",
+    "Club_2_Name": "SönderjyskE",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Panathinaikos Athlitikos Omilos",
+    "Club_2_Name": "Panipirotikos Athlitikos Syllogos Giannina",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Udinese Calcio",
+    "Club_2_Name": "Associazione Calcio Fiorentina",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "AO FK Zenit Sankt-Peterburg",
+    "Club_2_Name": "PFK CSKA Moskva",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Valencia Club de Fútbol S. A. D.",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club Internazionale Milano S.p.A.",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Odense Boldklub",
+    "Club_2_Name": "Brøndby Idrætsforening",
+    "Matches_Played": 27,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Club_2_Name": "AO FK Zenit Sankt-Peterburg",
+    "Matches_Played": 28,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Fiorentina",
+    "Club_2_Name": "Atalanta Bergamasca Calcio S.p.a.",
+    "Matches_Played": 28,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Chelsea Football Club",
+    "Club_2_Name": "Manchester United Football Club",
+    "Matches_Played": 29,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Juventus Football Club",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 29,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Aberdeen Football Club",
+    "Club_2_Name": "Hibernian Football Club",
+    "Matches_Played": 29,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club København",
+    "Club_2_Name": "Fodbold Club Midtjylland",
+    "Matches_Played": 30,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Brøndby Idrætsforening",
+    "Club_2_Name": "Fodbold Club Midtjylland",
+    "Matches_Played": 32,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Football Club København",
+    "Club_2_Name": "Fodbold Club Nordsjælland",
+    "Matches_Played": 32,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Juventus Football Club",
+    "Matches_Played": 33,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "The Celtic Football Club",
+    "Club_2_Name": "Ross County Football Club",
+    "Matches_Played": 34,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Heart of Midlothian Football Club",
+    "Club_2_Name": "The Celtic Football Club",
+    "Matches_Played": 36,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Real Madrid Club de Fútbol",
+    "Matches_Played": 39,
+    "Red_Cards": 3
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Le Havre Athletic Club",
+    "Matches_Played": 1,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CD Nacional",
+    "Club_2_Name": "SC Beira-Mar",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Bayer 04 Leverkusen Fußball",
+    "Club_2_Name": "Real Betis Balompié S.A.D.",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Club Deportivo Mallorca S.A.D.",
+    "Club_2_Name": "Málaga CF",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "US Livorno 1915",
+    "Club_2_Name": "Cagliari Calcio",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "Racing Club de Strasbourg Alsace",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club København",
+    "Club_2_Name": "Torino Calcio",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Spartak Vladikavkaz (-2020)",
+    "Club_2_Name": "Mordovia Saransk (-2020)",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Venezia FC",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Racing Club de Lens",
+    "Club_2_Name": "Thonon Évian Grand Genève FC",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Club Celta de Vigo S. A. D.",
+    "Club_2_Name": "Manchester United Football Club",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "TOV FK Metalist 1925 Kharkiv",
+    "Club_2_Name": "Metalist Kharkiv",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Bayern München",
+    "Club_2_Name": "AFC Ajax Amsterdam",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Casa Pia Atlético Clube",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Vejle Boldklub",
+    "Club_2_Name": "Esbjerg fB",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Moreirense Futebol Clube",
+    "Club_2_Name": "Futebol Clube de Vizela",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "EA Guingamp",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futebol Clube de Famalicão",
+    "Club_2_Name": "Desportivo Aves (- 2020)",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club de Nantes",
+    "Club_2_Name": "AS Nancy-Lorraine",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "Futebol Clube do Porto",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "Stade brestois 29",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Spartak Vladikavkaz (-2020)",
+    "Club_2_Name": "RFK Akhmat Grozny",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Koninklijke Racing Club Genk",
+    "Club_2_Name": "Anzhi Makhachkala ( -2022)",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AJ Auxerre",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Tottenham Hotspur Football Club",
+    "Club_2_Name": "A.G.S Asteras Tripolis",
+    "Matches_Played": 2,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club Volendam",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 3,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gil Vicente Futebol Clube",
+    "Club_2_Name": "Casa Pia Atlético Clube",
+    "Matches_Played": 3,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Córdoba CF",
+    "Matches_Played": 3,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "İstanbulspor A.Ş.",
+    "Club_2_Name": "Konyaspor",
+    "Matches_Played": 3,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo de Chaves",
+    "Club_2_Name": "Futebol Clube de Vizela",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Angers SCO",
+    "Club_2_Name": "Clermont Foot 63",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü",
+    "Club_2_Name": "Hatayspor Futbol Kulübü",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "SC Olhanense",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Royal Antwerp Football Club",
+    "Club_2_Name": "RFC Seraing",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Verona Hellas Football Club",
+    "Club_2_Name": "Benevento Calcio",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Crotone",
+    "Club_2_Name": "Benevento Calcio",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Benevento Calcio",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "RFC Seraing",
+    "Club_2_Name": "KV Oostende",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Royal Sporting Club Anderlecht",
+    "Club_2_Name": "RAEC Mons (- 2015)",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Koninklijke Racing Club Genk",
+    "Club_2_Name": "RAEC Mons (- 2015)",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Yellow-Red Koninklijke Voetbalclub Mechelen",
+    "Club_2_Name": "Beerschot V.A.",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "KSC Lokeren (- 2020)",
+    "Club_2_Name": "RAEC Mons (- 2015)",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Queens Park Rangers",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Spartak Moskva",
+    "Club_2_Name": "Tom Tomsk",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Bursaspor",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbalclub Kortrijk",
+    "Club_2_Name": "RAEC Mons (- 2015)",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü",
+    "Club_2_Name": "Erzurumspor FK",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Mersin Talimyurdu SK",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Milan",
+    "Club_2_Name": "Catania FC",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "U.S. Salernitana 1919 S.r.l.",
+    "Club_2_Name": "Juventus Football Club",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Málaga CF",
+    "Club_2_Name": "Elche CF",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "SC Olhanense",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Club Deportivo Mallorca S.A.D.",
+    "Club_2_Name": "Elche CF",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Cercle Brugge Koninklijke Sportvereniging",
+    "Club_2_Name": "Beerschot V.A.",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Elazigspor",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Rubin Kazan",
+    "Club_2_Name": "Tom Tomsk",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "SD Huesca",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Elazigspor",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SpVgg Greuther Fürth",
+    "Club_2_Name": "Verein für Bewegungsspiele Stuttgart 1893",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SV Zulte Waregem",
+    "Club_2_Name": "Royale Union Saint-Gilloise",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Feyenoord Rotterdam",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Olimpik Donetsk",
+    "Club_2_Name": "FK Kolos Kovalivka",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Huddersfield Town",
+    "Club_2_Name": "Brighton and Hove Albion Football Club",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AC Ajaccio",
+    "Club_2_Name": "Valenciennes FC",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Club Atlético de Madrid S.A.D.",
+    "Club_2_Name": "Liverpool Football Club",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "RFC Seraing",
+    "Club_2_Name": "SV Zulte Waregem",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CF União Madeira (-2021)",
+    "Club_2_Name": "CS Marítimo",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AE Larisa",
+    "Club_2_Name": "Neos Podosferikos Syllogos Volou",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Karpaty Lviv (-2021)",
+    "Club_2_Name": "PFK Lviv",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "Valenciennes FC",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club Lorient-Bretagne Sud",
+    "Club_2_Name": "Valenciennes FC",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "NK Veres Rivne",
+    "Club_2_Name": "TOV FK Metalist 1925 Kharkiv",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Associazione Calcio Fiorentina",
+    "Club_2_Name": "US Cremonese",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Valenciennes FC",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "PFK Krylya Sovetov Samara",
+    "Club_2_Name": "Tom Tomsk",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gaziantepspor (- 2020)",
+    "Club_2_Name": "Elazigspor",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "RAEC Mons (- 2015)",
+    "Club_2_Name": "Oud-Heverlee Leuven",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Zaragoza",
+    "Club_2_Name": "Levante UD",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Dijon FCO",
+    "Club_2_Name": "Stade brestois 29",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Bologna Football Club 1909",
+    "Club_2_Name": "Delfino Pescara 1936",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club Twente",
+    "Club_2_Name": "De Graafschap Doetinchem",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Elazigspor",
+    "Club_2_Name": "Sivasspor Kulübü",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "FC Sochaux-Montbéliard",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Associazione Sportiva Roma",
+    "Club_2_Name": "Futebol Clube do Porto",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gaziantepspor (- 2020)",
+    "Club_2_Name": "Ankaraspor",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "GS Ergotelis",
+    "Club_2_Name": "Panthrakikos Komotini",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Rubin Kazan",
+    "Club_2_Name": "Volga Nizhniy Novgorod (- 2016)",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Sochaux-Montbéliard",
+    "Club_2_Name": "Montpellier Hérault Sport Club",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "VVV-Venlo",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Bursaspor",
+    "Club_2_Name": "Elazigspor",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sivasspor Kulübü",
+    "Club_2_Name": "Kayseri Erciyesspor",
+    "Matches_Played": 4,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "PFK Lviv",
+    "Club_2_Name": "FC Rukh Lviv",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sheffield United Football Club",
+    "Club_2_Name": "Brighton and Hove Albion Football Club",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "Futebol Clube de Vizela",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Aston Villa Football Club",
+    "Club_2_Name": "Brentford Football Club",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Racing Club de Strasbourg Alsace",
+    "Club_2_Name": "Nîmes Olympique",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "U.S. Salernitana 1919 S.r.l.",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Eintracht Frankfurt Fußball AG",
+    "Club_2_Name": "FC Ingolstadt 04",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "Torpedo Moscow",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Clermont Foot 63",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Paços de Ferreira",
+    "Club_2_Name": "Futebol Clube de Vizela",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Association Football Club Bournemouth",
+    "Club_2_Name": "Norwich City",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futebol Clube de Vizela",
+    "Club_2_Name": "Portimonense Futebol SAD",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Unión Deportiva Las Palmas S.A.D.",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Norwich City",
+    "Club_2_Name": "Burnley Football Club",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futebol Clube de Vizela",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Royal Antwerp Football Club",
+    "Club_2_Name": "Royale Union Saint-Gilloise",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "Arsenal Kyiv",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "PFK Krylya Sovetov Samara",
+    "Club_2_Name": "FK Khimki",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Sociedad de Fútbol S.A.D.",
+    "Club_2_Name": "Córdoba CF",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Clermont Foot 63",
+    "Club_2_Name": "Stade brestois 29",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Unión Deportiva Las Palmas S.A.D.",
+    "Matches_Played": 5,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Mersin Talimyurdu SK",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "Nîmes Olympique",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "SM Caen",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Palermo FC",
+    "Club_2_Name": "Unione Sportiva Sassuolo Calcio",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Everton Football Club",
+    "Club_2_Name": "Brentford Football Club",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "PFK CSKA Moskva",
+    "Club_2_Name": "Mordovia Saransk (-2020)",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Racing Club de Lens",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sport Klub Dnipro-1",
+    "Club_2_Name": "FK Minaj",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Crotone",
+    "Club_2_Name": "Società Sportiva Calcio Napoli",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gaziantep Futbol Kulübü A.Ş.",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club Lorient-Bretagne Sud",
+    "Club_2_Name": "Thonon Évian Grand Genève FC",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stoke City",
+    "Club_2_Name": "Norwich City",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Kayserispor Kulübü",
+    "Club_2_Name": "Hatayspor Futbol Kulübü",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Genclerbirligi Ankara",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Dnipro Dnipropetrovsk (-2020)",
+    "Club_2_Name": "Metalurg Donetsk (- 2015)",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Thonon Évian Grand Genève FC",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stade de Reims",
+    "Club_2_Name": "Thonon Évian Grand Genève FC",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "De Graafschap Doetinchem",
+    "Club_2_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Paris Saint-Germain Football Club",
+    "Club_2_Name": "Thonon Évian Grand Genève FC",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Eskisehirspor",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Mersin Talimyurdu SK",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Galatasaray Spor Kulübü",
+    "Club_2_Name": "Mersin Talimyurdu SK",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Lierse SK (- 2018)",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Manchester City Football Club",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Galatasaray Spor Kulübü",
+    "Club_2_Name": "Hatayspor Futbol Kulübü",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Bayern München",
+    "Club_2_Name": "Manchester City Football Club",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Manchester City Football Club",
+    "Club_2_Name": "Paris Saint-Germain Football Club",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Norwich City",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Eskisehirspor",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo de Chaves",
+    "Club_2_Name": "Futebol Clube de Arouca",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Società Sportiva Lazio S.p.A.",
+    "Club_2_Name": "Spezia Calcio",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Verona Hellas Football Club",
+    "Club_2_Name": "Spezia Calcio",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sheffield United Football Club",
+    "Club_2_Name": "Aston Villa Football Club",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Ufa",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Verona Hellas Football Club",
+    "Club_2_Name": "Palermo FC",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Olympique Lyonnais",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sport-Club Freiburg",
+    "Club_2_Name": "Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Nîmes Olympique",
+    "Club_2_Name": "Dijon FCO",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "West Bromwich Albion",
+    "Club_2_Name": "Association Football Club Bournemouth",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futbolniy Klub Dynamo Kyiv",
+    "Club_2_Name": "PFK Stal Kamyanske (-2018)",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Rio Ave Futebol Clube",
+    "Club_2_Name": "Desportivo Aves (- 2020)",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Mariupol",
+    "Club_2_Name": "Goverla Uzhgorod (- 2016)",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AO Platanias",
+    "Club_2_Name": "AEL Kalloni",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Royal Charleroi Sporting Club",
+    "Club_2_Name": "Lierse SK (- 2018)",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "ZAO FK Chornomorets Odessa",
+    "Club_2_Name": "NK Veres Rivne",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "FK Khimki",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Club_2_Name": "AC Ajaccio",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Torino Calcio",
+    "Club_2_Name": "Delfino Pescara 1936",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AC Horsens",
+    "Club_2_Name": "Hobro IK",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fortuna Düsseldorf",
+    "Club_2_Name": "Verein für Leibesübungen Wolfsburg",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Verein für Leibesübungen Wolfsburg",
+    "Club_2_Name": "Sportverein Darmstadt 1898 e. V.",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "1.FC Nuremberg",
+    "Club_2_Name": "Fortuna Düsseldorf",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Crystal Palace Football Club",
+    "Club_2_Name": "Hull City",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Girona Fútbol Club S. A. D.",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CD Tondela",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "1.FC Nuremberg",
+    "Club_2_Name": "Hannover 96",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Kayserispor Kulübü",
+    "Club_2_Name": "Fatih Karagümrük Sportif Faaliyetler San. Tic. A.Ş.",
+    "Matches_Played": 6,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Genoa Cricket and Football Club",
+    "Club_2_Name": "SPAL",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "Grupo Desportivo de Chaves",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sporting Clube de Portugal",
+    "Club_2_Name": "Grupo Desportivo de Chaves",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club Utrecht",
+    "Club_2_Name": "FC Emmen",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Racing Club de Lens",
+    "Club_2_Name": "Stade brestois 29",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Kuban Krasnodar (-2018)",
+    "Club_2_Name": "Mordovia Saransk (-2020)",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Udinese Calcio",
+    "Club_2_Name": "FC Crotone",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Fatih Karagümrük Sportif Faaliyetler San. Tic. A.Ş.",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Karpaty Lviv (-2021)",
+    "Club_2_Name": "Metalurg Zaporizhya (-2016)",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Antalyaspor",
+    "Club_2_Name": "Fatih Karagümrük Sportif Faaliyetler San. Tic. A.Ş.",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "Excelsior Rotterdam",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Boavista Futebol Clube",
+    "Club_2_Name": "CD Feirense",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Cádiz Club de Fútbol S.A.D",
+    "Club_2_Name": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "Portimonense Futebol SAD",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SC Cambuur Leeuwarden",
+    "Club_2_Name": "Rooms Katholieke Combinatie Waalwijk",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Club_2_Name": "Sportverein Darmstadt 1898 e. V.",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Unión Deportiva Almería S.A.D.",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Unión Deportiva Las Palmas S.A.D.",
+    "Club_2_Name": "Villarreal Club de Fútbol S.A.D.",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Club Deportivo Mallorca S.A.D.",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Desna Chernigiv",
+    "Club_2_Name": "PFK Lviv",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Willem II Tilburg",
+    "Club_2_Name": "Go Ahead Eagles",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "PFK Lviv",
+    "Club_2_Name": "FK Kolos Kovalivka",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sparta Rotterdam",
+    "Club_2_Name": "Go Ahead Eagles",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "ADO Den Haag",
+    "Club_2_Name": "Go Ahead Eagles",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Emmen",
+    "Club_2_Name": "VVV-Venlo",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Leeds United",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Madrid Club de Fútbol",
+    "Club_2_Name": "Juventus Football Club",
+    "Matches_Played": 7,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "Toulouse Football Club",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Desportivo Aves (- 2020)",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Ural Yekaterinburg",
+    "Club_2_Name": "FC Orenburg",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Feyenoord Rotterdam",
+    "Club_2_Name": "FC Emmen",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Cercle Brugge Koninklijke Sportvereniging",
+    "Club_2_Name": "Royal Excel Mouscron (-2022)",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Club Celta de Vigo S. A. D.",
+    "Club_2_Name": "CD Leganés",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "FC Bayern München",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Volyn Lutsk",
+    "Club_2_Name": "Metalist Kharkiv (- 2016)",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "ESTAC Troyes",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Eskisehirspor",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Dnipro Dnipropetrovsk (-2020)",
+    "Club_2_Name": "Metalist Kharkiv (- 2016)",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "West Bromwich Albion",
+    "Club_2_Name": "Burnley Football Club",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CS Marítimo",
+    "Club_2_Name": "B SAD",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo de Chaves",
+    "Club_2_Name": "Portimonense Futebol SAD",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fortuna Sittardia Combinatie",
+    "Club_2_Name": "Nijmegen Eendracht Combinatie",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Newcastle United Football Club",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Association sportive de Monaco Football Club",
+    "Club_2_Name": "SC Bastia",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Vitória Setúbal FC",
+    "Club_2_Name": "Académica Coimbra",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Panionios Athens",
+    "Club_2_Name": "Panthrakikos Komotini",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Grupo Desportivo Estoril Praia",
+    "Club_2_Name": "Académica Coimbra",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Aston Villa Football Club",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SC Bastia",
+    "Club_2_Name": "EA Guingamp",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Khimki",
+    "Club_2_Name": "FK Krasnodar",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Unión Deportiva Las Palmas S.A.D.",
+    "Club_2_Name": "SD Eibar",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Oud-Heverlee Leuven",
+    "Club_2_Name": "SK Beveren",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "CD Leganés",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Panthessalonikios Athlitikos Omilos Konstantinoupoliton",
+    "Club_2_Name": "AEL Kalloni",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Kardemir Karabükspor",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Vorskla Poltava",
+    "Club_2_Name": "NK Veres Rivne",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Göztepe",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Elche CF",
+    "Club_2_Name": "Levante UD",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Apollon Smyrnis",
+    "Club_2_Name": "APO Levadiakos",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CD Santa Clara",
+    "Club_2_Name": "CD Tondela",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "EA Guingamp",
+    "Club_2_Name": "Football Club Lorient-Bretagne Sud",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "EA Guingamp",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gaziantep Futbol Kulübü A.Ş.",
+    "Club_2_Name": "Kayserispor Kulübü",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Zarya Lugansk",
+    "Club_2_Name": "Sport Klub Dnipro-1",
+    "Matches_Played": 8,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Dinamo Moskva",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Boavista Futebol Clube",
+    "Club_2_Name": "Grupo Desportivo de Chaves",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AS Saint-Étienne",
+    "Club_2_Name": "Racing Club de Strasbourg Alsace",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "CD Santa Clara",
+    "Club_2_Name": "Rio Ave Futebol Clube",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Orenburg",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Koninklijke Atletiek Associatie Gent",
+    "Club_2_Name": "Koninklijke Voetbal Club Westerlo",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Racing Club de Lens",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futbol Club Barcelona",
+    "Club_2_Name": "Real Club Deportivo Mallorca S.A.D.",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "Fortuna Sittardia Combinatie",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Unión Deportiva Las Palmas S.A.D.",
+    "Club_2_Name": "Real Sociedad de Fútbol S.A.D.",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Club Deportivo Mallorca S.A.D.",
+    "Club_2_Name": "RCD Espanyol Barcelona",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Roda JC Kerkrade",
+    "Club_2_Name": "Nijmegen Eendracht Combinatie",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "B SAD",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futebol Clube de Famalicão",
+    "Club_2_Name": "Portimonense Futebol SAD",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Koninklijke Voetbal Club Westerlo",
+    "Club_2_Name": "Club Brugge Koninklijke Voetbalvereniging",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Spartak Moskva",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Rayo Vallecano de Madrid S.A.D.",
+    "Club_2_Name": "Elche CF",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sport Lisboa e Benfica",
+    "Club_2_Name": "Académica Coimbra",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Dundee Football Club",
+    "Club_2_Name": "Livingston Football Club",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Beşiktaş Jimnastik Kulübü",
+    "Club_2_Name": "Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Unión Deportiva Las Palmas S.A.D.",
+    "Club_2_Name": "Real Club Celta de Vigo S. A. D.",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Deportivo Alavés S.A.D.",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Club_2_Name": "Dijon FCO",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "Club_2_Name": "Neos Podosferikos Syllogos Volou",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Aris Thessalonikis",
+    "Club_2_Name": "Neos Podosferikos Syllogos Volou",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Club Atlético Osasuna",
+    "Club_2_Name": "Deportivo Alavés S.A.D.",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Club_2_Name": "FK Khimki",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Omilos Filathlon Irakliou FC",
+    "Club_2_Name": "APO Levadiakos",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Racing Club de Lens",
+    "Club_2_Name": "Olympique Lyonnais",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AFC Ajax Amsterdam",
+    "Club_2_Name": "VVV-Venlo",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sivasspor Kulübü",
+    "Club_2_Name": "Gaziantep Futbol Kulübü A.Ş.",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Cádiz Club de Fútbol S.A.D",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Moreirense Futebol Clube",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club de Metz",
+    "Club_2_Name": "Stade de Reims",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Crystal Palace Football Club",
+    "Club_2_Name": "Fulham Football Club",
+    "Matches_Played": 9,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Футбольный клуб \"Локомотив\" Москва",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Göztepe",
+    "Club_2_Name": "Konyaspor",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "PFK Krylya Sovetov Samara",
+    "Club_2_Name": "FC Orenburg",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "EA Guingamp",
+    "Club_2_Name": "SM Caen",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gil Vicente Futebol Clube",
+    "Club_2_Name": "Boavista Futebol Clube",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Villarreal Club de Fútbol S.A.D.",
+    "Club_2_Name": "Málaga CF",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Girondins Bordeaux",
+    "Club_2_Name": "SM Caen",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Krasnodar",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Paços de Ferreira",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Willem II Tilburg",
+    "Club_2_Name": "Excelsior Rotterdam",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Çaykur Rizespor Kulübü",
+    "Club_2_Name": "Akhisarspor",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Göztepe",
+    "Club_2_Name": "Sivasspor Kulübü",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Alanyaspor",
+    "Club_2_Name": "Yeni Malatyaspor",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Manchester United Football Club",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Watford FC",
+    "Club_2_Name": "Burnley Football Club",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sevilla Fútbol Club S.A.D.",
+    "Club_2_Name": "Elche CF",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Bursaspor",
+    "Club_2_Name": "Kardemir Karabükspor",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Gaziantepspor (- 2020)",
+    "Club_2_Name": "Kasımpaşa Spor Kulübü",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "NAC Breda",
+    "Club_2_Name": "AFC Ajax Amsterdam",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Lille Olympique Sporting Club Lille Métropole",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Stade Rennais Football Club",
+    "Club_2_Name": "ESTAC Troyes",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "AO FK Zenit Sankt-Peterburg",
+    "Club_2_Name": "FK Sochi",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Swansea City",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Rooms Katholieke Combinatie Waalwijk",
+    "Club_2_Name": "Sparta Rotterdam",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+    "Club_2_Name": "Go Ahead Eagles",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Veria NPS",
+    "Club_2_Name": "Panthrakikos Komotini",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Arsenal Football Club",
+    "Club_2_Name": "Hull City",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Fenerbahçe Spor Kulübü",
+    "Club_2_Name": "Göztepe",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Real Betis Balompié S.A.D.",
+    "Club_2_Name": "Málaga CF",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Bursaspor",
+    "Club_2_Name": "Gaziantepspor (- 2020)",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Sunderland AFC",
+    "Club_2_Name": "Stoke City",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Football Club Lorient-Bretagne Sud",
+    "Club_2_Name": "Angers SCO",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SD Eibar",
+    "Club_2_Name": "Granada Club de Fútbol S.A.D.",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Esbjerg fB",
+    "Club_2_Name": "Hobro IK",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FC Groningen",
+    "Club_2_Name": "VVV-Venlo",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Montpellier Hérault Sport Club",
+    "Club_2_Name": "Stade brestois 29",
+    "Matches_Played": 10,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Futebol Clube do Porto",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 11,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "FK Rostov",
+    "Club_2_Name": "FC Orenburg",
+    "Matches_Played": 11,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Vitória Sport Clube",
+    "Club_2_Name": "CF Os Belenenses",
+    "Matches_Played": 11,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "SC Cambuur Leeuwarden",
+    "Club_2_Name": "Alkmaar Zaanstreek",
+    "Matches_Played": 11,
+    "Red_Cards": 2
+  },
+  {
+    "Club_1_Name": "Chelsea Football Club",
+    "Club_2_Name": "Fulham Football Club",
+    "Matches_Played": 11,
+    "Red_Cards": 2
+  }
+]

@@ -1,0 +1,647 @@
+﻿[
+  {
+    "Country_Name": "Ecuador",
+    "Number_of_Players": 46,
+    "Average_Valuation": 5316848.0
+  },
+  {
+    "Country_Name": "Korea, South",
+    "Number_of_Players": 44,
+    "Average_Valuation": 4498295.0
+  },
+  {
+    "Country_Name": "Mexico",
+    "Number_of_Players": 52,
+    "Average_Valuation": 4200481.0
+  },
+  {
+    "Country_Name": "Uruguay",
+    "Number_of_Players": 175,
+    "Average_Valuation": 3525743.0
+  },
+  {
+    "Country_Name": "Japan",
+    "Number_of_Players": 122,
+    "Average_Valuation": 3473770.0
+  },
+  {
+    "Country_Name": "Norway",
+    "Number_of_Players": 181,
+    "Average_Valuation": 3450276.0
+  },
+  {
+    "Country_Name": "England",
+    "Number_of_Players": 1348,
+    "Average_Valuation": 3301176.0
+  },
+  {
+    "Country_Name": "Canada",
+    "Number_of_Players": 55,
+    "Average_Valuation": 3170909.0
+  },
+  {
+    "Country_Name": "Argentina",
+    "Number_of_Players": 559,
+    "Average_Valuation": 2940331.0
+  },
+  {
+    "Country_Name": "United States",
+    "Number_of_Players": 151,
+    "Average_Valuation": 2875662.0
+  },
+  {
+    "Country_Name": "Austria",
+    "Number_of_Players": 150,
+    "Average_Valuation": 2806667.0
+  },
+  {
+    "Country_Name": "Zambia",
+    "Number_of_Players": 19,
+    "Average_Valuation": 2752632.0
+  },
+  {
+    "Country_Name": "France",
+    "Number_of_Players": 1568,
+    "Average_Valuation": 2707034.0
+  },
+  {
+    "Country_Name": "Egypt",
+    "Number_of_Players": 48,
+    "Average_Valuation": 2683333.0
+  },
+  {
+    "Country_Name": "Switzerland",
+    "Number_of_Players": 158,
+    "Average_Valuation": 2624842.0
+  },
+  {
+    "Country_Name": "Colombia",
+    "Number_of_Players": 156,
+    "Average_Valuation": 2446474.0
+  },
+  {
+    "Country_Name": "Burkina Faso",
+    "Number_of_Players": 47,
+    "Average_Valuation": 2345745.0
+  },
+  {
+    "Country_Name": "Paraguay",
+    "Number_of_Players": 60,
+    "Average_Valuation": 2282083.0
+  },
+  {
+    "Country_Name": "Brazil",
+    "Number_of_Players": 1477,
+    "Average_Valuation": 2270152.0
+  },
+  {
+    "Country_Name": "Cote d'Ivoire",
+    "Number_of_Players": 227,
+    "Average_Valuation": 2238546.0
+  },
+  {
+    "Country_Name": "Nigeria",
+    "Number_of_Players": 290,
+    "Average_Valuation": 2209552.0
+  },
+  {
+    "Country_Name": "Jamaica",
+    "Number_of_Players": 42,
+    "Average_Valuation": 2198214.0
+  },
+  {
+    "Country_Name": "Morocco",
+    "Number_of_Players": 236,
+    "Average_Valuation": 2195254.0
+  },
+  {
+    "Country_Name": "Algeria",
+    "Number_of_Players": 140,
+    "Average_Valuation": 2130357.0
+  },
+  {
+    "Country_Name": "Kenya",
+    "Number_of_Players": 11,
+    "Average_Valuation": 2129545.0
+  },
+  {
+    "Country_Name": "Spain",
+    "Number_of_Players": 1760,
+    "Average_Valuation": 2111614.0
+  },
+  {
+    "Country_Name": "Portugal",
+    "Number_of_Players": 1023,
+    "Average_Valuation": 2090269.0
+  },
+  {
+    "Country_Name": "Hungary",
+    "Number_of_Players": 80,
+    "Average_Valuation": 1998125.0
+  },
+  {
+    "Country_Name": "Poland",
+    "Number_of_Players": 191,
+    "Average_Valuation": 1936649.0
+  },
+  {
+    "Country_Name": "Mali",
+    "Number_of_Players": 134,
+    "Average_Valuation": 1922575.0
+  },
+  {
+    "Country_Name": "Wales",
+    "Number_of_Players": 111,
+    "Average_Valuation": 1918964.0
+  },
+  {
+    "Country_Name": "Croatia",
+    "Number_of_Players": 284,
+    "Average_Valuation": 1891180.0
+  },
+  {
+    "Country_Name": "Germany",
+    "Number_of_Players": 1257,
+    "Average_Valuation": 1869682.0
+  },
+  {
+    "Country_Name": "Slovakia",
+    "Number_of_Players": 103,
+    "Average_Valuation": 1862330.0
+  },
+  {
+    "Country_Name": "Sweden",
+    "Number_of_Players": 264,
+    "Average_Valuation": 1816098.0
+  },
+  {
+    "Country_Name": "Burundi",
+    "Number_of_Players": 12,
+    "Average_Valuation": 1716667.0
+  },
+  {
+    "Country_Name": "Georgia",
+    "Number_of_Players": 97,
+    "Average_Valuation": 1688505.0
+  },
+  {
+    "Country_Name": "Netherlands",
+    "Number_of_Players": 1290,
+    "Average_Valuation": 1573895.0
+  },
+  {
+    "Country_Name": "Kosovo",
+    "Number_of_Players": 63,
+    "Average_Valuation": 1527381.0
+  },
+  {
+    "Country_Name": "Iran",
+    "Number_of_Players": 40,
+    "Average_Valuation": 1516875.0
+  },
+  {
+    "Country_Name": "Ghana",
+    "Number_of_Players": 238,
+    "Average_Valuation": 1492941.0
+  },
+  {
+    "Country_Name": "Zimbabwe",
+    "Number_of_Players": 21,
+    "Average_Valuation": 1492857.0
+  },
+  {
+    "Country_Name": "Cameroon",
+    "Number_of_Players": 188,
+    "Average_Valuation": 1476117.0
+  },
+  {
+    "Country_Name": "Czech Republic",
+    "Number_of_Players": 139,
+    "Average_Valuation": 1462590.0
+  },
+  {
+    "Country_Name": "Gabon",
+    "Number_of_Players": 30,
+    "Average_Valuation": 1445000.0
+  },
+  {
+    "Country_Name": "Trinidad and Tobago",
+    "Number_of_Players": 10,
+    "Average_Valuation": 1425000.0
+  },
+  {
+    "Country_Name": "Senegal",
+    "Number_of_Players": 296,
+    "Average_Valuation": 1424307.0
+  },
+  {
+    "Country_Name": "Belgium",
+    "Number_of_Players": 949,
+    "Average_Valuation": 1404684.0
+  },
+  {
+    "Country_Name": "Malta",
+    "Number_of_Players": 6,
+    "Average_Valuation": 1383333.0
+  },
+  {
+    "Country_Name": "Mozambique",
+    "Number_of_Players": 16,
+    "Average_Valuation": 1367188.0
+  },
+  {
+    "Country_Name": "Serbia",
+    "Number_of_Players": 354,
+    "Average_Valuation": 1341031.0
+  },
+  {
+    "Country_Name": "Luxembourg",
+    "Number_of_Players": 24,
+    "Average_Valuation": 1313958.0
+  },
+  {
+    "Country_Name": "Ireland",
+    "Number_of_Players": 217,
+    "Average_Valuation": 1267995.0
+  },
+  {
+    "Country_Name": "DR Congo",
+    "Number_of_Players": 119,
+    "Average_Valuation": 1228866.0
+  },
+  {
+    "Country_Name": "Italy",
+    "Number_of_Players": 1784,
+    "Average_Valuation": 1214445.0
+  },
+  {
+    "Country_Name": "Slovenia",
+    "Number_of_Players": 127,
+    "Average_Valuation": 1206260.0
+  },
+  {
+    "Country_Name": "Guinea",
+    "Number_of_Players": 92,
+    "Average_Valuation": 1195924.0
+  },
+  {
+    "Country_Name": "Chile",
+    "Number_of_Players": 68,
+    "Average_Valuation": 1172426.0
+  },
+  {
+    "Country_Name": "Albania",
+    "Number_of_Players": 133,
+    "Average_Valuation": 1100789.0
+  },
+  {
+    "Country_Name": "The Gambia",
+    "Number_of_Players": 46,
+    "Average_Valuation": 1080109.0
+  },
+  {
+    "Country_Name": "Tunisia",
+    "Number_of_Players": 86,
+    "Average_Valuation": 1037326.0
+  },
+  {
+    "Country_Name": "Central African Republic",
+    "Number_of_Players": 19,
+    "Average_Valuation": 1022368.0
+  },
+  {
+    "Country_Name": "Bosnia-Herzegovina",
+    "Number_of_Players": 140,
+    "Average_Valuation": 1017571.0
+  },
+  {
+    "Country_Name": "Uzbekistan",
+    "Number_of_Players": 23,
+    "Average_Valuation": 1001087.0
+  },
+  {
+    "Country_Name": "Denmark",
+    "Number_of_Players": 990,
+    "Average_Valuation": 984747.0
+  },
+  {
+    "Country_Name": "Venezuela",
+    "Number_of_Players": 68,
+    "Average_Valuation": 953309.0
+  },
+  {
+    "Country_Name": "North Macedonia",
+    "Number_of_Players": 65,
+    "Average_Valuation": 936154.0
+  },
+  {
+    "Country_Name": "Iceland",
+    "Number_of_Players": 86,
+    "Average_Valuation": 934651.0
+  },
+  {
+    "Country_Name": "Angola",
+    "Number_of_Players": 62,
+    "Average_Valuation": 920161.0
+  },
+  {
+    "Country_Name": "Armenia",
+    "Number_of_Players": 51,
+    "Average_Valuation": 907843.0
+  },
+  {
+    "Country_Name": "Benin",
+    "Number_of_Players": 23,
+    "Average_Valuation": 904348.0
+  },
+  {
+    "Country_Name": "Peru",
+    "Number_of_Players": 42,
+    "Average_Valuation": 898214.0
+  },
+  {
+    "Country_Name": "Suriname",
+    "Number_of_Players": 37,
+    "Average_Valuation": 892568.0
+  },
+  {
+    "Country_Name": "Israel",
+    "Number_of_Players": 84,
+    "Average_Valuation": 882440.0
+  },
+  {
+    "Country_Name": "New Zealand",
+    "Number_of_Players": 23,
+    "Average_Valuation": 847826.0
+  },
+  {
+    "Country_Name": "Qatar",
+    "Number_of_Players": 8,
+    "Average_Valuation": 821875.0
+  },
+  {
+    "Country_Name": "Montenegro",
+    "Number_of_Players": 68,
+    "Average_Valuation": 804779.0
+  },
+  {
+    "Country_Name": "Kazakhstan",
+    "Number_of_Players": 19,
+    "Average_Valuation": 780263.0
+  },
+  {
+    "Country_Name": "Romania",
+    "Number_of_Players": 147,
+    "Average_Valuation": 775782.0
+  },
+  {
+    "Country_Name": "Honduras",
+    "Number_of_Players": 22,
+    "Average_Valuation": 705682.0
+  },
+  {
+    "Country_Name": "Panama",
+    "Number_of_Players": 13,
+    "Average_Valuation": 698077.0
+  },
+  {
+    "Country_Name": "Scotland",
+    "Number_of_Players": 765,
+    "Average_Valuation": 691850.0
+  },
+  {
+    "Country_Name": "Mauritania",
+    "Number_of_Players": 17,
+    "Average_Valuation": 675000.0
+  },
+  {
+    "Country_Name": "South Africa",
+    "Number_of_Players": 50,
+    "Average_Valuation": 674500.0
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Number_of_Players": 18,
+    "Average_Valuation": 668056.0
+  },
+  {
+    "Country_Name": "Togo",
+    "Number_of_Players": 40,
+    "Average_Valuation": 667500.0
+  },
+  {
+    "Country_Name": "Cape Verde",
+    "Number_of_Players": 83,
+    "Average_Valuation": 648193.0
+  },
+  {
+    "Country_Name": "Guadeloupe",
+    "Number_of_Players": 36,
+    "Average_Valuation": 637500.0
+  },
+  {
+    "Country_Name": "Costa Rica",
+    "Number_of_Players": 37,
+    "Average_Valuation": 620270.0
+  },
+  {
+    "Country_Name": "Northern Ireland",
+    "Number_of_Players": 93,
+    "Average_Valuation": 604839.0
+  },
+  {
+    "Country_Name": "Guinea-Bissau",
+    "Number_of_Players": 63,
+    "Average_Valuation": 603333.0
+  },
+  {
+    "Country_Name": "Finland",
+    "Number_of_Players": 79,
+    "Average_Valuation": 591456.0
+  },
+  {
+    "Country_Name": "Australia",
+    "Number_of_Players": 114,
+    "Average_Valuation": 578289.0
+  },
+  {
+    "Country_Name": "Congo",
+    "Number_of_Players": 46,
+    "Average_Valuation": 577174.0
+  },
+  {
+    "Country_Name": "Equatorial Guinea",
+    "Number_of_Players": 17,
+    "Average_Valuation": 557353.0
+  },
+  {
+    "Country_Name": "Bulgaria",
+    "Number_of_Players": 65,
+    "Average_Valuation": 553846.0
+  },
+  {
+    "Country_Name": "Haiti",
+    "Number_of_Players": 28,
+    "Average_Valuation": 539286.0
+  },
+  {
+    "Country_Name": "Grenada",
+    "Number_of_Players": 8,
+    "Average_Valuation": 534375.0
+  },
+  {
+    "Country_Name": "Cyprus",
+    "Number_of_Players": 31,
+    "Average_Valuation": 529839.0
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Number_of_Players": 1215,
+    "Average_Valuation": 525992.0
+  },
+  {
+    "Country_Name": "Dominican Republic",
+    "Number_of_Players": 8,
+    "Average_Valuation": 515625.0
+  },
+  {
+    "Country_Name": "French Guiana",
+    "Number_of_Players": 8,
+    "Average_Valuation": 493750.0
+  },
+  {
+    "Country_Name": "Russia",
+    "Number_of_Players": 1364,
+    "Average_Valuation": 485561.0
+  },
+  {
+    "Country_Name": "Latvia",
+    "Number_of_Players": 19,
+    "Average_Valuation": 436842.0
+  },
+  {
+    "Country_Name": "Martinique",
+    "Number_of_Players": 34,
+    "Average_Valuation": 433088.0
+  },
+  {
+    "Country_Name": "Philippines",
+    "Number_of_Players": 12,
+    "Average_Valuation": 425000.0
+  },
+  {
+    "Country_Name": "Turkey",
+    "Number_of_Players": 1757,
+    "Average_Valuation": 423270.0
+  },
+  {
+    "Country_Name": "Moldova",
+    "Number_of_Players": 36,
+    "Average_Valuation": 412778.0
+  },
+  {
+    "Country_Name": "Azerbaijan",
+    "Number_of_Players": 28,
+    "Average_Valuation": 412500.0
+  },
+  {
+    "Country_Name": "Iraq",
+    "Number_of_Players": 15,
+    "Average_Valuation": 410000.0
+  },
+  {
+    "Country_Name": "Sierra Leone",
+    "Number_of_Players": 22,
+    "Average_Valuation": 399318.0
+  },
+  {
+    "Country_Name": "Bolivia",
+    "Number_of_Players": 12,
+    "Average_Valuation": 383333.0
+  },
+  {
+    "Country_Name": "Curacao",
+    "Number_of_Players": 56,
+    "Average_Valuation": 374107.0
+  },
+  {
+    "Country_Name": "Comoros",
+    "Number_of_Players": 25,
+    "Average_Valuation": 364000.0
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Number_of_Players": 14,
+    "Average_Valuation": 358929.0
+  },
+  {
+    "Country_Name": "Greece",
+    "Number_of_Players": 1134,
+    "Average_Valuation": 354021.0
+  },
+  {
+    "Country_Name": "China",
+    "Number_of_Players": 19,
+    "Average_Valuation": 352632.0
+  },
+  {
+    "Country_Name": "Palestine",
+    "Number_of_Players": 6,
+    "Average_Valuation": 333333.0
+  },
+  {
+    "Country_Name": "Estonia",
+    "Number_of_Players": 23,
+    "Average_Valuation": 325000.0
+  },
+  {
+    "Country_Name": "Liberia",
+    "Number_of_Players": 14,
+    "Average_Valuation": 292857.0
+  },
+  {
+    "Country_Name": "Thailand",
+    "Number_of_Players": 8,
+    "Average_Valuation": 287500.0
+  },
+  {
+    "Country_Name": "Lithuania",
+    "Number_of_Players": 33,
+    "Average_Valuation": 266970.0
+  },
+  {
+    "Country_Name": "Montserrat",
+    "Number_of_Players": 6,
+    "Average_Valuation": 266667.0
+  },
+  {
+    "Country_Name": "Aruba",
+    "Number_of_Players": 6,
+    "Average_Valuation": 262500.0
+  },
+  {
+    "Country_Name": "Belarus",
+    "Number_of_Players": 73,
+    "Average_Valuation": 254110.0
+  },
+  {
+    "Country_Name": "Uganda",
+    "Number_of_Players": 13,
+    "Average_Valuation": 240385.0
+  },
+  {
+    "Country_Name": "Niger",
+    "Number_of_Players": 7,
+    "Average_Valuation": 210714.0
+  },
+  {
+    "Country_Name": "El Salvador",
+    "Number_of_Players": 7,
+    "Average_Valuation": 185714.0
+  },
+  {
+    "Country_Name": "Faroe Islands",
+    "Number_of_Players": 17,
+    "Average_Valuation": 130882.0
+  }
+]

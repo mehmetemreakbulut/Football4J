@@ -1,0 +1,29 @@
+/* GraphStyles.css */
+.node {
+    background-color: #0074D9;
+    color: #fff;
+    text-valign: center;
+    text-halign: center;
+    text-wrap: wrap;
+    text-max-width: 80px;
+  }
+  
+  .edge {
+    width: 2px;
+    line-color: #7FDBFF;
+    target-arrow-color: #7FDBFF;
+    target-arrow-shape: triangle;
+    curve-style: bezier;
+    label: data(label);
+    text-background-opacity: 1;
+    text-background-color: #fff;
+    text-background-shape: rectangle;
+    text-border-color: #000;
+    text-border-width: 1px;
+    text-border-opacity: 1;
+    font-size: 10px;
+    text-valign: center;
+    text-halign: center;
+    edge-text-rotation: autorotate;
+  }
+  

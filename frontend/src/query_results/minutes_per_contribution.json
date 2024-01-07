@@ -1,0 +1,7002 @@
+﻿[
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 42.0,
+    "Total_Minutes": 887
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "NL1",
+    "Player_Name": "Lassina Traoré",
+    "Minutes_Per_Contibution": 43.0,
+    "Total_Minutes": 555
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CDR",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 44.0,
+    "Total_Minutes": 480
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 45.0,
+    "Total_Minutes": 2626
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 45.0,
+    "Total_Minutes": 993
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Arthur Cabral",
+    "Minutes_Per_Contibution": 45.0,
+    "Total_Minutes": 545
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Luis Muriel",
+    "Minutes_Per_Contibution": 46.0,
+    "Total_Minutes": 1435
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "DFB",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 46.0,
+    "Total_Minutes": 464
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "DFB",
+    "Player_Name": "Jadon Sancho",
+    "Minutes_Per_Contibution": 47.0,
+    "Total_Minutes": 517
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "DKP",
+    "Player_Name": "Kasper Kusk",
+    "Minutes_Per_Contibution": 47.0,
+    "Total_Minutes": 517
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 48.0,
+    "Total_Minutes": 3099
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Alfredo Morelos",
+    "Minutes_Per_Contibution": 48.0,
+    "Total_Minutes": 531
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Nacer Chadli",
+    "Minutes_Per_Contibution": 49.0,
+    "Total_Minutes": 485
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "POCP",
+    "Player_Name": "Paulinho",
+    "Minutes_Per_Contibution": 49.0,
+    "Total_Minutes": 486
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NLP",
+    "Player_Name": "Jozy Altidore",
+    "Minutes_Per_Contibution": 49.0,
+    "Total_Minutes": 489
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "NLP",
+    "Player_Name": "Wout Weghorst",
+    "Minutes_Per_Contibution": 49.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "FR1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 50.0,
+    "Total_Minutes": 2553
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GRP",
+    "Player_Name": "Aleksandar Prijovic",
+    "Minutes_Per_Contibution": 50.0,
+    "Total_Minutes": 502
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 50.0,
+    "Total_Minutes": 554
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GR1",
+    "Player_Name": "Konstantinos Mitroglou",
+    "Minutes_Per_Contibution": 51.0,
+    "Total_Minutes": 811
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Giuliano",
+    "Minutes_Per_Contibution": 51.0,
+    "Total_Minutes": 710
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Harry Kane",
+    "Minutes_Per_Contibution": 51.0,
+    "Total_Minutes": 1322
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 51.0,
+    "Total_Minutes": 2463
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Sébastien Haller",
+    "Minutes_Per_Contibution": 51.0,
+    "Total_Minutes": 668
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 52.0,
+    "Total_Minutes": 524
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Claudio Pizarro",
+    "Minutes_Per_Contibution": 52.0,
+    "Total_Minutes": 682
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 53.0,
+    "Total_Minutes": 2260
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 53.0,
+    "Total_Minutes": 3375
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 53.0,
+    "Total_Minutes": 531
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Jürgen Locadia",
+    "Minutes_Per_Contibution": 53.0,
+    "Total_Minutes": 532
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "NL1",
+    "Player_Name": "Cody Gakpo",
+    "Minutes_Per_Contibution": 54.0,
+    "Total_Minutes": 1126
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "DK1",
+    "Player_Name": "Franculino",
+    "Minutes_Per_Contibution": 54.0,
+    "Total_Minutes": 595
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Raheem Sterling",
+    "Minutes_Per_Contibution": 54.0,
+    "Total_Minutes": 599
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 55.0,
+    "Total_Minutes": 876
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 55.0,
+    "Total_Minutes": 3150
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Gustavo Mantuan",
+    "Minutes_Per_Contibution": 55.0,
+    "Total_Minutes": 553
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 55.0,
+    "Total_Minutes": 1109
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 55.0,
+    "Total_Minutes": 2329
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "SC1",
+    "Player_Name": "Jermain Defoe",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 612
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Carlos Vinícius",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 501
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 837
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Vangelis Pavlidis",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 505
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 1797
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 674
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Alex Teixeira",
+    "Minutes_Per_Contibution": 56.0,
+    "Total_Minutes": 1350
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CDR",
+    "Player_Name": "Michael Krohn-Dehli",
+    "Minutes_Per_Contibution": 57.0,
+    "Total_Minutes": 454
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "SFA",
+    "Player_Name": "Simon Murray",
+    "Minutes_Per_Contibution": 57.0,
+    "Total_Minutes": 455
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 57.0,
+    "Total_Minutes": 1538
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "BE1",
+    "Player_Name": "Mohamed Amoura",
+    "Minutes_Per_Contibution": 57.0,
+    "Total_Minutes": 686
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Claudio Pizarro",
+    "Minutes_Per_Contibution": 57.0,
+    "Total_Minutes": 744
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "FAC",
+    "Player_Name": "Carlos Tevez",
+    "Minutes_Per_Contibution": 57.0,
+    "Total_Minutes": 458
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Paulo Henrique",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 518
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "RU1",
+    "Player_Name": "Seydou Doumbia",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 1559
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 2832
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Robert Mak",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 464
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "EL",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 464
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "TR1",
+    "Player_Name": "Cenk Tosun",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 697
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "SC1",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 58.0,
+    "Total_Minutes": 935
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Roberto Firmino",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 1056
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Serhou Guirassy",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 1058
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Santiago Gimenez",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 1294
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 706
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Eduardo",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 825
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Christopher Nkunku",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 531
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "SC1",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 1299
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GB1",
+    "Player_Name": "Gabriel Jesus",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 651
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 652
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "TR1",
+    "Player_Name": "Sinan Kaloglu",
+    "Minutes_Per_Contibution": 59.0,
+    "Total_Minutes": 534
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CDR",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 476
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NLP",
+    "Player_Name": "Oussama Idrissi",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 479
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Gareth Bale",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 1738
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Alassane Plea",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CDR",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Júnior Moraes",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 1501
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GRP",
+    "Player_Name": "Lazaros Christodoulopoulos",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 481
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 2717
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 60.0,
+    "Total_Minutes": 2540
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Aritz Aduriz",
+    "Minutes_Per_Contibution": 61.0,
+    "Total_Minutes": 484
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 61.0,
+    "Total_Minutes": 1515
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Luciano Vietto",
+    "Minutes_Per_Contibution": 61.0,
+    "Total_Minutes": 849
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 61.0,
+    "Total_Minutes": 2880
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Chicharito",
+    "Minutes_Per_Contibution": 61.0,
+    "Total_Minutes": 858
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "PO1",
+    "Player_Name": "Simon Banza",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 984
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "PO1",
+    "Player_Name": "Haris Seferovic",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 1294
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GR1",
+    "Player_Name": "Konstantinos Fortounis",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 1911
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 2965
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jonas",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 2471
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 1990
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 810
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 62.0,
+    "Total_Minutes": 2996
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Mohamed Salah",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 625
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "TR1",
+    "Player_Name": "Jackson Muleka",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 1063
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Luis Sinisterra",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 501
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CDR",
+    "Player_Name": "Alexander Isak",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 565
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "FR1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 1444
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Luiz Adriano",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 628
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CDR",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 503
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GB1",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 2777
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Chicharito",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 947
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jonas",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 2845
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "EL",
+    "Player_Name": "Fredy Guarín",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 569
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Romelu Lukaku",
+    "Minutes_Per_Contibution": 63.0,
+    "Total_Minutes": 633
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Aurélien Joachim",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 508
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CDR",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 509
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "L1",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 1915
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "Ademola Lookman",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 575
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "Odsonne Edouard",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 2110
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "DK1",
+    "Player_Name": "Anders Dreyer",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 513
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 2502
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "PO1",
+    "Player_Name": "Petar Musa",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 643
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Diego Costa",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 579
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Donyell Malen",
+    "Minutes_Per_Contibution": 64.0,
+    "Total_Minutes": 966
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 3032
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Ciro Immobile",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 582
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "FR1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1552
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "NL1",
+    "Player_Name": "Dylan Vente",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 453
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Nabil Fekir",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 518
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "PO1",
+    "Player_Name": "Gelson Dala",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 584
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 2729
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GR1",
+    "Player_Name": "Aitor Cantalapiedra",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 650
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1170
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "IT1",
+    "Player_Name": "Leonardo Pavoletti",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 650
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "RU1",
+    "Player_Name": "Hulk",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 2341
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1106
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 846
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Deniz Undav",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 781
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mauro Icardi",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1888
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "TR1",
+    "Player_Name": "Daniel Sturridge",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 521
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CDR",
+    "Player_Name": "Ángel Correa",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 456
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 652
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1501
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "NLP",
+    "Player_Name": "Lewis Baker",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 523
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Malik Tillman",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 523
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "DK1",
+    "Player_Name": "Emiliano Marcondes",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1700
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "ES1",
+    "Player_Name": "Artem Dovbyk",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 1047
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Jakob Poulsen",
+    "Minutes_Per_Contibution": 65.0,
+    "Total_Minutes": 720
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Luis Muriel",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 1245
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Gabriel Jesus",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 590
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "FAC",
+    "Player_Name": "Gabriel Jesus",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 525
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Luuk de Jong",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 1250
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Jesé",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 593
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "L1",
+    "Player_Name": "Nils Petersen",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 726
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Klaas-Jan Huntelaar",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 1323
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "EL",
+    "Player_Name": "Anastasios Bakasetas",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 464
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "PO1",
+    "Player_Name": "Darwin Núñez",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 1989
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Harry Kane",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 597
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Enner Valencia",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 2256
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Mohamed Salah",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 929
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 797
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "L1",
+    "Player_Name": "Adrián Ramos",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 930
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 66.0,
+    "Total_Minutes": 1063
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "PO1",
+    "Player_Name": "Fábio Vieira",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 1330
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 1331
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Leroy Sané",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 799
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ES1",
+    "Player_Name": "Álvaro Morata",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 1332
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 1200
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Munas Dabbur",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 467
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ES1",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 2603
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 668
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "L1",
+    "Player_Name": "Paco Alcácer",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 1204
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "DFB",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 469
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "TR1",
+    "Player_Name": "Ricardo Vaz Tê",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 671
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Henok Goitom",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 470
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GR1",
+    "Player_Name": "Alan Pulido",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 470
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Danny Hoesen",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 471
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Kévin Gameiro",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 673
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "DK1",
+    "Player_Name": "Pep Biel",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 606
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Jadon Sancho",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 2292
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Andreas Skov Olsen",
+    "Minutes_Per_Contibution": 67.0,
+    "Total_Minutes": 742
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Kevin Kampl",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NLP",
+    "Player_Name": "Tjaronn Chery",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Mario Gómez",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 878
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "GR1",
+    "Player_Name": "Ahmed Hassan",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 743
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "FR1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 2770
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 879
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "EL",
+    "Player_Name": "Bruno Fernandes",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 812
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Moussa Diaby",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 474
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "L1",
+    "Player_Name": "Giovanni Reyna",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 610
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "FAC",
+    "Player_Name": "Alexis Sánchez",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 475
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CDR",
+    "Player_Name": "Vinicius Junior",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 475
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Wilfried Bony",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 2647
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 2179
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Ibai Gómez",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 683
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "IT1",
+    "Player_Name": "Manolo Gabbiadini",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 547
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "RU1",
+    "Player_Name": "Shapi Suleymanov",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 547
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Alexander Isak",
+    "Minutes_Per_Contibution": 68.0,
+    "Total_Minutes": 1369
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "SC1",
+    "Player_Name": "Georgios Samaras",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 1097
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "L1",
+    "Player_Name": "Franck Ribéry",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 960
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SFA",
+    "Player_Name": "Christian Doidge",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 480
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "PO1",
+    "Player_Name": "Carlos Vinícius",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 1784
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CDR",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 481
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GR1",
+    "Player_Name": "Aleksandar Prijovic",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 481
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "DK1",
+    "Player_Name": "Robert Skov",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 2062
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 2410
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "DFB",
+    "Player_Name": "Christopher Nkunku",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 483
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "RU1",
+    "Player_Name": "Ivelin Popov",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 691
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 3184
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Artem Dzyuba",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 900
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "DK1",
+    "Player_Name": "Marcos Ureña",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 485
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "FAC",
+    "Player_Name": "Matt Doherty",
+    "Minutes_Per_Contibution": 69.0,
+    "Total_Minutes": 486
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "RU1",
+    "Player_Name": "Sardar Azmoun",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 1738
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GB1",
+    "Player_Name": "Mohamed Salah",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 2920
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 1322
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Serge Gnabry",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 766
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "FR1",
+    "Player_Name": "Dimitar Berbatov",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 766
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GB1",
+    "Player_Name": "Leon Bailey",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 697
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Aritz Aduriz",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 907
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Viktor Tsygankov",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 1396
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "DFB",
+    "Player_Name": "Daniel Caligiuri",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 489
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Mykhaylo Mudryk",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 629
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "L1",
+    "Player_Name": "Arjen Robben",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 1678
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 2169
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CDR",
+    "Player_Name": "Diego Costa",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CDR",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "EL",
+    "Player_Name": "Marcus Rashford",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 560
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Antoine Griezmann",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "BE1",
+    "Player_Name": "Matías Suárez",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 911
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Álvaro Morata",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 561
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "FR1",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 1683
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 2387
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Mykhaylo Mudryk",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 914
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Olivier Giroud",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 1125
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GR1",
+    "Player_Name": "Hernâni",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 633
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "PO1",
+    "Player_Name": "Dyego Sousa",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 563
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GB1",
+    "Player_Name": "Harry Kane",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 2536
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "SFA",
+    "Player_Name": "Liam Polworth",
+    "Minutes_Per_Contibution": 70.0,
+    "Total_Minutes": 634
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Alexis Sánchez",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 918
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "IT1",
+    "Player_Name": "Lautaro Martínez",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 1343
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Waldemar Sobota",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 495
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Sven Schipplock",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 566
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Facundo Ferreyra",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 566
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Lior Refaelov",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 637
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "TR1",
+    "Player_Name": "Ömer Sismanoglu",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 637
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Vincent Aboubakar",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 496
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Nikola Kalinic",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 496
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristhian Stuani",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 567
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "GB1",
+    "Player_Name": "Gareth Bale",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 922
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Dusan Tadic",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 2909
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 568
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 2343
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "IT1",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 2560
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 570
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "RU1",
+    "Player_Name": "Vágner Love",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 784
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Hakim Ziyech",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 499
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 499
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CLQ",
+    "Player_Name": "James Forrest",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 499
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "PO1",
+    "Player_Name": "Bas Dost",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 2710
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 71.0,
+    "Total_Minutes": 571
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "Jermain Defoe",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 1001
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "NL1",
+    "Player_Name": "Alfred Finnbogason",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 2790
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ES1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 2862
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "IT1",
+    "Player_Name": "Daniel Osvaldo",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 573
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 1146
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Alfredo Morelos",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 717
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "PO1",
+    "Player_Name": "Mehdi Taremi",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 2225
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "BE1",
+    "Player_Name": "Gift Orban",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 790
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Graziano Pellè",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 2587
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Habib Habibou",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 647
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GB1",
+    "Player_Name": "Erling Haaland",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 1295
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Hakan Çalhanoğlu",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 504
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "DKP",
+    "Player_Name": "Kasper Kusk",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 505
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Rodrygo",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 505
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CDR",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 505
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Ciro Immobile",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 3176
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "PO1",
+    "Player_Name": "Vincent Aboubakar",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 578
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "L1",
+    "Player_Name": "Patrik Schick",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 2096
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "Ryan Christie",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 1591
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NL1",
+    "Player_Name": "Ruud Boymans",
+    "Minutes_Per_Contibution": 72.0,
+    "Total_Minutes": 724
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 2761
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Josip Ilicic",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 1672
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKRP",
+    "Player_Name": "Oleksandr Gladkyi",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 509
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "PO1",
+    "Player_Name": "João Félix",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 1091
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GB1",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 1457
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 510
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "IT1",
+    "Player_Name": "Ciro Immobile",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 2696
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GB1",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 1969
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Borja Mayoral",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 657
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "SC1",
+    "Player_Name": "Luis Palma",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 804
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "FR1",
+    "Player_Name": "Guido Carrillo",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 585
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "EL",
+    "Player_Name": "Óscar Cardozo",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 585
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Leon Bailey",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 512
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 586
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Vangelis Pavlidis",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 1393
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "TR1",
+    "Player_Name": "Sinan Gümüş",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 660
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Malcom",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 2349
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Andrea Belotti",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 514
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Daniel Sturridge",
+    "Minutes_Per_Contibution": 73.0,
+    "Total_Minutes": 2277
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "FR1",
+    "Player_Name": "Casimir Ninga",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 515
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 810
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "SC1",
+    "Player_Name": "Kris Commons",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2726
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Henrikh Mkhitaryan",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2506
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "PO1",
+    "Player_Name": "Mehdi Taremi",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2433
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "ES1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 3023
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "NL1",
+    "Player_Name": "Noni Madueke",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 960
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Davidson",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 517
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Marco Reus",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2216
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "BE1",
+    "Player_Name": "Paul Onuachu",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 1182
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Gareth Bale",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2070
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Branimir Hrgota",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 740
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jonas",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 1333
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2297
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "DK1",
+    "Player_Name": "Jonas Wind",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 519
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Shamar Nicholson",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 1335
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ES1",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 1781
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Paco Alcácer",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 520
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Bruno Fernandes",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 520
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "FR1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 2974
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Franck Ribéry",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 1636
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Donyell Malen",
+    "Minutes_Per_Contibution": 74.0,
+    "Total_Minutes": 1191
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Leroy Fer",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 596
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "FR1",
+    "Player_Name": "Radamel Falcao",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 1938
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Lior Refaelov",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 820
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Ivan Sergeev",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 1193
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 821
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "GB1",
+    "Player_Name": "Mohamed Salah",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 2762
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "GB1",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 2540
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "RU1",
+    "Player_Name": "Artem Dzyuba",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 2316
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GB1",
+    "Player_Name": "Callum Wilson",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 598
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "ES1",
+    "Player_Name": "Raphinha",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 598
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "PO1",
+    "Player_Name": "Raúl Jiménez",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 973
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Jesé",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 824
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "SC1",
+    "Player_Name": "Marc McNulty",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 750
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Orkun Kökçü",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 525
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Ángel Di María",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 750
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "BE1",
+    "Player_Name": "Moses Simon",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 751
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Stevan Jovetic",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 751
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jovane",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 676
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Willian",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 526
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Dusan Tadic",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 451
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GR1",
+    "Player_Name": "Mathieu Valbuena",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 1279
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GR1",
+    "Player_Name": "Konstantinos Mitroglou",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 1129
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Mario Balotelli",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 527
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GB1",
+    "Player_Name": "Kelechi Iheanacho",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 527
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Eduardo Guerrero",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 753
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Simone Zaza",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 452
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Mohammed Kudus",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 452
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Hakim Ziyech",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 2411
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "TR1",
+    "Player_Name": "Burak Yilmaz",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 2412
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "PO1",
+    "Player_Name": "Óscar Cardozo",
+    "Minutes_Per_Contibution": 75.0,
+    "Total_Minutes": 679
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GRP",
+    "Player_Name": "Diego Biseswar",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 453
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Franco Di Santo",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 453
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Glynor Plet",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 906
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Elyaniv Barda",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 755
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Oumar Niasse",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 529
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GB1",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1059
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Victor Boniface",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1286
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2952
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Samuel Eto'o",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 530
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Mathieu Valbuena",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 455
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "EL",
+    "Player_Name": "Christian Eriksen",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 455
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NLP",
+    "Player_Name": "Joey Veerman",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 456
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 532
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "TR1",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1217
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1065
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "SC1",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2740
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Arjen Robben",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1827
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "FR1",
+    "Player_Name": "Ángel Di María",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2132
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2589
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Robin van Persie",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 3124
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "IT1",
+    "Player_Name": "Giuseppe Rossi",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1524
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "FR1",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2975
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "IT1",
+    "Player_Name": "Marcus Thuram",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1221
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "UKRP",
+    "Player_Name": "Jaba Lipartia",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 458
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Klaas-Jan Huntelaar",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 840
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ES1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2902
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "Cody Gakpo",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1910
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "L1",
+    "Player_Name": "Bas Dost",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 1529
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mbaye Diagne",
+    "Minutes_Per_Contibution": 76.0,
+    "Total_Minutes": 2524
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Teemu Pukki",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 612
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "EL",
+    "Player_Name": "Libor Kozak",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 612
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "FR1",
+    "Player_Name": "Aleksandr Golovin",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 1072
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "PO1",
+    "Player_Name": "Junya Tanaka",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 536
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Carlos Bacca",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 766
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "TR1",
+    "Player_Name": "Emre Güral",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 613
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "SC1",
+    "Player_Name": "Moussa Dembélé",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 1917
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Wayne Rooney",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 767
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Alexandre Lacazette",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 537
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Alexis Sánchez",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 2381
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Marlos",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 1383
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 615
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "GR1",
+    "Player_Name": "Konstantinos Fortounis",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 1384
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Marco Reus",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 769
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jonas",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 847
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "André Silva",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 2773
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 2777
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NLP",
+    "Player_Name": "Adam Maher",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Andriy Yarmolenko",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 2160
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "SFA",
+    "Player_Name": "Marley Watkins",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 463
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 541
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CDR",
+    "Player_Name": "Antoine Griezmann",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 541
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "DKP",
+    "Player_Name": "Davit Skhirtladze",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 541
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "RU1",
+    "Player_Name": "Seydou Doumbia",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 773
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "DK1",
+    "Player_Name": "Viktor Fischer",
+    "Minutes_Per_Contibution": 77.0,
+    "Total_Minutes": 542
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "Mikey Johnston",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 465
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Wissam Ben Yedder",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 620
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NL1",
+    "Player_Name": "Jürgen Locadia",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 698
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "DFB",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 543
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "RU1",
+    "Player_Name": "Oumar Niasse",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 1165
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Milson",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 466
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "FR1",
+    "Player_Name": "Alexandre Lacazette",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2408
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 777
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "PO1",
+    "Player_Name": "Viktor Gyökeres",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 1166
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GRP",
+    "Player_Name": "Dimitrios Pelkas",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 622
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GRP",
+    "Player_Name": "Stefanos Athanasiadis",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 467
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Fabio Borini",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 467
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 701
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2261
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "EL",
+    "Player_Name": "Vincenzo Grifo",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 468
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Yusuf Yazıcı",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 624
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Timo Werner",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2808
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2654
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "L1",
+    "Player_Name": "Christopher Nkunku",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2733
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GB1",
+    "Player_Name": "Cesc Fàbregas",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 1328
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "GR1",
+    "Player_Name": "Youssef El Arabi",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 1641
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CIT",
+    "Player_Name": "Dejan Kulusevski",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 469
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "PO1",
+    "Player_Name": "Haris Seferovic",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2268
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Daniel Sturridge",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 1252
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "IT1",
+    "Player_Name": "Gonzalo Higuaín",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 2974
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "BE1",
+    "Player_Name": "Tolu Arokodare",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 548
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "FAC",
+    "Player_Name": "Juan Mata",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 470
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "EL",
+    "Player_Name": "Karl Toko Ekambi",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 627
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "SC1",
+    "Player_Name": "Odsonne Edouard",
+    "Minutes_Per_Contibution": 78.0,
+    "Total_Minutes": 1568
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Vincent Aboubakar",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 471
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Sam Cosgrove",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 471
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "L1",
+    "Player_Name": "Reiss Nelson",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 628
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 550
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "DK1",
+    "Player_Name": "Alexander Lind",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 943
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Jackson Martínez",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 629
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "DKP",
+    "Player_Name": "Marvin Egho",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 472
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Andriy Bliznichenko",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 472
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Hulk",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Alexis Sánchez",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Oleksandr Gladkyi",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 1182
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RUP",
+    "Player_Name": "Egor Golenkov",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 552
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "BE1",
+    "Player_Name": "Islam Slimani",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 631
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 2919
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CDR",
+    "Player_Name": "Álvaro Negredo",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 474
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Sven Schipplock",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 870
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Artem Dzyuba",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 633
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "BE1",
+    "Player_Name": "Michael Frey",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 554
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Ricky van Wolfswinkel",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 554
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Rochinha",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 475
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "GR1",
+    "Player_Name": "Karol Swiderski",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 1267
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "NL1",
+    "Player_Name": "Ruud Boymans",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 792
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 793
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Luka Jović",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 952
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "TR1",
+    "Player_Name": "Radamel Falcao",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 873
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "PO1",
+    "Player_Name": "Luis Díaz",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 1508
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Artem Dovbyk",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 1509
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "NL1",
+    "Player_Name": "Luuk de Jong",
+    "Minutes_Per_Contibution": 79.0,
+    "Total_Minutes": 2861
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "PO1",
+    "Player_Name": "Paulinho",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 477
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GB1",
+    "Player_Name": "Bruno Fernandes",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1193
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GB1",
+    "Player_Name": "Olivier Giroud",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1194
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "IT1",
+    "Player_Name": "Olivier Giroud",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1035
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Carlos Bacca",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2074
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "L1",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2473
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Memphis Depay",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2473
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "James Forrest",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 479
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "RU1",
+    "Player_Name": "Aleksandr Sobolev",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1519
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Kyogo Furuhashi",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2079
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "John Goossens",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 480
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CDR",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 480
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 720
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Gerard Moreno",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 880
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "DK1",
+    "Player_Name": "Alexander Sørloth",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1440
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "DK1",
+    "Player_Name": "Bashkim Kadrii",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 561
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CDR",
+    "Player_Name": "Ivan Rakitic",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 561
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "FR1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2004
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Andrej Kramaric",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 481
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GR1",
+    "Player_Name": "Youssef El Arabi",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1844
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "TR1",
+    "Player_Name": "Burak Yilmaz",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2166
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Kevin De Bruyne",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 722
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "BE1",
+    "Player_Name": "Noa Lang",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1765
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "GR1",
+    "Player_Name": "Alejandro Domínguez",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 2167
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mustafa Pektemek",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 883
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "IT1",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 3054
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Islam Slimani",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1286
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 3056
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "DK1",
+    "Player_Name": "Aron Jóhannsson",
+    "Minutes_Per_Contibution": 80.0,
+    "Total_Minutes": 1207
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "RU1",
+    "Player_Name": "Artem Dzyuba",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2254
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "FR1",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2822
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2098
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Jakub Blaszczykowski",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 1939
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GB1",
+    "Player_Name": "Roberto Firmino",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 1212
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "BE1",
+    "Player_Name": "Jonathan David",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2101
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mauro Icardi",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 1374
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "EL",
+    "Player_Name": "Galeno",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 566
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "BE1",
+    "Player_Name": "Lior Refaelov",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 647
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "IT1",
+    "Player_Name": "Paulo Dybala",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 809
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ES1",
+    "Player_Name": "Mesut Özil",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2025
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Cherif Ndiaye",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 810
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "DK1",
+    "Player_Name": "Kamil Wilczek",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 1620
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "NL1",
+    "Player_Name": "Steven Berghuis",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2596
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Bruno Fernandes",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 568
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "IT1",
+    "Player_Name": "Duván Zapata",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 568
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 568
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Denys Garmash",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 893
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NL1",
+    "Player_Name": "Sébastien Haller",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 1299
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Dimitri Payet",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 812
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Alexis Sánchez",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 1138
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "FR1",
+    "Player_Name": "Randal Kolo Muani",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 488
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Vinicius Junior",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 976
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Wissam Ben Yedder",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 651
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "RU1",
+    "Player_Name": "Danny",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2116
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "FR1",
+    "Player_Name": "Alexandre Lacazette",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2849
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "DFB",
+    "Player_Name": "Henrikh Mkhitaryan",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 570
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Duván Zapata",
+    "Minutes_Per_Contibution": 81.0,
+    "Total_Minutes": 2036
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "DK1",
+    "Player_Name": "Viktor Fischer",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1304
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Vitaliy Buyalskyi",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1060
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "NL1",
+    "Player_Name": "Dusan Tadic",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 2610
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "RU1",
+    "Player_Name": "Mateo Cassierra",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1306
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "RU1",
+    "Player_Name": "Hulk",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1959
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "EL",
+    "Player_Name": "Juan Mata",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 490
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "FAC",
+    "Player_Name": "Chicharito",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 490
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NLP",
+    "Player_Name": "Hakim Ziyech",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 490
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GR1",
+    "Player_Name": "Konstantinos Fortounis",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 817
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Galeno",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 572
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "NL1",
+    "Player_Name": "Nicolai Jörgensen",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 2699
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 900
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Moubarak Boussoufa",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 491
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Kevin Kelsy",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 491
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CDR",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 655
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GB1",
+    "Player_Name": "Mohamed Salah",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1474
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Arjen Robben",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 983
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "L1",
+    "Player_Name": "Jadon Sancho",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 2460
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "Lars Stindl",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1968
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "L1",
+    "Player_Name": "André Hahn",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 738
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GB1",
+    "Player_Name": "Callum Wilson",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1887
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ES1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 2544
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "David Turnbull",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 821
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "FR1",
+    "Player_Name": "Alexis Claude-Maurice",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 657
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "TR1",
+    "Player_Name": "Oltan Karakullukcu",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 493
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Fabio Borini",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 2384
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "Callum Hendry",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 658
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "IT1",
+    "Player_Name": "Mattia Destro",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1234
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Leroy Sané",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1317
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GR1",
+    "Player_Name": "Kiril Despodov",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 659
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "SC1",
+    "Player_Name": "James Forrest",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 2308
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "IT1",
+    "Player_Name": "Ademola Lookman",
+    "Minutes_Per_Contibution": 82.0,
+    "Total_Minutes": 1732
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "TR1",
+    "Player_Name": "Bafétimbi Gomis",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2805
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "EL",
+    "Player_Name": "Konstantinos Fortounis",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 495
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GR1",
+    "Player_Name": "Fotis Ioannidis",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 908
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Demba Ba",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 661
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "EL",
+    "Player_Name": "Talisca",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 496
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 827
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "BE1",
+    "Player_Name": "Ianis Hagi",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 579
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Franck Ribéry",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 1241
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Deniz Undav",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2896
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "IT1",
+    "Player_Name": "Cheick Diabaté",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 662
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "NL1",
+    "Player_Name": "Steven Berghuis",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2648
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "EL",
+    "Player_Name": "Romelu Lukaku",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 497
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ES1",
+    "Player_Name": "Gonzalo Higuaín",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 1740
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 663
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 746
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 1990
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2571
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "DKP",
+    "Player_Name": "Tonni Adamsen",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 498
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "IT1",
+    "Player_Name": "Amin Younes",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 498
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 1080
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Bruno Fernandes",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 748
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "L1",
+    "Player_Name": "Henrikh Mkhitaryan",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2577
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GRP",
+    "Player_Name": "Marcus Berg",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 499
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Konstantin Tyukavin",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 1331
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Gonzalo Higuaín",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 832
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "IT1",
+    "Player_Name": "Victor Osimhen",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2581
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Troy Parrott",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 583
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "ES1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 2001
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "ES1",
+    "Player_Name": "Iago Aspas",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 1751
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "GB1",
+    "Player_Name": "Harry Kane",
+    "Minutes_Per_Contibution": 83.0,
+    "Total_Minutes": 3086
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Romelu Lukaku",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2004
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Dusan Tadic",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2172
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "BE1",
+    "Player_Name": "Paul Onuachu",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2590
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Dusan Tadic",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 585
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 585
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "FR1",
+    "Player_Name": "Tetê",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 585
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Heung-min Son",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 502
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GB1",
+    "Player_Name": "Kelechi Iheanacho",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 753
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Vladyslav Vanat",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1004
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2594
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Jonas Hofmann",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 670
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "SC1",
+    "Player_Name": "Alfredo Morelos",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2094
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GRP",
+    "Player_Name": "David Fuster",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 503
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2685
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Emil Forsberg",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2350
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Jhon Córdoba",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1847
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "NL1",
+    "Player_Name": "Ruud Vormer",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 672
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "PO1",
+    "Player_Name": "Tiquinho Soares",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1092
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Liel Abada",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1260
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Johan Elmander",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 504
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "RU1",
+    "Player_Name": "Sardar Azmoun",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2101
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "RU1",
+    "Player_Name": "Aleksandr Erokhin",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 841
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Kostyantyn Kravchenko",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 589
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Mario Mandzukic",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2020
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "SC1",
+    "Player_Name": "Anthony Stokes",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1010
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Júnior Moraes",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1852
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "SC1",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1347
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NL1",
+    "Player_Name": "Arkadiusz Milik",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1264
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Kevin Nisbet",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 927
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Tim Matavz",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1602
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2783
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GB1",
+    "Player_Name": "Riyad Mahrez",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1941
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Dieumerci Mbokani",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1688
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Wayne Rooney",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 2448
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ES1",
+    "Player_Name": "James Rodríguez",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1182
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Loïs Openda",
+    "Minutes_Per_Contibution": 84.0,
+    "Total_Minutes": 1267
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 507
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "NL1",
+    "Player_Name": "Oussama Tannane",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 845
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "BE1",
+    "Player_Name": "Joseph Paintsil",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2367
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "RU1",
+    "Player_Name": "Vitinho",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1015
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GR1",
+    "Player_Name": "Rafik Djebbour",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2030
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Mauro Icardi",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1269
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Taison",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1354
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Franck Ribéry",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2116
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "IT1",
+    "Player_Name": "Gianluca Scamacca",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 508
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 932
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Bafétimbi Gomis",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 678
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "FR1",
+    "Player_Name": "Wissam Ben Yedder",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2543
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Andriy Yarmolenko",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 933
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GB1",
+    "Player_Name": "Kevin De Bruyne",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2800
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GR1",
+    "Player_Name": "Alejandro Domínguez",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1358
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Romelu Lukaku",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2888
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "Eran Zahavi",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1529
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GR1",
+    "Player_Name": "Konstantinos Fortounis",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 765
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "BE1",
+    "Player_Name": "Gustaf Nilsson",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 680
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 680
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Hakim Ziyech",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1617
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "FR1",
+    "Player_Name": "Wissam Ben Yedder",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2128
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Kamil Wilczek",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 681
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CL",
+    "Player_Name": "Yacine Brahimi",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 681
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Quincy Promes",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2299
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "PO1",
+    "Player_Name": "Rafa",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2044
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "BE1",
+    "Player_Name": "Nikolaos Karelis",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 511
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jonas",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 2130
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1964
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "DK1",
+    "Player_Name": "Dame N'Doye",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 1025
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Álvaro Morata",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 598
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Sadio Mané",
+    "Minutes_Per_Contibution": 85.0,
+    "Total_Minutes": 940
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Andrija Zivkovic",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 514
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Ádám Szalai",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 771
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Georges-Kevin N'Koudou",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 514
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "RU1",
+    "Player_Name": "Marcos Pizzelli",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1029
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "IT1",
+    "Player_Name": "Luis Muriel",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1544
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "EL",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 772
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "PO1",
+    "Player_Name": "Raúl Jiménez",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 772
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Scott Sinclair",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 515
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "NL1",
+    "Player_Name": "Vincent Janssen",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 2748
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Theo Walcott",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 859
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GB1",
+    "Player_Name": "Philippe Coutinho",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1117
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "L1",
+    "Player_Name": "Marco Reus",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 2322
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Harry Kane",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 602
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Philippe Coutinho",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 516
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Sébastien Haller",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 774
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Darko Lemajic",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 516
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "NL1",
+    "Player_Name": "Alireza Jahanbakhsh",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 2839
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "SC1",
+    "Player_Name": "Georgios Giakoumakis",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 861
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "TR1",
+    "Player_Name": "Fernandão",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 861
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 775
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GRP",
+    "Player_Name": "Adrián Lucero",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 517
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "GRP",
+    "Player_Name": "Petros Mantalos",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 517
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Josip Ilicic",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 517
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "L1",
+    "Player_Name": "Christopher Nkunku",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1897
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Stefan Kießling",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 3019
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1467
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "SC1",
+    "Player_Name": "Kris Commons",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1985
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CDR",
+    "Player_Name": "Gerard Moreno",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 518
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Guus Til",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 518
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "NL1",
+    "Player_Name": "Graziano Pellè",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 2504
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Marko Devic",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1468
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "PO1",
+    "Player_Name": "Bas Dost",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 2591
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "FAC",
+    "Player_Name": "Jordi Gómez",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 605
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GR1",
+    "Player_Name": "Karim Ansarifard",
+    "Minutes_Per_Contibution": 86.0,
+    "Total_Minutes": 1902
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Antoine Griezmann",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 519
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Jean-Christophe Bahebeck",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 692
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RUP",
+    "Player_Name": "Quincy Promes",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 692
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mbaye Diagne",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 2510
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Luiz Adriano",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1645
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Clinton N'Jie",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 866
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "IT1",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 2252
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Ricardo Quaresma",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 520
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GRP",
+    "Player_Name": "Stefanos Athanasiadis",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 520
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Benito Raman",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1214
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Imoh Ezekiel",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1561
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ES1",
+    "Player_Name": "Paco Alcácer",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 694
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Andriy Yarmolenko",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1996
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "GB1",
+    "Player_Name": "Glenn Murray",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 868
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Lautaro Martínez",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 521
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Eran Zahavi",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 521
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Wissam Ben Yedder",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 2171
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "PO1",
+    "Player_Name": "Óscar Cardozo",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1738
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 2955
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Stefanos Athanasiadis",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 696
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "FAC",
+    "Player_Name": "Paul Gallagher",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 522
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Antonio Colak",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1392
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mario Gómez",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 2700
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Nikola Kalinic",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1221
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Aleksandr Kokorin",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 698
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "IT1",
+    "Player_Name": "Paulo Dybala",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 2356
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Gareth Bale",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 873
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "TR1",
+    "Player_Name": "Umut Bulut",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 1486
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Fredrik Gulbrandsen",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 612
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Luuk de Jong",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 3060
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "Yorbe Vertessen",
+    "Minutes_Per_Contibution": 87.0,
+    "Total_Minutes": 787
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Myrto Uzuni",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 700
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "RU1",
+    "Player_Name": "Roman Shirokov",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1226
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "IT1",
+    "Player_Name": "Duván Zapata",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 613
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Artem Dovbyk",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2628
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ES1",
+    "Player_Name": "Matheus Cunha",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1052
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "SC1",
+    "Player_Name": "Alex Schalk",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1403
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Arjen Robben",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 877
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "PO1",
+    "Player_Name": "Mehdi Taremi",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2633
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Alfredo Morelos",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1493
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "BE1",
+    "Player_Name": "Landry Dimata",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1493
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CDR",
+    "Player_Name": "Luis Suárez",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 527
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Paco Alcácer",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 527
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GR1",
+    "Player_Name": "Michael Olaitan",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1054
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Mehdi Taremi",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 615
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GR1",
+    "Player_Name": "Petros Mantalos",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 615
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Hirving Lozano",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 615
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Theo Walcott",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2285
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2373
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "RU1",
+    "Player_Name": "Aleksandr Kokorin",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 879
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "BE1",
+    "Player_Name": "Lior Refaelov",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1672
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Nils Petersen",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1232
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "RU1",
+    "Player_Name": "Sardar Azmoun",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 968
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Vincent Aboubakar",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1320
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1497
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "L1",
+    "Player_Name": "Sébastien Haller",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1233
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Ilya Kvasnytsya",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 881
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Fashion Sakala",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1410
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "PO1",
+    "Player_Name": "Álvaro Djaló",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 617
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "James Rodríguez",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2292
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Leon Bailey",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 529
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "TR1",
+    "Player_Name": "Cenk Sahin",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 529
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 794
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "ES1",
+    "Player_Name": "David Villa",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1412
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GRP",
+    "Player_Name": "Sergio Araujo",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 530
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "PO1",
+    "Player_Name": "Pizzi",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2827
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Marco Reus",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1502
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "NL1",
+    "Player_Name": "Arkadiusz Milik",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2474
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "FR1",
+    "Player_Name": "Moussa Dembélé",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2210
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "L1",
+    "Player_Name": "Jamal Musiala",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 2211
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "SC1",
+    "Player_Name": "Kemar Roofe",
+    "Minutes_Per_Contibution": 88.0,
+    "Total_Minutes": 1150
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Kévin Gameiro",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 531
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 708
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Alex Teixeira",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1770
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1417
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "SC1",
+    "Player_Name": "Jota",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1860
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "GB1",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2480
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "IT1",
+    "Player_Name": "Domenico Berardi",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2836
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "SC1",
+    "Player_Name": "Guy Melamed",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 709
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "PO1",
+    "Player_Name": "Konstantinos Mitroglou",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2216
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GR1",
+    "Player_Name": "Thomas Murg",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 798
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Bernard",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 798
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "RU1",
+    "Player_Name": "Ablaye Mbengue",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 798
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Alexandru Maxim",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1685
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "PO1",
+    "Player_Name": "Gonçalo Ramos",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2306
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Mario Götze",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 887
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "L1",
+    "Player_Name": "Ishak Belfodil",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1863
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "NL1",
+    "Player_Name": "Umar Sadiq",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 621
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "PO1",
+    "Player_Name": "Lima",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2307
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "TR1",
+    "Player_Name": "Cenk Tosun",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1953
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "FR1",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2842
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "IT1",
+    "Player_Name": "Moise Kean",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 533
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "Lucas Alario",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1244
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Reza Ghoochannejhad",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 711
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "RU1",
+    "Player_Name": "Konstantin Tyukavin",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 711
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2578
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NL1",
+    "Player_Name": "Luuk de Jong",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2845
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "L1",
+    "Player_Name": "Andrej Kramaric",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1423
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "GR1",
+    "Player_Name": "Youssef El Arabi",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 801
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "IT1",
+    "Player_Name": "Fabio Quagliarella",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1157
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "RUP",
+    "Player_Name": "Ivan Sergeev",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 534
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "TR1",
+    "Player_Name": "Enner Valencia",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1068
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Aritz Aduriz",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 801
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "RU1",
+    "Player_Name": "Arsen Khubulov",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 623
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GR1",
+    "Player_Name": "Sebastián Palacios",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 890
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2315
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Steven Bergwijn",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1336
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "BE1",
+    "Player_Name": "Xavier Mercier",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 535
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Ryan Babel",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 892
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "TR1",
+    "Player_Name": "Mbaye Diagne",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1249
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "RU1",
+    "Player_Name": "Artem Dzyuba",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1606
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 714
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Júnior Moraes",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 982
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "PO1",
+    "Player_Name": "Moussa Marega",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2411
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "DK1",
+    "Player_Name": "Pieros Sotiriou",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 893
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Kylian Mbappé",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 536
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Marlos",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1787
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "ES1",
+    "Player_Name": "Antoine Griezmann",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2860
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Éver Banega",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 715
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "EL",
+    "Player_Name": "Paco Alcácer",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 715
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "ES1",
+    "Player_Name": "Gerard Moreno",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2682
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GB1",
+    "Player_Name": "Raheem Sterling",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 2594
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Francesco Caputo",
+    "Minutes_Per_Contibution": 89.0,
+    "Total_Minutes": 1700
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "RU1",
+    "Player_Name": "Roman Pavlyuchenko",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 716
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Dieumerci Mbokani",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2060
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Mesut Özil",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 627
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "DK1",
+    "Player_Name": "Elias Achouri",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 717
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "SC1",
+    "Player_Name": "Anthony Stokes",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2689
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GR1",
+    "Player_Name": "El Arbi Hillel Soudani",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 1076
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "TR1",
+    "Player_Name": "Bafétimbi Gomis",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 807
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "PO1",
+    "Player_Name": "Bruno Duarte",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 987
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "DK1",
+    "Player_Name": "Kamil Wilczek",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 1975
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "PO1",
+    "Player_Name": "Paulinho",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2065
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "CL",
+    "Player_Name": "Edin Dzeko",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 1078
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "EL",
+    "Player_Name": "Andraz Sporar",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 719
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Florian Thauvin",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2966
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 809
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Willian",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 899
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Stefan Johansen",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Lionel Messi",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 630
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ES1",
+    "Player_Name": "Vinicius Junior",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2700
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Aaron Ramsey",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Stevie Mallan",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 540
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "NL1",
+    "Player_Name": "Alfred Finnbogason",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2701
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2342
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "TR1",
+    "Player_Name": "Hugo Almeida",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 1443
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Nicolas Pépé",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 902
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "José Sosa",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 451
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Eden Hazard",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 451
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "PO1",
+    "Player_Name": "Islam Slimani",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2887
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ES1",
+    "Player_Name": "Imanol Agirretxe",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 1173
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2166
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "James Rodríguez",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 1625
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "NL1",
+    "Player_Name": "Hirving Lozano",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2349
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ES1",
+    "Player_Name": "Antoine Griezmann",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2530
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "IT1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 90.0,
+    "Total_Minutes": 2803
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Josh Maja",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 724
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Raúl Jiménez",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 543
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "IT1",
+    "Player_Name": "Ciro Immobile",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2716
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "TR1",
+    "Player_Name": "Henry Onyekuru",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 815
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "SC1",
+    "Player_Name": "Patrick Roberts",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1902
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "SC1",
+    "Player_Name": "Ryan Christie",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 906
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "GRP",
+    "Player_Name": "Fiorin Durmishaj",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 453
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "TR1",
+    "Player_Name": "Alexander Sørloth",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2990
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "GB1",
+    "Player_Name": "Diego Costa",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2084
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RUP",
+    "Player_Name": "Vladimir Pisarskiy",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 544
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "David Neres",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 635
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Joshua Zirkzee",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2088
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "RU1",
+    "Player_Name": "Fedor Smolov",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2542
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "EL",
+    "Player_Name": "Amine Gouiri",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 454
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Renan Oliveira",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 454
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Dele Alli",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 454
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "CIT",
+    "Player_Name": "Miroslav Klose",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 454
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1090
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "EL",
+    "Player_Name": "Bukayo Saka",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 545
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Yevgen Seleznyov",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 545
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "Jean-Kévin Augustin",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1272
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Viktor Tsygankov",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1363
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "L1",
+    "Player_Name": "Sébastien Haller",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2181
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "ES1",
+    "Player_Name": "Isco",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1636
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "NL1",
+    "Player_Name": "Donyell Malen",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2455
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1364
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ES1",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1092
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "TR1",
+    "Player_Name": "Pablo Batalla",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2916
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Ángel Di María",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2005
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "FR1",
+    "Player_Name": "Hugo Ekitiké",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1276
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Alexander Söderlund",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 547
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Bas Dost",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1094
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RUP",
+    "Player_Name": "Mateo Cassierra",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 456
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "TR1",
+    "Player_Name": "Ömer Sismanoglu",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 821
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "L1",
+    "Player_Name": "Jan-Niklas Beste",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1186
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Kasper Dolberg",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1460
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "L1",
+    "Player_Name": "Randal Kolo Muani",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2647
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Érick Gutiérrez",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 639
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 913
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GB1",
+    "Player_Name": "Sergio Agüero",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2374
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "RU1",
+    "Player_Name": "Hulk",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 2283
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CL",
+    "Player_Name": "Ángel Di María",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 822
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "ES1",
+    "Player_Name": "Neymar",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 1736
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "GR1",
+    "Player_Name": "Sergio Araujo",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 640
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "EL",
+    "Player_Name": "Mason Greenwood",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 640
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "IT1",
+    "Player_Name": "Federico Bernardeschi",
+    "Minutes_Per_Contibution": 91.0,
+    "Total_Minutes": 823
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "TR1",
+    "Player_Name": "Shinji Kagawa",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 549
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "ES1",
+    "Player_Name": "Jude Bellingham",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1373
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "IT1",
+    "Player_Name": "Zlatan Ibrahimović",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1007
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "SC1",
+    "Player_Name": "Lionel Ainsworth",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1923
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "FAC",
+    "Player_Name": "Anthony Martial",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 641
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "ES1",
+    "Player_Name": "Pablo Sarabia",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2381
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "NL1",
+    "Player_Name": "Hirving Lozano",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2473
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "SFA",
+    "Player_Name": "Christian Doidge",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 458
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "NL1",
+    "Player_Name": "Memphis Depay",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2565
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "BE1",
+    "Player_Name": "Tarik Tissoudali",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2199
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "FR1",
+    "Player_Name": "Memphis Depay",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2933
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Kingsley Coman",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 550
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "DK1",
+    "Player_Name": "Teemu Pukki",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1925
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "Carlos Vinícius",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1100
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "FR1",
+    "Player_Name": "Alexandre Lacazette",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2935
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Szabolcs Huszti",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1651
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "IT1",
+    "Player_Name": "Miroslav Klose",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1835
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "L1",
+    "Player_Name": "Andrej Kramaric",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2386
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Wayne Rooney",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2019
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Myron Boadu",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2019
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Luiz Adriano",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2111
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "CL",
+    "Player_Name": "Antoine Griezmann",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 459
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "CL",
+    "Player_Name": "Juan Cuadrado",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 551
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "RU1",
+    "Player_Name": "Aleksandr Kokorin",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1745
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "CL",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 643
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "IT1",
+    "Player_Name": "Lautaro Martínez",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2574
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "Dusan Tadic",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2942
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "PO1",
+    "Player_Name": "James Rodríguez",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1747
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "IT1",
+    "Player_Name": "Nicola Sansone",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 736
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "SC1",
+    "Player_Name": "David Turnbull",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 644
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "PO1",
+    "Player_Name": "Éder",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1472
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "PO1",
+    "Player_Name": "Nabil Ghilas",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 460
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "IT1",
+    "Player_Name": "Paulo Dybala",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1749
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "RU1",
+    "Player_Name": "Fedor Chalov",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2302
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Mario Götze",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2026
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "Sébastien Haller",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2579
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GB1",
+    "Player_Name": "Gabriel Jesus",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2027
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "NL1",
+    "Player_Name": "Vaclav Cerny",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1198
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "CL",
+    "Player_Name": "Wayne Rooney",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 461
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "PO1",
+    "Player_Name": "Jovane",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 461
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "EL",
+    "Player_Name": "Daichi Kamada",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 738
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Sidney Sam",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1384
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "PO1",
+    "Player_Name": "Pizzi",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 2123
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "TR1",
+    "Player_Name": "Didier Drogba",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1016
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "CL",
+    "Player_Name": "Douglas Costa",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 462
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "FR1",
+    "Player_Name": "Nabil Fekir",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 462
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "ECLQ",
+    "Player_Name": "Kevin Diks",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 462
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Paul Onuachu",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 462
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "NL1",
+    "Player_Name": "Luuk de Jong",
+    "Minutes_Per_Contibution": 92.0,
+    "Total_Minutes": 1756
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "RU1",
+    "Player_Name": "Aleksandr Erokhin",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 925
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "BE1",
+    "Player_Name": "Anders Dreyer",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1203
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "CL",
+    "Player_Name": "Thomas Müller",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 926
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "L1",
+    "Player_Name": "Josip Drmic",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 463
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "EL",
+    "Player_Name": "Rafa",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 463
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "NL1",
+    "Player_Name": "Bas Dost",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 463
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "GRP",
+    "Player_Name": "Marko Livaja",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 556
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "PO1",
+    "Player_Name": "Islam Slimani",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1112
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "EL",
+    "Player_Name": "Borja Iglesias",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 556
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "ES1",
+    "Player_Name": "João Félix",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 649
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "IT1",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2689
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "NL1",
+    "Player_Name": "David Neres",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 464
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "CL",
+    "Player_Name": "Duván Zapata",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 464
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "FR1",
+    "Player_Name": "Memphis Depay",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1021
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "RU1",
+    "Player_Name": "Fedor Chalov",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1021
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "TR1",
+    "Player_Name": "Pierre Webó",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1114
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "ELQ",
+    "Player_Name": "Viktor Fischer",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 557
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Sergio Canales",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 557
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Aaron Ramsey",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1764
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "RU1",
+    "Player_Name": "Fedor Chalov",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 650
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "EL",
+    "Player_Name": "Júnior Moraes",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 743
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "BE1",
+    "Player_Name": "Raphael Holzhauser",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2973
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "ES1",
+    "Player_Name": "Karim Benzema",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2044
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "IT1",
+    "Player_Name": "Francesco Totti",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1673
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "DFB",
+    "Player_Name": "Bas Dost",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 465
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Konstantinos Fortounis",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 558
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Leroy Sané",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 558
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "ES1",
+    "Player_Name": "Ousmane Dembélé",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 930
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "L1",
+    "Player_Name": "Eric Maxim Choupo-Moting",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1116
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Alexandre Lacazette",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 651
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "RU1",
+    "Player_Name": "Mateo Cassierra",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1860
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "GRP",
+    "Player_Name": "Ronald Vargas",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 465
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "FR1",
+    "Player_Name": "Radamel Falcao",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2139
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "GB1",
+    "Player_Name": "Philippe Coutinho",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 930
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Max Kruse",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2047
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Zeljko Ljubenovic",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1210
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "NL1",
+    "Player_Name": "Anastasios Douvikas",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2141
+  },
+  {
+    "Season": 2023,
+    "Competition_ID": "GB1",
+    "Player_Name": "Ollie Watkins",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1583
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Andreas Cornelius",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1490
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Jérémy Perbet",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1397
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "IT1",
+    "Player_Name": "Edinson Cavani",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2981
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "GB1",
+    "Player_Name": "Riyad Mahrez",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1491
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "SC1",
+    "Player_Name": "Moussa Dembélé",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1305
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "TR1",
+    "Player_Name": "Kerem Aktürkoğlu",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 839
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Maxime Lestienne",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1865
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "GB1",
+    "Player_Name": "Samuel Eto'o",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1306
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "BE1",
+    "Player_Name": "Jelle Vossen",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1959
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "BE1",
+    "Player_Name": "Tuur Dierckx",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 653
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "DK1",
+    "Player_Name": "Godsway Donyoh",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 653
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CLQ",
+    "Player_Name": "Kady Borges",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 653
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "PO1",
+    "Player_Name": "João Tomás",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 840
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Moussa Marega",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 840
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "CDR",
+    "Player_Name": "Ángel Di María",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 560
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "PO1",
+    "Player_Name": "Cristian Tello",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1400
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "GB1",
+    "Player_Name": "Leroy Sané",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1867
+  },
+  {
+    "Season": 2021,
+    "Competition_ID": "DK1",
+    "Player_Name": "Kasper Kusk",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 747
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Pierre-Emerick Aubameyang",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 934
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "GR1",
+    "Player_Name": "Dimitrios Papadopoulos",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 934
+  },
+  {
+    "Season": 2017,
+    "Competition_ID": "GB1",
+    "Player_Name": "Harry Kane",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 3083
+  },
+  {
+    "Season": 2013,
+    "Competition_ID": "L1",
+    "Player_Name": "Robert Lewandowski",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 2803
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "NL1",
+    "Player_Name": "Quincy Promes",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1495
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "UKR1",
+    "Player_Name": "Facundo Ferreyra",
+    "Minutes_Per_Contibution": 93.0,
+    "Total_Minutes": 1215
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "TR1",
+    "Player_Name": "Bogdan Stancu",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 1870
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "ES1",
+    "Player_Name": "Kévin Gameiro",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 935
+  },
+  {
+    "Season": 2022,
+    "Competition_ID": "CL",
+    "Player_Name": "Julián Álvarez",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 468
+  },
+  {
+    "Season": 2016,
+    "Competition_ID": "L1",
+    "Player_Name": "Timo Werner",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 2434
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "CL",
+    "Player_Name": "Cristiano Ronaldo",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 749
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "PO1",
+    "Player_Name": "Hyun-jun Suk",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 1779
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "SC1",
+    "Player_Name": "Leigh Griffiths",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 656
+  },
+  {
+    "Season": 2019,
+    "Competition_ID": "IT1",
+    "Player_Name": "Dries Mertens",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 1688
+  },
+  {
+    "Season": 2020,
+    "Competition_ID": "FR1",
+    "Player_Name": "Wissam Ben Yedder",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 2626
+  },
+  {
+    "Season": 2015,
+    "Competition_ID": "DKP",
+    "Player_Name": "Morten ‘Duncan’ Rasmussen",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 469
+  },
+  {
+    "Season": 2014,
+    "Competition_ID": "EL",
+    "Player_Name": "Rodrigo Palacio",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 469
+  },
+  {
+    "Season": 2018,
+    "Competition_ID": "EL",
+    "Player_Name": "Giovani Lo Celso",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 563
+  },
+  {
+    "Season": 2012,
+    "Competition_ID": "L1",
+    "Player_Name": "Marco Reus",
+    "Minutes_Per_Contibution": 94.0,
+    "Total_Minutes": 2346
+  }
+]

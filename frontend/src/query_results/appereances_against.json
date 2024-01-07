@@ -1,0 +1,7002 @@
+﻿[
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 28
+  },
+  {
+    "Player_1_ID": 197545,
+    "Player_1_Name": "Ander Capa",
+    "player_2_id": 238868,
+    "Player_2_Name": "Rubén Peña",
+    "Appereances_Against": 27
+  },
+  {
+    "Player_1_ID": 81988,
+    "Player_1_Name": "Sergi Enrich",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 26
+  },
+  {
+    "Player_1_ID": 98249,
+    "Player_1_Name": "Takashi Inui",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 26
+  },
+  {
+    "Player_1_ID": 197545,
+    "Player_1_Name": "Ander Capa",
+    "player_2_id": 266795,
+    "Player_2_Name": "Gonzalo Escalante",
+    "Appereances_Against": 25
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 24
+  },
+  {
+    "Player_1_ID": 71548,
+    "Player_1_Name": "Anaitz Arbilla",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 24
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 23
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 20
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 19
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 19
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 19
+  },
+  {
+    "Player_1_ID": 154059,
+    "Player_1_Name": "Charles",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 19
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 94308,
+    "Player_1_Name": "Marko Dmitrović",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 18
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 197545,
+    "Player_1_Name": "Ander Capa",
+    "player_2_id": 263727,
+    "Player_2_Name": "Joan Jordán",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 27992,
+    "Player_2_Name": "Luka Modric",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 17
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 85258,
+    "Player_1_Name": "Mikel Balenziaga",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 25557,
+    "Player_2_Name": "Sergio Ramos",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 255508,
+    "Player_1_Name": "Iñaki Williams",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 18944,
+    "Player_2_Name": "Gerard Piqué",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 16
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 92947,
+    "Player_1_Name": "Sergi Gómez",
+    "player_2_id": 309110,
+    "Player_2_Name": "Brais Méndez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 138927,
+    "Player_1_Name": "Daniel Carvajal",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 309110,
+    "Player_1_Name": "Brais Méndez",
+    "player_2_id": 396894,
+    "Player_2_Name": "Maxi Gómez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 255508,
+    "Player_1_Name": "Iñaki Williams",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 221316,
+    "Player_1_Name": "Lucas Vázquez",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 15
+  },
+  {
+    "Player_1_ID": 127108,
+    "Player_1_Name": "Florian Lejeune",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 223725,
+    "Player_2_Name": "Munir El Haddadi",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 62920,
+    "Player_1_Name": "Víctor Ruiz",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 197135,
+    "Player_2_Name": "Joseba Zaldua",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 44501,
+    "Player_2_Name": "Marcelo",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 27389,
+    "Player_2_Name": "Kévin Gameiro",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 26066,
+    "Player_1_Name": "Iván Ramis",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 62920,
+    "Player_1_Name": "Víctor Ruiz",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 39907,
+    "Player_1_Name": "Pape Diop",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 223725,
+    "Player_1_Name": "Munir El Haddadi",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 197545,
+    "Player_1_Name": "Ander Capa",
+    "player_2_id": 374077,
+    "Player_2_Name": "Christian Rivera",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 108390,
+    "Player_2_Name": "Thibaut Courtois",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 59344,
+    "Player_2_Name": "Asier Illarramendi",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 170472,
+    "Player_1_Name": "Dimitri Foulquier",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 39907,
+    "Player_2_Name": "Pape Diop",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 39907,
+    "Player_2_Name": "Pape Diop",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 138927,
+    "Player_1_Name": "Daniel Carvajal",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 73185,
+    "Player_2_Name": "Lucas Pérez",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 39907,
+    "Player_1_Name": "Pape Diop",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 93935,
+    "Player_2_Name": "Sergio Escudero",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 14
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 57825,
+    "Player_2_Name": "Jorge Molina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 164055,
+    "Player_1_Name": "David Juncà",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 108390,
+    "Player_1_Name": "Thibaut Courtois",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 40888,
+    "Player_2_Name": "Beñat Etxebarria",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 40888,
+    "Player_2_Name": "Beñat Etxebarria",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54928,
+    "Player_1_Name": "Diego Godín",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 44073,
+    "Player_1_Name": "Adrián González",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 16635,
+    "Player_1_Name": "Juanfran Torres",
+    "player_2_id": 18922,
+    "Player_2_Name": "Karim Benzema",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 99353,
+    "Player_1_Name": "Portu",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 39907,
+    "Player_1_Name": "Pape Diop",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 87469,
+    "Player_1_Name": "Cote",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 139336,
+    "Player_1_Name": "Paulo Oliveira",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72310,
+    "Player_1_Name": "Javi López",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 197135,
+    "Player_2_Name": "Joseba Zaldua",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 59323,
+    "Player_2_Name": "Cristhian Stuani",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 58884,
+    "Player_1_Name": "Nacho Fernández",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 44501,
+    "Player_2_Name": "Marcelo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 252677,
+    "Player_1_Name": "José Luis Morales",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 51710,
+    "Player_2_Name": "Sergio Asenjo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 51710,
+    "Player_2_Name": "Sergio Asenjo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 221150,
+    "Player_1_Name": "Djené",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 99353,
+    "Player_1_Name": "Portu",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 165007,
+    "Player_2_Name": "Denis Suárez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 229804,
+    "Player_2_Name": "Aritz Elustondo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 252677,
+    "Player_1_Name": "José Luis Morales",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 59344,
+    "Player_2_Name": "Asier Illarramendi",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 31909,
+    "Player_2_Name": "Toni Kroos",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 175449,
+    "Player_1_Name": "Moi Gómez",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 99353,
+    "Player_1_Name": "Portu",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59344,
+    "Player_1_Name": "Asier Illarramendi",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 197545,
+    "Player_1_Name": "Ander Capa",
+    "player_2_id": 281755,
+    "Player_2_Name": "Iván Alejo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 63290,
+    "Player_1_Name": "Víctor Sánchez",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 93935,
+    "Player_1_Name": "Sergio Escudero",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 70934,
+    "Player_2_Name": "Nolito",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 52469,
+    "Player_1_Name": "Mikel San José",
+    "player_2_id": 59375,
+    "Player_2_Name": "David Zurutuza",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59344,
+    "Player_1_Name": "Asier Illarramendi",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 229804,
+    "Player_1_Name": "Aritz Elustondo",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 93936,
+    "Player_2_Name": "Kike García",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 150948,
+    "Player_2_Name": "Recio",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 149498,
+    "Player_2_Name": "Gabriel Paulista",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 149498,
+    "Player_2_Name": "Gabriel Paulista",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 433049,
+    "Player_2_Name": "Youssef En-Nesyri",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 85258,
+    "Player_1_Name": "Mikel Balenziaga",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 51710,
+    "Player_2_Name": "Sergio Asenjo",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 13
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 172015,
+    "Player_1_Name": "Fernando Pacheco",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 172015,
+    "Player_1_Name": "Fernando Pacheco",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 8198,
+    "Player_2_Name": "Cristiano Ronaldo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 22969,
+    "Player_1_Name": "Gabi",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 149498,
+    "Player_1_Name": "Gabriel Paulista",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16635,
+    "Player_1_Name": "Juanfran Torres",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 40888,
+    "Player_2_Name": "Beñat Etxebarria",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 177046,
+    "Player_1_Name": "Rubén Duarte",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65467,
+    "Player_1_Name": "Vicente Iborra",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 251106,
+    "Player_2_Name": "Enes Ünal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 51510,
+    "Player_1_Name": "Ángel Rodríguez",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 251106,
+    "Player_2_Name": "Enes Ünal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 63290,
+    "Player_1_Name": "Víctor Sánchez",
+    "player_2_id": 64411,
+    "Player_2_Name": "Juanfran Moreno",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 34370,
+    "Player_2_Name": "Diego López",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 229804,
+    "Player_2_Name": "Aritz Elustondo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 61812,
+    "Player_1_Name": "Yuri Berchiche",
+    "player_2_id": 223725,
+    "Player_2_Name": "Munir El Haddadi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 127837,
+    "Player_2_Name": "Ibai Gómez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 138927,
+    "Player_1_Name": "Daniel Carvajal",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 18922,
+    "Player_2_Name": "Karim Benzema",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 44352,
+    "Player_2_Name": "Luis Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54245,
+    "Player_1_Name": "Markel Susaeta",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 52469,
+    "Player_1_Name": "Mikel San José",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 126737,
+    "Player_2_Name": "Juanmi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 30677,
+    "Player_1_Name": "Gustavo Cabral",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 52469,
+    "Player_1_Name": "Mikel San José",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 30677,
+    "Player_1_Name": "Gustavo Cabral",
+    "player_2_id": 74230,
+    "Player_2_Name": "Pablo Sarabia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 22969,
+    "Player_1_Name": "Gabi",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 56134,
+    "Player_1_Name": "Javi Fuego",
+    "player_2_id": 74230,
+    "Player_2_Name": "Pablo Sarabia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34370,
+    "Player_1_Name": "Diego López",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 74230,
+    "Player_2_Name": "Pablo Sarabia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 15693,
+    "Player_1_Name": "Xabi Prieto",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 119235,
+    "Player_1_Name": "Carlos Bacca",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 212391,
+    "Player_2_Name": "Roger Martí",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 212391,
+    "Player_2_Name": "Roger Martí",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 202984,
+    "Player_2_Name": "Roque Mesa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 71571,
+    "Player_1_Name": "Ander Iturraspe",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 250845,
+    "Player_2_Name": "José María Giménez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 74230,
+    "Player_2_Name": "Pablo Sarabia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34370,
+    "Player_1_Name": "Diego López",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 61812,
+    "Player_1_Name": "Yuri Berchiche",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 44352,
+    "Player_2_Name": "Luis Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 20506,
+    "Player_1_Name": "Andrés Guardado",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 61812,
+    "Player_1_Name": "Yuri Berchiche",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 70934,
+    "Player_1_Name": "Nolito",
+    "player_2_id": 197135,
+    "Player_2_Name": "Joseba Zaldua",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 126737,
+    "Player_2_Name": "Juanmi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 154059,
+    "Player_1_Name": "Charles",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59375,
+    "Player_1_Name": "David Zurutuza",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 64411,
+    "Player_2_Name": "Juanfran Moreno",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 65467,
+    "Player_2_Name": "Vicente Iborra",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32522,
+    "Player_1_Name": "Antonio Barragán",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 142021,
+    "Player_1_Name": "Sergi Darder",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 44352,
+    "Player_2_Name": "Luis Suárez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 221899,
+    "Player_2_Name": "Léo Baptistão",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 18944,
+    "Player_2_Name": "Gerard Piqué",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 223725,
+    "Player_2_Name": "Munir El Haddadi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 172015,
+    "Player_1_Name": "Fernando Pacheco",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 226012,
+    "Player_2_Name": "David Soria",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 44501,
+    "Player_2_Name": "Marcelo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 58884,
+    "Player_1_Name": "Nacho Fernández",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59344,
+    "Player_1_Name": "Asier Illarramendi",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 229804,
+    "Player_2_Name": "Aritz Elustondo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34370,
+    "Player_1_Name": "Diego López",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 15693,
+    "Player_1_Name": "Xabi Prieto",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 183647,
+    "Player_2_Name": "Álvaro González",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 99353,
+    "Player_1_Name": "Portu",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59344,
+    "Player_1_Name": "Asier Illarramendi",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54928,
+    "Player_1_Name": "Diego Godín",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 40888,
+    "Player_1_Name": "Beñat Etxebarria",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 22969,
+    "Player_1_Name": "Gabi",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 25557,
+    "Player_2_Name": "Sergio Ramos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 52469,
+    "Player_1_Name": "Mikel San José",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 52469,
+    "Player_2_Name": "Mikel San José",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 70934,
+    "Player_1_Name": "Nolito",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65318,
+    "Player_1_Name": "Jaume Costa",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16635,
+    "Player_1_Name": "Juanfran Torres",
+    "player_2_id": 27992,
+    "Player_2_Name": "Luka Modric",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 51710,
+    "Player_2_Name": "Sergio Asenjo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 62920,
+    "Player_2_Name": "Víctor Ruiz",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 138927,
+    "Player_1_Name": "Daniel Carvajal",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 62920,
+    "Player_2_Name": "Víctor Ruiz",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 39907,
+    "Player_2_Name": "Pape Diop",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 113045,
+    "Player_2_Name": "Rubén Pérez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 62920,
+    "Player_2_Name": "Víctor Ruiz",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 108390,
+    "Player_2_Name": "Thibaut Courtois",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 56134,
+    "Player_1_Name": "Javi Fuego",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 108390,
+    "Player_2_Name": "Thibaut Courtois",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 113045,
+    "Player_2_Name": "Rubén Pérez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 22969,
+    "Player_2_Name": "Gabi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 93935,
+    "Player_1_Name": "Sergio Escudero",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 172015,
+    "Player_2_Name": "Fernando Pacheco",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59375,
+    "Player_1_Name": "David Zurutuza",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 22969,
+    "Player_2_Name": "Gabi",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 356197,
+    "Player_1_Name": "Alfonso Pedraza",
+    "player_2_id": 483573,
+    "Player_2_Name": "Martín Aguirregabiria",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 255508,
+    "Player_1_Name": "Iñaki Williams",
+    "player_2_id": 355628,
+    "Player_2_Name": "Igor Zubeldia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 255653,
+    "Player_1_Name": "Santi Mina",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 355628,
+    "Player_2_Name": "Igor Zubeldia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 37917,
+    "Player_1_Name": "Nabil El Zhar",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 355628,
+    "Player_2_Name": "Igor Zubeldia",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54928,
+    "Player_1_Name": "Diego Godín",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 226012,
+    "Player_1_Name": "David Soria",
+    "player_2_id": 351478,
+    "Player_2_Name": "Mikel Oyarzabal",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 255508,
+    "Player_1_Name": "Iñaki Williams",
+    "player_2_id": 396894,
+    "Player_2_Name": "Maxi Gómez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 300168,
+    "Player_2_Name": "Mikel Vesga",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 309110,
+    "Player_2_Name": "Brais Méndez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 139895,
+    "Player_1_Name": "Tomás Pina",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 290249,
+    "Player_2_Name": "Mauro Arambarri",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 296622,
+    "Player_2_Name": "Marco Asensio",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 63463,
+    "Player_1_Name": "Daniel Wass",
+    "player_2_id": 309110,
+    "Player_2_Name": "Brais Méndez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 199369,
+    "Player_1_Name": "Sandro Ramírez",
+    "player_2_id": 433049,
+    "Player_2_Name": "Youssef En-Nesyri",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 251106,
+    "Player_1_Name": "Enes Ünal",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 95641,
+    "Player_2_Name": "Darko Brasanac",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 99353,
+    "Player_1_Name": "Portu",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 255653,
+    "Player_1_Name": "Santi Mina",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 58884,
+    "Player_1_Name": "Nacho Fernández",
+    "player_2_id": 59561,
+    "Player_2_Name": "Dani Parejo",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 93936,
+    "Player_2_Name": "Kike García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 93936,
+    "Player_2_Name": "Kike García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 172015,
+    "Player_1_Name": "Fernando Pacheco",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 221316,
+    "Player_1_Name": "Lucas Vázquez",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 150948,
+    "Player_2_Name": "Recio",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 154059,
+    "Player_2_Name": "Charles",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 93936,
+    "Player_2_Name": "Kike García",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 150948,
+    "Player_2_Name": "Recio",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 149498,
+    "Player_2_Name": "Gabriel Paulista",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 59375,
+    "Player_2_Name": "David Zurutuza",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 70934,
+    "Player_2_Name": "Nolito",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 266807,
+    "Player_2_Name": "Ángel Correa",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 12
+  },
+  {
+    "Player_1_ID": 16635,
+    "Player_1_Name": "Juanfran Torres",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 21725,
+    "Player_1_Name": "Filipe Luís",
+    "player_2_id": 28003,
+    "Player_2_Name": "Lionel Messi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 62920,
+    "Player_1_Name": "Víctor Ruiz",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 92947,
+    "Player_2_Name": "Sergi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54245,
+    "Player_1_Name": "Markel Susaeta",
+    "player_2_id": 59344,
+    "Player_2_Name": "Asier Illarramendi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 92947,
+    "Player_2_Name": "Sergi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119235,
+    "Player_1_Name": "Carlos Bacca",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 88490,
+    "Player_2_Name": "Aleix Vidal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 88490,
+    "Player_2_Name": "Aleix Vidal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 175449,
+    "Player_1_Name": "Moi Gómez",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 20506,
+    "Player_2_Name": "Andrés Guardado",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 138927,
+    "Player_1_Name": "Daniel Carvajal",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 40888,
+    "Player_1_Name": "Beñat Etxebarria",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 59344,
+    "Player_2_Name": "Asier Illarramendi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59344,
+    "Player_1_Name": "Asier Illarramendi",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 85383,
+    "Player_2_Name": "Rubén Sobrino",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 140776,
+    "Player_1_Name": "Yannick Carrasco",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 148928,
+    "Player_2_Name": "Saúl Ñíguez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 85370,
+    "Player_2_Name": "Sergi Roberto",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 81999,
+    "Player_1_Name": "Joselu",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 138927,
+    "Player_1_Name": "Daniel Carvajal",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 59344,
+    "Player_2_Name": "Asier Illarramendi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 251106,
+    "Player_1_Name": "Enes Ünal",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 63463,
+    "Player_1_Name": "Daniel Wass",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59323,
+    "Player_1_Name": "Cristhian Stuani",
+    "player_2_id": 142021,
+    "Player_2_Name": "Sergi Darder",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 80293,
+    "Player_1_Name": "Aïssa Mandi",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 27992,
+    "Player_2_Name": "Luka Modric",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 67082,
+    "Player_2_Name": "Vitolo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 250845,
+    "Player_1_Name": "José María Giménez",
+    "player_2_id": 255508,
+    "Player_2_Name": "Iñaki Williams",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 140776,
+    "Player_2_Name": "Yannick Carrasco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 255488,
+    "Player_2_Name": "Yeray Álvarez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 255501,
+    "Player_2_Name": "Iñigo Lekue",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 71548,
+    "Player_1_Name": "Anaitz Arbilla",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 255501,
+    "Player_2_Name": "Iñigo Lekue",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 22969,
+    "Player_1_Name": "Gabi",
+    "player_2_id": 27992,
+    "Player_2_Name": "Luka Modric",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 250845,
+    "Player_1_Name": "José María Giménez",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 22969,
+    "Player_1_Name": "Gabi",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 172015,
+    "Player_1_Name": "Fernando Pacheco",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 52469,
+    "Player_1_Name": "Mikel San José",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 139895,
+    "Player_2_Name": "Tomás Pina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 251106,
+    "Player_1_Name": "Enes Ünal",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 226012,
+    "Player_1_Name": "David Soria",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 57825,
+    "Player_2_Name": "Jorge Molina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 57825,
+    "Player_2_Name": "Jorge Molina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7600,
+    "Player_1_Name": "Andrés Iniesta",
+    "player_2_id": 44501,
+    "Player_2_Name": "Marcelo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 251106,
+    "Player_2_Name": "Enes Ünal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 20506,
+    "Player_1_Name": "Andrés Guardado",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 251106,
+    "Player_2_Name": "Enes Ünal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 178425,
+    "Player_1_Name": "Dani García",
+    "player_2_id": 250845,
+    "Player_2_Name": "José María Giménez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 20506,
+    "Player_1_Name": "Andrés Guardado",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 229604,
+    "Player_2_Name": "Gerónimo Rulli",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 18944,
+    "Player_2_Name": "Gerard Piqué",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15693,
+    "Player_1_Name": "Xabi Prieto",
+    "player_2_id": 18944,
+    "Player_2_Name": "Gerard Piqué",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 230784,
+    "Player_2_Name": "Thomas Partey",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 226012,
+    "Player_2_Name": "David Soria",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 226012,
+    "Player_2_Name": "David Soria",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 229604,
+    "Player_2_Name": "Gerónimo Rulli",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 226012,
+    "Player_2_Name": "David Soria",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 138803,
+    "Player_2_Name": "Francisco Portillo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 226012,
+    "Player_2_Name": "David Soria",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 85288,
+    "Player_1_Name": "Isco",
+    "player_2_id": 229604,
+    "Player_2_Name": "Gerónimo Rulli",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 221899,
+    "Player_2_Name": "Léo Baptistão",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 221899,
+    "Player_2_Name": "Léo Baptistão",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 223725,
+    "Player_2_Name": "Munir El Haddadi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 129444,
+    "Player_2_Name": "David López",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 229604,
+    "Player_2_Name": "Gerónimo Rulli",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 65467,
+    "Player_2_Name": "Vicente Iborra",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 127837,
+    "Player_2_Name": "Ibai Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 221316,
+    "Player_1_Name": "Lucas Vázquez",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 126737,
+    "Player_2_Name": "Juanmi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 127189,
+    "Player_2_Name": "Geoffrey Kondogbia",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 126737,
+    "Player_2_Name": "Juanmi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 212391,
+    "Player_1_Name": "Roger Martí",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 126716,
+    "Player_2_Name": "Paco Alcácer",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 44352,
+    "Player_2_Name": "Luis Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 44352,
+    "Player_2_Name": "Luis Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 221316,
+    "Player_2_Name": "Lucas Vázquez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 250845,
+    "Player_2_Name": "José María Giménez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 39381,
+    "Player_1_Name": "Gareth Bale",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 113045,
+    "Player_1_Name": "Rubén Pérez",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65467,
+    "Player_1_Name": "Vicente Iborra",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51474,
+    "Player_1_Name": "Mikel Rico",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 214775,
+    "Player_2_Name": "Óliver Torres",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54245,
+    "Player_1_Name": "Markel Susaeta",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 70934,
+    "Player_1_Name": "Nolito",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16635,
+    "Player_1_Name": "Juanfran Torres",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 92947,
+    "Player_1_Name": "Sergi Gómez",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 21725,
+    "Player_1_Name": "Filipe Luís",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 221150,
+    "Player_2_Name": "Djené",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 203043,
+    "Player_2_Name": "Pedro Bigas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34370,
+    "Player_1_Name": "Diego López",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 54928,
+    "Player_2_Name": "Diego Godín",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 64411,
+    "Player_1_Name": "Juanfran Moreno",
+    "player_2_id": 74230,
+    "Player_2_Name": "Pablo Sarabia",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 58115,
+    "Player_1_Name": "Yoel Rodríguez",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 177467,
+    "Player_1_Name": "Gerard Moreno",
+    "player_2_id": 212391,
+    "Player_2_Name": "Roger Martí",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 34601,
+    "Player_2_Name": "Raúl García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 138927,
+    "Player_2_Name": "Daniel Carvajal",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 128488,
+    "Player_1_Name": "Alejandro Gálvez",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 74857,
+    "Player_2_Name": "Marc-André ter Stegen",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59344,
+    "Player_1_Name": "Asier Illarramendi",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 65318,
+    "Player_2_Name": "Jaume Costa",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54928,
+    "Player_1_Name": "Diego Godín",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 44352,
+    "Player_2_Name": "Luis Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 85370,
+    "Player_1_Name": "Sergi Roberto",
+    "player_2_id": 125781,
+    "Player_2_Name": "Antoine Griezmann",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 213260,
+    "Player_2_Name": "Rubén García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7874,
+    "Player_1_Name": "Gorka Iraizoz",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 153427,
+    "Player_1_Name": "Bebé",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 65230,
+    "Player_2_Name": "Sergio Busquets",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 52469,
+    "Player_1_Name": "Mikel San José",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 54245,
+    "Player_2_Name": "Markel Susaeta",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 197135,
+    "Player_2_Name": "Joseba Zaldua",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 192009,
+    "Player_2_Name": "Unai López",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 54245,
+    "Player_2_Name": "Markel Susaeta",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 192009,
+    "Player_2_Name": "Unai López",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 197545,
+    "Player_2_Name": "Ander Capa",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 81988,
+    "Player_1_Name": "Sergi Enrich",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 71548,
+    "Player_1_Name": "Anaitz Arbilla",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 60890,
+    "Player_1_Name": "Fabián Orellana",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 71571,
+    "Player_1_Name": "Ander Iturraspe",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51587,
+    "Player_1_Name": "Pedro León",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 63290,
+    "Player_1_Name": "Víctor Sánchez",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 126737,
+    "Player_2_Name": "Juanmi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 57825,
+    "Player_1_Name": "Jorge Molina",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44069,
+    "Player_1_Name": "Pedro Mosquera",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 54245,
+    "Player_2_Name": "Markel Susaeta",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 56067,
+    "Player_1_Name": "Pablo Piatti",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 16635,
+    "Player_2_Name": "Juanfran Torres",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 76746,
+    "Player_2_Name": "Damián Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74857,
+    "Player_1_Name": "Marc-André ter Stegen",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34370,
+    "Player_1_Name": "Diego López",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 63463,
+    "Player_2_Name": "Daniel Wass",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 221322,
+    "Player_2_Name": "José Gayà",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74229,
+    "Player_1_Name": "Koke",
+    "player_2_id": 221899,
+    "Player_2_Name": "Léo Baptistão",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 39907,
+    "Player_1_Name": "Pape Diop",
+    "player_2_id": 54235,
+    "Player_2_Name": "Iker Muniain",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 65467,
+    "Player_2_Name": "Vicente Iborra",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 122155,
+    "Player_2_Name": "Willian José",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 81988,
+    "Player_2_Name": "Sergi Enrich",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 108390,
+    "Player_1_Name": "Thibaut Courtois",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 226012,
+    "Player_2_Name": "David Soria",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 142021,
+    "Player_1_Name": "Sergi Darder",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 188854,
+    "Player_2_Name": "Manu Trigueros",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 81999,
+    "Player_2_Name": "Joselu",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 40888,
+    "Player_2_Name": "Beñat Etxebarria",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 61812,
+    "Player_1_Name": "Yuri Berchiche",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 49500,
+    "Player_1_Name": "Roberto Rosales",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 63463,
+    "Player_2_Name": "Daniel Wass",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 25557,
+    "Player_1_Name": "Sergio Ramos",
+    "player_2_id": 32522,
+    "Player_2_Name": "Antonio Barragán",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51510,
+    "Player_1_Name": "Ángel Rodríguez",
+    "player_2_id": 74229,
+    "Player_2_Name": "Koke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 119905,
+    "Player_1_Name": "Hugo Mallo",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54245,
+    "Player_1_Name": "Markel Susaeta",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51474,
+    "Player_1_Name": "Mikel Rico",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 184767,
+    "Player_2_Name": "Ximo Navarro",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 73185,
+    "Player_1_Name": "Lucas Pérez",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 63290,
+    "Player_1_Name": "Víctor Sánchez",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 71548,
+    "Player_1_Name": "Anaitz Arbilla",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51710,
+    "Player_1_Name": "Sergio Asenjo",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 63290,
+    "Player_2_Name": "Víctor Sánchez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 93936,
+    "Player_1_Name": "Kike García",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 73250,
+    "Player_1_Name": "Mario Gaspar",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 63040,
+    "Player_2_Name": "Oier Sanjurjo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16635,
+    "Player_1_Name": "Juanfran Torres",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 21725,
+    "Player_1_Name": "Filipe Luís",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 170472,
+    "Player_1_Name": "Dimitri Foulquier",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 62920,
+    "Player_1_Name": "Víctor Ruiz",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 73185,
+    "Player_2_Name": "Lucas Pérez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27389,
+    "Player_1_Name": "Kévin Gameiro",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 85288,
+    "Player_2_Name": "Isco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 12249,
+    "Player_1_Name": "Éver Banega",
+    "player_2_id": 32467,
+    "Player_2_Name": "Ivan Rakitic",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 73185,
+    "Player_1_Name": "Lucas Pérez",
+    "player_2_id": 73250,
+    "Player_2_Name": "Mario Gaspar",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 85258,
+    "Player_2_Name": "Mikel Balenziaga",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 63290,
+    "Player_1_Name": "Víctor Sánchez",
+    "player_2_id": 66106,
+    "Player_2_Name": "Sergio Canales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 149498,
+    "Player_1_Name": "Gabriel Paulista",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 165007,
+    "Player_1_Name": "Denis Suárez",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 81988,
+    "Player_1_Name": "Sergi Enrich",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 67080,
+    "Player_2_Name": "Víctor Laguardia",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 51510,
+    "Player_1_Name": "Ángel Rodríguez",
+    "player_2_id": 119905,
+    "Player_2_Name": "Hugo Mallo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44352,
+    "Player_1_Name": "Luis Suárez",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 61812,
+    "Player_1_Name": "Yuri Berchiche",
+    "player_2_id": 121483,
+    "Player_2_Name": "Jan Oblak",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 164770,
+    "Player_1_Name": "Raphaël Varane",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 99353,
+    "Player_1_Name": "Portu",
+    "player_2_id": 178425,
+    "Player_2_Name": "Dani García",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 20506,
+    "Player_1_Name": "Andrés Guardado",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 62920,
+    "Player_2_Name": "Víctor Ruiz",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54245,
+    "Player_1_Name": "Markel Susaeta",
+    "player_2_id": 113045,
+    "Player_2_Name": "Rubén Pérez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 67082,
+    "Player_2_Name": "Vitolo",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 61812,
+    "Player_2_Name": "Yuri Berchiche",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 188854,
+    "Player_1_Name": "Manu Trigueros",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 119235,
+    "Player_2_Name": "Carlos Bacca",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32522,
+    "Player_1_Name": "Antonio Barragán",
+    "player_2_id": 252677,
+    "Player_2_Name": "José Luis Morales",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 177046,
+    "Player_2_Name": "Rubén Duarte",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 122155,
+    "Player_1_Name": "Willian José",
+    "player_2_id": 177046,
+    "Player_2_Name": "Rubén Duarte",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 158863,
+    "Player_1_Name": "Iñigo Martínez",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 113045,
+    "Player_2_Name": "Rubén Pérez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 177046,
+    "Player_2_Name": "Rubén Duarte",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7593,
+    "Player_1_Name": "Fernando Navarro",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18922,
+    "Player_1_Name": "Karim Benzema",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 140776,
+    "Player_2_Name": "Yannick Carrasco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 39907,
+    "Player_1_Name": "Pape Diop",
+    "player_2_id": 111508,
+    "Player_2_Name": "Allan Nyom",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 170472,
+    "Player_1_Name": "Dimitri Foulquier",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 28003,
+    "Player_1_Name": "Lionel Messi",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 108390,
+    "Player_2_Name": "Thibaut Courtois",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 29124,
+    "Player_1_Name": "Aritz Aduriz",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 111508,
+    "Player_2_Name": "Allan Nyom",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 92947,
+    "Player_1_Name": "Sergi Gómez",
+    "player_2_id": 175449,
+    "Player_2_Name": "Moi Gómez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 175446,
+    "Player_2_Name": "Jonny Otto",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 96718,
+    "Player_1_Name": "Óscar de Marcos",
+    "player_2_id": 108390,
+    "Player_2_Name": "Thibaut Courtois",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 108390,
+    "Player_2_Name": "Thibaut Courtois",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 125781,
+    "Player_1_Name": "Antoine Griezmann",
+    "player_2_id": 175446,
+    "Player_2_Name": "Jonny Otto",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 172015,
+    "Player_2_Name": "Fernando Pacheco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 172015,
+    "Player_2_Name": "Fernando Pacheco",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 72047,
+    "Player_1_Name": "Iago Aspas",
+    "player_2_id": 177467,
+    "Player_2_Name": "Gerard Moreno",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 39381,
+    "Player_2_Name": "Gareth Bale",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 58884,
+    "Player_1_Name": "Nacho Fernández",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 59561,
+    "Player_1_Name": "Dani Parejo",
+    "player_2_id": 165007,
+    "Player_2_Name": "Denis Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 39381,
+    "Player_2_Name": "Gareth Bale",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 54235,
+    "Player_1_Name": "Iker Muniain",
+    "player_2_id": 165007,
+    "Player_2_Name": "Denis Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 31909,
+    "Player_1_Name": "Toni Kroos",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 22969,
+    "Player_2_Name": "Gabi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 66106,
+    "Player_1_Name": "Sergio Canales",
+    "player_2_id": 165007,
+    "Player_2_Name": "Denis Suárez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 85258,
+    "Player_1_Name": "Mikel Balenziaga",
+    "player_2_id": 170472,
+    "Player_2_Name": "Dimitri Foulquier",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 8198,
+    "Player_1_Name": "Cristiano Ronaldo",
+    "player_2_id": 22969,
+    "Player_2_Name": "Gabi",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 7663,
+    "Player_1_Name": "Joaquín",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 71905,
+    "Player_2_Name": "Coke",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 148928,
+    "Player_1_Name": "Saúl Ñíguez",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 51587,
+    "Player_2_Name": "Pedro León",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 27992,
+    "Player_1_Name": "Luka Modric",
+    "player_2_id": 60890,
+    "Player_2_Name": "Fabián Orellana",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34370,
+    "Player_1_Name": "Diego López",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 16306,
+    "Player_1_Name": "Casemiro",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15956,
+    "Player_1_Name": "Jesús Navas",
+    "player_2_id": 99353,
+    "Player_2_Name": "Portu",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 65230,
+    "Player_1_Name": "Sergio Busquets",
+    "player_2_id": 98249,
+    "Player_2_Name": "Takashi Inui",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 35773,
+    "Player_1_Name": "Carlos Vela",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 32467,
+    "Player_1_Name": "Ivan Rakitic",
+    "player_2_id": 98249,
+    "Player_2_Name": "Takashi Inui",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 72310,
+    "Player_2_Name": "Javi López",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 18944,
+    "Player_1_Name": "Gerard Piqué",
+    "player_2_id": 72047,
+    "Player_2_Name": "Iago Aspas",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 34601,
+    "Player_1_Name": "Raúl García",
+    "player_2_id": 51510,
+    "Player_2_Name": "Ángel Rodríguez",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 15693,
+    "Player_1_Name": "Xabi Prieto",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 44501,
+    "Player_1_Name": "Marcelo",
+    "player_2_id": 69751,
+    "Player_2_Name": "Jordi Alba",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 121483,
+    "Player_1_Name": "Jan Oblak",
+    "player_2_id": 164770,
+    "Player_2_Name": "Raphaël Varane",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 76746,
+    "Player_1_Name": "Damián Suárez",
+    "player_2_id": 255653,
+    "Player_2_Name": "Santi Mina",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 69751,
+    "Player_1_Name": "Jordi Alba",
+    "player_2_id": 96718,
+    "Player_2_Name": "Óscar de Marcos",
+    "Appereances_Against": 11
+  },
+  {
+    "Player_1_ID": 74230,
+    "Player_1_Name": "Pablo Sarabia",
+    "player_2_id": 158863,
+    "Player_2_Name": "Iñigo Martínez",
+    "Appereances_Against": 11
+  }
+]

@@ -1,0 +1,6897 @@
+﻿[
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ciro Immobile",
+    "Goals_Scored": 250,
+    "Assists": 65,
+    "Minutes_Played": 33299
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Domenico Berardi",
+    "Goals_Scored": 131,
+    "Assists": 87,
+    "Minutes_Played": 26043
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Belotti",
+    "Goals_Scored": 129,
+    "Assists": 33,
+    "Minutes_Played": 24803
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Insigne",
+    "Goals_Scored": 122,
+    "Assists": 95,
+    "Minutes_Played": 30281
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mario Balotelli",
+    "Goals_Scored": 113,
+    "Assists": 20,
+    "Minutes_Played": 17839
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manolo Gabbiadini",
+    "Goals_Scored": 94,
+    "Assists": 25,
+    "Minutes_Played": 18635
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "João Pedro",
+    "Goals_Scored": 88,
+    "Assists": 26,
+    "Minutes_Played": 21167
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Candreva",
+    "Goals_Scored": 84,
+    "Assists": 101,
+    "Minutes_Played": 32958
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stephan El Shaarawy",
+    "Goals_Scored": 83,
+    "Assists": 43,
+    "Minutes_Played": 20023
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Graziano Pellè",
+    "Goals_Scored": 82,
+    "Assists": 28,
+    "Minutes_Played": 12565
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Destro",
+    "Goals_Scored": 82,
+    "Assists": 15,
+    "Minutes_Played": 16830
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Caputo",
+    "Goals_Scored": 70,
+    "Assists": 29,
+    "Minutes_Played": 15305
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Pavoletti",
+    "Goals_Scored": 69,
+    "Assists": 15,
+    "Minutes_Played": 13560
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Di Natale",
+    "Goals_Scored": 68,
+    "Assists": 20,
+    "Minutes_Played": 9980
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Zaza",
+    "Goals_Scored": 68,
+    "Assists": 20,
+    "Minutes_Played": 16130
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vincenzo Grifo",
+    "Goals_Scored": 66,
+    "Assists": 62,
+    "Minutes_Played": 18228
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Bonaventura",
+    "Goals_Scored": 66,
+    "Assists": 52,
+    "Minutes_Played": 27562
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Okaka",
+    "Goals_Scored": 62,
+    "Assists": 21,
+    "Minutes_Played": 16960
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Chiesa",
+    "Goals_Scored": 61,
+    "Assists": 45,
+    "Minutes_Played": 18376
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Sansone",
+    "Goals_Scored": 60,
+    "Assists": 48,
+    "Minutes_Played": 19307
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Borini",
+    "Goals_Scored": 60,
+    "Assists": 28,
+    "Minutes_Played": 17915
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Politano",
+    "Goals_Scored": 59,
+    "Assists": 43,
+    "Minutes_Played": 19305
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Toni",
+    "Goals_Scored": 59,
+    "Assists": 18,
+    "Minutes_Played": 9771
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniel Caligiuri",
+    "Goals_Scored": 58,
+    "Assists": 56,
+    "Minutes_Played": 26622
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Éder",
+    "Goals_Scored": 58,
+    "Assists": 26,
+    "Minutes_Played": 12694
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Petagna",
+    "Goals_Scored": 54,
+    "Assists": 34,
+    "Minutes_Played": 16149
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Caprari",
+    "Goals_Scored": 53,
+    "Assists": 23,
+    "Minutes_Played": 16761
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Pellegrini",
+    "Goals_Scored": 52,
+    "Assists": 57,
+    "Minutes_Played": 21017
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Paloschi",
+    "Goals_Scored": 52,
+    "Assists": 11,
+    "Minutes_Played": 13628
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Parolo",
+    "Goals_Scored": 51,
+    "Assists": 28,
+    "Minutes_Played": 26746
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Orsolini",
+    "Goals_Scored": 50,
+    "Assists": 26,
+    "Minutes_Played": 12217
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Napoleoni",
+    "Goals_Scored": 48,
+    "Assists": 14,
+    "Minutes_Played": 12772
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Soriano",
+    "Goals_Scored": 46,
+    "Assists": 43,
+    "Minutes_Played": 25709
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Matri",
+    "Goals_Scored": 46,
+    "Assists": 13,
+    "Minutes_Played": 10433
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Kevin Lasagna",
+    "Goals_Scored": 45,
+    "Assists": 17,
+    "Minutes_Played": 15213
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Gilardino",
+    "Goals_Scored": 45,
+    "Assists": 10,
+    "Minutes_Played": 10323
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Verdi",
+    "Goals_Scored": 44,
+    "Assists": 35,
+    "Minutes_Played": 14576
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Moise Kean",
+    "Goals_Scored": 44,
+    "Assists": 6,
+    "Minutes_Played": 8224
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jorginho",
+    "Goals_Scored": 43,
+    "Assists": 26,
+    "Minutes_Played": 31539
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Borriello",
+    "Goals_Scored": 43,
+    "Assists": 9,
+    "Minutes_Played": 8570
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Sau",
+    "Goals_Scored": 42,
+    "Assists": 18,
+    "Minutes_Played": 11270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Inglese",
+    "Goals_Scored": 41,
+    "Assists": 11,
+    "Minutes_Played": 9975
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Domenico Criscito",
+    "Goals_Scored": 39,
+    "Assists": 31,
+    "Minutes_Played": 25208
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giampaolo Pazzini",
+    "Goals_Scored": 39,
+    "Assists": 6,
+    "Minutes_Played": 7824
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Scamacca",
+    "Goals_Scored": 39,
+    "Assists": 4,
+    "Minutes_Played": 6071
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Totti",
+    "Goals_Scored": 38,
+    "Assists": 43,
+    "Minutes_Played": 8620
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Pinamonti",
+    "Goals_Scored": 38,
+    "Assists": 10,
+    "Minutes_Played": 10921
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Patrick Cutrone",
+    "Goals_Scored": 37,
+    "Assists": 14,
+    "Minutes_Played": 8267
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Macheda",
+    "Goals_Scored": 36,
+    "Assists": 9,
+    "Minutes_Played": 7385
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Bernardeschi",
+    "Goals_Scored": 35,
+    "Assists": 34,
+    "Minutes_Played": 14796
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Bonucci",
+    "Goals_Scored": 35,
+    "Assists": 8,
+    "Minutes_Played": 40899
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sergio Pellissier",
+    "Goals_Scored": 35,
+    "Assists": 5,
+    "Minutes_Played": 7802
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Saponara",
+    "Goals_Scored": 32,
+    "Assists": 39,
+    "Minutes_Played": 13166
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Florenzi",
+    "Goals_Scored": 32,
+    "Assists": 34,
+    "Minutes_Played": 24800
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Benassi",
+    "Goals_Scored": 32,
+    "Assists": 19,
+    "Minutes_Played": 17127
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Verde",
+    "Goals_Scored": 32,
+    "Assists": 18,
+    "Minutes_Played": 9506
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Rossi",
+    "Goals_Scored": 32,
+    "Assists": 11,
+    "Minutes_Played": 5164
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sergio Floccari",
+    "Goals_Scored": 32,
+    "Assists": 10,
+    "Minutes_Played": 9817
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Cerci",
+    "Goals_Scored": 31,
+    "Assists": 37,
+    "Minutes_Played": 10409
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Maccarone",
+    "Goals_Scored": 31,
+    "Assists": 13,
+    "Minutes_Played": 7136
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniel Osvaldo",
+    "Goals_Scored": 31,
+    "Assists": 9,
+    "Minutes_Played": 5165
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Bryan Cristante",
+    "Goals_Scored": 30,
+    "Assists": 21,
+    "Minutes_Played": 24340
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Cassano",
+    "Goals_Scored": 29,
+    "Assists": 30,
+    "Minutes_Played": 8458
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo De Silvestri",
+    "Goals_Scored": 29,
+    "Assists": 20,
+    "Minutes_Played": 25805
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Barella",
+    "Goals_Scored": 28,
+    "Assists": 52,
+    "Minutes_Played": 25067
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Raspadori",
+    "Goals_Scored": 28,
+    "Assists": 16,
+    "Minutes_Played": 7083
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Zaccagni",
+    "Goals_Scored": 27,
+    "Assists": 32,
+    "Minutes_Played": 12580
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Danilo D'Ambrosio",
+    "Goals_Scored": 26,
+    "Assists": 24,
+    "Minutes_Played": 24332
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Rigoni",
+    "Goals_Scored": 26,
+    "Assists": 10,
+    "Minutes_Played": 16536
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Zaniolo",
+    "Goals_Scored": 25,
+    "Assists": 15,
+    "Minutes_Played": 8715
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Acerbi",
+    "Goals_Scored": 24,
+    "Assists": 11,
+    "Minutes_Played": 37461
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Bonazzoli",
+    "Goals_Scored": 24,
+    "Assists": 5,
+    "Minutes_Played": 5917
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Amauri",
+    "Goals_Scored": 23,
+    "Assists": 6,
+    "Minutes_Played": 5711
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Baselli",
+    "Goals_Scored": 22,
+    "Assists": 20,
+    "Minutes_Played": 15698
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emanuele Giaccherini",
+    "Goals_Scored": 22,
+    "Assists": 11,
+    "Minutes_Played": 9106
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniel Ciofani",
+    "Goals_Scored": 22,
+    "Assists": 3,
+    "Minutes_Played": 5758
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Aquilani",
+    "Goals_Scored": 21,
+    "Assists": 12,
+    "Minutes_Played": 11860
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Di Lorenzo",
+    "Goals_Scored": 20,
+    "Assists": 36,
+    "Minutes_Played": 21697
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Diego Falcinelli",
+    "Goals_Scored": 20,
+    "Assists": 8,
+    "Minutes_Played": 7405
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Claudio Marchisio",
+    "Goals_Scored": 19,
+    "Assists": 26,
+    "Minutes_Played": 17270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Meggiorini",
+    "Goals_Scored": 19,
+    "Assists": 15,
+    "Minutes_Played": 10362
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Pessina",
+    "Goals_Scored": 19,
+    "Assists": 8,
+    "Minutes_Played": 12151
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Floro Flores",
+    "Goals_Scored": 19,
+    "Assists": 6,
+    "Minutes_Played": 6025
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Diamanti",
+    "Goals_Scored": 18,
+    "Assists": 20,
+    "Minutes_Played": 8389
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Mauri",
+    "Goals_Scored": 18,
+    "Assists": 12,
+    "Minutes_Played": 5898
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Dionisi",
+    "Goals_Scored": 18,
+    "Assists": 7,
+    "Minutes_Played": 5175
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Dimarco",
+    "Goals_Scored": 17,
+    "Assists": 29,
+    "Minutes_Played": 11481
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Zappacosta",
+    "Goals_Scored": 17,
+    "Assists": 24,
+    "Minutes_Played": 17242
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Faraoni",
+    "Goals_Scored": 17,
+    "Assists": 23,
+    "Minutes_Played": 14264
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Gagliardini",
+    "Goals_Scored": 17,
+    "Assists": 12,
+    "Minutes_Played": 13634
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marcello Trotta",
+    "Goals_Scored": 17,
+    "Assists": 11,
+    "Minutes_Played": 5701
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Rolando Bianchi",
+    "Goals_Scored": 17,
+    "Assists": 6,
+    "Minutes_Played": 5005
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Pirlo",
+    "Goals_Scored": 16,
+    "Assists": 24,
+    "Minutes_Played": 10306
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele De Rossi",
+    "Goals_Scored": 16,
+    "Assists": 19,
+    "Minutes_Played": 17664
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sebastian Giovinco",
+    "Goals_Scored": 16,
+    "Assists": 14,
+    "Minutes_Played": 4010
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Lodi",
+    "Goals_Scored": 16,
+    "Assists": 14,
+    "Minutes_Played": 9238
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Poli",
+    "Goals_Scored": 16,
+    "Assists": 14,
+    "Minutes_Played": 17398
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Mancini",
+    "Goals_Scored": 16,
+    "Assists": 8,
+    "Minutes_Played": 19635
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Pucciarelli",
+    "Goals_Scored": 16,
+    "Assists": 7,
+    "Minutes_Played": 9711
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirco Antenucci",
+    "Goals_Scored": 16,
+    "Assists": 6,
+    "Minutes_Played": 5010
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristiano Biraghi",
+    "Goals_Scored": 15,
+    "Assists": 41,
+    "Minutes_Played": 28746
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Darmian",
+    "Goals_Scored": 15,
+    "Assists": 21,
+    "Minutes_Played": 27562
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Rolando Mandragora",
+    "Goals_Scored": 15,
+    "Assists": 12,
+    "Minutes_Played": 15221
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Romagnoli",
+    "Goals_Scored": 15,
+    "Assists": 6,
+    "Minutes_Played": 29699
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Rômulo",
+    "Goals_Scored": 14,
+    "Assists": 24,
+    "Minutes_Played": 12234
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Rafael Tolói",
+    "Goals_Scored": 14,
+    "Assists": 17,
+    "Minutes_Played": 23313
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Ranocchia",
+    "Goals_Scored": 14,
+    "Assists": 6,
+    "Minutes_Played": 16579
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Valoti",
+    "Goals_Scored": 14,
+    "Assists": 4,
+    "Minutes_Played": 5604
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Mancosu",
+    "Goals_Scored": 14,
+    "Assists": 2,
+    "Minutes_Played": 2596
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Locatelli",
+    "Goals_Scored": 13,
+    "Assists": 20,
+    "Minutes_Played": 18962
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Franco Brienza",
+    "Goals_Scored": 13,
+    "Assists": 14,
+    "Minutes_Played": 6450
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giorgio Chiellini",
+    "Goals_Scored": 13,
+    "Assists": 13,
+    "Minutes_Played": 25471
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Sensi",
+    "Goals_Scored": 13,
+    "Assists": 10,
+    "Minutes_Played": 8979
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Frattesi",
+    "Goals_Scored": 13,
+    "Assists": 7,
+    "Minutes_Played": 6796
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Pobega",
+    "Goals_Scored": 13,
+    "Assists": 6,
+    "Minutes_Played": 5030
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Piccoli",
+    "Goals_Scored": 13,
+    "Assists": 3,
+    "Minutes_Played": 2689
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Rugani",
+    "Goals_Scored": 13,
+    "Assists": 2,
+    "Minutes_Played": 15189
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Antonelli",
+    "Goals_Scored": 12,
+    "Assists": 13,
+    "Minutes_Played": 12768
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Valerio Verre",
+    "Goals_Scored": 12,
+    "Assists": 10,
+    "Minutes_Played": 7439
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Conti",
+    "Goals_Scored": 12,
+    "Assists": 10,
+    "Minutes_Played": 8072
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gaetano Castrovilli",
+    "Goals_Scored": 12,
+    "Assists": 8,
+    "Minutes_Played": 8039
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raffaele Palladino",
+    "Goals_Scored": 12,
+    "Assists": 6,
+    "Minutes_Played": 5446
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Armando Izzo",
+    "Goals_Scored": 12,
+    "Assists": 4,
+    "Minutes_Played": 20154
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Tonelli",
+    "Goals_Scored": 12,
+    "Assists": 0,
+    "Minutes_Played": 10829
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gian Marco Ferrari",
+    "Goals_Scored": 11,
+    "Assists": 9,
+    "Minutes_Played": 20117
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Caldara",
+    "Goals_Scored": 11,
+    "Assists": 5,
+    "Minutes_Played": 11569
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Verratti",
+    "Goals_Scored": 10,
+    "Assists": 51,
+    "Minutes_Played": 26861
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Cigarini",
+    "Goals_Scored": 10,
+    "Assists": 27,
+    "Minutes_Played": 16933
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Pasqual",
+    "Goals_Scored": 10,
+    "Assists": 24,
+    "Minutes_Played": 13813
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Danilo Cataldi",
+    "Goals_Scored": 10,
+    "Assists": 19,
+    "Minutes_Played": 15210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Montolivo",
+    "Goals_Scored": 10,
+    "Assists": 15,
+    "Minutes_Played": 12588
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolas Viola",
+    "Goals_Scored": 10,
+    "Assists": 11,
+    "Minutes_Played": 3820
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Sottil",
+    "Goals_Scored": 10,
+    "Assists": 10,
+    "Minutes_Played": 5096
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Miccoli",
+    "Goals_Scored": 10,
+    "Assists": 9,
+    "Minutes_Played": 1982
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Missiroli",
+    "Goals_Scored": 10,
+    "Assists": 9,
+    "Minutes_Played": 16383
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Pasquato",
+    "Goals_Scored": 10,
+    "Assists": 8,
+    "Minutes_Played": 2533
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Masiello",
+    "Goals_Scored": 10,
+    "Assists": 5,
+    "Minutes_Played": 18313
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Colpani",
+    "Goals_Scored": 10,
+    "Assists": 4,
+    "Minutes_Played": 2456
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe De Luca",
+    "Goals_Scored": 10,
+    "Assists": 3,
+    "Minutes_Played": 1702
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Colombo",
+    "Goals_Scored": 10,
+    "Assists": 3,
+    "Minutes_Played": 2877
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Pellegri",
+    "Goals_Scored": 10,
+    "Assists": 2,
+    "Minutes_Played": 1890
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Piovaccari",
+    "Goals_Scored": 10,
+    "Assists": 1,
+    "Minutes_Played": 2412
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sandro Tonali",
+    "Goals_Scored": 9,
+    "Assists": 20,
+    "Minutes_Played": 12958
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Destiny Udogie",
+    "Goals_Scored": 9,
+    "Assists": 9,
+    "Minutes_Played": 6943
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Conti",
+    "Goals_Scored": 9,
+    "Assists": 7,
+    "Minutes_Played": 7219
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Siligardi",
+    "Goals_Scored": 9,
+    "Assists": 6,
+    "Minutes_Played": 5157
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Dessena",
+    "Goals_Scored": 9,
+    "Assists": 5,
+    "Minutes_Played": 11569
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Angelo Ogbonna",
+    "Goals_Scored": 9,
+    "Assists": 2,
+    "Minutes_Played": 24692
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Cerri",
+    "Goals_Scored": 9,
+    "Assists": 1,
+    "Minutes_Played": 2910
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Spinazzola",
+    "Goals_Scored": 8,
+    "Assists": 28,
+    "Minutes_Played": 14348
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Lazzari",
+    "Goals_Scored": 8,
+    "Assists": 26,
+    "Minutes_Played": 18070
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Calabria",
+    "Goals_Scored": 8,
+    "Assists": 20,
+    "Minutes_Played": 17938
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Thiago Motta",
+    "Goals_Scored": 8,
+    "Assists": 13,
+    "Minutes_Played": 14475
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Viviani",
+    "Goals_Scored": 8,
+    "Assists": 10,
+    "Minutes_Played": 5763
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Sturaro",
+    "Goals_Scored": 8,
+    "Assists": 10,
+    "Minutes_Played": 11870
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Cacciatore",
+    "Goals_Scored": 8,
+    "Assists": 10,
+    "Minutes_Played": 14069
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Longo",
+    "Goals_Scored": 8,
+    "Assists": 5,
+    "Minutes_Played": 3493
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolao Cardoso",
+    "Goals_Scored": 8,
+    "Assists": 4,
+    "Minutes_Played": 2146
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emanuele Calaiò",
+    "Goals_Scored": 8,
+    "Assists": 4,
+    "Minutes_Played": 2877
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Lucca",
+    "Goals_Scored": 8,
+    "Assists": 2,
+    "Minutes_Played": 1244
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alfredo Donnarumma",
+    "Goals_Scored": 8,
+    "Assists": 2,
+    "Minutes_Played": 1764
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Iemmello",
+    "Goals_Scored": 8,
+    "Assists": 1,
+    "Minutes_Played": 1542
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuel Di Carmine",
+    "Goals_Scored": 8,
+    "Assists": 1,
+    "Minutes_Played": 2347
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Salvatore Bocchetti",
+    "Goals_Scored": 8,
+    "Assists": 1,
+    "Minutes_Played": 12830
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Peluso",
+    "Goals_Scored": 7,
+    "Assists": 13,
+    "Minutes_Played": 18258
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco D'Alessandro",
+    "Goals_Scored": 7,
+    "Assists": 8,
+    "Minutes_Played": 7602
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Rispoli",
+    "Goals_Scored": 7,
+    "Assists": 8,
+    "Minutes_Played": 8954
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giulio Maggiore",
+    "Goals_Scored": 7,
+    "Assists": 6,
+    "Minutes_Played": 7005
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Rossettini",
+    "Goals_Scored": 7,
+    "Assists": 6,
+    "Minutes_Played": 21018
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Aramu",
+    "Goals_Scored": 7,
+    "Assists": 5,
+    "Minutes_Played": 2215
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Cambiaghi",
+    "Goals_Scored": 7,
+    "Assists": 5,
+    "Minutes_Played": 2374
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Camillo Ciano",
+    "Goals_Scored": 7,
+    "Assists": 5,
+    "Minutes_Played": 2493
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Sansone",
+    "Goals_Scored": 7,
+    "Assists": 4,
+    "Minutes_Played": 2666
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Deiola",
+    "Goals_Scored": 7,
+    "Assists": 3,
+    "Minutes_Played": 6739
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Aleandro Rosi",
+    "Goals_Scored": 7,
+    "Assists": 3,
+    "Minutes_Played": 10456
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Edoardo Goldaniga",
+    "Goals_Scored": 7,
+    "Assists": 3,
+    "Minutes_Played": 12407
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Ceccherini",
+    "Goals_Scored": 7,
+    "Assists": 2,
+    "Minutes_Played": 18537
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Guglielmo Stendardo",
+    "Goals_Scored": 7,
+    "Assists": 1,
+    "Minutes_Played": 9183
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Ceppitelli",
+    "Goals_Scored": 7,
+    "Assists": 1,
+    "Minutes_Played": 12785
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Bastoni",
+    "Goals_Scored": 6,
+    "Assists": 16,
+    "Minutes_Played": 5559
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Ledesma",
+    "Goals_Scored": 6,
+    "Assists": 12,
+    "Minutes_Played": 8783
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Maggio",
+    "Goals_Scored": 6,
+    "Assists": 12,
+    "Minutes_Played": 12803
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ezequiel Schelotto",
+    "Goals_Scored": 6,
+    "Assists": 11,
+    "Minutes_Played": 10869
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Patrick Ciurria",
+    "Goals_Scored": 6,
+    "Assists": 8,
+    "Minutes_Played": 4089
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leandro Greco",
+    "Goals_Scored": 6,
+    "Assists": 8,
+    "Minutes_Played": 8358
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emiliano Moretti",
+    "Goals_Scored": 6,
+    "Assists": 7,
+    "Minutes_Played": 19895
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Coda",
+    "Goals_Scored": 6,
+    "Assists": 5,
+    "Minutes_Played": 2365
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Grassi",
+    "Goals_Scored": 6,
+    "Assists": 5,
+    "Minutes_Played": 11161
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Gastaldello",
+    "Goals_Scored": 6,
+    "Assists": 5,
+    "Minutes_Played": 11905
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Bandinelli",
+    "Goals_Scored": 6,
+    "Assists": 4,
+    "Minutes_Played": 4706
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Caldirola",
+    "Goals_Scored": 6,
+    "Assists": 3,
+    "Minutes_Played": 12780
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Forte",
+    "Goals_Scored": 6,
+    "Assists": 2,
+    "Minutes_Played": 1738
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Pascali",
+    "Goals_Scored": 6,
+    "Assists": 2,
+    "Minutes_Played": 7143
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Kevin Koffi",
+    "Goals_Scored": 6,
+    "Assists": 1,
+    "Minutes_Played": 1899
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Lucarelli",
+    "Goals_Scored": 6,
+    "Assists": 1,
+    "Minutes_Played": 8204
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Angella",
+    "Goals_Scored": 6,
+    "Assists": 0,
+    "Minutes_Played": 4403
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Eros Pisano",
+    "Goals_Scored": 6,
+    "Assists": 0,
+    "Minutes_Played": 6358
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emerson Palmieri",
+    "Goals_Scored": 5,
+    "Assists": 11,
+    "Minutes_Played": 13931
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniel Bessa",
+    "Goals_Scored": 5,
+    "Assists": 9,
+    "Minutes_Played": 6062
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Faragò",
+    "Goals_Scored": 5,
+    "Assists": 9,
+    "Minutes_Played": 7082
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Nocerino",
+    "Goals_Scored": 5,
+    "Assists": 7,
+    "Minutes_Played": 5409
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Falco",
+    "Goals_Scored": 5,
+    "Assists": 6,
+    "Minutes_Played": 2400
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Wilfried Gnonto",
+    "Goals_Scored": 5,
+    "Assists": 5,
+    "Minutes_Played": 1936
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Murgia",
+    "Goals_Scored": 5,
+    "Assists": 5,
+    "Minutes_Played": 5443
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giampiero Pinzi",
+    "Goals_Scored": 5,
+    "Assists": 5,
+    "Minutes_Played": 6322
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Rosina",
+    "Goals_Scored": 5,
+    "Assists": 4,
+    "Minutes_Played": 2339
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonino Ragusa",
+    "Goals_Scored": 5,
+    "Assists": 4,
+    "Minutes_Played": 2980
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Raggi",
+    "Goals_Scored": 5,
+    "Assists": 4,
+    "Minutes_Played": 13273
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Cassata",
+    "Goals_Scored": 5,
+    "Assists": 3,
+    "Minutes_Played": 3643
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luigi Giorgi",
+    "Goals_Scored": 5,
+    "Assists": 3,
+    "Minutes_Played": 3738
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gaetano Letizia",
+    "Goals_Scored": 5,
+    "Assists": 3,
+    "Minutes_Played": 7131
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mateo Retegui",
+    "Goals_Scored": 5,
+    "Assists": 2,
+    "Minutes_Played": 940
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea La Mantia",
+    "Goals_Scored": 5,
+    "Assists": 2,
+    "Minutes_Played": 1188
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Costa",
+    "Goals_Scored": 5,
+    "Assists": 2,
+    "Minutes_Played": 11603
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriel Paletta",
+    "Goals_Scored": 5,
+    "Assists": 2,
+    "Minutes_Played": 11751
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Sammarco",
+    "Goals_Scored": 5,
+    "Assists": 1,
+    "Minutes_Played": 2896
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Rigoni",
+    "Goals_Scored": 5,
+    "Assists": 1,
+    "Minutes_Played": 5792
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Brighi",
+    "Goals_Scored": 5,
+    "Assists": 1,
+    "Minutes_Played": 6318
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Kevin Bonifazi",
+    "Goals_Scored": 5,
+    "Assists": 1,
+    "Minutes_Played": 9967
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Baldanzi",
+    "Goals_Scored": 5,
+    "Assists": 0,
+    "Minutes_Played": 2495
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Gatti",
+    "Goals_Scored": 5,
+    "Assists": 0,
+    "Minutes_Played": 3328
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Bani",
+    "Goals_Scored": 5,
+    "Assists": 0,
+    "Minutes_Played": 11053
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Bastoni",
+    "Goals_Scored": 4,
+    "Assists": 15,
+    "Minutes_Played": 16336
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Lazzari",
+    "Goals_Scored": 4,
+    "Assists": 13,
+    "Minutes_Played": 4746
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Augello",
+    "Goals_Scored": 4,
+    "Assists": 13,
+    "Minutes_Played": 11510
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Molinaro",
+    "Goals_Scored": 4,
+    "Assists": 10,
+    "Minutes_Played": 13023
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Padoin",
+    "Goals_Scored": 4,
+    "Assists": 8,
+    "Minutes_Played": 11851
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristiano Piccini",
+    "Goals_Scored": 4,
+    "Assists": 7,
+    "Minutes_Played": 9999
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Sala",
+    "Goals_Scored": 4,
+    "Assists": 7,
+    "Minutes_Played": 11310
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Biraschi",
+    "Goals_Scored": 4,
+    "Assists": 7,
+    "Minutes_Played": 14736
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raffaele De Vita",
+    "Goals_Scored": 4,
+    "Assists": 6,
+    "Minutes_Played": 2560
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonino Barillà",
+    "Goals_Scored": 4,
+    "Assists": 5,
+    "Minutes_Played": 4932
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Astori",
+    "Goals_Scored": 4,
+    "Assists": 5,
+    "Minutes_Played": 18209
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Insigne",
+    "Goals_Scored": 4,
+    "Assists": 4,
+    "Minutes_Played": 1878
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Di Gaudio",
+    "Goals_Scored": 4,
+    "Assists": 4,
+    "Minutes_Played": 2419
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Magnanelli",
+    "Goals_Scored": 4,
+    "Assists": 4,
+    "Minutes_Played": 16957
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Paganini",
+    "Goals_Scored": 4,
+    "Assists": 3,
+    "Minutes_Played": 3041
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giorgio Scalvini",
+    "Goals_Scored": 4,
+    "Assists": 3,
+    "Minutes_Played": 4785
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gaetano D'Agostino",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 1247
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Edera",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 1359
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Tavano",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 1538
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Enrico Brignola",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 1625
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Eddie Salcedo",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 2161
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Edoardo Bove",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 2544
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Sernicola",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 2672
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Pisacane",
+    "Goals_Scored": 4,
+    "Assists": 2,
+    "Minutes_Played": 9970
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gaetano Monachello",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 1495
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Frank Tsadjout",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 1546
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo De Ceglie",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 3450
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Enzo Maresca",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 3636
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emmanuel Cascione",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 4640
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Brivio",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 5999
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Biava",
+    "Goals_Scored": 4,
+    "Assists": 1,
+    "Minutes_Played": 7371
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniel Maldini",
+    "Goals_Scored": 4,
+    "Assists": 0,
+    "Minutes_Played": 1307
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianni Munari",
+    "Goals_Scored": 4,
+    "Assists": 0,
+    "Minutes_Played": 2336
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Andreolli",
+    "Goals_Scored": 4,
+    "Assists": 0,
+    "Minutes_Played": 7876
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ignazio Abate",
+    "Goals_Scored": 3,
+    "Assists": 15,
+    "Minutes_Played": 14846
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Ghiglione",
+    "Goals_Scored": 3,
+    "Assists": 13,
+    "Minutes_Played": 5743
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Vives",
+    "Goals_Scored": 3,
+    "Assists": 12,
+    "Minutes_Played": 10275
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Depaoli",
+    "Goals_Scored": 3,
+    "Assists": 12,
+    "Minutes_Played": 10738
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Gobbi",
+    "Goals_Scored": 3,
+    "Assists": 12,
+    "Minutes_Played": 17484
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giulio Donati",
+    "Goals_Scored": 3,
+    "Assists": 8,
+    "Minutes_Played": 14536
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Marchese",
+    "Goals_Scored": 3,
+    "Assists": 7,
+    "Minutes_Played": 6589
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Fagioli",
+    "Goals_Scored": 3,
+    "Assists": 6,
+    "Minutes_Played": 2636
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Venuti",
+    "Goals_Scored": 3,
+    "Assists": 6,
+    "Minutes_Played": 8465
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Buongiorno",
+    "Goals_Scored": 3,
+    "Assists": 5,
+    "Minutes_Played": 6877
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Pepe",
+    "Goals_Scored": 3,
+    "Assists": 4,
+    "Minutes_Played": 1744
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Mazzitelli",
+    "Goals_Scored": 3,
+    "Assists": 4,
+    "Minutes_Played": 4065
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Ricci",
+    "Goals_Scored": 3,
+    "Assists": 4,
+    "Minutes_Played": 5785
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Donati",
+    "Goals_Scored": 3,
+    "Assists": 4,
+    "Minutes_Played": 6707
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Barba",
+    "Goals_Scored": 3,
+    "Assists": 4,
+    "Minutes_Played": 9127
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Pozzi",
+    "Goals_Scored": 3,
+    "Assists": 3,
+    "Minutes_Played": 877
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonino La Gumina",
+    "Goals_Scored": 3,
+    "Assists": 3,
+    "Minutes_Played": 2066
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Calderoni",
+    "Goals_Scored": 3,
+    "Assists": 3,
+    "Minutes_Played": 2157
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nadir Zortea",
+    "Goals_Scored": 3,
+    "Assists": 3,
+    "Minutes_Played": 2511
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Ricci",
+    "Goals_Scored": 3,
+    "Assists": 3,
+    "Minutes_Played": 2890
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Rizzo",
+    "Goals_Scored": 3,
+    "Assists": 3,
+    "Minutes_Played": 3249
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Moscardelli",
+    "Goals_Scored": 3,
+    "Assists": 2,
+    "Minutes_Played": 1382
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Cancellieri",
+    "Goals_Scored": 3,
+    "Assists": 2,
+    "Minutes_Played": 1841
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Lollo",
+    "Goals_Scored": 3,
+    "Assists": 2,
+    "Minutes_Played": 2383
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Baschirotto",
+    "Goals_Scored": 3,
+    "Assists": 2,
+    "Minutes_Played": 4878
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Zaccardo",
+    "Goals_Scored": 3,
+    "Assists": 2,
+    "Minutes_Played": 4944
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Vicari",
+    "Goals_Scored": 3,
+    "Assists": 2,
+    "Minutes_Played": 8506
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Tumminello",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 214
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Said Ahmed Said",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 394
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Rocchi",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 1032
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Favilli",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 1287
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Dossena",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 1566
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Battocchio",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 1880
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Melegoni",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 2461
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Antonini",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 3252
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Portanova",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 3883
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Legrottaglie",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 3951
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Lucioni",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 4033
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giulio Migliaccio",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 4517
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Cherubin",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 5948
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Romagnoli",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 7458
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Gazzi",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 10047
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Dario Dainelli",
+    "Goals_Scored": 3,
+    "Assists": 1,
+    "Minutes_Played": 13218
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ferdinando Del Sole",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 145
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Succi",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 400
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Melchiorri",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 617
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Mancosu",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 965
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Elvis Abbruscato",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 1209
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Blanchard",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 2454
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Robert Acquafresca",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 2472
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Pirola",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 3540
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Iacoponi",
+    "Goals_Scored": 3,
+    "Assists": 0,
+    "Minutes_Played": 7982
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Cossu",
+    "Goals_Scored": 2,
+    "Assists": 13,
+    "Minutes_Played": 5101
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pasquale Schiattarella",
+    "Goals_Scored": 2,
+    "Assists": 12,
+    "Minutes_Played": 7978
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Cambiaso",
+    "Goals_Scored": 2,
+    "Assists": 9,
+    "Minutes_Played": 5068
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giandomenico Mesto",
+    "Goals_Scored": 2,
+    "Assists": 9,
+    "Minutes_Played": 6420
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia De Sciglio",
+    "Goals_Scored": 2,
+    "Assists": 9,
+    "Minutes_Played": 19955
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pasquale Mazzocchi",
+    "Goals_Scored": 2,
+    "Assists": 7,
+    "Minutes_Played": 5809
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Raimondi",
+    "Goals_Scored": 2,
+    "Assists": 7,
+    "Minutes_Played": 6153
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Di Gennaro",
+    "Goals_Scored": 2,
+    "Assists": 6,
+    "Minutes_Played": 1772
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Barberis",
+    "Goals_Scored": 2,
+    "Assists": 6,
+    "Minutes_Played": 5674
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Quagliata",
+    "Goals_Scored": 2,
+    "Assists": 6,
+    "Minutes_Played": 5896
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Maurizio Domizzi",
+    "Goals_Scored": 2,
+    "Assists": 6,
+    "Minutes_Played": 7189
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Angelo Palombo",
+    "Goals_Scored": 2,
+    "Assists": 6,
+    "Minutes_Played": 7884
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Valiani",
+    "Goals_Scored": 2,
+    "Assists": 5,
+    "Minutes_Played": 1367
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Kelvin Yeboah",
+    "Goals_Scored": 2,
+    "Assists": 5,
+    "Minutes_Played": 2012
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Nalini",
+    "Goals_Scored": 2,
+    "Assists": 5,
+    "Minutes_Played": 2461
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Marchionni",
+    "Goals_Scored": 2,
+    "Assists": 5,
+    "Minutes_Played": 5514
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Croce",
+    "Goals_Scored": 2,
+    "Assists": 5,
+    "Minutes_Played": 7951
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Guido Marilungo",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 2145
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gaetano Oristanio",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 2811
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Salvatore Molina",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 2968
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "José Mauri",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 4474
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Pasquale",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 4776
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gennaro Sardo",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 4998
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabiano Parisi",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 5332
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Bruno Martella",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 6559
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Biondini",
+    "Goals_Scored": 2,
+    "Assists": 4,
+    "Minutes_Played": 9269
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Rigoni",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 1274
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Pasciuti",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 1664
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tiberio Guarente",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 2688
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Vergassola",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 2763
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Beltrame",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 2775
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emanuele Valeri",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 3079
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cesare Bovo",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 7813
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Cannavaro",
+    "Goals_Scored": 2,
+    "Assists": 3,
+    "Minutes_Played": 13261
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Gaetano",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 326
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Koleosho",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 1062
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Zanoli",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 2225
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Petrucci",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 3083
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Ceccaroni",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 3284
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Lucchini",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 5617
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Gamberini",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 9762
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sebastiano Luperto",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 10373
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alex Ferrari",
+    "Goals_Scored": 2,
+    "Assists": 2,
+    "Minutes_Played": 10376
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Mulattieri",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 289
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Ragatzu",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 393
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Perrotta",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 588
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "David Di Michele",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 692
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fernando Forestieri",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 767
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Brescianini",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 828
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nico Pulzetti",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 944
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Franco Tongya",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 1006
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Valzania",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 1199
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Diego Fabbrini",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 1255
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ilario Monterisi",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 1341
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Tabanelli",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 1631
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Paci",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 2037
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Claud Adjapong",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 2520
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Claudio Terzi",
+    "Goals_Scored": 2,
+    "Assists": 1,
+    "Minutes_Played": 3981
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Magnaghi",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 147
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Paolucci",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 241
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Fabbian",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 370
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Niccolò Giannetti",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 872
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sebastiano Esposito",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 970
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Amato Ciciretti",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 1080
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Frara",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 1165
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Ceravolo",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 1413
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Sprocati",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 1440
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Terlizzi",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 1767
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Caracciolo",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 2855
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Bianchetti",
+    "Goals_Scored": 2,
+    "Assists": 0,
+    "Minutes_Played": 4745
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Santon",
+    "Goals_Scored": 1,
+    "Assists": 11,
+    "Minutes_Played": 12685
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Murru",
+    "Goals_Scored": 1,
+    "Assists": 11,
+    "Minutes_Played": 16164
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Sestu",
+    "Goals_Scored": 1,
+    "Assists": 9,
+    "Minutes_Played": 2168
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Pezzella",
+    "Goals_Scored": 1,
+    "Assists": 9,
+    "Minutes_Played": 8643
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Rovella",
+    "Goals_Scored": 1,
+    "Assists": 8,
+    "Minutes_Played": 5877
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Ricci",
+    "Goals_Scored": 1,
+    "Assists": 7,
+    "Minutes_Played": 3673
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Ruggeri",
+    "Goals_Scored": 1,
+    "Assists": 6,
+    "Minutes_Played": 3384
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raoul Bellanova",
+    "Goals_Scored": 1,
+    "Assists": 5,
+    "Minutes_Played": 4677
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Zappa",
+    "Goals_Scored": 1,
+    "Assists": 5,
+    "Minutes_Played": 5299
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Balzaretti",
+    "Goals_Scored": 1,
+    "Assists": 4,
+    "Minutes_Played": 3357
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Ambrosini",
+    "Goals_Scored": 1,
+    "Assists": 4,
+    "Minutes_Played": 3600
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fausto Rossi",
+    "Goals_Scored": 1,
+    "Assists": 4,
+    "Minutes_Played": 3890
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Longhi",
+    "Goals_Scored": 1,
+    "Assists": 4,
+    "Minutes_Played": 4573
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Sabelli",
+    "Goals_Scored": 1,
+    "Assists": 4,
+    "Minutes_Played": 5188
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Mattiello",
+    "Goals_Scored": 1,
+    "Assists": 4,
+    "Minutes_Played": 5193
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Hans Nicolussi Caviglia",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 925
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Danilo Soddimo",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 2122
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Miretti",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 2365
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Pazienza",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 2640
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Motta",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 2800
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Dell'Orco",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 4085
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Pisano",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 5283
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Archimede Morleo",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 5809
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mario Sampirisi",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 5921
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Casale",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 6264
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Barzagli",
+    "Goals_Scored": 1,
+    "Assists": 3,
+    "Minutes_Played": 17271
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Bellomo",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 496
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Zerbin",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 555
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirko Antonucci",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 566
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gennaro Acampora",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 624
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Volpato",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 631
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Kingsley Boateng",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1208
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Buonaiuto",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1225
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Sculli",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1362
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Galloppa",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1565
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristiano Lombardi",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1601
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raffaele Bianco",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1905
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Calafiori",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 1913
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cesare Natali",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 3094
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristiano Del Grosso",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 5003
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Antei",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 5123
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giangiacomo Magnani",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 7417
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marcello Gazzola",
+    "Goals_Scored": 1,
+    "Assists": 2,
+    "Minutes_Played": 7824
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Gagliano",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 146
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Milanese",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 185
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Finotto",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 258
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Vignato",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 487
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Caso",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 517
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Frabotta",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 875
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vincenzo Rennella",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 966
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Ranocchia",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 1058
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Fazzini",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 1611
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manolo Portanova",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 1735
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Niccolò Zanellato",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 1875
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Luci",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 1896
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Donadel",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 2037
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian D'Urso",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 2154
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Dimitri Bisoli",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 2275
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Improta",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 2656
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Capezzi",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 3218
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Dario Del Fabro",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 4194
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Coda",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 4691
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Bellusci",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 6934
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Brignoli",
+    "Goals_Scored": 1,
+    "Assists": 1,
+    "Minutes_Played": 7564
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Vittiglio",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 22
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Bocalon",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 77
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Gori",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolas La Vigna",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 97
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Vido",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 97
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Ardemagni",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 102
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Grillo",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 135
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Adorante",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 188
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Romano",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Ferrari",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 220
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Crecco",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 232
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicholas Pierini",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 253
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Di Pardo",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 278
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Corazza",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 308
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vincenzo Millico",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 332
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Casarini",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 363
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Palombi",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 367
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Camporese",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 409
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Crociata",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 450
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Migliore",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 508
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raoul Petretta",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 519
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lino Marzorati",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 535
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ivan Varone",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 548
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Semprini",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 627
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Schiavone",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 630
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Moncini",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 638
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Biagio Meccariello",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 766
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Gavazzi",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 776
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ferdinando Sforzini",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 893
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Papetti",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 917
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Adriano Russo",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1003
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Salvatore Esposito",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1221
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniel Boloca",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1251
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michael Folorunsho",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1353
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leandro Rinaudo",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1441
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Bentivoglio",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1494
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giorgio Altare",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1814
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Cistana",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 1840
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Tuia",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 2370
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Viti",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 2756
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Vitiello",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 3058
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianpaolo Bellini",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 3914
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Ranieri",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 4168
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Gabbia",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 4284
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Capuano",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 8809
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ivan Provedel",
+    "Goals_Scored": 1,
+    "Assists": 0,
+    "Minutes_Played": 13014
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirko Valdifiori",
+    "Goals_Scored": 0,
+    "Assists": 16,
+    "Minutes_Played": 9461
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Pellegrini",
+    "Goals_Scored": 0,
+    "Assists": 11,
+    "Minutes_Played": 6379
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vasco Regini",
+    "Goals_Scored": 0,
+    "Assists": 11,
+    "Minutes_Played": 11151
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Zampano",
+    "Goals_Scored": 0,
+    "Assists": 9,
+    "Minutes_Played": 5995
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Marchizza",
+    "Goals_Scored": 0,
+    "Assists": 8,
+    "Minutes_Played": 5069
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Scozzarella",
+    "Goals_Scored": 0,
+    "Assists": 7,
+    "Minutes_Played": 2868
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Cassani",
+    "Goals_Scored": 0,
+    "Assists": 7,
+    "Minutes_Played": 7423
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Rubin",
+    "Goals_Scored": 0,
+    "Assists": 6,
+    "Minutes_Played": 2708
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Petriccione",
+    "Goals_Scored": 0,
+    "Assists": 5,
+    "Minutes_Played": 3398
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Barreca",
+    "Goals_Scored": 0,
+    "Assists": 5,
+    "Minutes_Played": 5064
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Birindelli",
+    "Goals_Scored": 0,
+    "Assists": 4,
+    "Minutes_Played": 2142
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonino Gallo",
+    "Goals_Scored": 0,
+    "Assists": 4,
+    "Minutes_Played": 3473
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Damiano Zanon",
+    "Goals_Scored": 0,
+    "Assists": 3,
+    "Minutes_Played": 1993
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Beghetto",
+    "Goals_Scored": 0,
+    "Assists": 3,
+    "Minutes_Played": 2379
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Crisetig",
+    "Goals_Scored": 0,
+    "Assists": 3,
+    "Minutes_Played": 6441
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Ciervo",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 294
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Lo Faso",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 438
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Colucci",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 870
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Mazzotta",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 890
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabiano Santacroce",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 1548
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Castagnetti",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 1702
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Terracciano",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 2117
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Guana",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 2338
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Dossena",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 2416
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Costa",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 2424
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Volta",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 2431
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Agostini",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 4047
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Perico",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 4226
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Balzano",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 4335
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Carboni",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 5110
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Bonera",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 8456
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Mirante",
+    "Goals_Scored": 0,
+    "Assists": 2,
+    "Minutes_Played": 20528
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Rabbi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 40
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Minelli",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 66
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mario Pugliese",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Dell'Agnello",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 109
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Pastina",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 120
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel De Luca",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 134
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Mancuso",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 154
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Dickmann",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 262
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Bartolomei",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 318
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca D'Andrea",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 321
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Musacci",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 375
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Fedato",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 390
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Ricci",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 425
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Benedetti",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 596
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Cacia",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 607
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Gelli",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 671
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michael Kayode",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 944
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Garritano",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 978
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Zanimacchia",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 994
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luciano Valente",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1039
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Crimi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1056
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Junior Vacca",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1103
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Ciofani",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1296
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Fiamozzi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1459
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Crivello",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1559
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Cazzola",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 1594
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Renzetti",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 2179
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michelangelo Albertazzi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 2180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Crescenzi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 2274
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Fornasier",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 2394
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Benussi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 2422
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Salvatore Masiello",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 2904
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Carnesecchi",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 3174
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Thomas Manfredini",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 4210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Lovato",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 4619
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Di Gregorio",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 4860
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luigi Cennamo",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 6150
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Wladimiro Falcone",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 6375
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Domenico Maietta",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 8496
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Guglielmo Vicario",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 8574
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Morgan De Sanctis",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 11184
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Marchetti",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 14945
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emil Audero",
+    "Goals_Scored": 0,
+    "Assists": 1,
+    "Minutes_Played": 15461
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Enrico Baldini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Dion Ruffo Luci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Di Molfetta",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Ballarini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Franchini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Borello",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirko Esposito",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Paolucci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Dalle Mura",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Solinas",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Celesia",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Felice D'Amico",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emmanuel Gyabuaa",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Gasparini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Comuzzo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Niccolò Belloni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Volpicelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso De Nipoti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Pio Iervolino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 4
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Pellegrini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 4
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Zanchetta",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 4
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Prestia",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Ghislandi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Cortinovis",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emanuele Torrasi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Poluzzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Bertini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Candela",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 6
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pierluigi Cappelluzzo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 6
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Bonini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 6
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Lombardo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 6
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Loi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 6
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cosimo Marco Da Graca",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Solini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Palazzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Aaron Mattia Tabacchi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Boniperti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Satalino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Aldegani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 7
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro De Giorgio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 9
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Iannascoli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 9
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vincenzo Camilleri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 9
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Marfella",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Edoardo Sbampato",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Artistico",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Merola",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Elia Bruzzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Forte",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Cioffi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 11
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giorgio Spizzichino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 11
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Verde",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 11
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Pagliuca",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 12
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Faticanti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 13
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Bariti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 13
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Raimondo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 14
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Matarese",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 14
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Capua",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 14
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Tripi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 14
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Manzari",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 14
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Franco Ferrari",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 14
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sergio Maselli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Mastalli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Basso Ricci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giacomo Olzer",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Mancini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Panico",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 16
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Troiani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 16
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Falbo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 16
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Mallamo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 17
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristiano Lupatelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 18
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Aveni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 19
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Rolando",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 19
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Calabrese",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 19
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Amatucci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 20
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Kevin Piscopo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 20
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Di Livio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 20
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Campagnolo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 21
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Bartolini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 21
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Serra",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 22
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Marigosu",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 22
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sergio Garufi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 22
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Bruzzo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 23
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Duccio Degli Innocenti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 23
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Biancu",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 24
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanni Graziano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 24
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Max Reinthaler",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 25
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Caruso",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 25
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Di Mariano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 25
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giovanbattista Catalano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 25
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cher Ndour",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 26
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Zanotti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 26
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Della Giovanna",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 26
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Bandini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 27
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Piccoli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 28
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Armando Anastasio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 29
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Rocca",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 29
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Lipani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 30
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Cavion",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 30
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Cocetta",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 31
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Mastinu",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 31
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Sparandeo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 31
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Ghezzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 32
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giorgio Frezzolini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 33
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Olivieri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 33
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Rosso",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 35
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Piredda",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 37
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Tremolada",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 39
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Badan",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 40
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Flavio Roma",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 43
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Ghion",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Furlan",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Moretti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Corazza",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Capone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Rossetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Colombo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 45
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Sciacca",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 47
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Armini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 48
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Aresti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 49
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ettore Gliozzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 49
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Mastino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 51
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Procopio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 52
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Moreno Beretta",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 53
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Somma",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 54
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Miceli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 59
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pio Schiavi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 60
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Trimboli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 60
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Potenza",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 64
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Masetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 71
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Marsura",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 71
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Rosseti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 74
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Bertini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 75
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Sbaffo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 75
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Galano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 76
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Candellone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 77
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Doratiotto",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 79
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Cagnano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 85
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "André Anderson",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 85
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Caputo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 85
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Morrone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 86
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Rossi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 88
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Guido Guerrieri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Minelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Sorrentino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Carlo Cremaschi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Mazzoni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Barba",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Tozzo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Brosco",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Boer",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Frascatore",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Carraro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Tentoni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Maurizio Pugliesi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Gozzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Adorni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Saporetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Valerio Mantovani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Almici",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Cucchietti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Carissoni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Valerio Nava",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Romagnoli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Turrin",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Eyob Zambataro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Laverone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Lombardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Dettori",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Luciani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Juri Cisotti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Walter Bressan",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Crisanto",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo De Col",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gian Marco Crespi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 90
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luigi Samele",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 91
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Cauz",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 91
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Rozzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 92
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Edoardo Soleri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 92
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luigi Vitale",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 92
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Piccinini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 94
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Brancolini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 95
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Fazzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 96
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jérémie Broh",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 98
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Acella",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 99
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Da Riva",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 99
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Franchini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 101
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Morello",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 104
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Veratti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 105
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Meola",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 108
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Romanò",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 108
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Pontisso",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 108
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Palma",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 109
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Moro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 114
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Pagano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 116
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Berardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 116
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Menicagli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 117
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Malagrida",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 118
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Magrini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 120
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Romano Perticone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 120
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Furlan",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 120
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sergio Viotti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 120
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Bertola",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 123
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Maggio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 123
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Ladinetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 127
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Damiano Ferronetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 128
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giammario Piscitella",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 129
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Eric Lanini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 131
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Sampietro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 135
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simon Laner",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 136
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Pafundi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 137
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Cocco",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 142
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Grava",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 146
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Maurizio Lanzaro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 149
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gennaro Ruggiero",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 150
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Bianco",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 150
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianmarco Cangiano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 153
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Rossi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 153
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Dalmonte",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 154
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nunzio Di Roberto",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 158
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Giraudo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 158
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Satriano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 160
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Martinelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 162
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Palmiero",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 165
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Angelo Gregorio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 167
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giulio Sanseverino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 170
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Edoardo Vergani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 174
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Pinna",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 174
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Bastrini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 176
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Gatti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 178
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Paponi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 179
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Brignani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Carminati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Nardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Squizzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Cianci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Frediani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raffaele Di Gennaro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Perilli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Ravanelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Manfredini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pierluigi Frattali",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Roberto Taliento",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Bassoli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 180
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Accursio Bentivegna",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 181
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Porcari",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 182
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Morosini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 186
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Palumbo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 186
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Farelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 189
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Muratore",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 190
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Tonon",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 198
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Riccardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 199
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Carlo Pinsoglio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 202
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Cassandro",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 209
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Amedeo Benedetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Richard Marcone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nikita Contini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Pissardo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Erasmo Mulè",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 210
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Corbo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 211
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Belingheri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 219
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Vitturini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 234
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Alastra",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 234
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Checchin",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 235
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Tommaso Berni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 236
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirko Eramo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 245
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Mazzocchi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 245
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Dezi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 249
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Lambrughi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 250
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Capello",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 250
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Anania",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 263
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Crescenzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Elia Caprile",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Crosta",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Dellafiore",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Damiani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ferdinando Coppola",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 270
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gabriele Marchegiani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 271
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Montevago",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 274
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Enrico Alfonso",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 280
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Cristian Brocchi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 283
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Vitale",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 294
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Gemello",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 300
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Piu",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 302
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabio Chiarodia",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 322
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimo Zappino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 330
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Pettinari",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 345
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Pasa",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 350
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Di Serio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 353
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Caligara",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 354
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Fasan",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 360
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Russo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 360
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mario Ierardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 360
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Bertoncini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 366
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Mannini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 368
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Leonardo Fontanesi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 368
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Missori",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 370
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Viviani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 371
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Flavio Paoletti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 396
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Paleari",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 415
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimiliano Carlini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 422
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Delli Carri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 423
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gennaro Tutino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 425
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Castellazzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 426
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Sebastian Avanzini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 426
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Vogliacco",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 436
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Eros Schiavon",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 461
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ciro Polito",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 469
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gian Filippo Felicioli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 475
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Modolo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 480
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Festa",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 483
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raffaele Pucino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 483
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gaetano Masucci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 484
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Iacobucci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 498
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Elio Capradossi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 511
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mauro Vigorito",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 513
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Jacopo Segre",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 525
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Andrenacci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 530
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Enrico Bearzotti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 530
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Cremonesi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 564
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Danzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 587
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Aniello Salzano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 589
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luciano Zauri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 602
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Pavarini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 609
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Ferri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 647
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Calvano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 673
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirko Bigazzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 684
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Belmonte",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 719
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Samuele Perisan",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 720
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Ravaglia",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 750
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Cerofolini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 750
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Valerio Di Cesare",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 763
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Tripaldelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 781
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Ravaglia",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 814
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Rossi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 819
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuele Blasi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 823
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emanuele Suagher",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 840
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Bittante",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 842
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Fabrizio Poli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 850
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Del Pinto",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 854
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Fiordilino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 861
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Pomini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 922
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Lezzerini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 924
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Cuomo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 924
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Fulignati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 930
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Prati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 933
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Massimiliano Mangraviti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 974
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Riccardo Piscitelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 990
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicolò Brighenti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 990
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Bassi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1020
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Pelagotti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1020
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Bruno",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1063
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessandro Bernardini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1063
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Di Chiara",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1078
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Manuel Coppola",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1171
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ivan Pelizzoli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1200
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Davide Grassi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1204
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Seculin",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1291
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe Rizzo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1299
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Fossati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1307
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Matteo Contini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1355
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Di Tacchio",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1379
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Mora",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1402
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Bianco",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1498
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vittorio Parigini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1527
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Denis Tonucci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1551
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ciro Capuano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1566
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Paolo Castellini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1607
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Modesto",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1612
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Turati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1620
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Colombi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1710
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Amelia",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1717
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Zambelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1738
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Rosati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1740
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vincenzo Fiorillo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1800
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Mantovani",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1823
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Emanuele Terranova",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1871
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luca Vignali",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1913
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alberto Frison",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1950
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Salvatore Aronica",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 1987
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Giuseppe De Feudis",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2040
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Bocchetti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2134
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Diego Coppola",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2155
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Caleb Okoli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2208
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Della Rocca",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2304
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Antonio Donnarumma",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2460
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mirko Gori",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2594
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Bolzoni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2686
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Capelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2784
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Raffaele Maiello",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2810
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Ibrahima Bamba",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 2904
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Federico Agliardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3095
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michele Canini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3392
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Biagianti",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3572
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Storari",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 3981
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Eugenio Lamanna",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 4469
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Curci",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 4584
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Francesco Bardi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5068
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Filippo Romagna",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5244
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Ariaudo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5421
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Michael Agazzi",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 5469
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Simone Scuffet",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 6045
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Puggioni",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 8108
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Christian Abbiati",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 8182
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluca Pegolo",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 8554
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Nicola Leali",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 9446
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alex Cordaz",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10101
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pietro Terracciano",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10371
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Vito Mannone",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 10744
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Lorenzo Montipò",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 11340
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Daniele Padelli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 12669
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Pierluigi Gollini",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 13866
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alex Meret",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15424
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Silvestri",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 15534
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Alessio Cragno",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 16128
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Luigi Sepe",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 16694
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Marco Sportiello",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 19024
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Stefano Sorrentino",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 19116
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Mattia Perin",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 24376
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluigi Buffon",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 24605
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Gianluigi Donnarumma",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 30493
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Salvatore Sirigu",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 31375
+  },
+  {
+    "Country_Name": "Italy",
+    "Player_Name": "Andrea Consigli",
+    "Goals_Scored": 0,
+    "Assists": 0,
+    "Minutes_Played": 38222
+  }
+]

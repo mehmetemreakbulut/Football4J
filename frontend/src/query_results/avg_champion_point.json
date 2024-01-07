@@ -1,0 +1,54 @@
+﻿[
+  {
+    "Competition": "premier-league",
+    "Average_Championship_Point": 86.67
+  },
+  {
+    "Competition": "serie-a",
+    "Average_Championship_Point": 86.17
+  },
+  {
+    "Competition": "laliga",
+    "Average_Championship_Point": 85.58
+  },
+  {
+    "Competition": "scottish-premiership",
+    "Average_Championship_Point": 83.25
+  },
+  {
+    "Competition": "ligue-1",
+    "Average_Championship_Point": 82.67
+  },
+  {
+    "Competition": "bundesliga",
+    "Average_Championship_Point": 78.5
+  },
+  {
+    "Competition": "liga-portugal-bwin",
+    "Average_Championship_Point": 77.83
+  },
+  {
+    "Competition": "eredivisie",
+    "Average_Championship_Point": 77.25
+  },
+  {
+    "Competition": "super-lig",
+    "Average_Championship_Point": 73.92
+  },
+  {
+    "Competition": "super-league-1",
+    "Average_Championship_Point": 69.92
+  },
+  {
+    "Competition": "premier-liga",
+    "Average_Championship_Point": 66.67
+  },
+  {
+    "Competition": "jupiler-pro-league",
+    "Average_Championship_Point": 66.0
+  },
+  {
+    "Competition": "superligaen",
+    "Average_Championship_Point": 57.58
+  }
+]

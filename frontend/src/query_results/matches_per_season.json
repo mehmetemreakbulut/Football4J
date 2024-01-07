@@ -1,0 +1,62 @@
+﻿[
+  {
+    "Season": 2012,
+    "Matches_Played": 52,
+    "Number_of_Distinct_Competitions": 4
+  },
+  {
+    "Season": 2013,
+    "Matches_Played": 41,
+    "Number_of_Distinct_Competitions": 2
+  },
+  {
+    "Season": 2014,
+    "Matches_Played": 53,
+    "Number_of_Distinct_Competitions": 4
+  },
+  {
+    "Season": 2015,
+    "Matches_Played": 57,
+    "Number_of_Distinct_Competitions": 3
+  },
+  {
+    "Season": 2016,
+    "Matches_Played": 41,
+    "Number_of_Distinct_Competitions": 2
+  },
+  {
+    "Season": 2017,
+    "Matches_Played": 55,
+    "Number_of_Distinct_Competitions": 4
+  },
+  {
+    "Season": 2018,
+    "Matches_Played": 52,
+    "Number_of_Distinct_Competitions": 3
+  },
+  {
+    "Season": 2019,
+    "Matches_Played": 54,
+    "Number_of_Distinct_Competitions": 6
+  },
+  {
+    "Season": 2020,
+    "Matches_Played": 51,
+    "Number_of_Distinct_Competitions": 4
+  },
+  {
+    "Season": 2021,
+    "Matches_Played": 59,
+    "Number_of_Distinct_Competitions": 4
+  },
+  {
+    "Season": 2022,
+    "Matches_Played": 50,
+    "Number_of_Distinct_Competitions": 4
+  },
+  {
+    "Season": 2023,
+    "Matches_Played": 26,
+    "Number_of_Distinct_Competitions": 3
+  }
+]

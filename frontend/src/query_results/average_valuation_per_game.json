@@ -1,0 +1,6002 @@
+﻿[
+  {
+    "Date": "2019-11-10",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 64826923.0
+  },
+  {
+    "Date": "2020-11-08",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 62280000.0
+  },
+  {
+    "Date": "2019-03-02",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 61750000.0
+  },
+  {
+    "Date": "2019-05-01",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 60928571.0
+  },
+  {
+    "Date": "2023-04-11",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 60884615.0
+  },
+  {
+    "Date": "2021-09-28",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 60884615.0
+  },
+  {
+    "Date": "2018-11-24",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 60703704.0
+  },
+  {
+    "Date": "2019-10-27",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 59714286.0
+  },
+  {
+    "Date": "2023-08-06",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 59100000.0
+  },
+  {
+    "Date": "2019-04-06",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 59053571.0
+  },
+  {
+    "Date": "2019-08-04",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 58916667.0
+  },
+  {
+    "Date": "2018-05-06",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 58857143.0
+  },
+  {
+    "Date": "2023-11-25",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 57259259.0
+  },
+  {
+    "Date": "2020-02-26",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 57074074.0
+  },
+  {
+    "Date": "2020-02-18",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 56964286.0
+  },
+  {
+    "Date": "2020-01-11",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 56677778.0
+  },
+  {
+    "Date": "2019-04-16",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 56607143.0
+  },
+  {
+    "Date": "2019-08-17",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 56482143.0
+  },
+  {
+    "Date": "2021-10-03",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 56360000.0
+  },
+  {
+    "Date": "2023-05-09",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 56360000.0
+  },
+  {
+    "Date": "2023-11-12",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 56321429.0
+  },
+  {
+    "Date": "2020-03-11",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 56316667.0
+  },
+  {
+    "Date": "2023-10-08",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 56310345.0
+  },
+  {
+    "Date": "2022-04-10",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 56259259.0
+  },
+  {
+    "Date": "2023-05-17",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 56133333.0
+  },
+  {
+    "Date": "2019-11-26",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 55928571.0
+  },
+  {
+    "Date": "2019-12-01",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 55925926.0
+  },
+  {
+    "Date": "2020-07-02",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 55860000.0
+  },
+  {
+    "Date": "2019-02-10",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 55821429.0
+  },
+  {
+    "Date": "2018-10-28",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 55750000.0
+  },
+  {
+    "Date": "2021-02-07",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 55730769.0
+  },
+  {
+    "Date": "2020-02-02",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 55314286.0
+  },
+  {
+    "Date": "2019-04-09",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 54589286.0
+  },
+  {
+    "Date": "2019-12-18",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 54423077.0
+  },
+  {
+    "Date": "2023-04-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 53800000.0
+  },
+  {
+    "Date": "2023-04-19",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 53700000.0
+  },
+  {
+    "Date": "2019-04-14",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 53535714.0
+  },
+  {
+    "Date": "2023-10-29",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 53241379.0
+  },
+  {
+    "Date": "2018-10-29",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 52785714.0
+  },
+  {
+    "Date": "2018-10-07",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 52692308.0
+  },
+  {
+    "Date": "2021-03-04",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 52428571.0
+  },
+  {
+    "Date": "2023-02-15",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 52428571.0
+  },
+  {
+    "Date": "2022-10-16",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 52392857.0
+  },
+  {
+    "Date": "2020-01-19",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 52357143.0
+  },
+  {
+    "Date": "2019-09-17",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 52333333.0
+  },
+  {
+    "Date": "2019-04-10",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 52071429.0
+  },
+  {
+    "Date": "2019-05-07",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 52000000.0
+  },
+  {
+    "Date": "2019-01-03",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 51892857.0
+  },
+  {
+    "Date": "2019-09-28",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 51892857.0
+  },
+  {
+    "Date": "2023-02-14",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 51806452.0
+  },
+  {
+    "Date": "2020-12-12",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 51541667.0
+  },
+  {
+    "Date": "2020-01-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 51250000.0
+  },
+  {
+    "Date": "2019-04-17",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 51240741.0
+  },
+  {
+    "Date": "2021-11-24",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 51000000.0
+  },
+  {
+    "Date": "2019-11-23",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 50928571.0
+  },
+  {
+    "Date": "2019-10-01",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 50857143.0
+  },
+  {
+    "Date": "2020-09-20",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 50785714.0
+  },
+  {
+    "Date": "2019-06-01",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 50767857.0
+  },
+  {
+    "Date": "2018-11-28",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 50678571.0
+  },
+  {
+    "Date": "2019-03-31",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 50589286.0
+  },
+  {
+    "Date": "2023-12-03",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 50448276.0
+  },
+  {
+    "Date": "2019-12-26",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 50321429.0
+  },
+  {
+    "Date": "2021-01-17",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 50185185.0
+  },
+  {
+    "Date": "2019-04-20",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 50160714.0
+  },
+  {
+    "Date": "2019-03-16",
+    "Home_Club": "Swansea City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 50156250.0
+  },
+  {
+    "Date": "2021-11-06",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 50153846.0
+  },
+  {
+    "Date": "2020-12-16",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 50145833.0
+  },
+  {
+    "Date": "2021-04-06",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 50086957.0
+  },
+  {
+    "Date": "2019-12-07",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 50000000.0
+  },
+  {
+    "Date": "2018-02-14",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 49888889.0
+  },
+  {
+    "Date": "2020-01-09",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 49888889.0
+  },
+  {
+    "Date": "2023-10-21",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 49866667.0
+  },
+  {
+    "Date": "2018-12-11",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 49814815.0
+  },
+  {
+    "Date": "2019-12-21",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 49607143.0
+  },
+  {
+    "Date": "2022-04-16",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 49592593.0
+  },
+  {
+    "Date": "2019-02-20",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 49553571.0
+  },
+  {
+    "Date": "2020-03-01",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 49392857.0
+  },
+  {
+    "Date": "2018-08-15",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 49383333.0
+  },
+  {
+    "Date": "2019-02-09",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 49339286.0
+  },
+  {
+    "Date": "2021-09-25",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 49321429.0
+  },
+  {
+    "Date": "2018-05-01",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 49296296.0
+  },
+  {
+    "Date": "2019-03-12",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 49250000.0
+  },
+  {
+    "Date": "2019-09-22",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 49250000.0
+  },
+  {
+    "Date": "2021-04-28",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 49160000.0
+  },
+  {
+    "Date": "2022-05-28",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 49142857.0
+  },
+  {
+    "Date": "2018-04-08",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 49071429.0
+  },
+  {
+    "Date": "2018-09-29",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 49035714.0
+  },
+  {
+    "Date": "2020-02-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 49009259.0
+  },
+  {
+    "Date": "2022-03-06",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 49000000.0
+  },
+  {
+    "Date": "2018-04-25",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 48946429.0
+  },
+  {
+    "Date": "2019-11-27",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 48892857.0
+  },
+  {
+    "Date": "2020-08-07",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 48879310.0
+  },
+  {
+    "Date": "2020-01-23",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 48833333.0
+  },
+  {
+    "Date": "2021-01-24",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 48821429.0
+  },
+  {
+    "Date": "2020-11-21",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 48814815.0
+  },
+  {
+    "Date": "2018-12-08",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 48785714.0
+  },
+  {
+    "Date": "2022-07-30",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 48741935.0
+  },
+  {
+    "Date": "2023-03-08",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 48709677.0
+  },
+  {
+    "Date": "2023-01-14",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 48678571.0
+  },
+  {
+    "Date": "2019-11-27",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 48642857.0
+  },
+  {
+    "Date": "2018-10-03",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 48464286.0
+  },
+  {
+    "Date": "2019-10-20",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 48461538.0
+  },
+  {
+    "Date": "2018-11-06",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 48444444.0
+  },
+  {
+    "Date": "2022-04-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 48392857.0
+  },
+  {
+    "Date": "2019-10-02",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 48370370.0
+  },
+  {
+    "Date": "2023-08-19",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 48370370.0
+  },
+  {
+    "Date": "2019-04-24",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 48142857.0
+  },
+  {
+    "Date": "2022-01-15",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 48129630.0
+  },
+  {
+    "Date": "2023-10-28",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 48000000.0
+  },
+  {
+    "Date": "2018-11-24",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 47814815.0
+  },
+  {
+    "Date": "2018-09-18",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 47703704.0
+  },
+  {
+    "Date": "2020-08-14",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 47672414.0
+  },
+  {
+    "Date": "2023-04-18",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 47661290.0
+  },
+  {
+    "Date": "2019-09-17",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 47574074.0
+  },
+  {
+    "Date": "2023-06-03",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 47571429.0
+  },
+  {
+    "Date": "2023-04-12",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 47467742.0
+  },
+  {
+    "Date": "2018-03-04",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 47444444.0
+  },
+  {
+    "Date": "2019-08-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 47365385.0
+  },
+  {
+    "Date": "2019-09-18",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 47321429.0
+  },
+  {
+    "Date": "2019-12-22",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 47160714.0
+  },
+  {
+    "Date": "2022-02-15",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 47137931.0
+  },
+  {
+    "Date": "2022-10-11",
+    "Home_Club": "Football Club København",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 47117647.0
+  },
+  {
+    "Date": "2018-08-12",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 47107143.0
+  },
+  {
+    "Date": "2019-04-28",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 47035714.0
+  },
+  {
+    "Date": "2022-03-09",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 47000000.0
+  },
+  {
+    "Date": "2018-10-20",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 46928571.0
+  },
+  {
+    "Date": "2018-11-11",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 46892857.0
+  },
+  {
+    "Date": "2019-03-13",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Olympique Lyonnais",
+    "Average_Valuation_of_Players": 46803571.0
+  },
+  {
+    "Date": "2019-09-18",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 46785714.0
+  },
+  {
+    "Date": "2018-03-14",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 46767857.0
+  },
+  {
+    "Date": "2020-03-08",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 46732143.0
+  },
+  {
+    "Date": "2019-12-15",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 46703704.0
+  },
+  {
+    "Date": "2022-05-04",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 46575758.0
+  },
+  {
+    "Date": "2021-05-29",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 46571429.0
+  },
+  {
+    "Date": "2018-02-20",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 46519231.0
+  },
+  {
+    "Date": "2019-03-13",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 46517857.0
+  },
+  {
+    "Date": "2023-04-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Sheffield United Football Club",
+    "Average_Valuation_of_Players": 46400000.0
+  },
+  {
+    "Date": "2018-09-29",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 46285714.0
+  },
+  {
+    "Date": "2019-10-29",
+    "Home_Club": "Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 46214286.0
+  },
+  {
+    "Date": "2022-04-05",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 46206897.0
+  },
+  {
+    "Date": "2019-02-19",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 46203704.0
+  },
+  {
+    "Date": "2023-12-06",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 46172414.0
+  },
+  {
+    "Date": "2023-09-03",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 46161290.0
+  },
+  {
+    "Date": "2019-08-14",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 46083333.0
+  },
+  {
+    "Date": "2021-04-14",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 46080000.0
+  },
+  {
+    "Date": "2021-03-07",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 46074074.0
+  },
+  {
+    "Date": "2022-02-19",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 46000000.0
+  },
+  {
+    "Date": "2018-05-26",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 45962963.0
+  },
+  {
+    "Date": "2023-02-05",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 45814815.0
+  },
+  {
+    "Date": "2019-09-01",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 45720000.0
+  },
+  {
+    "Date": "2019-12-04",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 45703704.0
+  },
+  {
+    "Date": "2019-09-28",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 45678571.0
+  },
+  {
+    "Date": "2020-01-12",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 45655172.0
+  },
+  {
+    "Date": "2021-01-03",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 45642857.0
+  },
+  {
+    "Date": "2022-10-02",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 45625000.0
+  },
+  {
+    "Date": "2018-12-16",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 45555556.0
+  },
+  {
+    "Date": "2021-04-17",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 45392857.0
+  },
+  {
+    "Date": "2023-04-09",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 45321429.0
+  },
+  {
+    "Date": "2018-10-23",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 45280000.0
+  },
+  {
+    "Date": "2023-09-24",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 45241379.0
+  },
+  {
+    "Date": "2020-02-18",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 45208000.0
+  },
+  {
+    "Date": "2023-12-09",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 45133333.0
+  },
+  {
+    "Date": "2020-03-11",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 45125000.0
+  },
+  {
+    "Date": "2020-01-29",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 45120000.0
+  },
+  {
+    "Date": "2019-11-26",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 45089286.0
+  },
+  {
+    "Date": "2020-02-22",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 45055556.0
+  },
+  {
+    "Date": "2019-02-03",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 45055556.0
+  },
+  {
+    "Date": "2020-10-17",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 45000000.0
+  },
+  {
+    "Date": "2023-01-19",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 44965517.0
+  },
+  {
+    "Date": "2019-12-29",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 44821429.0
+  },
+  {
+    "Date": "2022-02-05",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 44800000.0
+  },
+  {
+    "Date": "2019-02-06",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 44678571.0
+  },
+  {
+    "Date": "2021-02-13",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 44574074.0
+  },
+  {
+    "Date": "2023-03-15",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 44500000.0
+  },
+  {
+    "Date": "2019-02-19",
+    "Home_Club": "Olympique Lyonnais",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 44444444.0
+  },
+  {
+    "Date": "2021-01-28",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 44403571.0
+  },
+  {
+    "Date": "2023-01-15",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 44387097.0
+  },
+  {
+    "Date": "2020-02-25",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 44375000.0
+  },
+  {
+    "Date": "2021-05-13",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 44370370.0
+  },
+  {
+    "Date": "2020-03-03",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 44314815.0
+  },
+  {
+    "Date": "2021-10-24",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 44285714.0
+  },
+  {
+    "Date": "2023-11-28",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 44192308.0
+  },
+  {
+    "Date": "2023-04-01",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 44137931.0
+  },
+  {
+    "Date": "2023-03-04",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 44107143.0
+  },
+  {
+    "Date": "2023-03-19",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 44100000.0
+  },
+  {
+    "Date": "2021-04-07",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 44053571.0
+  },
+  {
+    "Date": "2022-10-16",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 44048387.0
+  },
+  {
+    "Date": "2021-08-28",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 43946429.0
+  },
+  {
+    "Date": "2020-09-28",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 43928571.0
+  },
+  {
+    "Date": "2017-04-23",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 43923077.0
+  },
+  {
+    "Date": "2019-02-27",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 43910714.0
+  },
+  {
+    "Date": "2018-08-27",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 43892857.0
+  },
+  {
+    "Date": "2023-03-02",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 43888889.0
+  },
+  {
+    "Date": "2023-02-21",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 43838710.0
+  },
+  {
+    "Date": "2018-09-15",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 43767857.0
+  },
+  {
+    "Date": "2023-06-10",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 43758621.0
+  },
+  {
+    "Date": "2018-10-07",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 43722222.0
+  },
+  {
+    "Date": "2021-03-07",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 43695652.0
+  },
+  {
+    "Date": "2023-10-21",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 43683333.0
+  },
+  {
+    "Date": "2022-01-01",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 43615385.0
+  },
+  {
+    "Date": "2016-04-02",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 43560000.0
+  },
+  {
+    "Date": "2018-04-03",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 43464286.0
+  },
+  {
+    "Date": "2023-11-07",
+    "Home_Club": "Associazione Calcio Milan",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 43400000.0
+  },
+  {
+    "Date": "2022-09-13",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 43375000.0
+  },
+  {
+    "Date": "2023-01-05",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 43370968.0
+  },
+  {
+    "Date": "2015-11-21",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 43370370.0
+  },
+  {
+    "Date": "2023-11-28",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 43338710.0
+  },
+  {
+    "Date": "2023-04-05",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 43241379.0
+  },
+  {
+    "Date": "2021-10-19",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 43218750.0
+  },
+  {
+    "Date": "2019-11-09",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 43214286.0
+  },
+  {
+    "Date": "2022-09-03",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 43111111.0
+  },
+  {
+    "Date": "2023-09-16",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 43100000.0
+  },
+  {
+    "Date": "2018-04-14",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 43071429.0
+  },
+  {
+    "Date": "2019-02-24",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 43000000.0
+  },
+  {
+    "Date": "2023-09-20",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 42989655.0
+  },
+  {
+    "Date": "2021-03-17",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 42866667.0
+  },
+  {
+    "Date": "2018-05-19",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 42814815.0
+  },
+  {
+    "Date": "2020-07-22",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 42783871.0
+  },
+  {
+    "Date": "2018-04-11",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 42777778.0
+  },
+  {
+    "Date": "2018-04-14",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 42767857.0
+  },
+  {
+    "Date": "2020-08-23",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 42743333.0
+  },
+  {
+    "Date": "2022-04-13",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 42733333.0
+  },
+  {
+    "Date": "2019-08-10",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 42714286.0
+  },
+  {
+    "Date": "2018-03-06",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 42696429.0
+  },
+  {
+    "Date": "2021-05-08",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 42678571.0
+  },
+  {
+    "Date": "2019-01-13",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 42648148.0
+  },
+  {
+    "Date": "2018-04-07",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 42607143.0
+  },
+  {
+    "Date": "2018-11-03",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 42592593.0
+  },
+  {
+    "Date": "2021-12-11",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 42518519.0
+  },
+  {
+    "Date": "2023-10-04",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 42516667.0
+  },
+  {
+    "Date": "2022-10-09",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 42466667.0
+  },
+  {
+    "Date": "2022-05-07",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 42464286.0
+  },
+  {
+    "Date": "2023-10-04",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 42462963.0
+  },
+  {
+    "Date": "2023-10-25",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Associazione Calcio Milan",
+    "Average_Valuation_of_Players": 42350000.0
+  },
+  {
+    "Date": "2020-12-12",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 42288462.0
+  },
+  {
+    "Date": "2020-10-24",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 42239130.0
+  },
+  {
+    "Date": "2020-12-02",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 42232258.0
+  },
+  {
+    "Date": "2020-10-17",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 42185185.0
+  },
+  {
+    "Date": "2021-05-04",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 42183333.0
+  },
+  {
+    "Date": "2021-02-17",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 42148148.0
+  },
+  {
+    "Date": "2023-01-27",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 42129032.0
+  },
+  {
+    "Date": "2019-01-19",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 42111111.0
+  },
+  {
+    "Date": "2019-02-18",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 42107143.0
+  },
+  {
+    "Date": "2019-02-12",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 42074074.0
+  },
+  {
+    "Date": "2021-03-02",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 42060000.0
+  },
+  {
+    "Date": "2018-04-10",
+    "Home_Club": "Associazione Sportiva Roma",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 42055556.0
+  },
+  {
+    "Date": "2023-12-12",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 42025806.0
+  },
+  {
+    "Date": "2019-12-14",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Watford FC",
+    "Average_Valuation_of_Players": 41722222.0
+  },
+  {
+    "Date": "2019-02-23",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 41696429.0
+  },
+  {
+    "Date": "2022-04-19",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 41678571.0
+  },
+  {
+    "Date": "2021-02-16",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 41642857.0
+  },
+  {
+    "Date": "2020-03-08",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 41607143.0
+  },
+  {
+    "Date": "2019-04-03",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "1. Fußballclub Heidenheim 1846",
+    "Average_Valuation_of_Players": 41571429.0
+  },
+  {
+    "Date": "2018-10-24",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 41535714.0
+  },
+  {
+    "Date": "2018-12-29",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 41482143.0
+  },
+  {
+    "Date": "2023-03-14",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 41468750.0
+  },
+  {
+    "Date": "2021-09-15",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 41421875.0
+  },
+  {
+    "Date": "2018-01-28",
+    "Home_Club": "Cardiff City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 41384615.0
+  },
+  {
+    "Date": "2023-04-04",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 41379310.0
+  },
+  {
+    "Date": "2018-12-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 41370370.0
+  },
+  {
+    "Date": "2020-02-15",
+    "Home_Club": "Norwich City",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 41357143.0
+  },
+  {
+    "Date": "2022-04-06",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 41350000.0
+  },
+  {
+    "Date": "2023-02-12",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 41290323.0
+  },
+  {
+    "Date": "2020-02-25",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 41276786.0
+  },
+  {
+    "Date": "2020-02-01",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 41240741.0
+  },
+  {
+    "Date": "2019-12-27",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 41232143.0
+  },
+  {
+    "Date": "2023-08-13",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 41206897.0
+  },
+  {
+    "Date": "2019-08-25",
+    "Home_Club": "Association Football Club Bournemouth",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 41205357.0
+  },
+  {
+    "Date": "2021-02-20",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 41171429.0
+  },
+  {
+    "Date": "2020-06-25",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 41163333.0
+  },
+  {
+    "Date": "2023-10-03",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 41112903.0
+  },
+  {
+    "Date": "2018-12-15",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 41111111.0
+  },
+  {
+    "Date": "2020-02-29",
+    "Home_Club": "Watford FC",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 41017857.0
+  },
+  {
+    "Date": "2022-09-17",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 41016667.0
+  },
+  {
+    "Date": "2019-12-14",
+    "Home_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 41000000.0
+  },
+  {
+    "Date": "2020-10-24",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 40964286.0
+  },
+  {
+    "Date": "2020-11-21",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 40962963.0
+  },
+  {
+    "Date": "2022-03-16",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 40928571.0
+  },
+  {
+    "Date": "2017-12-23",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 40910714.0
+  },
+  {
+    "Date": "2017-08-13",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 40910714.0
+  },
+  {
+    "Date": "2020-01-18",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 40796296.0
+  },
+  {
+    "Date": "2022-09-14",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 40756667.0
+  },
+  {
+    "Date": "2022-10-05",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Football Club København",
+    "Average_Valuation_of_Players": 40743750.0
+  },
+  {
+    "Date": "2020-02-09",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 40714286.0
+  },
+  {
+    "Date": "2021-09-14",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 40696667.0
+  },
+  {
+    "Date": "2020-01-25",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 40660714.0
+  },
+  {
+    "Date": "2018-12-02",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 40538462.0
+  },
+  {
+    "Date": "2021-09-19",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 40518519.0
+  },
+  {
+    "Date": "2023-05-21",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 40435484.0
+  },
+  {
+    "Date": "2018-04-10",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 40425926.0
+  },
+  {
+    "Date": "2022-05-14",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 40421875.0
+  },
+  {
+    "Date": "2023-11-01",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 40410345.0
+  },
+  {
+    "Date": "2023-04-01",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 40390625.0
+  },
+  {
+    "Date": "2020-10-04",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 40375000.0
+  },
+  {
+    "Date": "2019-10-05",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 40357143.0
+  },
+  {
+    "Date": "2021-02-23",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 40354839.0
+  },
+  {
+    "Date": "2021-04-27",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 40340000.0
+  },
+  {
+    "Date": "2019-04-20",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 40310714.0
+  },
+  {
+    "Date": "2018-12-26",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 40277778.0
+  },
+  {
+    "Date": "2020-01-14",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Middlesbrough FC",
+    "Average_Valuation_of_Players": 40235714.0
+  },
+  {
+    "Date": "2023-02-26",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 40206897.0
+  },
+  {
+    "Date": "2020-03-07",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 40203704.0
+  },
+  {
+    "Date": "2021-12-19",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 40185185.0
+  },
+  {
+    "Date": "2016-12-03",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 40178571.0
+  },
+  {
+    "Date": "2023-03-18",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Burnley Football Club",
+    "Average_Valuation_of_Players": 40166667.0
+  },
+  {
+    "Date": "2019-04-14",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 40142857.0
+  },
+  {
+    "Date": "2021-04-06",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 40076923.0
+  },
+  {
+    "Date": "2021-04-14",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 40007407.0
+  },
+  {
+    "Date": "2022-02-26",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 40000000.0
+  },
+  {
+    "Date": "2023-04-30",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 39983333.0
+  },
+  {
+    "Date": "2018-12-11",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 39964286.0
+  },
+  {
+    "Date": "2022-12-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 39870968.0
+  },
+  {
+    "Date": "2018-12-22",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Club Celta de Vigo S. A. D.",
+    "Average_Valuation_of_Players": 39832143.0
+  },
+  {
+    "Date": "2020-01-01",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 39788462.0
+  },
+  {
+    "Date": "2018-04-01",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 39777778.0
+  },
+  {
+    "Date": "2019-09-24",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 39767857.0
+  },
+  {
+    "Date": "2018-11-06",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 39732143.0
+  },
+  {
+    "Date": "2023-12-06",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 39703704.0
+  },
+  {
+    "Date": "2022-10-26",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 39653125.0
+  },
+  {
+    "Date": "2020-06-30",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 39637931.0
+  },
+  {
+    "Date": "2019-11-30",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39629630.0
+  },
+  {
+    "Date": "2018-10-24",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 39607143.0
+  },
+  {
+    "Date": "2018-02-25",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 39592593.0
+  },
+  {
+    "Date": "2021-02-13",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 39589286.0
+  },
+  {
+    "Date": "2020-07-15",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 39576667.0
+  },
+  {
+    "Date": "2021-02-28",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 39538462.0
+  },
+  {
+    "Date": "2018-01-31",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 39535714.0
+  },
+  {
+    "Date": "2021-05-05",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 39519231.0
+  },
+  {
+    "Date": "2023-05-02",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 39484375.0
+  },
+  {
+    "Date": "2020-11-07",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 39464286.0
+  },
+  {
+    "Date": "2019-03-06",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 39461538.0
+  },
+  {
+    "Date": "2023-11-06",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 39451613.0
+  },
+  {
+    "Date": "2021-02-10",
+    "Home_Club": "Swansea City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39438235.0
+  },
+  {
+    "Date": "2021-10-30",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 39425926.0
+  },
+  {
+    "Date": "2021-03-20",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39423077.0
+  },
+  {
+    "Date": "2019-08-31",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 39392857.0
+  },
+  {
+    "Date": "2019-05-29",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 39388889.0
+  },
+  {
+    "Date": "2019-11-09",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Club Celta de Vigo S. A. D.",
+    "Average_Valuation_of_Players": 39357143.0
+  },
+  {
+    "Date": "2022-04-23",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 39344828.0
+  },
+  {
+    "Date": "2018-08-18",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 39321429.0
+  },
+  {
+    "Date": "2019-01-14",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 39285714.0
+  },
+  {
+    "Date": "2021-09-11",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39222222.0
+  },
+  {
+    "Date": "2022-11-06",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 39189655.0
+  },
+  {
+    "Date": "2022-10-29",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39185185.0
+  },
+  {
+    "Date": "2023-12-16",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 39161538.0
+  },
+  {
+    "Date": "2018-03-04",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 39160714.0
+  },
+  {
+    "Date": "2022-08-07",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39109375.0
+  },
+  {
+    "Date": "2021-08-15",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 39107143.0
+  },
+  {
+    "Date": "2021-04-13",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 39074074.0
+  },
+  {
+    "Date": "2020-02-19",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 39074074.0
+  },
+  {
+    "Date": "2019-10-06",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 39071429.0
+  },
+  {
+    "Date": "2018-11-28",
+    "Home_Club": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 39055556.0
+  },
+  {
+    "Date": "2020-03-07",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Association Football Club Bournemouth",
+    "Average_Valuation_of_Players": 39018519.0
+  },
+  {
+    "Date": "2018-11-07",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38964286.0
+  },
+  {
+    "Date": "2023-03-11",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38948276.0
+  },
+  {
+    "Date": "2019-09-14",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 38928571.0
+  },
+  {
+    "Date": "2022-01-02",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 38925926.0
+  },
+  {
+    "Date": "2023-11-04",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 38913793.0
+  },
+  {
+    "Date": "2019-12-15",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 38900000.0
+  },
+  {
+    "Date": "2019-03-03",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 38892857.0
+  },
+  {
+    "Date": "2018-12-02",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 38892857.0
+  },
+  {
+    "Date": "2021-08-28",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 38875000.0
+  },
+  {
+    "Date": "2021-12-12",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 38838710.0
+  },
+  {
+    "Date": "2019-11-06",
+    "Home_Club": "Atalanta Bergamasca Calcio S.p.a.",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38833333.0
+  },
+  {
+    "Date": "2020-06-17",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 38832258.0
+  },
+  {
+    "Date": "2018-11-28",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 38785714.0
+  },
+  {
+    "Date": "2021-03-10",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 38767742.0
+  },
+  {
+    "Date": "2021-11-28",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38750000.0
+  },
+  {
+    "Date": "2022-01-22",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38740000.0
+  },
+  {
+    "Date": "2020-02-06",
+    "Home_Club": "Athletic Club Bilbao",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 38732143.0
+  },
+  {
+    "Date": "2023-03-05",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38718750.0
+  },
+  {
+    "Date": "2023-02-22",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38703704.0
+  },
+  {
+    "Date": "2020-02-09",
+    "Home_Club": "Real Betis Balompié S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 38696429.0
+  },
+  {
+    "Date": "2022-09-18",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 38677419.0
+  },
+  {
+    "Date": "2022-10-25",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38648333.0
+  },
+  {
+    "Date": "2023-09-23",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Nottingham Forest Football Club",
+    "Average_Valuation_of_Players": 38600000.0
+  },
+  {
+    "Date": "2018-09-18",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+    "Average_Valuation_of_Players": 38598214.0
+  },
+  {
+    "Date": "2021-02-24",
+    "Home_Club": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38568966.0
+  },
+  {
+    "Date": "2019-03-17",
+    "Home_Club": "Real Betis Balompié S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 38553571.0
+  },
+  {
+    "Date": "2022-11-12",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brentford Football Club",
+    "Average_Valuation_of_Players": 38519231.0
+  },
+  {
+    "Date": "2021-05-23",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 38517857.0
+  },
+  {
+    "Date": "2018-04-21",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 38517857.0
+  },
+  {
+    "Date": "2019-08-11",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 38500000.0
+  },
+  {
+    "Date": "2021-04-03",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38482143.0
+  },
+  {
+    "Date": "2019-04-10",
+    "Home_Club": "AFC Ajax Amsterdam",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 38476923.0
+  },
+  {
+    "Date": "2021-04-03",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 38464286.0
+  },
+  {
+    "Date": "2019-12-29",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 38461538.0
+  },
+  {
+    "Date": "2018-04-04",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38461538.0
+  },
+  {
+    "Date": "2019-03-02",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 38388889.0
+  },
+  {
+    "Date": "2020-10-21",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 38338710.0
+  },
+  {
+    "Date": "2021-12-01",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38326923.0
+  },
+  {
+    "Date": "2018-08-12",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 38321429.0
+  },
+  {
+    "Date": "2021-03-15",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 38320690.0
+  },
+  {
+    "Date": "2019-03-09",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Rayo Vallecano de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 38314815.0
+  },
+  {
+    "Date": "2020-02-01",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 38303571.0
+  },
+  {
+    "Date": "2023-02-16",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38285714.0
+  },
+  {
+    "Date": "2022-04-12",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 38274194.0
+  },
+  {
+    "Date": "2022-12-31",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 38248276.0
+  },
+  {
+    "Date": "2023-12-13",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 38233333.0
+  },
+  {
+    "Date": "2018-04-04",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Associazione Sportiva Roma",
+    "Average_Valuation_of_Players": 38196429.0
+  },
+  {
+    "Date": "2019-10-06",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 38178571.0
+  },
+  {
+    "Date": "2023-05-20",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 38156250.0
+  },
+  {
+    "Date": "2018-10-20",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 38142857.0
+  },
+  {
+    "Date": "2021-10-30",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38142857.0
+  },
+  {
+    "Date": "2023-12-17",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38131034.0
+  },
+  {
+    "Date": "2022-02-04",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Middlesbrough FC",
+    "Average_Valuation_of_Players": 38125000.0
+  },
+  {
+    "Date": "2019-09-14",
+    "Home_Club": "Norwich City",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38120370.0
+  },
+  {
+    "Date": "2022-11-09",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 38068966.0
+  },
+  {
+    "Date": "2022-09-07",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 38062500.0
+  },
+  {
+    "Date": "2018-09-29",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Athletic Club Bilbao",
+    "Average_Valuation_of_Players": 38053571.0
+  },
+  {
+    "Date": "2019-10-19",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38037037.0
+  },
+  {
+    "Date": "2020-10-20",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 38033333.0
+  },
+  {
+    "Date": "2021-05-15",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 38017857.0
+  },
+  {
+    "Date": "2022-08-21",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38000000.0
+  },
+  {
+    "Date": "2019-05-06",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 38000000.0
+  },
+  {
+    "Date": "2023-05-14",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 38000000.0
+  },
+  {
+    "Date": "2016-09-21",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 37962963.0
+  },
+  {
+    "Date": "2019-03-10",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 37960000.0
+  },
+  {
+    "Date": "2021-01-20",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 37939286.0
+  },
+  {
+    "Date": "2020-11-25",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 37925926.0
+  },
+  {
+    "Date": "2017-02-26",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 37925926.0
+  },
+  {
+    "Date": "2023-03-19",
+    "Home_Club": "Bayer 04 Leverkusen Fußball",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 37919355.0
+  },
+  {
+    "Date": "2021-02-21",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 37914815.0
+  },
+  {
+    "Date": "2019-03-05",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 37892857.0
+  },
+  {
+    "Date": "2019-11-23",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 37865385.0
+  },
+  {
+    "Date": "2022-03-08",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 37833333.0
+  },
+  {
+    "Date": "2020-11-29",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 37821429.0
+  },
+  {
+    "Date": "2023-09-17",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 37820000.0
+  },
+  {
+    "Date": "2021-12-04",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 37806667.0
+  },
+  {
+    "Date": "2023-09-19",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 37800000.0
+  },
+  {
+    "Date": "2021-05-08",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 37769231.0
+  },
+  {
+    "Date": "2020-12-06",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 37725000.0
+  },
+  {
+    "Date": "2021-11-03",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 37709677.0
+  },
+  {
+    "Date": "2019-08-31",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 37703704.0
+  },
+  {
+    "Date": "2019-03-30",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "RCD Espanyol Barcelona",
+    "Average_Valuation_of_Players": 37653846.0
+  },
+  {
+    "Date": "2023-08-21",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 37650000.0
+  },
+  {
+    "Date": "2018-10-03",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 37642857.0
+  },
+  {
+    "Date": "2023-01-22",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 37629630.0
+  },
+  {
+    "Date": "2023-01-15",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 37612903.0
+  },
+  {
+    "Date": "2019-01-29",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 37598148.0
+  },
+  {
+    "Date": "2022-02-23",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 37586207.0
+  },
+  {
+    "Date": "2015-03-22",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 37571429.0
+  },
+  {
+    "Date": "2023-08-12",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 37537500.0
+  },
+  {
+    "Date": "2018-04-21",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 37517857.0
+  },
+  {
+    "Date": "2022-05-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 37500000.0
+  },
+  {
+    "Date": "2022-10-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 37466667.0
+  },
+  {
+    "Date": "2019-10-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Atalanta Bergamasca Calcio S.p.a.",
+    "Average_Valuation_of_Players": 37464286.0
+  },
+  {
+    "Date": "2019-04-27",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Levante UD",
+    "Average_Valuation_of_Players": 37457143.0
+  },
+  {
+    "Date": "2018-03-31",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 37446429.0
+  },
+  {
+    "Date": "2019-02-02",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 37410714.0
+  },
+  {
+    "Date": "2020-10-24",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 37407407.0
+  },
+  {
+    "Date": "2020-01-05",
+    "Home_Club": "Middlesbrough FC",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 37400000.0
+  },
+  {
+    "Date": "2018-09-19",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Olympique Lyonnais",
+    "Average_Valuation_of_Players": 37392857.0
+  },
+  {
+    "Date": "2022-08-22",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 37366667.0
+  },
+  {
+    "Date": "2020-01-21",
+    "Home_Club": "Sheffield United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 37321429.0
+  },
+  {
+    "Date": "2023-01-20",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 37310345.0
+  },
+  {
+    "Date": "2019-02-13",
+    "Home_Club": "AFC Ajax Amsterdam",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 37250000.0
+  },
+  {
+    "Date": "2019-03-05",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "AFC Ajax Amsterdam",
+    "Average_Valuation_of_Players": 37250000.0
+  },
+  {
+    "Date": "2019-09-14",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 37250000.0
+  },
+  {
+    "Date": "2022-10-19",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 37233333.0
+  },
+  {
+    "Date": "2019-03-03",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 37214286.0
+  },
+  {
+    "Date": "2020-01-21",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 37185185.0
+  },
+  {
+    "Date": "2020-01-26",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 37178571.0
+  },
+  {
+    "Date": "2012-10-07",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 37148148.0
+  },
+  {
+    "Date": "2019-11-30",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 37129630.0
+  },
+  {
+    "Date": "2022-11-05",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 37120690.0
+  },
+  {
+    "Date": "2022-10-22",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 37116667.0
+  },
+  {
+    "Date": "2021-01-08",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 37062500.0
+  },
+  {
+    "Date": "2019-04-24",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 37019231.0
+  },
+  {
+    "Date": "2020-10-28",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 37018519.0
+  },
+  {
+    "Date": "2018-01-14",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 37018519.0
+  },
+  {
+    "Date": "2018-03-01",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 36980000.0
+  },
+  {
+    "Date": "2023-12-17",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 36959375.0
+  },
+  {
+    "Date": "2023-05-03",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 36946429.0
+  },
+  {
+    "Date": "2019-01-05",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Nottingham Forest Football Club",
+    "Average_Valuation_of_Players": 36928571.0
+  },
+  {
+    "Date": "2020-11-03",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 36916667.0
+  },
+  {
+    "Date": "2021-11-03",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 36900000.0
+  },
+  {
+    "Date": "2018-12-02",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 36892857.0
+  },
+  {
+    "Date": "2020-01-02",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Sheffield United Football Club",
+    "Average_Valuation_of_Players": 36892857.0
+  },
+  {
+    "Date": "2023-09-30",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 36890625.0
+  },
+  {
+    "Date": "2022-01-12",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 36870968.0
+  },
+  {
+    "Date": "2019-04-23",
+    "Home_Club": "Deportivo Alavés S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36842857.0
+  },
+  {
+    "Date": "2022-03-02",
+    "Home_Club": "Luton Town Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 36842857.0
+  },
+  {
+    "Date": "2022-10-08",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 36833333.0
+  },
+  {
+    "Date": "2019-12-04",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 36821429.0
+  },
+  {
+    "Date": "2020-01-12",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Association sportive de Monaco Football Club",
+    "Average_Valuation_of_Players": 36821429.0
+  },
+  {
+    "Date": "2019-08-31",
+    "Home_Club": "Burnley Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 36788462.0
+  },
+  {
+    "Date": "2019-05-18",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Watford FC",
+    "Average_Valuation_of_Players": 36785714.0
+  },
+  {
+    "Date": "2023-09-15",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Bayer 04 Leverkusen Fußball",
+    "Average_Valuation_of_Players": 36756250.0
+  },
+  {
+    "Date": "2022-08-14",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 36750000.0
+  },
+  {
+    "Date": "2016-11-01",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36703704.0
+  },
+  {
+    "Date": "2019-03-17",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 36678571.0
+  },
+  {
+    "Date": "2023-11-04",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Association Football Club Bournemouth",
+    "Average_Valuation_of_Players": 36671875.0
+  },
+  {
+    "Date": "2019-10-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 36666667.0
+  },
+  {
+    "Date": "2019-04-02",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36650000.0
+  },
+  {
+    "Date": "2023-08-19",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 36625000.0
+  },
+  {
+    "Date": "2019-11-10",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Associazione Calcio Milan",
+    "Average_Valuation_of_Players": 36607143.0
+  },
+  {
+    "Date": "2023-08-27",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 36590625.0
+  },
+  {
+    "Date": "2018-12-05",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 36589286.0
+  },
+  {
+    "Date": "2020-07-18",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 36575000.0
+  },
+  {
+    "Date": "2017-08-08",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 36555556.0
+  },
+  {
+    "Date": "2019-12-11",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 36553571.0
+  },
+  {
+    "Date": "2020-09-12",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Leeds United",
+    "Average_Valuation_of_Players": 36551852.0
+  },
+  {
+    "Date": "2021-10-02",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36532258.0
+  },
+  {
+    "Date": "2021-04-11",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 36518519.0
+  },
+  {
+    "Date": "2019-01-13",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "SD Eibar",
+    "Average_Valuation_of_Players": 36503571.0
+  },
+  {
+    "Date": "2023-11-04",
+    "Home_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36482759.0
+  },
+  {
+    "Date": "2019-11-02",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 36482143.0
+  },
+  {
+    "Date": "2019-11-05",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Koninklijke Racing Club Genk",
+    "Average_Valuation_of_Players": 36464286.0
+  },
+  {
+    "Date": "2017-03-08",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 36410714.0
+  },
+  {
+    "Date": "2022-05-11",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 36400000.0
+  },
+  {
+    "Date": "2019-01-06",
+    "Home_Club": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36392857.0
+  },
+  {
+    "Date": "2018-12-08",
+    "Home_Club": "RCD Espanyol Barcelona",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36364286.0
+  },
+  {
+    "Date": "2020-08-08",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 36360714.0
+  },
+  {
+    "Date": "2021-02-16",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 36357143.0
+  },
+  {
+    "Date": "2017-02-14",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36342593.0
+  },
+  {
+    "Date": "2016-10-19",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 36321429.0
+  },
+  {
+    "Date": "2018-08-05",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 36316667.0
+  },
+  {
+    "Date": "2019-02-10",
+    "Home_Club": "Athletic Club Bilbao",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36275000.0
+  },
+  {
+    "Date": "2022-05-10",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 36267857.0
+  },
+  {
+    "Date": "2018-12-16",
+    "Home_Club": "Levante UD",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36232143.0
+  },
+  {
+    "Date": "2018-09-19",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Associazione Sportiva Roma",
+    "Average_Valuation_of_Players": 36214286.0
+  },
+  {
+    "Date": "2021-03-16",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Average_Valuation_of_Players": 36209375.0
+  },
+  {
+    "Date": "2019-11-02",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Real Betis Balompié S.A.D.",
+    "Average_Valuation_of_Players": 36192308.0
+  },
+  {
+    "Date": "2023-03-07",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 36189655.0
+  },
+  {
+    "Date": "2018-11-11",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Betis Balompié S.A.D.",
+    "Average_Valuation_of_Players": 36148148.0
+  },
+  {
+    "Date": "2022-04-28",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 36129630.0
+  },
+  {
+    "Date": "2019-11-02",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 36107143.0
+  },
+  {
+    "Date": "2023-02-23",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36103448.0
+  },
+  {
+    "Date": "2022-03-20",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36096774.0
+  },
+  {
+    "Date": "2023-02-18",
+    "Home_Club": "Nottingham Forest Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 36086207.0
+  },
+  {
+    "Date": "2022-02-16",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 36078125.0
+  },
+  {
+    "Date": "2019-04-06",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 36071429.0
+  },
+  {
+    "Date": "2012-08-22",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 36053571.0
+  },
+  {
+    "Date": "2023-05-07",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 36046875.0
+  },
+  {
+    "Date": "2014-03-23",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36037037.0
+  },
+  {
+    "Date": "2016-11-19",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 36037037.0
+  },
+  {
+    "Date": "2014-10-25",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 36000000.0
+  },
+  {
+    "Date": "2018-11-11",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 35946429.0
+  },
+  {
+    "Date": "2019-01-27",
+    "Home_Club": "Girona Fútbol Club S. A. D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 35922222.0
+  },
+  {
+    "Date": "2018-12-23",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 35888889.0
+  },
+  {
+    "Date": "2021-09-18",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 35888889.0
+  },
+  {
+    "Date": "2023-04-15",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 35828125.0
+  },
+  {
+    "Date": "2023-09-30",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35821429.0
+  },
+  {
+    "Date": "2021-08-17",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35813333.0
+  },
+  {
+    "Date": "2019-04-17",
+    "Home_Club": "Futebol Clube do Porto",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 35803571.0
+  },
+  {
+    "Date": "2019-01-16",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Associazione Calcio Milan",
+    "Average_Valuation_of_Players": 35803571.0
+  },
+  {
+    "Date": "2022-04-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 35796296.0
+  },
+  {
+    "Date": "2019-03-30",
+    "Home_Club": "Fulham Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35785714.0
+  },
+  {
+    "Date": "2021-09-19",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Olympique Lyonnais",
+    "Average_Valuation_of_Players": 35760714.0
+  },
+  {
+    "Date": "2021-09-11",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35746875.0
+  },
+  {
+    "Date": "2022-02-09",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brentford Football Club",
+    "Average_Valuation_of_Players": 35722222.0
+  },
+  {
+    "Date": "2018-10-02",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 35711538.0
+  },
+  {
+    "Date": "2020-10-27",
+    "Home_Club": "Olympique de Marseille",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35700000.0
+  },
+  {
+    "Date": "2019-09-18",
+    "Home_Club": "FC Shakhtar Donetsk",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35696429.0
+  },
+  {
+    "Date": "2022-11-06",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 35689655.0
+  },
+  {
+    "Date": "2021-10-23",
+    "Home_Club": "Brighton and Hove Albion Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35678571.0
+  },
+  {
+    "Date": "2021-10-16",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 35642857.0
+  },
+  {
+    "Date": "2017-04-19",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 35629630.0
+  },
+  {
+    "Date": "2019-02-20",
+    "Home_Club": "FC Schalke 04",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35625000.0
+  },
+  {
+    "Date": "2019-01-25",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 35625000.0
+  },
+  {
+    "Date": "2019-08-17",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 35625000.0
+  },
+  {
+    "Date": "2022-09-04",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 35600000.0
+  },
+  {
+    "Date": "2022-09-06",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 35600000.0
+  },
+  {
+    "Date": "2022-05-08",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 35592593.0
+  },
+  {
+    "Date": "2012-08-29",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 35589286.0
+  },
+  {
+    "Date": "2018-02-08",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 35589286.0
+  },
+  {
+    "Date": "2023-04-27",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 35583333.0
+  },
+  {
+    "Date": "2023-09-03",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 35577419.0
+  },
+  {
+    "Date": "2017-08-16",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 35571429.0
+  },
+  {
+    "Date": "2019-01-30",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 35571429.0
+  },
+  {
+    "Date": "2023-08-26",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 35548387.0
+  },
+  {
+    "Date": "2023-11-24",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Association sportive de Monaco Football Club",
+    "Average_Valuation_of_Players": 35535714.0
+  },
+  {
+    "Date": "2018-12-07",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 35518519.0
+  },
+  {
+    "Date": "2021-11-23",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 35516129.0
+  },
+  {
+    "Date": "2023-09-27",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35482143.0
+  },
+  {
+    "Date": "2020-12-01",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35467742.0
+  },
+  {
+    "Date": "2021-11-20",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 35444444.0
+  },
+  {
+    "Date": "2022-03-15",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 35433333.0
+  },
+  {
+    "Date": "2019-11-23",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 35428571.0
+  },
+  {
+    "Date": "2019-10-19",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 35428571.0
+  },
+  {
+    "Date": "2021-12-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 35420000.0
+  },
+  {
+    "Date": "2022-04-30",
+    "Home_Club": "Leeds United",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35410714.0
+  },
+  {
+    "Date": "2023-08-12",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Nottingham Forest Football Club",
+    "Average_Valuation_of_Players": 35400000.0
+  },
+  {
+    "Date": "2023-12-02",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 35387097.0
+  },
+  {
+    "Date": "2020-07-11",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Burnley Football Club",
+    "Average_Valuation_of_Players": 35384615.0
+  },
+  {
+    "Date": "2017-02-01",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 35370370.0
+  },
+  {
+    "Date": "2022-07-30",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35354839.0
+  },
+  {
+    "Date": "2021-01-13",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 35344231.0
+  },
+  {
+    "Date": "2020-10-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Sheffield United Football Club",
+    "Average_Valuation_of_Players": 35326923.0
+  },
+  {
+    "Date": "2023-01-07",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 35323333.0
+  },
+  {
+    "Date": "2019-08-03",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35303571.0
+  },
+  {
+    "Date": "2020-10-31",
+    "Home_Club": "Sheffield United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35277778.0
+  },
+  {
+    "Date": "2022-10-25",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 35260000.0
+  },
+  {
+    "Date": "2019-04-09",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Futebol Clube do Porto",
+    "Average_Valuation_of_Players": 35259259.0
+  },
+  {
+    "Date": "2019-02-27",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 35240741.0
+  },
+  {
+    "Date": "2021-04-10",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 35232143.0
+  },
+  {
+    "Date": "2020-09-21",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35226923.0
+  },
+  {
+    "Date": "2021-01-04",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 35216667.0
+  },
+  {
+    "Date": "2019-09-14",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 35214286.0
+  },
+  {
+    "Date": "2017-04-12",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 35196429.0
+  },
+  {
+    "Date": "2020-12-08",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 35189655.0
+  },
+  {
+    "Date": "2022-10-01",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 35187500.0
+  },
+  {
+    "Date": "2018-05-20",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 35185714.0
+  },
+  {
+    "Date": "2019-12-07",
+    "Home_Club": "Association Football Club Bournemouth",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 35160714.0
+  },
+  {
+    "Date": "2023-11-25",
+    "Home_Club": "Brentford Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 35150000.0
+  },
+  {
+    "Date": "2021-12-04",
+    "Home_Club": "Watford FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35142857.0
+  },
+  {
+    "Date": "2019-12-15",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 35125000.0
+  },
+  {
+    "Date": "2019-04-27",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 35111111.0
+  },
+  {
+    "Date": "2022-03-14",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35108696.0
+  },
+  {
+    "Date": "2021-01-21",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Burnley Football Club",
+    "Average_Valuation_of_Players": 35103704.0
+  },
+  {
+    "Date": "2023-08-27",
+    "Home_Club": "Sheffield United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35083333.0
+  },
+  {
+    "Date": "2020-02-22",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 35064815.0
+  },
+  {
+    "Date": "2020-10-31",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 35064286.0
+  },
+  {
+    "Date": "2023-05-25",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 35062500.0
+  },
+  {
+    "Date": "2019-09-21",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 35035714.0
+  },
+  {
+    "Date": "2023-11-04",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35006667.0
+  },
+  {
+    "Date": "2018-02-04",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 35000000.0
+  },
+  {
+    "Date": "2023-01-08",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 35000000.0
+  },
+  {
+    "Date": "2021-04-03",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 35000000.0
+  },
+  {
+    "Date": "2023-04-30",
+    "Home_Club": "Fulham Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 35000000.0
+  },
+  {
+    "Date": "2017-06-03",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 35000000.0
+  },
+  {
+    "Date": "2017-11-18",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34981481.0
+  },
+  {
+    "Date": "2023-01-11",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34967742.0
+  },
+  {
+    "Date": "2021-10-24",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34964286.0
+  },
+  {
+    "Date": "2020-01-01",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 34962963.0
+  },
+  {
+    "Date": "2021-01-24",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Luton Town Football Club",
+    "Average_Valuation_of_Players": 34956250.0
+  },
+  {
+    "Date": "2019-01-20",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "CD Leganés",
+    "Average_Valuation_of_Players": 34950000.0
+  },
+  {
+    "Date": "2020-12-19",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34946429.0
+  },
+  {
+    "Date": "2022-10-08",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 34935484.0
+  },
+  {
+    "Date": "2021-03-10",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34931034.0
+  },
+  {
+    "Date": "2021-02-09",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 34928571.0
+  },
+  {
+    "Date": "2018-11-27",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 34925926.0
+  },
+  {
+    "Date": "2020-08-08",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 34920690.0
+  },
+  {
+    "Date": "2017-04-18",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 34910714.0
+  },
+  {
+    "Date": "2023-12-03",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 34900000.0
+  },
+  {
+    "Date": "2018-09-18",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 34892857.0
+  },
+  {
+    "Date": "2020-06-21",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34876667.0
+  },
+  {
+    "Date": "2017-04-08",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 34875000.0
+  },
+  {
+    "Date": "2019-11-03",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 34857143.0
+  },
+  {
+    "Date": "2023-01-08",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34828125.0
+  },
+  {
+    "Date": "2018-05-03",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 34814815.0
+  },
+  {
+    "Date": "2019-10-19",
+    "Home_Club": "SD Eibar",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34778571.0
+  },
+  {
+    "Date": "2018-04-18",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Athletic Club Bilbao",
+    "Average_Valuation_of_Players": 34777778.0
+  },
+  {
+    "Date": "2023-04-26",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34767857.0
+  },
+  {
+    "Date": "2016-02-23",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34760000.0
+  },
+  {
+    "Date": "2018-12-22",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 34759259.0
+  },
+  {
+    "Date": "2018-11-06",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 34759259.0
+  },
+  {
+    "Date": "2023-01-22",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 34756250.0
+  },
+  {
+    "Date": "2018-09-26",
+    "Home_Club": "CD Leganés",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34753571.0
+  },
+  {
+    "Date": "2022-04-06",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 34741379.0
+  },
+  {
+    "Date": "2022-03-19",
+    "Home_Club": "Middlesbrough FC",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 34700000.0
+  },
+  {
+    "Date": "2017-10-14",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34696429.0
+  },
+  {
+    "Date": "2020-01-06",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 34685185.0
+  },
+  {
+    "Date": "2019-04-16",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "AFC Ajax Amsterdam",
+    "Average_Valuation_of_Players": 34660714.0
+  },
+  {
+    "Date": "2023-04-08",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34650000.0
+  },
+  {
+    "Date": "2020-01-15",
+    "Home_Club": "Association sportive de Monaco Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 34648214.0
+  },
+  {
+    "Date": "2022-02-10",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 34625000.0
+  },
+  {
+    "Date": "2023-11-25",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 34620690.0
+  },
+  {
+    "Date": "2023-08-16",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 34607692.0
+  },
+  {
+    "Date": "2013-10-26",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34607143.0
+  },
+  {
+    "Date": "2022-04-12",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 34607143.0
+  },
+  {
+    "Date": "2020-11-24",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 34603448.0
+  },
+  {
+    "Date": "2021-11-28",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 34596154.0
+  },
+  {
+    "Date": "2018-02-10",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 34592593.0
+  },
+  {
+    "Date": "2020-08-15",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Olympique Lyonnais",
+    "Average_Valuation_of_Players": 34567857.0
+  },
+  {
+    "Date": "2020-02-12",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 34564286.0
+  },
+  {
+    "Date": "2018-10-07",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Olympique Lyonnais",
+    "Average_Valuation_of_Players": 34562500.0
+  },
+  {
+    "Date": "2023-10-08",
+    "Home_Club": "Stade Rennais Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 34538710.0
+  },
+  {
+    "Date": "2021-10-19",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 34533333.0
+  },
+  {
+    "Date": "2021-08-22",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 34518519.0
+  },
+  {
+    "Date": "2020-02-01",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 34509259.0
+  },
+  {
+    "Date": "2020-12-19",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34482692.0
+  },
+  {
+    "Date": "2022-05-08",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34466667.0
+  },
+  {
+    "Date": "2019-04-06",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 34464286.0
+  },
+  {
+    "Date": "2023-04-16",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 34450000.0
+  },
+  {
+    "Date": "2020-11-01",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 34446429.0
+  },
+  {
+    "Date": "2020-07-05",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 34441379.0
+  },
+  {
+    "Date": "2020-12-19",
+    "Home_Club": "Bayer 04 Leverkusen Fußball",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 34433333.0
+  },
+  {
+    "Date": "2018-10-24",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 34425926.0
+  },
+  {
+    "Date": "2017-12-05",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 34425926.0
+  },
+  {
+    "Date": "2020-07-08",
+    "Home_Club": "Brighton and Hove Albion Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34413793.0
+  },
+  {
+    "Date": "2020-01-29",
+    "Home_Club": "Real Zaragoza",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34400000.0
+  },
+  {
+    "Date": "2020-06-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 34396552.0
+  },
+  {
+    "Date": "2017-02-07",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 34392857.0
+  },
+  {
+    "Date": "2023-02-15",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 34388889.0
+  },
+  {
+    "Date": "2018-12-01",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 34375000.0
+  },
+  {
+    "Date": "2018-11-27",
+    "Home_Club": "Associazione Sportiva Roma",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34375000.0
+  },
+  {
+    "Date": "2022-03-05",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 34370370.0
+  },
+  {
+    "Date": "2018-09-29",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 34339286.0
+  },
+  {
+    "Date": "2023-01-21",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 34338710.0
+  },
+  {
+    "Date": "2017-11-22",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 34333333.0
+  },
+  {
+    "Date": "2018-11-11",
+    "Home_Club": "Associazione Calcio Milan",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 34314815.0
+  },
+  {
+    "Date": "2021-03-08",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 34303571.0
+  },
+  {
+    "Date": "2020-05-26",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 34300000.0
+  },
+  {
+    "Date": "2019-03-02",
+    "Home_Club": "Association Football Club Bournemouth",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34285714.0
+  },
+  {
+    "Date": "2018-10-28",
+    "Home_Club": "Olympique de Marseille",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 34277778.0
+  },
+  {
+    "Date": "2019-12-29",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Sheffield United Football Club",
+    "Average_Valuation_of_Players": 34267857.0
+  },
+  {
+    "Date": "2018-02-19",
+    "Home_Club": "Wigan Athletic",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34250000.0
+  },
+  {
+    "Date": "2020-06-19",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 34248276.0
+  },
+  {
+    "Date": "2020-12-30",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34244444.0
+  },
+  {
+    "Date": "2020-02-15",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Getafe Club de Fútbol S.A.D. Team Dubai",
+    "Average_Valuation_of_Players": 34242857.0
+  },
+  {
+    "Date": "2019-10-22",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Bayer 04 Leverkusen Fußball",
+    "Average_Valuation_of_Players": 34232143.0
+  },
+  {
+    "Date": "2019-10-23",
+    "Home_Club": "Koninklijke Racing Club Genk",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34232143.0
+  },
+  {
+    "Date": "2019-09-30",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 34230769.0
+  },
+  {
+    "Date": "2021-09-15",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34200000.0
+  },
+  {
+    "Date": "2017-05-10",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 34196429.0
+  },
+  {
+    "Date": "2022-09-06",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34178125.0
+  },
+  {
+    "Date": "2019-11-30",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Association Football Club Bournemouth",
+    "Average_Valuation_of_Players": 34166667.0
+  },
+  {
+    "Date": "2020-09-27",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 34157692.0
+  },
+  {
+    "Date": "2018-10-28",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 34142857.0
+  },
+  {
+    "Date": "2021-12-11",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 34142857.0
+  },
+  {
+    "Date": "2021-11-02",
+    "Home_Club": "Atalanta Bergamasca Calcio S.p.a.",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 34120690.0
+  },
+  {
+    "Date": "2023-09-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 34086207.0
+  },
+  {
+    "Date": "2020-08-29",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34080000.0
+  },
+  {
+    "Date": "2019-11-23",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 34071429.0
+  },
+  {
+    "Date": "2019-12-03",
+    "Home_Club": "Burnley Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34053571.0
+  },
+  {
+    "Date": "2022-09-30",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Bayer 04 Leverkusen Fußball",
+    "Average_Valuation_of_Players": 34046875.0
+  },
+  {
+    "Date": "2020-02-17",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 34044643.0
+  },
+  {
+    "Date": "2018-04-26",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 34040000.0
+  },
+  {
+    "Date": "2023-10-24",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 34034483.0
+  },
+  {
+    "Date": "2021-12-07",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 34000000.0
+  },
+  {
+    "Date": "2022-10-19",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 34000000.0
+  },
+  {
+    "Date": "2018-04-29",
+    "Home_Club": "Deportivo de La Coruña",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33989286.0
+  },
+  {
+    "Date": "2020-09-24",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 33965517.0
+  },
+  {
+    "Date": "2018-11-27",
+    "Home_Club": "Olympique Lyonnais",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33962963.0
+  },
+  {
+    "Date": "2017-04-11",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33961538.0
+  },
+  {
+    "Date": "2019-04-21",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Association sportive de Monaco Football Club",
+    "Average_Valuation_of_Players": 33928571.0
+  },
+  {
+    "Date": "2021-11-21",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 33923077.0
+  },
+  {
+    "Date": "2021-10-17",
+    "Home_Club": "Bayer 04 Leverkusen Fußball",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 33921875.0
+  },
+  {
+    "Date": "2022-05-15",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33900000.0
+  },
+  {
+    "Date": "2022-02-05",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 33870968.0
+  },
+  {
+    "Date": "2022-08-27",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 33866667.0
+  },
+  {
+    "Date": "2021-03-06",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Borussia Dortmund",
+    "Average_Valuation_of_Players": 33851613.0
+  },
+  {
+    "Date": "2021-04-18",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 33844828.0
+  },
+  {
+    "Date": "2021-09-15",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Associazione Calcio Milan",
+    "Average_Valuation_of_Players": 33832258.0
+  },
+  {
+    "Date": "2021-12-02",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 33821429.0
+  },
+  {
+    "Date": "2022-03-20",
+    "Home_Club": "Association sportive de Monaco Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 33800000.0
+  },
+  {
+    "Date": "2021-01-19",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 33796296.0
+  },
+  {
+    "Date": "2023-11-08",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Galatasaray Spor Kulübü",
+    "Average_Valuation_of_Players": 33793548.0
+  },
+  {
+    "Date": "2020-12-26",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 33757143.0
+  },
+  {
+    "Date": "2019-11-05",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 33750000.0
+  },
+  {
+    "Date": "2019-04-03",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 33750000.0
+  },
+  {
+    "Date": "2019-12-10",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33732143.0
+  },
+  {
+    "Date": "2019-04-28",
+    "Home_Club": "Burnley Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33722222.0
+  },
+  {
+    "Date": "2020-01-26",
+    "Home_Club": "Lille Olympique Sporting Club Lille Métropole",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 33719643.0
+  },
+  {
+    "Date": "2019-10-01",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Bayer 04 Leverkusen Fußball",
+    "Average_Valuation_of_Players": 33696429.0
+  },
+  {
+    "Date": "2019-10-06",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 33696429.0
+  },
+  {
+    "Date": "2018-03-07",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 33648148.0
+  },
+  {
+    "Date": "2023-08-11",
+    "Home_Club": "Burnley Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33645161.0
+  },
+  {
+    "Date": "2018-01-03",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 33629630.0
+  },
+  {
+    "Date": "2019-03-10",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 33629630.0
+  },
+  {
+    "Date": "2018-12-30",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33615385.0
+  },
+  {
+    "Date": "2017-05-02",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 33607143.0
+  },
+  {
+    "Date": "2018-11-11",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 33571429.0
+  },
+  {
+    "Date": "2017-12-16",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 33555556.0
+  },
+  {
+    "Date": "2016-05-04",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33553571.0
+  },
+  {
+    "Date": "2021-12-14",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leeds United",
+    "Average_Valuation_of_Players": 33548148.0
+  },
+  {
+    "Date": "2019-01-20",
+    "Home_Club": "Huddersfield Town",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33537037.0
+  },
+  {
+    "Date": "2019-11-22",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Lille Olympique Sporting Club Lille Métropole",
+    "Average_Valuation_of_Players": 33535714.0
+  },
+  {
+    "Date": "2023-09-30",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 33523333.0
+  },
+  {
+    "Date": "2020-11-03",
+    "Home_Club": "Atalanta Bergamasca Calcio S.p.a.",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 33516667.0
+  },
+  {
+    "Date": "2019-11-02",
+    "Home_Club": "Levante UD",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33482143.0
+  },
+  {
+    "Date": "2015-05-06",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 33461538.0
+  },
+  {
+    "Date": "2022-09-07",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 33453125.0
+  },
+  {
+    "Date": "2021-09-28",
+    "Home_Club": "Associazione Calcio Milan",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 33453125.0
+  },
+  {
+    "Date": "2019-04-05",
+    "Home_Club": "Southampton FC",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 33446429.0
+  },
+  {
+    "Date": "2023-11-29",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 33435484.0
+  },
+  {
+    "Date": "2018-09-15",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Bayer 04 Leverkusen Fußball",
+    "Average_Valuation_of_Players": 33410714.0
+  },
+  {
+    "Date": "2019-08-16",
+    "Home_Club": "Athletic Club Bilbao",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33410714.0
+  },
+  {
+    "Date": "2019-09-28",
+    "Home_Club": "Sheffield United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 33407407.0
+  },
+  {
+    "Date": "2023-09-02",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 33403226.0
+  },
+  {
+    "Date": "2022-02-15",
+    "Home_Club": "Sporting Clube de Portugal",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33400000.0
+  },
+  {
+    "Date": "2014-04-23",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 33392857.0
+  },
+  {
+    "Date": "2022-03-12",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 33392857.0
+  },
+  {
+    "Date": "2019-09-14",
+    "Home_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 33388889.0
+  },
+  {
+    "Date": "2015-04-14",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 33384615.0
+  },
+  {
+    "Date": "2020-08-13",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 33379310.0
+  },
+  {
+    "Date": "2020-01-08",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 33375000.0
+  },
+  {
+    "Date": "2020-10-28",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 33366667.0
+  },
+  {
+    "Date": "2021-10-02",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 33346154.0
+  },
+  {
+    "Date": "2019-11-30",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Bayer 04 Leverkusen Fußball",
+    "Average_Valuation_of_Players": 33339286.0
+  },
+  {
+    "Date": "2023-05-06",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Leeds United",
+    "Average_Valuation_of_Players": 33333333.0
+  },
+  {
+    "Date": "2021-02-27",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 33322222.0
+  },
+  {
+    "Date": "2022-08-13",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Association Football Club Bournemouth",
+    "Average_Valuation_of_Players": 33316667.0
+  },
+  {
+    "Date": "2017-09-12",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 33308929.0
+  },
+  {
+    "Date": "2022-04-20",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 33278571.0
+  },
+  {
+    "Date": "2018-11-28",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Association sportive de Monaco Football Club",
+    "Average_Valuation_of_Players": 33266000.0
+  },
+  {
+    "Date": "2022-04-02",
+    "Home_Club": "Burnley Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 33259259.0
+  },
+  {
+    "Date": "2018-09-15",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 33259259.0
+  },
+  {
+    "Date": "2021-09-19",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 33250000.0
+  },
+  {
+    "Date": "2023-03-01",
+    "Home_Club": "Sheffield United Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 33233333.0
+  },
+  {
+    "Date": "2020-02-02",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Levante UD",
+    "Average_Valuation_of_Players": 33228571.0
+  },
+  {
+    "Date": "2023-12-19",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 33216667.0
+  },
+  {
+    "Date": "2018-05-06",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 33214286.0
+  },
+  {
+    "Date": "2020-02-14",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 33178571.0
+  },
+  {
+    "Date": "2021-04-10",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33160000.0
+  },
+  {
+    "Date": "2016-04-13",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 33148148.0
+  },
+  {
+    "Date": "2022-09-03",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 33123333.0
+  },
+  {
+    "Date": "2019-11-27",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 33107143.0
+  },
+  {
+    "Date": "2019-05-12",
+    "Home_Club": "Associazione Sportiva Roma",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 33103704.0
+  },
+  {
+    "Date": "2020-02-23",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "FC Girondins Bordeaux",
+    "Average_Valuation_of_Players": 33092593.0
+  },
+  {
+    "Date": "2023-04-04",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Sport-Club Freiburg",
+    "Average_Valuation_of_Players": 33084615.0
+  },
+  {
+    "Date": "2020-08-18",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 33058065.0
+  },
+  {
+    "Date": "2020-01-12",
+    "Home_Club": "Associazione Sportiva Roma",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 33053571.0
+  },
+  {
+    "Date": "2020-11-25",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Atalanta Bergamasca Calcio S.p.a.",
+    "Average_Valuation_of_Players": 33053571.0
+  },
+  {
+    "Date": "2023-04-23",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 33050000.0
+  },
+  {
+    "Date": "2023-01-03",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 33038462.0
+  },
+  {
+    "Date": "2018-10-20",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Burnley Football Club",
+    "Average_Valuation_of_Players": 33035714.0
+  },
+  {
+    "Date": "2019-12-15",
+    "Home_Club": "AS Saint-Étienne",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 33001923.0
+  },
+  {
+    "Date": "2019-08-09",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Norwich City",
+    "Average_Valuation_of_Players": 33000000.0
+  },
+  {
+    "Date": "2023-11-29",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Racing Club de Lens",
+    "Average_Valuation_of_Players": 32968750.0
+  },
+  {
+    "Date": "2023-04-15",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 32966667.0
+  },
+  {
+    "Date": "2017-10-17",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 32934615.0
+  },
+  {
+    "Date": "2019-03-03",
+    "Home_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 32910714.0
+  },
+  {
+    "Date": "2023-05-24",
+    "Home_Club": "Brighton and Hove Albion Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32900000.0
+  },
+  {
+    "Date": "2021-09-25",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 32884615.0
+  },
+  {
+    "Date": "2021-12-07",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 32875000.0
+  },
+  {
+    "Date": "2021-04-24",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 32870370.0
+  },
+  {
+    "Date": "2023-09-30",
+    "Home_Club": "Association Football Club Bournemouth",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 32865625.0
+  },
+  {
+    "Date": "2015-05-12",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 32857143.0
+  },
+  {
+    "Date": "2020-02-19",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 32851852.0
+  },
+  {
+    "Date": "2019-11-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "FC Shakhtar Donetsk",
+    "Average_Valuation_of_Players": 32851852.0
+  },
+  {
+    "Date": "2021-11-03",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Club Brugge Koninklijke Voetbalvereniging",
+    "Average_Valuation_of_Players": 32822581.0
+  },
+  {
+    "Date": "2018-05-09",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 32821429.0
+  },
+  {
+    "Date": "2019-11-23",
+    "Home_Club": "CD Leganés",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 32814286.0
+  },
+  {
+    "Date": "2018-01-27",
+    "Home_Club": "Valencia Club de Fútbol S. A. D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32803571.0
+  },
+  {
+    "Date": "2020-10-03",
+    "Home_Club": "Leeds United",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32795370.0
+  },
+  {
+    "Date": "2019-05-12",
+    "Home_Club": "Brighton and Hove Albion Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32794643.0
+  },
+  {
+    "Date": "2019-05-12",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 32785714.0
+  },
+  {
+    "Date": "2018-02-13",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 32785714.0
+  },
+  {
+    "Date": "2023-09-17",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Real Sociedad de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 32774194.0
+  },
+  {
+    "Date": "2019-12-17",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 32759259.0
+  },
+  {
+    "Date": "2019-02-16",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Valladolid CF",
+    "Average_Valuation_of_Players": 32742857.0
+  },
+  {
+    "Date": "2022-11-01",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 32741935.0
+  },
+  {
+    "Date": "2021-04-19",
+    "Home_Club": "Leeds United",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32726923.0
+  },
+  {
+    "Date": "2019-02-24",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 32714286.0
+  },
+  {
+    "Date": "2021-01-17",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 32714286.0
+  },
+  {
+    "Date": "2023-08-12",
+    "Home_Club": "Athletic Club Bilbao",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32696774.0
+  },
+  {
+    "Date": "2019-05-25",
+    "Home_Club": "RasenBallsport Leipzig",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 32696429.0
+  },
+  {
+    "Date": "2021-01-30",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 32692593.0
+  },
+  {
+    "Date": "2019-09-21",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Watford FC",
+    "Average_Valuation_of_Players": 32685185.0
+  },
+  {
+    "Date": "2021-11-07",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32678571.0
+  },
+  {
+    "Date": "2017-11-05",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 32678571.0
+  },
+  {
+    "Date": "2019-10-29",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Valladolid CF",
+    "Average_Valuation_of_Players": 32667857.0
+  },
+  {
+    "Date": "2018-11-24",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32666667.0
+  },
+  {
+    "Date": "2022-09-18",
+    "Home_Club": "Olympique Lyonnais",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 32655172.0
+  },
+  {
+    "Date": "2019-03-16",
+    "Home_Club": "Athletic Club Bilbao",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 32650000.0
+  },
+  {
+    "Date": "2021-10-19",
+    "Home_Club": "Club Brugge Koninklijke Voetbalvereniging",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32645161.0
+  },
+  {
+    "Date": "2014-04-29",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32642857.0
+  },
+  {
+    "Date": "2023-03-08",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Associazione Calcio Milan",
+    "Average_Valuation_of_Players": 32637931.0
+  },
+  {
+    "Date": "2018-08-25",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32629630.0
+  },
+  {
+    "Date": "2021-05-08",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Average_Valuation_of_Players": 32625000.0
+  },
+  {
+    "Date": "2022-08-28",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Association sportive de Monaco Football Club",
+    "Average_Valuation_of_Players": 32620690.0
+  },
+  {
+    "Date": "2020-01-30",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "CD Leganés",
+    "Average_Valuation_of_Players": 32592593.0
+  },
+  {
+    "Date": "2021-10-24",
+    "Home_Club": "Olympique de Marseille",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 32586207.0
+  },
+  {
+    "Date": "2022-04-27",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 32532258.0
+  },
+  {
+    "Date": "2021-12-28",
+    "Home_Club": "Leicester City",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32517857.0
+  },
+  {
+    "Date": "2022-04-17",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Olympique de Marseille",
+    "Average_Valuation_of_Players": 32517241.0
+  },
+  {
+    "Date": "2021-04-21",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32500000.0
+  },
+  {
+    "Date": "2017-09-30",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32500000.0
+  },
+  {
+    "Date": "2023-12-17",
+    "Home_Club": "Lille Olympique Sporting Club Lille Métropole",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 32500000.0
+  },
+  {
+    "Date": "2020-12-15",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 32496154.0
+  },
+  {
+    "Date": "2023-10-21",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32483871.0
+  },
+  {
+    "Date": "2019-01-06",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 32474074.0
+  },
+  {
+    "Date": "2020-01-12",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32464286.0
+  },
+  {
+    "Date": "2021-05-08",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 32464286.0
+  },
+  {
+    "Date": "2018-12-30",
+    "Home_Club": "Crystal Palace Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 32462963.0
+  },
+  {
+    "Date": "2013-01-30",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 32453846.0
+  },
+  {
+    "Date": "2022-10-12",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Football Club Internazionale Milano S.p.A.",
+    "Average_Valuation_of_Players": 32437500.0
+  },
+  {
+    "Date": "2021-12-04",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32428571.0
+  },
+  {
+    "Date": "2020-12-13",
+    "Home_Club": "Fulham Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32421429.0
+  },
+  {
+    "Date": "2022-12-26",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 32416667.0
+  },
+  {
+    "Date": "2021-02-04",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 32407407.0
+  },
+  {
+    "Date": "2019-04-03",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 32407407.0
+  },
+  {
+    "Date": "2023-12-10",
+    "Home_Club": "Luton Town Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32393103.0
+  },
+  {
+    "Date": "2022-09-14",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 32387097.0
+  },
+  {
+    "Date": "2019-01-02",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 32384615.0
+  },
+  {
+    "Date": "2018-04-29",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 32384615.0
+  },
+  {
+    "Date": "2018-02-01",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 32375000.0
+  },
+  {
+    "Date": "2019-09-22",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32351852.0
+  },
+  {
+    "Date": "2020-02-26",
+    "Home_Club": "Olympique Lyonnais",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 32321429.0
+  },
+  {
+    "Date": "2023-09-24",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 32258065.0
+  },
+  {
+    "Date": "2023-10-03",
+    "Home_Club": "Racing Club de Lens",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 32241935.0
+  },
+  {
+    "Date": "2018-12-26",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 32214286.0
+  },
+  {
+    "Date": "2018-05-19",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32207143.0
+  },
+  {
+    "Date": "2013-02-26",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32207143.0
+  },
+  {
+    "Date": "2017-11-01",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 32207143.0
+  },
+  {
+    "Date": "2018-12-22",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Associazione Sportiva Roma",
+    "Average_Valuation_of_Players": 32203704.0
+  },
+  {
+    "Date": "2019-03-17",
+    "Home_Club": "Fulham Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32196429.0
+  },
+  {
+    "Date": "2019-02-03",
+    "Home_Club": "Olympique Lyonnais",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 32185185.0
+  },
+  {
+    "Date": "2021-12-26",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 32178571.0
+  },
+  {
+    "Date": "2020-07-26",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32150000.0
+  },
+  {
+    "Date": "2022-04-05",
+    "Home_Club": "Sport Lisboa e Benfica",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32150000.0
+  },
+  {
+    "Date": "2021-09-12",
+    "Home_Club": "Leeds United",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32142857.0
+  },
+  {
+    "Date": "2021-05-09",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Associazione Calcio Milan",
+    "Average_Valuation_of_Players": 32142857.0
+  },
+  {
+    "Date": "2018-12-21",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32142857.0
+  },
+  {
+    "Date": "2020-02-09",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Olympique Lyonnais",
+    "Average_Valuation_of_Players": 32142857.0
+  },
+  {
+    "Date": "2022-04-20",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 32125000.0
+  },
+  {
+    "Date": "2019-01-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Burnley Football Club",
+    "Average_Valuation_of_Players": 32111111.0
+  },
+  {
+    "Date": "2021-12-19",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 32107143.0
+  },
+  {
+    "Date": "2018-11-03",
+    "Home_Club": "Rayo Vallecano de Madrid S.A.D.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 32100000.0
+  },
+  {
+    "Date": "2019-12-11",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Galatasaray Spor Kulübü",
+    "Average_Valuation_of_Players": 32080357.0
+  },
+  {
+    "Date": "2023-02-25",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 32078125.0
+  },
+  {
+    "Date": "2021-02-06",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 32055556.0
+  },
+  {
+    "Date": "2021-05-18",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 32055556.0
+  },
+  {
+    "Date": "2023-10-21",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 32051613.0
+  },
+  {
+    "Date": "2020-10-21",
+    "Home_Club": "AFC Ajax Amsterdam",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32035484.0
+  },
+  {
+    "Date": "2021-12-01",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32017857.0
+  },
+  {
+    "Date": "2020-12-05",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "RasenBallsport Leipzig",
+    "Average_Valuation_of_Players": 32016129.0
+  },
+  {
+    "Date": "2022-09-03",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 32000000.0
+  },
+  {
+    "Date": "2019-03-10",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Burnley Football Club",
+    "Average_Valuation_of_Players": 32000000.0
+  },
+  {
+    "Date": "2022-12-28",
+    "Home_Club": "Leeds United",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 31993333.0
+  },
+  {
+    "Date": "2020-07-21",
+    "Home_Club": "Watford FC",
+    "Away_Club": "Manchester City Football Club",
+    "Average_Valuation_of_Players": 31975000.0
+  },
+  {
+    "Date": "2021-04-07",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 31966667.0
+  },
+  {
+    "Date": "2023-04-01",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 31966667.0
+  },
+  {
+    "Date": "2021-01-08",
+    "Home_Club": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 31966667.0
+  },
+  {
+    "Date": "2020-12-06",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 31962963.0
+  },
+  {
+    "Date": "2022-03-01",
+    "Home_Club": "Middlesbrough FC",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 31928571.0
+  },
+  {
+    "Date": "2016-04-05",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31928571.0
+  },
+  {
+    "Date": "2022-05-22",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Wolverhampton Wanderers Football Club",
+    "Average_Valuation_of_Players": 31928571.0
+  },
+  {
+    "Date": "2019-04-30",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "AFC Ajax Amsterdam",
+    "Average_Valuation_of_Players": 31907407.0
+  },
+  {
+    "Date": "2022-10-04",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Futbol Club Barcelona",
+    "Average_Valuation_of_Players": 31903226.0
+  },
+  {
+    "Date": "2018-12-02",
+    "Home_Club": "Girona Fútbol Club S. A. D.",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31892308.0
+  },
+  {
+    "Date": "2019-04-08",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 31888889.0
+  },
+  {
+    "Date": "2023-02-18",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 31880645.0
+  },
+  {
+    "Date": "2023-10-24",
+    "Home_Club": "Sporting Clube de Braga",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 31875000.0
+  },
+  {
+    "Date": "2019-11-06",
+    "Home_Club": "Bayer 04 Leverkusen Fußball",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31875000.0
+  },
+  {
+    "Date": "2023-12-02",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 31867857.0
+  },
+  {
+    "Date": "2019-01-19",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 31842593.0
+  },
+  {
+    "Date": "2019-09-21",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Club Celta de Vigo S. A. D.",
+    "Average_Valuation_of_Players": 31839286.0
+  },
+  {
+    "Date": "2023-01-19",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 31833333.0
+  },
+  {
+    "Date": "2016-01-30",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31833333.0
+  },
+  {
+    "Date": "2021-01-12",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 31827586.0
+  },
+  {
+    "Date": "2019-08-25",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Real Betis Balompié S.A.D.",
+    "Average_Valuation_of_Players": 31818519.0
+  },
+  {
+    "Date": "2019-03-12",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "FC Schalke 04",
+    "Average_Valuation_of_Players": 31803571.0
+  },
+  {
+    "Date": "2016-12-06",
+    "Home_Club": "FC Bayern München",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31803571.0
+  },
+  {
+    "Date": "2020-12-26",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Newcastle United Football Club",
+    "Average_Valuation_of_Players": 31803571.0
+  },
+  {
+    "Date": "2023-09-24",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Olympique de Marseille",
+    "Average_Valuation_of_Players": 31801562.0
+  },
+  {
+    "Date": "2023-05-14",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Brighton and Hove Albion Football Club",
+    "Average_Valuation_of_Players": 31800000.0
+  },
+  {
+    "Date": "2020-12-12",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 31777778.0
+  },
+  {
+    "Date": "2020-12-05",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Fulham Football Club",
+    "Average_Valuation_of_Players": 31772000.0
+  },
+  {
+    "Date": "2018-11-04",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 31740741.0
+  },
+  {
+    "Date": "2022-10-05",
+    "Home_Club": "Sport Lisboa e Benfica",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 31732143.0
+  },
+  {
+    "Date": "2023-05-20",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 31718750.0
+  },
+  {
+    "Date": "2023-02-11",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 31716667.0
+  },
+  {
+    "Date": "2019-12-14",
+    "Home_Club": "Chelsea Football Club",
+    "Away_Club": "Association Football Club Bournemouth",
+    "Average_Valuation_of_Players": 31711538.0
+  },
+  {
+    "Date": "2023-04-08",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Average_Valuation_of_Players": 31700000.0
+  },
+  {
+    "Date": "2019-05-08",
+    "Home_Club": "AFC Ajax Amsterdam",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 31678571.0
+  },
+  {
+    "Date": "2017-09-27",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 31660714.0
+  },
+  {
+    "Date": "2019-03-09",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Watford FC",
+    "Average_Valuation_of_Players": 31642857.0
+  },
+  {
+    "Date": "2021-03-10",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Southampton FC",
+    "Average_Valuation_of_Players": 31620370.0
+  },
+  {
+    "Date": "2020-12-27",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Bromwich Albion",
+    "Average_Valuation_of_Players": 31617857.0
+  },
+  {
+    "Date": "2019-01-03",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 31617857.0
+  },
+  {
+    "Date": "2019-12-22",
+    "Home_Club": "Real Betis Balompié S.A.D.",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31611111.0
+  },
+  {
+    "Date": "2019-05-12",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 31611111.0
+  },
+  {
+    "Date": "2020-03-07",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Sevilla Fútbol Club S.A.D.",
+    "Average_Valuation_of_Players": 31607143.0
+  },
+  {
+    "Date": "2020-08-19",
+    "Home_Club": "Olympique Lyonnais",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 31606250.0
+  },
+  {
+    "Date": "2023-02-04",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 31600000.0
+  },
+  {
+    "Date": "2020-11-22",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 31596296.0
+  },
+  {
+    "Date": "2023-02-18",
+    "Home_Club": "Aston Villa Football Club",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 31593750.0
+  },
+  {
+    "Date": "2021-08-29",
+    "Home_Club": "Wolverhampton Wanderers Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 31564286.0
+  },
+  {
+    "Date": "2021-09-29",
+    "Home_Club": "Juventus Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 31548387.0
+  },
+  {
+    "Date": "2023-10-24",
+    "Home_Club": "Galatasaray Spor Kulübü",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 31530000.0
+  },
+  {
+    "Date": "2022-08-31",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Nottingham Forest Football Club",
+    "Average_Valuation_of_Players": 31519355.0
+  },
+  {
+    "Date": "2019-02-09",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "Association Football Club Bournemouth",
+    "Average_Valuation_of_Players": 31517857.0
+  },
+  {
+    "Date": "2018-09-26",
+    "Home_Club": "Sevilla Fútbol Club S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 31517857.0
+  },
+  {
+    "Date": "2023-12-20",
+    "Home_Club": "Liverpool Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 31506452.0
+  },
+  {
+    "Date": "2016-02-27",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31500000.0
+  },
+  {
+    "Date": "2016-09-27",
+    "Home_Club": "Borussia Dortmund",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 31481481.0
+  },
+  {
+    "Date": "2023-01-26",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Club Atlético de Madrid S.A.D.",
+    "Average_Valuation_of_Players": 31474242.0
+  },
+  {
+    "Date": "2022-05-03",
+    "Home_Club": "Villarreal Club de Fútbol S.A.D.",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 31453125.0
+  },
+  {
+    "Date": "2021-02-13",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 31448276.0
+  },
+  {
+    "Date": "2022-09-17",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Leicester City",
+    "Average_Valuation_of_Players": 31413793.0
+  },
+  {
+    "Date": "2020-06-18",
+    "Home_Club": "Real Madrid Club de Fútbol",
+    "Away_Club": "Valencia Club de Fútbol S. A. D.",
+    "Average_Valuation_of_Players": 31413793.0
+  },
+  {
+    "Date": "2019-02-04",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Liverpool Football Club",
+    "Average_Valuation_of_Players": 31407407.0
+  },
+  {
+    "Date": "2021-10-03",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "Aston Villa Football Club",
+    "Average_Valuation_of_Players": 31384615.0
+  },
+  {
+    "Date": "2023-09-15",
+    "Home_Club": "Paris Saint-Germain Football Club",
+    "Away_Club": "Olympique Gymnaste Club Nice Côte d'Azur",
+    "Average_Valuation_of_Players": 31370000.0
+  },
+  {
+    "Date": "2019-09-28",
+    "Home_Club": "FC Girondins Bordeaux",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 31365385.0
+  },
+  {
+    "Date": "2018-02-24",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Girona Fútbol Club S. A. D.",
+    "Average_Valuation_of_Players": 31357143.0
+  },
+  {
+    "Date": "2023-04-02",
+    "Home_Club": "Newcastle United Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 31338710.0
+  },
+  {
+    "Date": "2016-03-16",
+    "Home_Club": "Futbol Club Barcelona",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 31333333.0
+  },
+  {
+    "Date": "2019-12-15",
+    "Home_Club": "Manchester United Football Club",
+    "Away_Club": "Everton Football Club",
+    "Average_Valuation_of_Players": 31333333.0
+  },
+  {
+    "Date": "2020-02-13",
+    "Home_Club": "Associazione Calcio Milan",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 31321429.0
+  },
+  {
+    "Date": "2019-04-18",
+    "Home_Club": "Società Sportiva Calcio Napoli",
+    "Away_Club": "Arsenal Football Club",
+    "Average_Valuation_of_Players": 31285714.0
+  },
+  {
+    "Date": "2023-04-01",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Leeds United",
+    "Average_Valuation_of_Players": 31281250.0
+  },
+  {
+    "Date": "2023-09-24",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "Real Madrid Club de Fútbol",
+    "Average_Valuation_of_Players": 31281250.0
+  },
+  {
+    "Date": "2021-10-03",
+    "Home_Club": "Stade Rennais Football Club",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 31275862.0
+  },
+  {
+    "Date": "2019-12-07",
+    "Home_Club": "Società Sportiva Lazio S.p.A.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 31250000.0
+  },
+  {
+    "Date": "2021-01-17",
+    "Home_Club": "Manchester City Football Club",
+    "Away_Club": "Crystal Palace Football Club",
+    "Average_Valuation_of_Players": 31248148.0
+  },
+  {
+    "Date": "2023-12-07",
+    "Home_Club": "Tottenham Hotspur Football Club",
+    "Away_Club": "West Ham United Football Club",
+    "Average_Valuation_of_Players": 31246429.0
+  },
+  {
+    "Date": "2019-12-07",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 31240741.0
+  },
+  {
+    "Date": "2021-03-14",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 31239286.0
+  },
+  {
+    "Date": "2023-04-12",
+    "Home_Club": "Associazione Calcio Milan",
+    "Away_Club": "Società Sportiva Calcio Napoli",
+    "Average_Valuation_of_Players": 31214286.0
+  },
+  {
+    "Date": "2021-02-02",
+    "Home_Club": "Football Club Internazionale Milano S.p.A.",
+    "Away_Club": "Juventus Football Club",
+    "Average_Valuation_of_Players": 31209677.0
+  },
+  {
+    "Date": "2020-11-07",
+    "Home_Club": "Everton Football Club",
+    "Away_Club": "Manchester United Football Club",
+    "Average_Valuation_of_Players": 31203704.0
+  },
+  {
+    "Date": "2021-09-15",
+    "Home_Club": "Club Brugge Koninklijke Voetbalvereniging",
+    "Away_Club": "Paris Saint-Germain Football Club",
+    "Average_Valuation_of_Players": 31203704.0
+  },
+  {
+    "Date": "2021-12-04",
+    "Home_Club": "West Ham United Football Club",
+    "Away_Club": "Chelsea Football Club",
+    "Average_Valuation_of_Players": 31196429.0
+  },
+  {
+    "Date": "2016-09-28",
+    "Home_Club": "Club Atlético de Madrid S.A.D.",
+    "Away_Club": "FC Bayern München",
+    "Average_Valuation_of_Players": 31178571.0
+  },
+  {
+    "Date": "2021-09-26",
+    "Home_Club": "Arsenal Football Club",
+    "Away_Club": "Tottenham Hotspur Football Club",
+    "Average_Valuation_of_Players": 31178571.0
+  }
+]

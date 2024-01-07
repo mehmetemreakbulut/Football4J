@@ -1,0 +1,260 @@
+﻿[
+  {
+    "Competition_ID": "TR1",
+    "Competition_Name": "super-lig",
+    "Total_Number_of_Players": 2588,
+    "Average_Age": 27
+  },
+  {
+    "Competition_ID": "SCI",
+    "Competition_Name": "supercoppa-italiana",
+    "Total_Number_of_Players": 181,
+    "Average_Age": 27
+  },
+  {
+    "Competition_ID": "SUC",
+    "Competition_Name": "supercopa",
+    "Total_Number_of_Players": 272,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "CDR",
+    "Competition_Name": "copa-del-rey",
+    "Total_Number_of_Players": 2032,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "GB1",
+    "Competition_Name": "premier-league",
+    "Total_Number_of_Players": 2110,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "USC",
+    "Competition_Name": "uefa-super-cup",
+    "Total_Number_of_Players": 246,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "CL",
+    "Competition_Name": "uefa-champions-league",
+    "Total_Number_of_Players": 3094,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "UKRS",
+    "Competition_Name": "ukrainian-super-cup",
+    "Total_Number_of_Players": 128,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "RU1",
+    "Competition_Name": "premier-liga",
+    "Total_Number_of_Players": 1851,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "KLUB",
+    "Competition_Name": "fifa-klub-wm",
+    "Total_Number_of_Players": 158,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "RUSS",
+    "Competition_Name": "russian-super-cup",
+    "Total_Number_of_Players": 200,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "CIT",
+    "Competition_Name": "italy-cup",
+    "Total_Number_of_Players": 2033,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "IT1",
+    "Competition_Name": "serie-a",
+    "Total_Number_of_Players": 2296,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "GBCS",
+    "Competition_Name": "community-shield",
+    "Total_Number_of_Players": 226,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "GR1",
+    "Competition_Name": "super-league-1",
+    "Total_Number_of_Players": 2304,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "GRP",
+    "Competition_Name": "kypello-elladas",
+    "Total_Number_of_Players": 2068,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "ES1",
+    "Competition_Name": "laliga",
+    "Total_Number_of_Players": 2222,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "FRCH",
+    "Competition_Name": "trophee-des-champions",
+    "Total_Number_of_Players": 215,
+    "Average_Age": 26
+  },
+  {
+    "Competition_ID": "BE1",
+    "Competition_Name": "jupiler-pro-league",
+    "Total_Number_of_Players": 2249,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "SFA",
+    "Competition_Name": "sfa-cup",
+    "Total_Number_of_Players": 1276,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "UKR1",
+    "Competition_Name": "premier-liga",
+    "Total_Number_of_Players": 1704,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "SC1",
+    "Competition_Name": "scottish-premiership",
+    "Total_Number_of_Players": 1706,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "PO1",
+    "Competition_Name": "liga-portugal-bwin",
+    "Total_Number_of_Players": 2535,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "RUP",
+    "Competition_Name": "russian-cup",
+    "Total_Number_of_Players": 1663,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "ECLQ",
+    "Competition_Name": "uefa-europa-conference-league-qualifikation",
+    "Total_Number_of_Players": 1318,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "CLQ",
+    "Competition_Name": "uefa-champions-league-qualifikation",
+    "Total_Number_of_Players": 2186,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "FR1",
+    "Competition_Name": "ligue-1",
+    "Total_Number_of_Players": 2440,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "ELQ",
+    "Competition_Name": "europa-league-qualifikation",
+    "Total_Number_of_Players": 4384,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "UKRP",
+    "Competition_Name": "ukrainian-cup",
+    "Total_Number_of_Players": 1282,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "CGB",
+    "Competition_Name": "efl-cup",
+    "Total_Number_of_Players": 692,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "EL",
+    "Competition_Name": "europa-league",
+    "Total_Number_of_Players": 5309,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "DFB",
+    "Competition_Name": "dfb-pokal",
+    "Total_Number_of_Players": 1553,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "DFL",
+    "Competition_Name": "dfl-supercup",
+    "Total_Number_of_Players": 171,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "FAC",
+    "Competition_Name": "fa-cup",
+    "Total_Number_of_Players": 2153,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "POCP",
+    "Competition_Name": "allianz-cup",
+    "Total_Number_of_Players": 2049,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "L1",
+    "Competition_Name": "bundesliga",
+    "Total_Number_of_Players": 1887,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "DK1",
+    "Competition_Name": "superligaen",
+    "Total_Number_of_Players": 1449,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "POSU",
+    "Competition_Name": "supertaca-candido-de-oliveira",
+    "Total_Number_of_Players": 247,
+    "Average_Age": 25
+  },
+  {
+    "Competition_ID": "NLP",
+    "Competition_Name": "toto-knvb-beker",
+    "Total_Number_of_Players": 1837,
+    "Average_Age": 24
+  },
+  {
+    "Competition_ID": "NL1",
+    "Competition_Name": "eredivisie",
+    "Total_Number_of_Players": 2214,
+    "Average_Age": 24
+  },
+  {
+    "Competition_ID": "NLSC",
+    "Competition_Name": "johan-cruijff-schaal",
+    "Total_Number_of_Players": 213,
+    "Average_Age": 24
+  },
+  {
+    "Competition_ID": "BESC",
+    "Competition_Name": "belgian-supercup",
+    "Total_Number_of_Players": 243,
+    "Average_Age": 24
+  },
+  {
+    "Competition_ID": "DKP",
+    "Competition_Name": "sydbank-pokalen",
+    "Total_Number_of_Players": 1401,
+    "Average_Age": 24
+  }
+]

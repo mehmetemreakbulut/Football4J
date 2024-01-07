@@ -1,0 +1,5336 @@
+﻿[
+  {
+    "Manager": "Jupp Heynckes",
+    "Average_Point": 2.6,
+    "Matches_Played": 91,
+    "Average_Valuation": 26778037.0,
+    "Score": 9.8562
+  },
+  {
+    "Manager": "Patrick van Leeuwen",
+    "Average_Point": 2.1,
+    "Matches_Played": 42,
+    "Average_Valuation": 1463785.0,
+    "Score": 9.59322
+  },
+  {
+    "Manager": "Oleksandr Kucher",
+    "Average_Point": 2.1,
+    "Matches_Played": 35,
+    "Average_Valuation": 1466294.0,
+    "Score": 9.41766
+  },
+  {
+    "Manager": "Hansi Flick",
+    "Average_Point": 2.5,
+    "Matches_Played": 79,
+    "Average_Valuation": 42355171.0,
+    "Score": 9.37027
+  },
+  {
+    "Manager": "Michael Beale",
+    "Average_Point": 2.2,
+    "Matches_Played": 31,
+    "Average_Valuation": 5377538.0,
+    "Score": 9.20009
+  },
+  {
+    "Manager": "Karel Geraerts",
+    "Average_Point": 2.0,
+    "Matches_Played": 44,
+    "Average_Valuation": 2216341.0,
+    "Score": 9.09939
+  },
+  {
+    "Manager": "Neil Lennon",
+    "Average_Point": 2.1,
+    "Matches_Played": 236,
+    "Average_Valuation": 2774614.0,
+    "Score": 9.09662
+  },
+  {
+    "Manager": "Rúben Amorim",
+    "Average_Point": 2.3,
+    "Matches_Played": 176,
+    "Average_Valuation": 10112751.0,
+    "Score": 9.06735
+  },
+  {
+    "Manager": "Sergiy Rebrov",
+    "Average_Point": 2.2,
+    "Matches_Played": 129,
+    "Average_Valuation": 5430265.0,
+    "Score": 9.03289
+  },
+  {
+    "Manager": "Abel Ferreira",
+    "Average_Point": 2.1,
+    "Matches_Played": 124,
+    "Average_Valuation": 2690198.0,
+    "Score": 9.02859
+  },
+  {
+    "Manager": "Ange Postecoglou",
+    "Average_Point": 2.2,
+    "Matches_Played": 104,
+    "Average_Valuation": 8963316.0,
+    "Score": 9.01856
+  },
+  {
+    "Manager": "Matías Almeyda",
+    "Average_Point": 2.0,
+    "Matches_Played": 57,
+    "Average_Valuation": 2390744.0,
+    "Score": 9.00658
+  },
+  {
+    "Manager": "Stale Solbakken",
+    "Average_Point": 2.0,
+    "Matches_Played": 223,
+    "Average_Valuation": 1467315.0,
+    "Score": 8.97086
+  },
+  {
+    "Manager": "Tito Vilanova",
+    "Average_Point": 2.4,
+    "Matches_Played": 44,
+    "Average_Valuation": 32912088.0,
+    "Score": 8.96126
+  },
+  {
+    "Manager": "Ivan Jovanovic",
+    "Average_Point": 2.0,
+    "Matches_Played": 87,
+    "Average_Valuation": 1840727.0,
+    "Score": 8.95992
+  },
+  {
+    "Manager": "Jorge Jesus",
+    "Average_Point": 2.2,
+    "Matches_Played": 386,
+    "Average_Valuation": 9238166.0,
+    "Score": 8.75626
+  },
+  {
+    "Manager": "Ruud van Nistelrooy",
+    "Average_Point": 2.2,
+    "Matches_Played": 45,
+    "Average_Valuation": 9517035.0,
+    "Score": 8.71956
+  },
+  {
+    "Manager": "Ronny Deila",
+    "Average_Point": 2.0,
+    "Matches_Played": 145,
+    "Average_Valuation": 2847481.0,
+    "Score": 8.65668
+  },
+  {
+    "Manager": "Vladimir Ivic",
+    "Average_Point": 2.0,
+    "Matches_Played": 91,
+    "Average_Valuation": 2834318.0,
+    "Score": 8.65375
+  },
+  {
+    "Manager": "Vladan Milojevic",
+    "Average_Point": 1.8,
+    "Matches_Played": 37,
+    "Average_Valuation": 728585.0,
+    "Score": 8.58931
+  },
+  {
+    "Manager": "Sir Alex Ferguson",
+    "Average_Point": 2.2,
+    "Matches_Played": 50,
+    "Average_Valuation": 19379716.0,
+    "Score": 8.52218
+  },
+  {
+    "Manager": "Pep Guardiola",
+    "Average_Point": 2.3,
+    "Matches_Played": 544,
+    "Average_Valuation": 44345189.0,
+    "Score": 8.48934
+  },
+  {
+    "Manager": "Razvan Lucescu",
+    "Average_Point": 1.9,
+    "Matches_Played": 262,
+    "Average_Valuation": 1651042.0,
+    "Score": 8.47367
+  },
+  {
+    "Manager": "Vítor Pereira",
+    "Average_Point": 2.1,
+    "Matches_Played": 135,
+    "Average_Valuation": 7110116.0,
+    "Score": 8.45345
+  },
+  {
+    "Manager": "Yuriy Gura",
+    "Average_Point": 1.7,
+    "Matches_Played": 34,
+    "Average_Valuation": 397880.0,
+    "Score": 8.45133
+  },
+  {
+    "Manager": "Giovanni van Bronckhorst",
+    "Average_Point": 2.0,
+    "Matches_Played": 225,
+    "Average_Valuation": 4539801.0,
+    "Score": 8.40561
+  },
+  {
+    "Manager": "Mircea Lucescu",
+    "Average_Point": 2.0,
+    "Matches_Played": 316,
+    "Average_Valuation": 6342843.0,
+    "Score": 8.39183
+  },
+  {
+    "Manager": "Arne Slot",
+    "Average_Point": 2.0,
+    "Matches_Played": 151,
+    "Average_Valuation": 7494112.0,
+    "Score": 8.37561
+  },
+  {
+    "Manager": "Artur Jorge",
+    "Average_Point": 2.0,
+    "Matches_Played": 69,
+    "Average_Valuation": 5575634.0,
+    "Score": 8.36878
+  },
+  {
+    "Manager": "Myron Markevych",
+    "Average_Point": 1.9,
+    "Matches_Played": 139,
+    "Average_Valuation": 3605963.0,
+    "Score": 8.36258
+  },
+  {
+    "Manager": "Emre Belözoglu",
+    "Average_Point": 1.9,
+    "Matches_Played": 75,
+    "Average_Valuation": 2580518.0,
+    "Score": 8.33587
+  },
+  {
+    "Manager": "Yuriy Maksymov",
+    "Average_Point": 1.7,
+    "Matches_Played": 101,
+    "Average_Valuation": 744600.0,
+    "Score": 8.32979
+  },
+  {
+    "Manager": "Pascal Jansen",
+    "Average_Point": 2.0,
+    "Matches_Played": 122,
+    "Average_Valuation": 4509974.0,
+    "Score": 8.31078
+  },
+  {
+    "Manager": "Senol Günes",
+    "Average_Point": 2.0,
+    "Matches_Played": 231,
+    "Average_Valuation": 4645949.0,
+    "Score": 8.2666
+  },
+  {
+    "Manager": "Jacob Neestrup",
+    "Average_Point": 1.9,
+    "Matches_Played": 48,
+    "Average_Valuation": 3572718.0,
+    "Score": 8.25666
+  },
+  {
+    "Manager": "Gerardo Martino",
+    "Average_Point": 2.2,
+    "Matches_Played": 57,
+    "Average_Valuation": 31504897.0,
+    "Score": 8.25592
+  },
+  {
+    "Manager": "Brian Priske",
+    "Average_Point": 1.9,
+    "Matches_Played": 94,
+    "Average_Valuation": 2182107.0,
+    "Score": 8.24341
+  },
+  {
+    "Manager": "Derek McInnes",
+    "Average_Point": 1.7,
+    "Matches_Played": 366,
+    "Average_Valuation": 512701.0,
+    "Score": 8.23988
+  },
+  {
+    "Manager": "Laurent Blanc",
+    "Average_Point": 2.1,
+    "Matches_Played": 175,
+    "Average_Valuation": 19000803.0,
+    "Score": 8.22196
+  },
+  {
+    "Manager": "Michel Jansen",
+    "Average_Point": 1.9,
+    "Matches_Played": 41,
+    "Average_Valuation": 2947813.0,
+    "Score": 8.19471
+  },
+  {
+    "Manager": "Luis Enrique",
+    "Average_Point": 2.2,
+    "Matches_Played": 234,
+    "Average_Valuation": 32947641.0,
+    "Score": 8.18389
+  },
+  {
+    "Manager": "Alexander Zorniger",
+    "Average_Point": 1.8,
+    "Matches_Played": 102,
+    "Average_Valuation": 1380936.0,
+    "Score": 8.15822
+  },
+  {
+    "Manager": "Robbie Neilson",
+    "Average_Point": 1.7,
+    "Matches_Played": 132,
+    "Average_Valuation": 540683.0,
+    "Score": 8.1321
+  },
+  {
+    "Manager": "Frank de Boer",
+    "Average_Point": 1.9,
+    "Matches_Played": 188,
+    "Average_Valuation": 5121826.0,
+    "Score": 8.10146
+  },
+  {
+    "Manager": "Georgios Donis",
+    "Average_Point": 1.7,
+    "Matches_Played": 95,
+    "Average_Valuation": 1063065.0,
+    "Score": 8.08627
+  },
+  {
+    "Manager": "Massimo Carrera",
+    "Average_Point": 1.9,
+    "Matches_Played": 132,
+    "Average_Valuation": 4911293.0,
+    "Score": 8.08613
+  },
+  {
+    "Manager": "Phillip Cocu",
+    "Average_Point": 1.9,
+    "Matches_Played": 257,
+    "Average_Valuation": 4649697.0,
+    "Score": 8.0724
+  },
+  {
+    "Manager": "Steven Gerrard",
+    "Average_Point": 2.0,
+    "Matches_Played": 181,
+    "Average_Valuation": 7464448.0,
+    "Score": 8.05566
+  },
+  {
+    "Manager": "Zinédine Zidane",
+    "Average_Point": 2.2,
+    "Matches_Played": 247,
+    "Average_Valuation": 40737216.0,
+    "Score": 8.04973
+  },
+  {
+    "Manager": "Erik ten Hag",
+    "Average_Point": 2.1,
+    "Matches_Played": 381,
+    "Average_Valuation": 16847927.0,
+    "Score": 8.04844
+  },
+  {
+    "Manager": "Sérgio Conceição",
+    "Average_Point": 2.0,
+    "Matches_Played": 433,
+    "Average_Valuation": 8570480.0,
+    "Score": 7.99295
+  },
+  {
+    "Manager": "Ståle Solbakken",
+    "Average_Point": 1.7,
+    "Matches_Played": 41,
+    "Average_Valuation": 1312624.0,
+    "Score": 7.99011
+  },
+  {
+    "Manager": "Damir Canadi",
+    "Average_Point": 1.6,
+    "Matches_Played": 93,
+    "Average_Valuation": 656563.0,
+    "Score": 7.93119
+  },
+  {
+    "Manager": "Fatih Terim",
+    "Average_Point": 1.9,
+    "Matches_Played": 193,
+    "Average_Valuation": 4996824.0,
+    "Score": 7.92605
+  },
+  {
+    "Manager": "Roger Schmidt",
+    "Average_Point": 2.0,
+    "Matches_Played": 276,
+    "Average_Valuation": 10632128.0,
+    "Score": 7.91847
+  },
+  {
+    "Manager": "Sergey Semak",
+    "Average_Point": 1.9,
+    "Matches_Played": 268,
+    "Average_Valuation": 6899988.0,
+    "Score": 7.91668
+  },
+  {
+    "Manager": "Abdullah Avci",
+    "Average_Point": 1.8,
+    "Matches_Played": 302,
+    "Average_Valuation": 3565861.0,
+    "Score": 7.90343
+  },
+  {
+    "Manager": "Carlo Ancelotti",
+    "Average_Point": 2.1,
+    "Matches_Played": 474,
+    "Average_Valuation": 32067001.0,
+    "Score": 7.88667
+  },
+  {
+    "Manager": "Antonio Conte",
+    "Average_Point": 2.1,
+    "Matches_Played": 350,
+    "Average_Valuation": 28249963.0,
+    "Score": 7.88035
+  },
+  {
+    "Manager": "Massimiliano Allegri",
+    "Average_Point": 2.0,
+    "Matches_Played": 459,
+    "Average_Valuation": 21898668.0,
+    "Score": 7.87575
+  },
+  {
+    "Manager": "Jess Thorup",
+    "Average_Point": 1.8,
+    "Matches_Played": 277,
+    "Average_Valuation": 1973991.0,
+    "Score": 7.86746
+  },
+  {
+    "Manager": "Guy Luzon",
+    "Average_Point": 1.8,
+    "Matches_Played": 50,
+    "Average_Valuation": 2584090.0,
+    "Score": 7.83616
+  },
+  {
+    "Manager": "Michel Preud'homme",
+    "Average_Point": 1.8,
+    "Matches_Played": 213,
+    "Average_Valuation": 3047744.0,
+    "Score": 7.76712
+  },
+  {
+    "Manager": "Juande Ramos",
+    "Average_Point": 1.8,
+    "Matches_Played": 90,
+    "Average_Valuation": 3980766.0,
+    "Score": 7.74642
+  },
+  {
+    "Manager": "Philippe Clement",
+    "Average_Point": 1.9,
+    "Matches_Played": 250,
+    "Average_Valuation": 8233196.0,
+    "Score": 7.70676
+  },
+  {
+    "Manager": "Paulo Fonseca",
+    "Average_Point": 1.9,
+    "Matches_Played": 410,
+    "Average_Valuation": 7947761.0,
+    "Score": 7.70312
+  },
+  {
+    "Manager": "Miron Muslic",
+    "Average_Point": 1.7,
+    "Matches_Played": 45,
+    "Average_Valuation": 1584759.0,
+    "Score": 7.6897
+  },
+  {
+    "Manager": "Luciano Spalletti",
+    "Average_Point": 2.0,
+    "Matches_Played": 323,
+    "Average_Valuation": 19515466.0,
+    "Score": 7.63633
+  },
+  {
+    "Manager": "Sascha Lewandowski",
+    "Average_Point": 1.9,
+    "Matches_Played": 44,
+    "Average_Valuation": 7836755.0,
+    "Score": 7.63096
+  },
+  {
+    "Manager": "Brian Riemer",
+    "Average_Point": 1.8,
+    "Matches_Played": 35,
+    "Average_Valuation": 3813027.0,
+    "Score": 7.59822
+  },
+  {
+    "Manager": "Juan Carlos Garrido",
+    "Average_Point": 1.7,
+    "Matches_Played": 31,
+    "Average_Valuation": 2343219.0,
+    "Score": 7.57679
+  },
+  {
+    "Manager": "Oleg Blokhin",
+    "Average_Point": 1.8,
+    "Matches_Played": 52,
+    "Average_Valuation": 6486665.0,
+    "Score": 7.5708
+  },
+  {
+    "Manager": "Manolo Jiménez",
+    "Average_Point": 1.7,
+    "Matches_Played": 147,
+    "Average_Valuation": 1577795.0,
+    "Score": 7.55988
+  },
+  {
+    "Manager": "André Villas-Boas",
+    "Average_Point": 1.9,
+    "Matches_Played": 218,
+    "Average_Valuation": 12281877.0,
+    "Score": 7.5438
+  },
+  {
+    "Manager": "Mark van Bommel",
+    "Average_Point": 1.8,
+    "Matches_Played": 136,
+    "Average_Valuation": 7717193.0,
+    "Score": 7.53424
+  },
+  {
+    "Manager": "John van den Brom",
+    "Average_Point": 1.7,
+    "Matches_Played": 344,
+    "Average_Valuation": 2954843.0,
+    "Score": 7.5333
+  },
+  {
+    "Manager": "Thomas Tuchel",
+    "Average_Point": 2.0,
+    "Matches_Played": 394,
+    "Average_Valuation": 28476605.0,
+    "Score": 7.52567
+  },
+  {
+    "Manager": "Leonardo Jardim",
+    "Average_Point": 1.9,
+    "Matches_Played": 292,
+    "Average_Valuation": 9320049.0,
+    "Score": 7.51826
+  },
+  {
+    "Manager": "Rui Vitória",
+    "Average_Point": 1.8,
+    "Matches_Played": 292,
+    "Average_Valuation": 5735955.0,
+    "Score": 7.5096
+  },
+  {
+    "Manager": "Pablo García",
+    "Average_Point": 1.7,
+    "Matches_Played": 47,
+    "Average_Valuation": 1742826.0,
+    "Score": 7.50624
+  },
+  {
+    "Manager": "Diego Simeone",
+    "Average_Point": 2.0,
+    "Matches_Played": 577,
+    "Average_Valuation": 28057253.0,
+    "Score": 7.48175
+  },
+  {
+    "Manager": "Xavi",
+    "Average_Point": 2.0,
+    "Matches_Played": 109,
+    "Average_Valuation": 35969512.0,
+    "Score": 7.47204
+  },
+  {
+    "Manager": "Arsène Wenger",
+    "Average_Point": 1.9,
+    "Matches_Played": 300,
+    "Average_Valuation": 19285062.0,
+    "Score": 7.46555
+  },
+  {
+    "Manager": "Jürgen Klopp",
+    "Average_Point": 2.0,
+    "Matches_Played": 559,
+    "Average_Valuation": 33363828.0,
+    "Score": 7.45078
+  },
+  {
+    "Manager": "Fred Rutten",
+    "Average_Point": 1.7,
+    "Matches_Played": 92,
+    "Average_Valuation": 3223385.0,
+    "Score": 7.44901
+  },
+  {
+    "Manager": "Besnik Hasi",
+    "Average_Point": 1.7,
+    "Matches_Played": 90,
+    "Average_Valuation": 3921564.0,
+    "Score": 7.42107
+  },
+  {
+    "Manager": "Jakob Michelsen",
+    "Average_Point": 1.5,
+    "Matches_Played": 135,
+    "Average_Valuation": 461056.0,
+    "Score": 7.42088
+  },
+  {
+    "Manager": "Pedro Martins",
+    "Average_Point": 1.7,
+    "Matches_Played": 393,
+    "Average_Valuation": 2315707.0,
+    "Score": 7.40342
+  },
+  {
+    "Manager": "Marko Nikolic",
+    "Average_Point": 1.7,
+    "Matches_Played": 60,
+    "Average_Valuation": 4187855.0,
+    "Score": 7.38909
+  },
+  {
+    "Manager": "Vladimir Fedotov",
+    "Average_Point": 1.7,
+    "Matches_Played": 194,
+    "Average_Valuation": 2111995.0,
+    "Score": 7.38519
+  },
+  {
+    "Manager": "Xabi Alonso",
+    "Average_Point": 1.9,
+    "Matches_Played": 52,
+    "Average_Valuation": 22781706.0,
+    "Score": 7.37835
+  },
+  {
+    "Manager": "Mario Been",
+    "Average_Point": 1.7,
+    "Matches_Played": 65,
+    "Average_Valuation": 2331579.0,
+    "Score": 7.36595
+  },
+  {
+    "Manager": "Yuriy Vernydub",
+    "Average_Point": 1.5,
+    "Matches_Played": 266,
+    "Average_Valuation": 641531.0,
+    "Score": 7.32812
+  },
+  {
+    "Manager": "Michel",
+    "Average_Point": 1.7,
+    "Matches_Played": 211,
+    "Average_Valuation": 4273427.0,
+    "Score": 7.32415
+  },
+  {
+    "Manager": "Stuart McCall",
+    "Average_Point": 1.5,
+    "Matches_Played": 96,
+    "Average_Valuation": 464142.0,
+    "Score": 7.31676
+  },
+  {
+    "Manager": "Aleksandr Khatskevich",
+    "Average_Point": 1.7,
+    "Matches_Played": 92,
+    "Average_Valuation": 2633179.0,
+    "Score": 7.31196
+  },
+  {
+    "Manager": "Simone Inzaghi",
+    "Average_Point": 1.9,
+    "Matches_Played": 367,
+    "Average_Valuation": 18551547.0,
+    "Score": 7.30202
+  },
+  {
+    "Manager": "John Hughes",
+    "Average_Point": 1.4,
+    "Matches_Played": 125,
+    "Average_Valuation": 282116.0,
+    "Score": 7.29239
+  },
+  {
+    "Manager": "Edin Terzic",
+    "Average_Point": 1.9,
+    "Matches_Played": 100,
+    "Average_Valuation": 25073251.0,
+    "Score": 7.28695
+  },
+  {
+    "Manager": "Wouter Vrancken",
+    "Average_Point": 1.7,
+    "Matches_Played": 149,
+    "Average_Valuation": 2841436.0,
+    "Score": 7.28057
+  },
+  {
+    "Manager": "Dan Petrescu",
+    "Average_Point": 1.7,
+    "Matches_Played": 66,
+    "Average_Valuation": 4443977.0,
+    "Score": 7.27036
+  },
+  {
+    "Manager": "Maurizio Sarri",
+    "Average_Point": 1.9,
+    "Matches_Played": 403,
+    "Average_Valuation": 21297893.0,
+    "Score": 7.25486
+  },
+  {
+    "Manager": "Jackie McNamara",
+    "Average_Point": 1.4,
+    "Matches_Played": 110,
+    "Average_Valuation": 401981.0,
+    "Score": 7.23516
+  },
+  {
+    "Manager": "Vasyl Sachko",
+    "Average_Point": 1.5,
+    "Matches_Played": 144,
+    "Average_Valuation": 671135.0,
+    "Score": 7.23341
+  },
+  {
+    "Manager": "Viktor Skrypnyk",
+    "Average_Point": 1.6,
+    "Matches_Played": 196,
+    "Average_Valuation": 1357940.0,
+    "Score": 7.23316
+  },
+  {
+    "Manager": "René Weiler",
+    "Average_Point": 1.7,
+    "Matches_Played": 50,
+    "Average_Valuation": 4374462.0,
+    "Score": 7.22633
+  },
+  {
+    "Manager": "Aleksandr Storozhuk",
+    "Average_Point": 1.7,
+    "Matches_Played": 35,
+    "Average_Valuation": 3015866.0,
+    "Score": 7.21975
+  },
+  {
+    "Manager": "Staikos Vergetis",
+    "Average_Point": 1.5,
+    "Matches_Played": 105,
+    "Average_Valuation": 721447.0,
+    "Score": 7.20516
+  },
+  {
+    "Manager": "Guillermo Abascal",
+    "Average_Point": 1.7,
+    "Matches_Played": 77,
+    "Average_Valuation": 3434218.0,
+    "Score": 7.17987
+  },
+  {
+    "Manager": "Marcel Licka",
+    "Average_Point": 1.6,
+    "Matches_Played": 62,
+    "Average_Valuation": 1905005.0,
+    "Score": 7.17776
+  },
+  {
+    "Manager": "José Peseiro",
+    "Average_Point": 1.7,
+    "Matches_Played": 101,
+    "Average_Valuation": 4185410.0,
+    "Score": 7.17552
+  },
+  {
+    "Manager": "Hein Vanhaezebrouck",
+    "Average_Point": 1.6,
+    "Matches_Played": 330,
+    "Average_Valuation": 2526145.0,
+    "Score": 7.17482
+  },
+  {
+    "Manager": "Julen Lopetegui",
+    "Average_Point": 1.8,
+    "Matches_Played": 254,
+    "Average_Valuation": 15436375.0,
+    "Score": 7.17366
+  },
+  {
+    "Manager": "Dick Advocaat",
+    "Average_Point": 1.7,
+    "Matches_Played": 242,
+    "Average_Valuation": 4217339.0,
+    "Score": 7.16619
+  },
+  {
+    "Manager": "Brendan Rodgers",
+    "Average_Point": 1.8,
+    "Matches_Played": 464,
+    "Average_Valuation": 13492041.0,
+    "Score": 7.15892
+  },
+  {
+    "Manager": "Mikhail Galaktionov",
+    "Average_Point": 1.6,
+    "Matches_Played": 72,
+    "Average_Valuation": 2294676.0,
+    "Score": 7.15018
+  },
+  {
+    "Manager": "Marinos Ouzounidis",
+    "Average_Point": 1.5,
+    "Matches_Played": 198,
+    "Average_Valuation": 938094.0,
+    "Score": 7.13783
+  },
+  {
+    "Manager": "Leonid Slutski",
+    "Average_Point": 1.7,
+    "Matches_Played": 304,
+    "Average_Valuation": 5781702.0,
+    "Score": 7.1271
+  },
+  {
+    "Manager": "Franck Haise",
+    "Average_Point": 1.7,
+    "Matches_Played": 139,
+    "Average_Valuation": 6327942.0,
+    "Score": 7.10674
+  },
+  {
+    "Manager": "Glen Riddersholm",
+    "Average_Point": 1.4,
+    "Matches_Played": 224,
+    "Average_Valuation": 541215.0,
+    "Score": 7.09974
+  },
+  {
+    "Manager": "Morten Wieghorst",
+    "Average_Point": 1.4,
+    "Matches_Played": 75,
+    "Average_Valuation": 478148.0,
+    "Score": 7.09097
+  },
+  {
+    "Manager": "Ivan Leko",
+    "Average_Point": 1.6,
+    "Matches_Played": 125,
+    "Average_Valuation": 2745972.0,
+    "Score": 7.08502
+  },
+  {
+    "Manager": "Igor Jovicevic",
+    "Average_Point": 1.6,
+    "Matches_Played": 128,
+    "Average_Valuation": 1775917.0,
+    "Score": 7.05794
+  },
+  {
+    "Manager": "Unai Emery",
+    "Average_Point": 1.8,
+    "Matches_Played": 522,
+    "Average_Valuation": 16555298.0,
+    "Score": 7.05675
+  },
+  {
+    "Manager": "Thomas Thomasberg",
+    "Average_Point": 1.4,
+    "Matches_Played": 175,
+    "Average_Valuation": 583482.0,
+    "Score": 7.04991
+  },
+  {
+    "Manager": "Pat Fenlon",
+    "Average_Point": 1.4,
+    "Matches_Played": 53,
+    "Average_Valuation": 467193.0,
+    "Score": 7.04593
+  },
+  {
+    "Manager": "Julian Nagelsmann",
+    "Average_Point": 1.8,
+    "Matches_Played": 299,
+    "Average_Valuation": 22141601.0,
+    "Score": 7.04373
+  },
+  {
+    "Manager": "Marcel Keizer",
+    "Average_Point": 1.7,
+    "Matches_Played": 58,
+    "Average_Valuation": 6092470.0,
+    "Score": 7.03006
+  },
+  {
+    "Manager": "Jacob Friis",
+    "Average_Point": 1.4,
+    "Matches_Played": 92,
+    "Average_Valuation": 577899.0,
+    "Score": 7.02946
+  },
+  {
+    "Manager": "Mikel Arteta",
+    "Average_Point": 1.9,
+    "Matches_Played": 182,
+    "Average_Valuation": 33540284.0,
+    "Score": 7.02816
+  },
+  {
+    "Manager": "Éric Roy",
+    "Average_Point": 1.6,
+    "Matches_Played": 38,
+    "Average_Valuation": 3656831.0,
+    "Score": 7.01773
+  },
+  {
+    "Manager": "Luís Castro",
+    "Average_Point": 1.6,
+    "Matches_Played": 174,
+    "Average_Valuation": 3889498.0,
+    "Score": 7.01641
+  },
+  {
+    "Manager": "Niels Frederiksen",
+    "Average_Point": 1.5,
+    "Matches_Played": 178,
+    "Average_Valuation": 937614.0,
+    "Score": 7.01068
+  },
+  {
+    "Manager": "Bruno Génésio",
+    "Average_Point": 1.8,
+    "Matches_Played": 269,
+    "Average_Valuation": 12920573.0,
+    "Score": 7.00957
+  },
+  {
+    "Manager": "Rudi Garcia",
+    "Average_Point": 1.8,
+    "Matches_Played": 363,
+    "Average_Valuation": 12023337.0,
+    "Score": 6.99674
+  },
+  {
+    "Manager": "Stanislav Cherchesov",
+    "Average_Point": 1.6,
+    "Matches_Played": 103,
+    "Average_Valuation": 3843834.0,
+    "Score": 6.99245
+  },
+  {
+    "Manager": "László Bölöni",
+    "Average_Point": 1.5,
+    "Matches_Played": 131,
+    "Average_Valuation": 1462076.0,
+    "Score": 6.99078
+  },
+  {
+    "Manager": "Roberto Mancini",
+    "Average_Point": 1.8,
+    "Matches_Played": 197,
+    "Average_Valuation": 12989629.0,
+    "Score": 6.98991
+  },
+  {
+    "Manager": "Alexander Blessin",
+    "Average_Point": 1.5,
+    "Matches_Played": 95,
+    "Average_Valuation": 1805099.0,
+    "Score": 6.98168
+  },
+  {
+    "Manager": "Viktor Goncharenko",
+    "Average_Point": 1.6,
+    "Matches_Played": 291,
+    "Average_Valuation": 4182367.0,
+    "Score": 6.959
+  },
+  {
+    "Manager": "Aleksey Berezutski",
+    "Average_Point": 1.7,
+    "Matches_Played": 32,
+    "Average_Valuation": 5317977.0,
+    "Score": 6.95157
+  },
+  {
+    "Manager": "Jack Ross",
+    "Average_Point": 1.4,
+    "Matches_Played": 84,
+    "Average_Valuation": 632737.0,
+    "Score": 6.95152
+  },
+  {
+    "Manager": "José Mourinho",
+    "Average_Point": 1.8,
+    "Matches_Played": 478,
+    "Average_Valuation": 26931890.0,
+    "Score": 6.92283
+  },
+  {
+    "Manager": "Marco Rose",
+    "Average_Point": 1.8,
+    "Matches_Played": 188,
+    "Average_Valuation": 20571864.0,
+    "Score": 6.91923
+  },
+  {
+    "Manager": "Ernesto Valverde",
+    "Average_Point": 1.8,
+    "Matches_Played": 412,
+    "Average_Valuation": 22333572.0,
+    "Score": 6.91797
+  },
+  {
+    "Manager": "Peter Bosz",
+    "Average_Point": 1.7,
+    "Matches_Played": 381,
+    "Average_Valuation": 10450879.0,
+    "Score": 6.914
+  },
+  {
+    "Manager": "Steve Lomas",
+    "Average_Point": 1.4,
+    "Matches_Played": 41,
+    "Average_Valuation": 482815.0,
+    "Score": 6.9048
+  },
+  {
+    "Manager": "Oleksandr Ryabokon",
+    "Average_Point": 1.4,
+    "Matches_Played": 98,
+    "Average_Valuation": 475625.0,
+    "Score": 6.90035
+  },
+  {
+    "Manager": "Francesco Farioli",
+    "Average_Point": 1.6,
+    "Matches_Played": 83,
+    "Average_Valuation": 3596721.0,
+    "Score": 6.89983
+  },
+  {
+    "Manager": "Oleg Kononov",
+    "Average_Point": 1.6,
+    "Matches_Played": 181,
+    "Average_Valuation": 3468418.0,
+    "Score": 6.89177
+  },
+  {
+    "Manager": "Felice Mazzù",
+    "Average_Point": 1.5,
+    "Matches_Played": 284,
+    "Average_Valuation": 1601971.0,
+    "Score": 6.88859
+  },
+  {
+    "Manager": "Craig Levein",
+    "Average_Point": 1.4,
+    "Matches_Played": 87,
+    "Average_Valuation": 513487.0,
+    "Score": 6.87523
+  },
+  {
+    "Manager": "Colin Todd",
+    "Average_Point": 1.4,
+    "Matches_Played": 164,
+    "Average_Valuation": 463859.0,
+    "Score": 6.86525
+  },
+  {
+    "Manager": "Louis van Gaal",
+    "Average_Point": 1.8,
+    "Matches_Played": 94,
+    "Average_Valuation": 20720619.0,
+    "Score": 6.8547
+  },
+  {
+    "Manager": "Tommy Wright",
+    "Average_Point": 1.4,
+    "Matches_Played": 262,
+    "Average_Valuation": 384260.0,
+    "Score": 6.84906
+  },
+  {
+    "Manager": "Andrea Pirlo",
+    "Average_Point": 1.8,
+    "Matches_Played": 81,
+    "Average_Valuation": 21499651.0,
+    "Score": 6.84427
+  },
+  {
+    "Manager": "Ruslan Kostyshyn",
+    "Average_Point": 1.3,
+    "Matches_Played": 56,
+    "Average_Valuation": 334502.0,
+    "Score": 6.84362
+  },
+  {
+    "Manager": "Ron Jans",
+    "Average_Point": 1.5,
+    "Matches_Played": 280,
+    "Average_Valuation": 1106893.0,
+    "Score": 6.83898
+  },
+  {
+    "Manager": "Sergen Yalcin",
+    "Average_Point": 1.5,
+    "Matches_Played": 176,
+    "Average_Valuation": 2433178.0,
+    "Score": 6.83145
+  },
+  {
+    "Manager": "Jan Wouters",
+    "Average_Point": 1.5,
+    "Matches_Played": 73,
+    "Average_Valuation": 1149046.0,
+    "Score": 6.8275
+  },
+  {
+    "Manager": "Angelos Anastasiadis",
+    "Average_Point": 1.4,
+    "Matches_Played": 70,
+    "Average_Valuation": 937734.0,
+    "Score": 6.82017
+  },
+  {
+    "Manager": "Christophe Galtier",
+    "Average_Point": 1.7,
+    "Matches_Played": 428,
+    "Average_Valuation": 11075629.0,
+    "Score": 6.80685
+  },
+  {
+    "Manager": "Roman Grygorchuk",
+    "Average_Point": 1.4,
+    "Matches_Played": 132,
+    "Average_Valuation": 701119.0,
+    "Score": 6.80445
+  },
+  {
+    "Manager": "Argirios Giannikis",
+    "Average_Point": 1.4,
+    "Matches_Played": 55,
+    "Average_Valuation": 921171.0,
+    "Score": 6.79829
+  },
+  {
+    "Manager": "Terry Butcher",
+    "Average_Point": 1.3,
+    "Matches_Played": 78,
+    "Average_Valuation": 306844.0,
+    "Score": 6.79379
+  },
+  {
+    "Manager": "Ronald Koeman",
+    "Average_Point": 1.7,
+    "Matches_Played": 274,
+    "Average_Valuation": 13294899.0,
+    "Score": 6.7829
+  },
+  {
+    "Manager": "David Nielsen",
+    "Average_Point": 1.4,
+    "Matches_Played": 158,
+    "Average_Valuation": 565492.0,
+    "Score": 6.77089
+  },
+  {
+    "Manager": "Milan Rastavac",
+    "Average_Point": 1.3,
+    "Matches_Played": 157,
+    "Average_Valuation": 404947.0,
+    "Score": 6.7658
+  },
+  {
+    "Manager": "Ralf Rangnick",
+    "Average_Point": 1.8,
+    "Matches_Played": 71,
+    "Average_Valuation": 25534100.0,
+    "Score": 6.76333
+  },
+  {
+    "Manager": "Ilhan Palut",
+    "Average_Point": 1.5,
+    "Matches_Played": 113,
+    "Average_Valuation": 1358518.0,
+    "Score": 6.7616
+  },
+  {
+    "Manager": "Volkan Demirel",
+    "Average_Point": 1.5,
+    "Matches_Played": 52,
+    "Average_Valuation": 1269928.0,
+    "Score": 6.75941
+  },
+  {
+    "Manager": "Kurban Berdyev",
+    "Average_Point": 1.6,
+    "Matches_Played": 182,
+    "Average_Valuation": 3294060.0,
+    "Score": 6.75847
+  },
+  {
+    "Manager": "Kent Nielsen",
+    "Average_Point": 1.4,
+    "Matches_Played": 299,
+    "Average_Valuation": 502859.0,
+    "Score": 6.75619
+  },
+  {
+    "Manager": "Flemming Pedersen",
+    "Average_Point": 1.4,
+    "Matches_Played": 92,
+    "Average_Valuation": 992027.0,
+    "Score": 6.75436
+  },
+  {
+    "Manager": "Yaroslav Vyshnyak",
+    "Average_Point": 1.3,
+    "Matches_Played": 52,
+    "Average_Valuation": 428001.0,
+    "Score": 6.74796
+  },
+  {
+    "Manager": "Sakis Tsiolis",
+    "Average_Point": 1.4,
+    "Matches_Played": 78,
+    "Average_Valuation": 557122.0,
+    "Score": 6.73946
+  },
+  {
+    "Manager": "Yuri Semin",
+    "Average_Point": 1.6,
+    "Matches_Played": 190,
+    "Average_Valuation": 3806599.0,
+    "Score": 6.7282
+  },
+  {
+    "Manager": "Carl Hoefkens",
+    "Average_Point": 1.6,
+    "Matches_Played": 44,
+    "Average_Valuation": 5117094.0,
+    "Score": 6.69397
+  },
+  {
+    "Manager": "Niko Kovac",
+    "Average_Point": 1.7,
+    "Matches_Played": 264,
+    "Average_Valuation": 16820098.0,
+    "Score": 6.68874
+  },
+  {
+    "Manager": "Kasper Hjulmand",
+    "Average_Point": 1.4,
+    "Matches_Played": 196,
+    "Average_Valuation": 889470.0,
+    "Score": 6.68186
+  },
+  {
+    "Manager": "Steve Clarke",
+    "Average_Point": 1.5,
+    "Matches_Played": 120,
+    "Average_Valuation": 2271519.0,
+    "Score": 6.66167
+  },
+  {
+    "Manager": "Okan Buruk",
+    "Average_Point": 1.5,
+    "Matches_Played": 262,
+    "Average_Valuation": 3302955.0,
+    "Score": 6.66081
+  },
+  {
+    "Manager": "Giannis Anastasiou",
+    "Average_Point": 1.4,
+    "Matches_Played": 222,
+    "Average_Valuation": 736993.0,
+    "Score": 6.63156
+  },
+  {
+    "Manager": "Moreno",
+    "Average_Point": 1.4,
+    "Matches_Played": 48,
+    "Average_Valuation": 1358666.0,
+    "Score": 6.61644
+  },
+  {
+    "Manager": "Valeriy Karpin",
+    "Average_Point": 1.5,
+    "Matches_Played": 221,
+    "Average_Valuation": 2464182.0,
+    "Score": 6.61483
+  },
+  {
+    "Manager": "Riza Calimbay",
+    "Average_Point": 1.4,
+    "Matches_Played": 343,
+    "Average_Valuation": 1557502.0,
+    "Score": 6.6054
+  },
+  {
+    "Manager": "Murad Musaev",
+    "Average_Point": 1.6,
+    "Matches_Played": 118,
+    "Average_Valuation": 5039340.0,
+    "Score": 6.60327
+  },
+  {
+    "Manager": "Mauricio Pochettino",
+    "Average_Point": 1.7,
+    "Matches_Played": 421,
+    "Average_Valuation": 25897115.0,
+    "Score": 6.60282
+  },
+  {
+    "Manager": "Igor Tudor",
+    "Average_Point": 1.6,
+    "Matches_Played": 191,
+    "Average_Valuation": 6080252.0,
+    "Score": 6.60125
+  },
+  {
+    "Manager": "Marco van Basten",
+    "Average_Point": 1.4,
+    "Matches_Played": 75,
+    "Average_Valuation": 1440688.0,
+    "Score": 6.60055
+  },
+  {
+    "Manager": "Bo Henriksen",
+    "Average_Point": 1.4,
+    "Matches_Played": 145,
+    "Average_Valuation": 741495.0,
+    "Score": 6.59989
+  },
+  {
+    "Manager": "Guus Hiddink",
+    "Average_Point": 1.7,
+    "Matches_Played": 73,
+    "Average_Valuation": 14086796.0,
+    "Score": 6.59934
+  },
+  {
+    "Manager": "Carlos Carvalhal",
+    "Average_Point": 1.6,
+    "Matches_Played": 186,
+    "Average_Valuation": 4566558.0,
+    "Score": 6.5862
+  },
+  {
+    "Manager": "Aykut Kocaman",
+    "Average_Point": 1.5,
+    "Matches_Played": 249,
+    "Average_Valuation": 2851177.0,
+    "Score": 6.58615
+  },
+  {
+    "Manager": "Uwe Rösler",
+    "Average_Point": 1.4,
+    "Matches_Played": 64,
+    "Average_Valuation": 1267325.0,
+    "Score": 6.57694
+  },
+  {
+    "Manager": "Bruno Lage",
+    "Average_Point": 1.7,
+    "Matches_Played": 104,
+    "Average_Valuation": 16847164.0,
+    "Score": 6.57314
+  },
+  {
+    "Manager": "Erol Bulut",
+    "Average_Point": 1.4,
+    "Matches_Played": 179,
+    "Average_Valuation": 1611045.0,
+    "Score": 6.55504
+  },
+  {
+    "Manager": "Joseph Oosting",
+    "Average_Point": 1.4,
+    "Matches_Played": 91,
+    "Average_Valuation": 921299.0,
+    "Score": 6.5533
+  },
+  {
+    "Manager": "Sami Hyypiä",
+    "Average_Point": 1.6,
+    "Matches_Played": 40,
+    "Average_Valuation": 7921518.0,
+    "Score": 6.54702
+  },
+  {
+    "Manager": "Jorge Sampaoli",
+    "Average_Point": 1.6,
+    "Matches_Played": 132,
+    "Average_Valuation": 11430590.0,
+    "Score": 6.54473
+  },
+  {
+    "Manager": "Lucien Favre",
+    "Average_Point": 1.7,
+    "Matches_Played": 339,
+    "Average_Valuation": 13424376.0,
+    "Score": 6.54221
+  },
+  {
+    "Manager": "Ersun Yanal",
+    "Average_Point": 1.5,
+    "Matches_Played": 234,
+    "Average_Valuation": 3283438.0,
+    "Score": 6.53512
+  },
+  {
+    "Manager": "Senol Can",
+    "Average_Point": 1.4,
+    "Matches_Played": 51,
+    "Average_Valuation": 1271237.0,
+    "Score": 6.52874
+  },
+  {
+    "Manager": "Ismail Kartal",
+    "Average_Point": 1.5,
+    "Matches_Played": 129,
+    "Average_Valuation": 3230956.0,
+    "Score": 6.52189
+  },
+  {
+    "Manager": "Jens Keller",
+    "Average_Point": 1.6,
+    "Matches_Played": 69,
+    "Average_Valuation": 8117945.0,
+    "Score": 6.51325
+  },
+  {
+    "Manager": null,
+    "Average_Point": 1.4,
+    "Matches_Played": 186,
+    "Average_Valuation": 1092575.0,
+    "Score": 6.50967
+  },
+  {
+    "Manager": "Sergey Tashuev",
+    "Average_Point": 1.4,
+    "Matches_Played": 92,
+    "Average_Valuation": 1216538.0,
+    "Score": 6.50474
+  },
+  {
+    "Manager": "Yves Vanderhaeghe",
+    "Average_Point": 1.4,
+    "Matches_Played": 247,
+    "Average_Valuation": 1250858.0,
+    "Score": 6.50428
+  },
+  {
+    "Manager": "Thomas Letsch",
+    "Average_Point": 1.4,
+    "Matches_Played": 129,
+    "Average_Valuation": 1822460.0,
+    "Score": 6.50131
+  },
+  {
+    "Manager": "Marcelino",
+    "Average_Point": 1.6,
+    "Matches_Played": 320,
+    "Average_Valuation": 9740138.0,
+    "Score": 6.5008
+  },
+  {
+    "Manager": "Francky Dury",
+    "Average_Point": 1.4,
+    "Matches_Played": 303,
+    "Average_Valuation": 1109617.0,
+    "Score": 6.48826
+  },
+  {
+    "Manager": "Dieter Hecking",
+    "Average_Point": 1.6,
+    "Matches_Played": 274,
+    "Average_Valuation": 9021234.0,
+    "Score": 6.48795
+  },
+  {
+    "Manager": "Iraklis Metaxas",
+    "Average_Point": 1.3,
+    "Matches_Played": 42,
+    "Average_Valuation": 392990.0,
+    "Score": 6.48769
+  },
+  {
+    "Manager": "Domenico Tedesco",
+    "Average_Point": 1.6,
+    "Matches_Played": 161,
+    "Average_Valuation": 12083080.0,
+    "Score": 6.48644
+  },
+  {
+    "Manager": "Georgios Paraschos",
+    "Average_Point": 1.3,
+    "Matches_Played": 253,
+    "Average_Valuation": 495887.0,
+    "Score": 6.48459
+  },
+  {
+    "Manager": "Manuel Pellegrini",
+    "Average_Point": 1.6,
+    "Matches_Played": 415,
+    "Average_Valuation": 14663077.0,
+    "Score": 6.48306
+  },
+  {
+    "Manager": "Gian Piero Gasperini",
+    "Average_Point": 1.6,
+    "Matches_Played": 471,
+    "Average_Valuation": 10344470.0,
+    "Score": 6.47644
+  },
+  {
+    "Manager": "Élie Baup",
+    "Average_Point": 1.6,
+    "Matches_Played": 66,
+    "Average_Valuation": 7399225.0,
+    "Score": 6.47563
+  },
+  {
+    "Manager": "Stephen Robinson",
+    "Average_Point": 1.3,
+    "Matches_Played": 197,
+    "Average_Valuation": 348566.0,
+    "Score": 6.46372
+  },
+  {
+    "Manager": "Ömer Erdogan",
+    "Average_Point": 1.4,
+    "Matches_Played": 101,
+    "Average_Valuation": 1267269.0,
+    "Score": 6.45745
+  },
+  {
+    "Manager": "Marco Silva",
+    "Average_Point": 1.6,
+    "Matches_Played": 318,
+    "Average_Valuation": 8851379.0,
+    "Score": 6.45303
+  },
+  {
+    "Manager": "Georgios Georgiadis",
+    "Average_Point": 1.4,
+    "Matches_Played": 39,
+    "Average_Valuation": 1166836.0,
+    "Score": 6.44247
+  },
+  {
+    "Manager": "Stefano Pioli",
+    "Average_Point": 1.6,
+    "Matches_Played": 446,
+    "Average_Valuation": 15236884.0,
+    "Score": 6.42378
+  },
+  {
+    "Manager": "Jan Olde Riekerink",
+    "Average_Point": 1.5,
+    "Matches_Played": 58,
+    "Average_Valuation": 3340036.0,
+    "Score": 6.41609
+  },
+  {
+    "Manager": "Yuriy Bakalov",
+    "Average_Point": 1.3,
+    "Matches_Played": 47,
+    "Average_Valuation": 515960.0,
+    "Score": 6.41349
+  },
+  {
+    "Manager": "Mircea Rednic",
+    "Average_Point": 1.4,
+    "Matches_Played": 78,
+    "Average_Valuation": 1110619.0,
+    "Score": 6.40545
+  },
+  {
+    "Manager": "Ricardo Sá Pinto",
+    "Average_Point": 1.4,
+    "Matches_Played": 154,
+    "Average_Valuation": 1751209.0,
+    "Score": 6.40054
+  },
+  {
+    "Manager": "Vincenzo Montella",
+    "Average_Point": 1.6,
+    "Matches_Played": 352,
+    "Average_Valuation": 7799064.0,
+    "Score": 6.39985
+  },
+  {
+    "Manager": "Gennaro Gattuso",
+    "Average_Point": 1.7,
+    "Matches_Played": 210,
+    "Average_Valuation": 20667411.0,
+    "Score": 6.39479
+  },
+  {
+    "Manager": "Tam Courts",
+    "Average_Point": 1.3,
+    "Matches_Played": 37,
+    "Average_Valuation": 414218.0,
+    "Score": 6.38369
+  },
+  {
+    "Manager": "Igor Cherevchenko",
+    "Average_Point": 1.4,
+    "Matches_Played": 133,
+    "Average_Valuation": 2267691.0,
+    "Score": 6.37858
+  },
+  {
+    "Manager": "Ángel López",
+    "Average_Point": 1.3,
+    "Matches_Played": 39,
+    "Average_Valuation": 365149.0,
+    "Score": 6.37619
+  },
+  {
+    "Manager": "Micky Mellon",
+    "Average_Point": 1.3,
+    "Matches_Played": 35,
+    "Average_Valuation": 500796.0,
+    "Score": 6.36785
+  },
+  {
+    "Manager": "Cagdas Atan",
+    "Average_Point": 1.4,
+    "Matches_Played": 76,
+    "Average_Valuation": 1550082.0,
+    "Score": 6.36025
+  },
+  {
+    "Manager": "Lars Söndergaard",
+    "Average_Point": 1.3,
+    "Matches_Played": 161,
+    "Average_Valuation": 453748.0,
+    "Score": 6.35409
+  },
+  {
+    "Manager": "Nuri Sahin",
+    "Average_Point": 1.4,
+    "Matches_Played": 64,
+    "Average_Valuation": 1514561.0,
+    "Score": 6.35183
+  },
+  {
+    "Manager": "Volodymyr Sharan",
+    "Average_Point": 1.3,
+    "Matches_Played": 215,
+    "Average_Valuation": 402626.0,
+    "Score": 6.34834
+  },
+  {
+    "Manager": "Will Still",
+    "Average_Point": 1.5,
+    "Matches_Played": 58,
+    "Average_Valuation": 3922118.0,
+    "Score": 6.3482
+  },
+  {
+    "Manager": "Imanol Alguacil",
+    "Average_Point": 1.6,
+    "Matches_Played": 232,
+    "Average_Valuation": 17099862.0,
+    "Score": 6.3421
+  },
+  {
+    "Manager": "Alfred Schreuder",
+    "Average_Point": 1.5,
+    "Matches_Played": 115,
+    "Average_Valuation": 7856116.0,
+    "Score": 6.33684
+  },
+  {
+    "Manager": "Peter Maes",
+    "Average_Point": 1.4,
+    "Matches_Played": 216,
+    "Average_Valuation": 1436511.0,
+    "Score": 6.32513
+  },
+  {
+    "Manager": "Ariel Jacobs",
+    "Average_Point": 1.4,
+    "Matches_Played": 75,
+    "Average_Valuation": 1356456.0,
+    "Score": 6.32183
+  },
+  {
+    "Manager": "Andreas Alm",
+    "Average_Point": 1.3,
+    "Matches_Played": 61,
+    "Average_Valuation": 513492.0,
+    "Score": 6.321
+  },
+  {
+    "Manager": "Jesualdo Ferreira",
+    "Average_Point": 1.4,
+    "Matches_Played": 83,
+    "Average_Valuation": 2868437.0,
+    "Score": 6.32014
+  },
+  {
+    "Manager": "Ole Gunnar Solskjaer",
+    "Average_Point": 1.7,
+    "Matches_Played": 169,
+    "Average_Valuation": 33434242.0,
+    "Score": 6.30477
+  },
+  {
+    "Manager": "Albert Stuivenberg",
+    "Average_Point": 1.5,
+    "Matches_Played": 33,
+    "Average_Valuation": 3274992.0,
+    "Score": 6.30226
+  },
+  {
+    "Manager": "Nélson Veríssimo",
+    "Average_Point": 1.5,
+    "Matches_Played": 53,
+    "Average_Valuation": 7347871.0,
+    "Score": 6.28337
+  },
+  {
+    "Manager": "Graham Alexander",
+    "Average_Point": 1.2,
+    "Matches_Played": 49,
+    "Average_Valuation": 403714.0,
+    "Score": 6.26863
+  },
+  {
+    "Manager": "Adi Hütter",
+    "Average_Point": 1.6,
+    "Matches_Played": 180,
+    "Average_Valuation": 11392152.0,
+    "Score": 6.26727
+  },
+  {
+    "Manager": "Sergey Yuran",
+    "Average_Point": 1.3,
+    "Matches_Played": 53,
+    "Average_Valuation": 757874.0,
+    "Score": 6.25062
+  },
+  {
+    "Manager": "João Pedro Sousa",
+    "Average_Point": 1.4,
+    "Matches_Played": 109,
+    "Average_Valuation": 1641865.0,
+    "Score": 6.25025
+  },
+  {
+    "Manager": "Yuriy Virt",
+    "Average_Point": 1.2,
+    "Matches_Played": 70,
+    "Average_Valuation": 306978.0,
+    "Score": 6.24705
+  },
+  {
+    "Manager": "Tamer Tuna",
+    "Average_Point": 1.3,
+    "Matches_Played": 90,
+    "Average_Valuation": 1209807.0,
+    "Score": 6.2394
+  },
+  {
+    "Manager": "Willy Sagnol",
+    "Average_Point": 1.4,
+    "Matches_Played": 73,
+    "Average_Valuation": 3226529.0,
+    "Score": 6.23832
+  },
+  {
+    "Manager": "Craig Brown",
+    "Average_Point": 1.3,
+    "Matches_Played": 36,
+    "Average_Valuation": 463600.0,
+    "Score": 6.22759
+  },
+  {
+    "Manager": "Jean-Louis Gasset",
+    "Average_Point": 1.5,
+    "Matches_Played": 111,
+    "Average_Valuation": 4268953.0,
+    "Score": 6.21377
+  },
+  {
+    "Manager": "Nikolaos Nioplias",
+    "Average_Point": 1.3,
+    "Matches_Played": 49,
+    "Average_Valuation": 574632.0,
+    "Score": 6.20179
+  },
+  {
+    "Manager": "Raffaele Palladino",
+    "Average_Point": 1.5,
+    "Matches_Played": 51,
+    "Average_Valuation": 4971634.0,
+    "Score": 6.19928
+  },
+  {
+    "Manager": "Rafael Benítez",
+    "Average_Point": 1.6,
+    "Matches_Played": 293,
+    "Average_Valuation": 14246132.0,
+    "Score": 6.19523
+  },
+  {
+    "Manager": "Marc Brys",
+    "Average_Point": 1.3,
+    "Matches_Played": 155,
+    "Average_Valuation": 1145249.0,
+    "Score": 6.19212
+  },
+  {
+    "Manager": "Jim Goodwin",
+    "Average_Point": 1.2,
+    "Matches_Played": 131,
+    "Average_Valuation": 371260.0,
+    "Score": 6.19036
+  },
+  {
+    "Manager": "Konstantinos Bratsos",
+    "Average_Point": 1.2,
+    "Matches_Played": 57,
+    "Average_Valuation": 480463.0,
+    "Score": 6.18879
+  },
+  {
+    "Manager": "Dwight Lodeweges",
+    "Average_Point": 1.3,
+    "Matches_Played": 76,
+    "Average_Valuation": 768717.0,
+    "Score": 6.18454
+  },
+  {
+    "Manager": "Nuno Espírito Santo",
+    "Average_Point": 1.6,
+    "Matches_Played": 323,
+    "Average_Valuation": 12458117.0,
+    "Score": 6.18328
+  },
+  {
+    "Manager": "Gustavo Poyet",
+    "Average_Point": 1.4,
+    "Matches_Played": 124,
+    "Average_Valuation": 3761177.0,
+    "Score": 6.16281
+  },
+  {
+    "Manager": "David Martindale",
+    "Average_Point": 1.2,
+    "Matches_Played": 106,
+    "Average_Valuation": 382185.0,
+    "Score": 6.15418
+  },
+  {
+    "Manager": "Traianos Dellas",
+    "Average_Point": 1.2,
+    "Matches_Played": 105,
+    "Average_Valuation": 532133.0,
+    "Score": 6.15073
+  },
+  {
+    "Manager": "Ivo Vieira",
+    "Average_Point": 1.3,
+    "Matches_Played": 178,
+    "Average_Valuation": 1319282.0,
+    "Score": 6.14116
+  },
+  {
+    "Manager": "Hamza Hamzaoglu",
+    "Average_Point": 1.4,
+    "Matches_Played": 253,
+    "Average_Valuation": 1863405.0,
+    "Score": 6.13914
+  },
+  {
+    "Manager": "René Hake",
+    "Average_Point": 1.3,
+    "Matches_Played": 182,
+    "Average_Valuation": 1305891.0,
+    "Score": 6.13735
+  },
+  {
+    "Manager": "Silas",
+    "Average_Point": 1.4,
+    "Matches_Played": 61,
+    "Average_Valuation": 3653276.0,
+    "Score": 6.13487
+  },
+  {
+    "Manager": "Kees van Wonderen",
+    "Average_Point": 1.3,
+    "Matches_Played": 93,
+    "Average_Valuation": 1087258.0,
+    "Score": 6.13481
+  },
+  {
+    "Manager": "Slaven Bilic",
+    "Average_Point": 1.5,
+    "Matches_Played": 214,
+    "Average_Valuation": 6675278.0,
+    "Score": 6.12737
+  },
+  {
+    "Manager": "Sebastian Hoeneß",
+    "Average_Point": 1.5,
+    "Matches_Played": 100,
+    "Average_Valuation": 9101294.0,
+    "Score": 6.12522
+  },
+  {
+    "Manager": "Armando Evangelista",
+    "Average_Point": 1.3,
+    "Matches_Played": 78,
+    "Average_Valuation": 618171.0,
+    "Score": 6.12445
+  },
+  {
+    "Manager": "Ólafur Helgi Kristjánsson",
+    "Average_Point": 1.2,
+    "Matches_Played": 91,
+    "Average_Valuation": 473394.0,
+    "Score": 6.12197
+  },
+  {
+    "Manager": "Ibrahim Üzülmez",
+    "Average_Point": 1.3,
+    "Matches_Played": 40,
+    "Average_Valuation": 1324828.0,
+    "Score": 6.10955
+  },
+  {
+    "Manager": "Oliver Glasner",
+    "Average_Point": 1.5,
+    "Matches_Played": 175,
+    "Average_Valuation": 11549002.0,
+    "Score": 6.09831
+  },
+  {
+    "Manager": "Huub Stevens",
+    "Average_Point": 1.4,
+    "Matches_Played": 114,
+    "Average_Valuation": 5108647.0,
+    "Score": 6.09065
+  },
+  {
+    "Manager": "Pêpa",
+    "Average_Point": 1.3,
+    "Matches_Played": 198,
+    "Average_Valuation": 942176.0,
+    "Score": 6.08552
+  },
+  {
+    "Manager": "Urs Fischer",
+    "Average_Point": 1.4,
+    "Matches_Played": 169,
+    "Average_Valuation": 3893081.0,
+    "Score": 6.08299
+  },
+  {
+    "Manager": "Rashid Rakhimov",
+    "Average_Point": 1.3,
+    "Matches_Played": 189,
+    "Average_Valuation": 1728040.0,
+    "Score": 6.08212
+  },
+  {
+    "Manager": "Ivan Daniliant",
+    "Average_Point": 1.4,
+    "Matches_Played": 34,
+    "Average_Valuation": 2645647.0,
+    "Score": 6.0759
+  },
+  {
+    "Manager": "Ünal Karaman",
+    "Average_Point": 1.4,
+    "Matches_Played": 97,
+    "Average_Valuation": 1883791.0,
+    "Score": 6.07549
+  },
+  {
+    "Manager": "Rémi Garde",
+    "Average_Point": 1.4,
+    "Matches_Played": 112,
+    "Average_Valuation": 5291625.0,
+    "Score": 6.07286
+  },
+  {
+    "Manager": "Erwin van de Looi",
+    "Average_Point": 1.3,
+    "Matches_Played": 182,
+    "Average_Valuation": 1010266.0,
+    "Score": 6.07046
+  },
+  {
+    "Manager": "Francis Gillot",
+    "Average_Point": 1.4,
+    "Matches_Played": 89,
+    "Average_Valuation": 3465645.0,
+    "Score": 6.06254
+  },
+  {
+    "Manager": "Kenny Shiels",
+    "Average_Point": 1.2,
+    "Matches_Played": 40,
+    "Average_Valuation": 387476.0,
+    "Score": 6.06183
+  },
+  {
+    "Manager": "Daniel Ramos",
+    "Average_Point": 1.3,
+    "Matches_Played": 175,
+    "Average_Valuation": 811325.0,
+    "Score": 6.06016
+  },
+  {
+    "Manager": "Mustafa Resit Akcay",
+    "Average_Point": 1.3,
+    "Matches_Played": 121,
+    "Average_Valuation": 1947768.0,
+    "Score": 6.04618
+  },
+  {
+    "Manager": "Bernd Hollerbach",
+    "Average_Point": 1.3,
+    "Matches_Played": 92,
+    "Average_Valuation": 1095267.0,
+    "Score": 6.04581
+  },
+  {
+    "Manager": "André Schubert",
+    "Average_Point": 1.5,
+    "Matches_Played": 59,
+    "Average_Valuation": 7700042.0,
+    "Score": 6.04459
+  },
+  {
+    "Manager": "Leonid Kuchuk",
+    "Average_Point": 1.4,
+    "Matches_Played": 153,
+    "Average_Valuation": 2248131.0,
+    "Score": 6.04187
+  },
+  {
+    "Manager": "Vincenzo Italiano",
+    "Average_Point": 1.5,
+    "Matches_Played": 148,
+    "Average_Valuation": 8331634.0,
+    "Score": 6.03571
+  },
+  {
+    "Manager": "Oleg Dulub",
+    "Average_Point": 1.2,
+    "Matches_Played": 75,
+    "Average_Valuation": 363730.0,
+    "Score": 6.02408
+  },
+  {
+    "Manager": "John van 't Schip",
+    "Average_Point": 1.4,
+    "Matches_Played": 65,
+    "Average_Valuation": 2216473.0,
+    "Score": 6.02268
+  },
+  {
+    "Manager": "Hubert Fournier",
+    "Average_Point": 1.4,
+    "Matches_Played": 140,
+    "Average_Valuation": 3672434.0,
+    "Score": 6.01997
+  },
+  {
+    "Manager": "Vincent Kompany",
+    "Average_Point": 1.4,
+    "Matches_Played": 93,
+    "Average_Valuation": 5140558.0,
+    "Score": 6.01559
+  },
+  {
+    "Manager": "Vítor Oliveira",
+    "Average_Point": 1.2,
+    "Matches_Played": 85,
+    "Average_Valuation": 560719.0,
+    "Score": 6.00813
+  },
+  {
+    "Manager": "Murat Yakin",
+    "Average_Point": 1.4,
+    "Matches_Played": 31,
+    "Average_Valuation": 4688337.0,
+    "Score": 6.00615
+  },
+  {
+    "Manager": "Ricardo Soares",
+    "Average_Point": 1.2,
+    "Matches_Played": 131,
+    "Average_Valuation": 706649.0,
+    "Score": 6.00506
+  },
+  {
+    "Manager": "Eduardo Berizzo",
+    "Average_Point": 1.4,
+    "Matches_Played": 179,
+    "Average_Valuation": 5409793.0,
+    "Score": 5.99604
+  },
+  {
+    "Manager": "Apostolos Mantzios",
+    "Average_Point": 1.2,
+    "Matches_Played": 243,
+    "Average_Valuation": 526075.0,
+    "Score": 5.99015
+  },
+  {
+    "Manager": "Fabiano Soares",
+    "Average_Point": 1.3,
+    "Matches_Played": 58,
+    "Average_Valuation": 1042428.0,
+    "Score": 5.98475
+  },
+  {
+    "Manager": "Vahid Halilhodzic",
+    "Average_Point": 1.4,
+    "Matches_Played": 41,
+    "Average_Valuation": 4754007.0,
+    "Score": 5.98076
+  },
+  {
+    "Manager": "Henk Fraser",
+    "Average_Point": 1.3,
+    "Matches_Played": 282,
+    "Average_Valuation": 1036429.0,
+    "Score": 5.97404
+  },
+  {
+    "Manager": "John Lammers",
+    "Average_Point": 1.2,
+    "Matches_Played": 51,
+    "Average_Valuation": 448883.0,
+    "Score": 5.97372
+  },
+  {
+    "Manager": "Gary Holt",
+    "Average_Point": 1.2,
+    "Matches_Played": 77,
+    "Average_Valuation": 290056.0,
+    "Score": 5.9732
+  },
+  {
+    "Manager": "Roberto Di Matteo",
+    "Average_Point": 1.5,
+    "Matches_Played": 51,
+    "Average_Valuation": 13996068.0,
+    "Score": 5.96424
+  },
+  {
+    "Manager": "Ivo Pulga",
+    "Average_Point": 1.4,
+    "Matches_Played": 40,
+    "Average_Valuation": 3264924.0,
+    "Score": 5.95883
+  },
+  {
+    "Manager": "Aleksandar Jankovic",
+    "Average_Point": 1.3,
+    "Matches_Played": 106,
+    "Average_Valuation": 1335151.0,
+    "Score": 5.95619
+  },
+  {
+    "Manager": "Gerardo Seoane",
+    "Average_Point": 1.5,
+    "Matches_Played": 69,
+    "Average_Valuation": 16494506.0,
+    "Score": 5.95197
+  },
+  {
+    "Manager": "Bernd Storck",
+    "Average_Point": 1.3,
+    "Matches_Played": 91,
+    "Average_Valuation": 1871598.0,
+    "Score": 5.93495
+  },
+  {
+    "Manager": "Igor Rakhaev",
+    "Average_Point": 1.3,
+    "Matches_Played": 46,
+    "Average_Valuation": 2034053.0,
+    "Score": 5.93408
+  },
+  {
+    "Manager": "Nikolaos Papadopoulos",
+    "Average_Point": 1.2,
+    "Matches_Played": 66,
+    "Average_Valuation": 359470.0,
+    "Score": 5.928
+  },
+  {
+    "Manager": "Igor Shalimov",
+    "Average_Point": 1.3,
+    "Matches_Played": 113,
+    "Average_Valuation": 2545623.0,
+    "Score": 5.92775
+  },
+  {
+    "Manager": "Claudio Ranieri",
+    "Average_Point": 1.4,
+    "Matches_Played": 282,
+    "Average_Valuation": 7177868.0,
+    "Score": 5.91334
+  },
+  {
+    "Manager": "José Anigo",
+    "Average_Point": 1.3,
+    "Matches_Played": 69,
+    "Average_Valuation": 2729560.0,
+    "Score": 5.91166
+  },
+  {
+    "Manager": "Derek Adams",
+    "Average_Point": 1.1,
+    "Matches_Played": 88,
+    "Average_Valuation": 309993.0,
+    "Score": 5.90007
+  },
+  {
+    "Manager": "Javier Calleja",
+    "Average_Point": 1.5,
+    "Matches_Played": 139,
+    "Average_Valuation": 9008743.0,
+    "Score": 5.89872
+  },
+  {
+    "Manager": "René Girard",
+    "Average_Point": 1.4,
+    "Matches_Played": 145,
+    "Average_Valuation": 3615922.0,
+    "Score": 5.87772
+  },
+  {
+    "Manager": "Frédéric Vanderbiest",
+    "Average_Point": 1.2,
+    "Matches_Played": 63,
+    "Average_Valuation": 624819.0,
+    "Score": 5.87572
+  },
+  {
+    "Manager": "Enzo Scifo",
+    "Average_Point": 1.2,
+    "Matches_Played": 38,
+    "Average_Valuation": 688157.0,
+    "Score": 5.85371
+  },
+  {
+    "Manager": "Ratko Dostanic",
+    "Average_Point": 1.2,
+    "Matches_Played": 51,
+    "Average_Valuation": 381006.0,
+    "Score": 5.85157
+  },
+  {
+    "Manager": "Rolland Courbis",
+    "Average_Point": 1.3,
+    "Matches_Played": 95,
+    "Average_Valuation": 2226738.0,
+    "Score": 5.85153
+  },
+  {
+    "Manager": "Sabri Lamouchi",
+    "Average_Point": 1.4,
+    "Matches_Played": 43,
+    "Average_Valuation": 5420723.0,
+    "Score": 5.8493
+  },
+  {
+    "Manager": "Roberto Carlos",
+    "Average_Point": 1.3,
+    "Matches_Played": 65,
+    "Average_Valuation": 1746905.0,
+    "Score": 5.84415
+  },
+  {
+    "Manager": "Igor Osinjkin",
+    "Average_Point": 1.3,
+    "Matches_Played": 101,
+    "Average_Valuation": 1351253.0,
+    "Score": 5.83544
+  },
+  {
+    "Manager": "Frank Vercauteren",
+    "Average_Point": 1.3,
+    "Matches_Played": 103,
+    "Average_Valuation": 2456920.0,
+    "Score": 5.83273
+  },
+  {
+    "Manager": "Thomas Frank",
+    "Average_Point": 1.4,
+    "Matches_Played": 191,
+    "Average_Valuation": 6947737.0,
+    "Score": 5.8325
+  },
+  {
+    "Manager": "Rogier Meijer",
+    "Average_Point": 1.2,
+    "Matches_Played": 92,
+    "Average_Valuation": 881943.0,
+    "Score": 5.83182
+  },
+  {
+    "Manager": "Francesco Guidolin",
+    "Average_Point": 1.4,
+    "Matches_Played": 107,
+    "Average_Valuation": 4484876.0,
+    "Score": 5.83036
+  },
+  {
+    "Manager": "Frank Wormuth",
+    "Average_Point": 1.2,
+    "Matches_Played": 149,
+    "Average_Valuation": 894240.0,
+    "Score": 5.82558
+  },
+  {
+    "Manager": "Philippe Montanier",
+    "Average_Point": 1.3,
+    "Matches_Played": 199,
+    "Average_Valuation": 3357288.0,
+    "Score": 5.8255
+  },
+  {
+    "Manager": "Shota Arveladze",
+    "Average_Point": 1.3,
+    "Matches_Played": 103,
+    "Average_Valuation": 2538107.0,
+    "Score": 5.81987
+  },
+  {
+    "Manager": "Quique Setién",
+    "Average_Point": 1.5,
+    "Matches_Played": 214,
+    "Average_Valuation": 11287136.0,
+    "Score": 5.81696
+  },
+  {
+    "Manager": "Karim Belhocine",
+    "Average_Point": 1.3,
+    "Matches_Played": 116,
+    "Average_Valuation": 1429104.0,
+    "Score": 5.81198
+  },
+  {
+    "Manager": "Savvas Pantelidis",
+    "Average_Point": 1.2,
+    "Matches_Played": 175,
+    "Average_Valuation": 490097.0,
+    "Score": 5.81139
+  },
+  {
+    "Manager": "José Carlos Granero",
+    "Average_Point": 1.2,
+    "Matches_Played": 31,
+    "Average_Valuation": 437906.0,
+    "Score": 5.81103
+  },
+  {
+    "Manager": "Danny Buijs",
+    "Average_Point": 1.2,
+    "Matches_Played": 158,
+    "Average_Valuation": 1143777.0,
+    "Score": 5.80969
+  },
+  {
+    "Manager": "Adrie Koster",
+    "Average_Point": 1.2,
+    "Matches_Played": 103,
+    "Average_Valuation": 1024349.0,
+    "Score": 5.79105
+  },
+  {
+    "Manager": "Aleksandr Tarkhanov",
+    "Average_Point": 1.2,
+    "Matches_Played": 95,
+    "Average_Valuation": 896991.0,
+    "Score": 5.79044
+  },
+  {
+    "Manager": "Julien Stéphan",
+    "Average_Point": 1.4,
+    "Matches_Played": 153,
+    "Average_Valuation": 7651662.0,
+    "Score": 5.78941
+  },
+  {
+    "Manager": "Yilmaz Vural",
+    "Average_Point": 1.2,
+    "Matches_Played": 50,
+    "Average_Valuation": 892356.0,
+    "Score": 5.78764
+  },
+  {
+    "Manager": "Ernest Faber",
+    "Average_Point": 1.3,
+    "Matches_Played": 120,
+    "Average_Valuation": 1819749.0,
+    "Score": 5.78711
+  },
+  {
+    "Manager": "Vladimir Petkovic",
+    "Average_Point": 1.4,
+    "Matches_Played": 96,
+    "Average_Valuation": 5739071.0,
+    "Score": 5.78636
+  },
+  {
+    "Manager": "Jesper Sörensen",
+    "Average_Point": 1.2,
+    "Matches_Played": 43,
+    "Average_Valuation": 1050711.0,
+    "Score": 5.77832
+  },
+  {
+    "Manager": "Paul Hartley",
+    "Average_Point": 1.1,
+    "Matches_Played": 112,
+    "Average_Valuation": 289825.0,
+    "Score": 5.76803
+  },
+  {
+    "Manager": "John Stegeman",
+    "Average_Point": 1.2,
+    "Matches_Played": 191,
+    "Average_Valuation": 750688.0,
+    "Score": 5.76047
+  },
+  {
+    "Manager": "Jim McIntyre",
+    "Average_Point": 1.1,
+    "Matches_Played": 144,
+    "Average_Valuation": 282554.0,
+    "Score": 5.75401
+  },
+  {
+    "Manager": "Marius Sumudica",
+    "Average_Point": 1.2,
+    "Matches_Played": 97,
+    "Average_Valuation": 1183350.0,
+    "Score": 5.75037
+  },
+  {
+    "Manager": "Giannis Petrakis",
+    "Average_Point": 1.2,
+    "Matches_Played": 237,
+    "Average_Valuation": 486044.0,
+    "Score": 5.73907
+  },
+  {
+    "Manager": "Paulo Sousa",
+    "Average_Point": 1.4,
+    "Matches_Played": 149,
+    "Average_Valuation": 6874235.0,
+    "Score": 5.7359
+  },
+  {
+    "Manager": "Valérien Ismaël",
+    "Average_Point": 1.4,
+    "Matches_Played": 36,
+    "Average_Valuation": 6916745.0,
+    "Score": 5.73212
+  },
+  {
+    "Manager": "Michel Der Zakarian",
+    "Average_Point": 1.3,
+    "Matches_Played": 337,
+    "Average_Valuation": 3412324.0,
+    "Score": 5.73138
+  },
+  {
+    "Manager": "Jonas De Roeck",
+    "Average_Point": 1.2,
+    "Matches_Played": 78,
+    "Average_Valuation": 1153679.0,
+    "Score": 5.73129
+  },
+  {
+    "Manager": "Roberto De Zerbi",
+    "Average_Point": 1.4,
+    "Matches_Played": 250,
+    "Average_Valuation": 9117582.0,
+    "Score": 5.72705
+  },
+  {
+    "Manager": "Mesut Bakkal",
+    "Average_Point": 1.2,
+    "Matches_Played": 140,
+    "Average_Valuation": 1176243.0,
+    "Score": 5.71313
+  },
+  {
+    "Manager": "Dmytro Mykhaylenko",
+    "Average_Point": 1.1,
+    "Matches_Played": 63,
+    "Average_Valuation": 447274.0,
+    "Score": 5.70949
+  },
+  {
+    "Manager": "Claus Nörgaard",
+    "Average_Point": 1.1,
+    "Matches_Played": 61,
+    "Average_Valuation": 391508.0,
+    "Score": 5.70942
+  },
+  {
+    "Manager": "Callum Davidson",
+    "Average_Point": 1.1,
+    "Matches_Played": 107,
+    "Average_Valuation": 404876.0,
+    "Score": 5.69303
+  },
+  {
+    "Manager": "Yannick Ferrera",
+    "Average_Point": 1.2,
+    "Matches_Played": 110,
+    "Average_Valuation": 990532.0,
+    "Score": 5.69252
+  },
+  {
+    "Manager": "Michalis Grigoriou",
+    "Average_Point": 1.1,
+    "Matches_Played": 205,
+    "Average_Valuation": 410064.0,
+    "Score": 5.69178
+  },
+  {
+    "Manager": "José Couceiro",
+    "Average_Point": 1.2,
+    "Matches_Played": 135,
+    "Average_Valuation": 896407.0,
+    "Score": 5.69088
+  },
+  {
+    "Manager": "Diego Martínez",
+    "Average_Point": 1.3,
+    "Matches_Played": 137,
+    "Average_Valuation": 3916582.0,
+    "Score": 5.68816
+  },
+  {
+    "Manager": "Roberto Martínez",
+    "Average_Point": 1.4,
+    "Matches_Played": 172,
+    "Average_Valuation": 7977793.0,
+    "Score": 5.68329
+  },
+  {
+    "Manager": "Christian Gourcuff",
+    "Average_Point": 1.3,
+    "Matches_Played": 167,
+    "Average_Valuation": 2941420.0,
+    "Score": 5.67066
+  },
+  {
+    "Manager": "Johnny Jansen",
+    "Average_Point": 1.2,
+    "Matches_Played": 108,
+    "Average_Valuation": 1358963.0,
+    "Score": 5.66811
+  },
+  {
+    "Manager": "Jorge Simão",
+    "Average_Point": 1.2,
+    "Matches_Played": 168,
+    "Average_Valuation": 910184.0,
+    "Score": 5.66763
+  },
+  {
+    "Manager": "Siniša Mihajlović",
+    "Average_Point": 1.4,
+    "Matches_Played": 290,
+    "Average_Valuation": 6159359.0,
+    "Score": 5.66313
+  },
+  {
+    "Manager": "Ruslan Rotan",
+    "Average_Point": 1.1,
+    "Matches_Played": 34,
+    "Average_Valuation": 381976.0,
+    "Score": 5.6521
+  },
+  {
+    "Manager": "Oleg Luzhnyi",
+    "Average_Point": 1.2,
+    "Matches_Played": 32,
+    "Average_Valuation": 869525.0,
+    "Score": 5.64413
+  },
+  {
+    "Manager": "Lito Vidigal",
+    "Average_Point": 1.2,
+    "Matches_Played": 144,
+    "Average_Valuation": 742717.0,
+    "Score": 5.64317
+  },
+  {
+    "Manager": "Thorsten Fink",
+    "Average_Point": 1.3,
+    "Matches_Played": 57,
+    "Average_Valuation": 3821223.0,
+    "Score": 5.64304
+  },
+  {
+    "Manager": "Vasco Seabra",
+    "Average_Point": 1.2,
+    "Matches_Played": 104,
+    "Average_Valuation": 829909.0,
+    "Score": 5.64052
+  },
+  {
+    "Manager": "Eric Bedouet",
+    "Average_Point": 1.3,
+    "Matches_Played": 32,
+    "Average_Valuation": 5496274.0,
+    "Score": 5.62797
+  },
+  {
+    "Manager": "Gian Piero Ventura",
+    "Average_Point": 1.3,
+    "Matches_Played": 171,
+    "Average_Valuation": 3051547.0,
+    "Score": 5.62621
+  },
+  {
+    "Manager": "Miguel Leal",
+    "Average_Point": 1.2,
+    "Matches_Played": 111,
+    "Average_Valuation": 763636.0,
+    "Score": 5.61989
+  },
+  {
+    "Manager": "Edoardo Reja",
+    "Average_Point": 1.3,
+    "Matches_Played": 75,
+    "Average_Valuation": 3662795.0,
+    "Score": 5.61961
+  },
+  {
+    "Manager": "Vítor Campelos",
+    "Average_Point": 1.2,
+    "Matches_Played": 66,
+    "Average_Valuation": 609706.0,
+    "Score": 5.61895
+  },
+  {
+    "Manager": "Walter Mazzarri",
+    "Average_Point": 1.4,
+    "Matches_Played": 259,
+    "Average_Valuation": 9726007.0,
+    "Score": 5.61502
+  },
+  {
+    "Manager": "Christian Streich",
+    "Average_Point": 1.3,
+    "Matches_Played": 387,
+    "Average_Valuation": 4896540.0,
+    "Score": 5.60442
+  },
+  {
+    "Manager": "Samet Aybaba",
+    "Average_Point": 1.2,
+    "Matches_Played": 155,
+    "Average_Valuation": 1879438.0,
+    "Score": 5.60243
+  },
+  {
+    "Manager": "Pepe Bordalás",
+    "Average_Point": 1.4,
+    "Matches_Played": 224,
+    "Average_Valuation": 7374923.0,
+    "Score": 5.59673
+  },
+  {
+    "Manager": "Andrea Stramaccioni",
+    "Average_Point": 1.3,
+    "Matches_Played": 128,
+    "Average_Valuation": 5021102.0,
+    "Score": 5.59513
+  },
+  {
+    "Manager": "Andrey Talalaev",
+    "Average_Point": 1.2,
+    "Matches_Played": 111,
+    "Average_Valuation": 1005799.0,
+    "Score": 5.59262
+  },
+  {
+    "Manager": "Beñat San José",
+    "Average_Point": 1.2,
+    "Matches_Played": 62,
+    "Average_Valuation": 886446.0,
+    "Score": 5.58835
+  },
+  {
+    "Manager": "Robert Prosinecki",
+    "Average_Point": 1.2,
+    "Matches_Played": 69,
+    "Average_Valuation": 1435300.0,
+    "Score": 5.58165
+  },
+  {
+    "Manager": "Rob Alflen",
+    "Average_Point": 1.2,
+    "Matches_Played": 35,
+    "Average_Valuation": 855072.0,
+    "Score": 5.57458
+  },
+  {
+    "Manager": "Pavlos Dermitzakis",
+    "Average_Point": 1.1,
+    "Matches_Played": 50,
+    "Average_Valuation": 475730.0,
+    "Score": 5.5689
+  },
+  {
+    "Manager": "Augusto Inácio",
+    "Average_Point": 1.1,
+    "Matches_Played": 52,
+    "Average_Valuation": 572598.0,
+    "Score": 5.5627
+  },
+  {
+    "Manager": "Hami Mandirali",
+    "Average_Point": 1.3,
+    "Matches_Played": 31,
+    "Average_Valuation": 3589164.0,
+    "Score": 5.55679
+  },
+  {
+    "Manager": "Art Langeler",
+    "Average_Point": 1.1,
+    "Matches_Played": 52,
+    "Average_Valuation": 467338.0,
+    "Score": 5.55351
+  },
+  {
+    "Manager": "Bruno Pinheiro",
+    "Average_Point": 1.2,
+    "Matches_Played": 36,
+    "Average_Valuation": 875039.0,
+    "Score": 5.54255
+  },
+  {
+    "Manager": "Tim Sherwood",
+    "Average_Point": 1.4,
+    "Matches_Played": 53,
+    "Average_Valuation": 8322605.0,
+    "Score": 5.54156
+  },
+  {
+    "Manager": "Johnny Mölby",
+    "Average_Point": 1.1,
+    "Matches_Played": 103,
+    "Average_Valuation": 350971.0,
+    "Score": 5.53548
+  },
+  {
+    "Manager": "Alan Archibald",
+    "Average_Point": 1.1,
+    "Matches_Played": 193,
+    "Average_Valuation": 278725.0,
+    "Score": 5.53345
+  },
+  {
+    "Manager": "Ugur Tütüneker",
+    "Average_Point": 1.2,
+    "Matches_Played": 33,
+    "Average_Valuation": 1089048.0,
+    "Score": 5.52616
+  },
+  {
+    "Manager": "Maurice Steijn",
+    "Average_Point": 1.2,
+    "Matches_Played": 176,
+    "Average_Valuation": 1106069.0,
+    "Score": 5.52001
+  },
+  {
+    "Manager": "Bo Svensson",
+    "Average_Point": 1.3,
+    "Matches_Played": 100,
+    "Average_Valuation": 5036893.0,
+    "Score": 5.51765
+  },
+  {
+    "Manager": "Alfons Groenendijk",
+    "Average_Point": 1.1,
+    "Matches_Played": 134,
+    "Average_Valuation": 777973.0,
+    "Score": 5.50715
+  },
+  {
+    "Manager": "Georges Leekens",
+    "Average_Point": 1.2,
+    "Matches_Played": 49,
+    "Average_Valuation": 1494867.0,
+    "Score": 5.50484
+  },
+  {
+    "Manager": "Luís Freire",
+    "Average_Point": 1.1,
+    "Matches_Played": 81,
+    "Average_Valuation": 578467.0,
+    "Score": 5.50376
+  },
+  {
+    "Manager": "Ghislain Printant",
+    "Average_Point": 1.2,
+    "Matches_Played": 58,
+    "Average_Valuation": 1907822.0,
+    "Score": 5.50213
+  },
+  {
+    "Manager": "Pál Dárdai",
+    "Average_Point": 1.3,
+    "Matches_Played": 201,
+    "Average_Valuation": 5220044.0,
+    "Score": 5.49843
+  },
+  {
+    "Manager": "Peter Sörensen",
+    "Average_Point": 1.1,
+    "Matches_Played": 156,
+    "Average_Valuation": 404277.0,
+    "Score": 5.48676
+  },
+  {
+    "Manager": "Lee Johnson",
+    "Average_Point": 1.1,
+    "Matches_Played": 39,
+    "Average_Valuation": 644555.0,
+    "Score": 5.48233
+  },
+  {
+    "Manager": "Juan Carlos Unzué",
+    "Average_Point": 1.3,
+    "Matches_Played": 42,
+    "Average_Valuation": 7429466.0,
+    "Score": 5.47796
+  },
+  {
+    "Manager": "Yuriy Kalitvintsev",
+    "Average_Point": 1.1,
+    "Matches_Played": 78,
+    "Average_Valuation": 655512.0,
+    "Score": 5.47543
+  },
+  {
+    "Manager": "Heiko Herrlich",
+    "Average_Point": 1.4,
+    "Matches_Played": 97,
+    "Average_Valuation": 11730149.0,
+    "Score": 5.47521
+  },
+  {
+    "Manager": "Aleksey Stukalov",
+    "Average_Point": 1.1,
+    "Matches_Played": 36,
+    "Average_Valuation": 745755.0,
+    "Score": 5.47456
+  },
+  {
+    "Manager": "Aleksandr Kerzhakov",
+    "Average_Point": 1.1,
+    "Matches_Played": 32,
+    "Average_Valuation": 647897.0,
+    "Score": 5.46464
+  },
+  {
+    "Manager": "Míchel",
+    "Average_Point": 1.3,
+    "Matches_Played": 97,
+    "Average_Valuation": 4544773.0,
+    "Score": 5.46417
+  },
+  {
+    "Manager": "Auri Skarbalius",
+    "Average_Point": 1.1,
+    "Matches_Played": 67,
+    "Average_Valuation": 725865.0,
+    "Score": 5.46356
+  },
+  {
+    "Manager": "Eusebio Di Francesco",
+    "Average_Point": 1.3,
+    "Matches_Played": 293,
+    "Average_Valuation": 8331154.0,
+    "Score": 5.45715
+  },
+  {
+    "Manager": "Edmar Galovskyi",
+    "Average_Point": 1.1,
+    "Matches_Played": 36,
+    "Average_Valuation": 290565.0,
+    "Score": 5.45416
+  },
+  {
+    "Manager": "Rinat Bilyaletdinov",
+    "Average_Point": 1.2,
+    "Matches_Played": 57,
+    "Average_Valuation": 2277717.0,
+    "Score": 5.45299
+  },
+  {
+    "Manager": "Jagoba Arrasate",
+    "Average_Point": 1.3,
+    "Matches_Played": 246,
+    "Average_Valuation": 5017638.0,
+    "Score": 5.44606
+  },
+  {
+    "Manager": "Makis Chavos",
+    "Average_Point": 1.1,
+    "Matches_Played": 179,
+    "Average_Valuation": 465435.0,
+    "Score": 5.42575
+  },
+  {
+    "Manager": "Bülent Korkmaz",
+    "Average_Point": 1.2,
+    "Matches_Played": 130,
+    "Average_Valuation": 1213639.0,
+    "Score": 5.42503
+  },
+  {
+    "Manager": "Troels Bech",
+    "Average_Point": 1.1,
+    "Matches_Played": 78,
+    "Average_Valuation": 649239.0,
+    "Score": 5.4171
+  },
+  {
+    "Manager": "Ralph Hasenhüttl",
+    "Average_Point": 1.3,
+    "Matches_Played": 277,
+    "Average_Valuation": 10415971.0,
+    "Score": 5.41666
+  },
+  {
+    "Manager": "Zeljko Petrovic",
+    "Average_Point": 1.2,
+    "Matches_Played": 38,
+    "Average_Valuation": 1087874.0,
+    "Score": 5.41472
+  },
+  {
+    "Manager": "Allan Johnston",
+    "Average_Point": 1.0,
+    "Matches_Played": 64,
+    "Average_Valuation": 289046.0,
+    "Score": 5.41157
+  },
+  {
+    "Manager": "Thiago Motta",
+    "Average_Point": 1.3,
+    "Matches_Played": 101,
+    "Average_Valuation": 5183899.0,
+    "Score": 5.41123
+  },
+  {
+    "Manager": "Frédéric Hantz",
+    "Average_Point": 1.2,
+    "Matches_Played": 141,
+    "Average_Valuation": 1521173.0,
+    "Score": 5.40821
+  },
+  {
+    "Manager": "Alexander Nouri",
+    "Average_Point": 1.3,
+    "Matches_Played": 46,
+    "Average_Valuation": 3836168.0,
+    "Score": 5.40611
+  },
+  {
+    "Manager": "Stéphane Moulin",
+    "Average_Point": 1.2,
+    "Matches_Played": 218,
+    "Average_Valuation": 2355634.0,
+    "Score": 5.40555
+  },
+  {
+    "Manager": "Gary Locke",
+    "Average_Point": 1.0,
+    "Matches_Played": 87,
+    "Average_Valuation": 293521.0,
+    "Score": 5.40033
+  },
+  {
+    "Manager": "Hikmet Karaman",
+    "Average_Point": 1.2,
+    "Matches_Played": 240,
+    "Average_Valuation": 1389536.0,
+    "Score": 5.39963
+  },
+  {
+    "Manager": "Massimo Rastelli",
+    "Average_Point": 1.2,
+    "Matches_Played": 51,
+    "Average_Valuation": 2274824.0,
+    "Score": 5.39847
+  },
+  {
+    "Manager": "David Guion",
+    "Average_Point": 1.3,
+    "Matches_Played": 121,
+    "Average_Valuation": 3711880.0,
+    "Score": 5.39781
+  },
+  {
+    "Manager": "Kemal Özdes",
+    "Average_Point": 1.2,
+    "Matches_Played": 124,
+    "Average_Valuation": 1321137.0,
+    "Score": 5.39294
+  },
+  {
+    "Manager": "Ove Pedersen",
+    "Average_Point": 1.1,
+    "Matches_Played": 76,
+    "Average_Valuation": 383863.0,
+    "Score": 5.38778
+  },
+  {
+    "Manager": "Eduardo Coudet",
+    "Average_Point": 1.3,
+    "Matches_Played": 79,
+    "Average_Valuation": 6903945.0,
+    "Score": 5.38157
+  },
+  {
+    "Manager": "Roman Sanzhar",
+    "Average_Point": 1.1,
+    "Matches_Played": 147,
+    "Average_Valuation": 375822.0,
+    "Score": 5.37355
+  },
+  {
+    "Manager": "Mark McGhee",
+    "Average_Point": 1.0,
+    "Matches_Played": 65,
+    "Average_Valuation": 324742.0,
+    "Score": 5.35822
+  },
+  {
+    "Manager": "Mehmet Özdilek",
+    "Average_Point": 1.2,
+    "Matches_Played": 151,
+    "Average_Valuation": 1295679.0,
+    "Score": 5.3523
+  },
+  {
+    "Manager": "Claude Puel",
+    "Average_Point": 1.3,
+    "Matches_Played": 332,
+    "Average_Valuation": 5879122.0,
+    "Score": 5.35087
+  },
+  {
+    "Manager": "Marcelo Bielsa",
+    "Average_Point": 1.3,
+    "Matches_Played": 160,
+    "Average_Valuation": 8492133.0,
+    "Score": 5.34719
+  },
+  {
+    "Manager": "Álvaro Pacheco",
+    "Average_Point": 1.1,
+    "Matches_Played": 64,
+    "Average_Valuation": 724813.0,
+    "Score": 5.34394
+  },
+  {
+    "Manager": "Sandro Schwarz",
+    "Average_Point": 1.3,
+    "Matches_Played": 165,
+    "Average_Valuation": 4657154.0,
+    "Score": 5.33671
+  },
+  {
+    "Manager": "Vincent Hognon",
+    "Average_Point": 1.2,
+    "Matches_Played": 34,
+    "Average_Valuation": 2457007.0,
+    "Score": 5.32689
+  },
+  {
+    "Manager": "Roman Monarev",
+    "Average_Point": 1.0,
+    "Matches_Played": 38,
+    "Average_Valuation": 278815.0,
+    "Score": 5.32054
+  },
+  {
+    "Manager": "François Ciccolini",
+    "Average_Point": 1.1,
+    "Matches_Played": 42,
+    "Average_Valuation": 1165898.0,
+    "Score": 5.3179
+  },
+  {
+    "Manager": "Eusebio",
+    "Average_Point": 1.3,
+    "Matches_Played": 136,
+    "Average_Valuation": 6457479.0,
+    "Score": 5.30343
+  },
+  {
+    "Manager": "Vadim Skripchenko",
+    "Average_Point": 1.1,
+    "Matches_Played": 80,
+    "Average_Valuation": 986106.0,
+    "Score": 5.29833
+  },
+  {
+    "Manager": "Steven Defour",
+    "Average_Point": 1.1,
+    "Matches_Played": 35,
+    "Average_Valuation": 1229943.0,
+    "Score": 5.29762
+  },
+  {
+    "Manager": "Patrick Vieira",
+    "Average_Point": 1.3,
+    "Matches_Played": 166,
+    "Average_Valuation": 10033145.0,
+    "Score": 5.29491
+  },
+  {
+    "Manager": "Alex Neil",
+    "Average_Point": 1.2,
+    "Matches_Played": 64,
+    "Average_Valuation": 2597075.0,
+    "Score": 5.29476
+  },
+  {
+    "Manager": "Garry Monk",
+    "Average_Point": 1.3,
+    "Matches_Played": 70,
+    "Average_Valuation": 6011400.0,
+    "Score": 5.29451
+  },
+  {
+    "Manager": "Manuel Machado",
+    "Average_Point": 1.1,
+    "Matches_Played": 174,
+    "Average_Valuation": 1171867.0,
+    "Score": 5.29304
+  },
+  {
+    "Manager": "Jocelyn Gourvennec",
+    "Average_Point": 1.2,
+    "Matches_Played": 254,
+    "Average_Valuation": 4228214.0,
+    "Score": 5.28339
+  },
+  {
+    "Manager": "David Moyes",
+    "Average_Point": 1.3,
+    "Matches_Played": 365,
+    "Average_Valuation": 14402742.0,
+    "Score": 5.28317
+  },
+  {
+    "Manager": "Edward Still",
+    "Average_Point": 1.2,
+    "Matches_Played": 73,
+    "Average_Valuation": 1418154.0,
+    "Score": 5.28028
+  },
+  {
+    "Manager": "Slavisa Jokanovic",
+    "Average_Point": 1.3,
+    "Matches_Played": 52,
+    "Average_Valuation": 6114513.0,
+    "Score": 5.2796
+  },
+  {
+    "Manager": "Danny Lennon",
+    "Average_Point": 1.1,
+    "Matches_Played": 79,
+    "Average_Valuation": 420066.0,
+    "Score": 5.27419
+  },
+  {
+    "Manager": "Bernard Blaquart",
+    "Average_Point": 1.2,
+    "Matches_Played": 66,
+    "Average_Valuation": 3200870.0,
+    "Score": 5.25991
+  },
+  {
+    "Manager": "Patrice Garande",
+    "Average_Point": 1.2,
+    "Matches_Played": 152,
+    "Average_Valuation": 1511760.0,
+    "Score": 5.25945
+  },
+  {
+    "Manager": "Voro",
+    "Average_Point": 1.3,
+    "Matches_Played": 42,
+    "Average_Valuation": 10850277.0,
+    "Score": 5.25436
+  },
+  {
+    "Manager": "Nebojsa Gudelj",
+    "Average_Point": 1.1,
+    "Matches_Played": 65,
+    "Average_Valuation": 614949.0,
+    "Score": 5.25159
+  },
+  {
+    "Manager": "Harm van Veldhoven",
+    "Average_Point": 1.1,
+    "Matches_Played": 76,
+    "Average_Valuation": 768100.0,
+    "Score": 5.23823
+  },
+  {
+    "Manager": "Frédéric Antonetti",
+    "Average_Point": 1.2,
+    "Matches_Played": 160,
+    "Average_Valuation": 3753093.0,
+    "Score": 5.23307
+  },
+  {
+    "Manager": "Markus Weinzierl",
+    "Average_Point": 1.2,
+    "Matches_Played": 254,
+    "Average_Valuation": 4245163.0,
+    "Score": 5.2317
+  },
+  {
+    "Manager": "Andrea Mandorlini",
+    "Average_Point": 1.2,
+    "Matches_Played": 100,
+    "Average_Valuation": 1881988.0,
+    "Score": 5.21877
+  },
+  {
+    "Manager": "Tolunay Kafkas",
+    "Average_Point": 1.2,
+    "Matches_Played": 134,
+    "Average_Valuation": 1812427.0,
+    "Score": 5.2176
+  },
+  {
+    "Manager": "Peter Stöger",
+    "Average_Point": 1.2,
+    "Matches_Played": 145,
+    "Average_Valuation": 5699544.0,
+    "Score": 5.2159
+  },
+  {
+    "Manager": "Lorenzo Staelens",
+    "Average_Point": 1.1,
+    "Matches_Played": 42,
+    "Average_Valuation": 629647.0,
+    "Score": 5.21555
+  },
+  {
+    "Manager": "Dominik Thalhammer",
+    "Average_Point": 1.1,
+    "Matches_Played": 46,
+    "Average_Valuation": 1001890.0,
+    "Score": 5.21554
+  },
+  {
+    "Manager": "Hakan Keles",
+    "Average_Point": 1.1,
+    "Matches_Played": 91,
+    "Average_Valuation": 1179893.0,
+    "Score": 5.21118
+  },
+  {
+    "Manager": "Régis Le Bris",
+    "Average_Point": 1.2,
+    "Matches_Played": 55,
+    "Average_Valuation": 4059988.0,
+    "Score": 5.20362
+  },
+  {
+    "Manager": "Glen De Boeck",
+    "Average_Point": 1.1,
+    "Matches_Played": 97,
+    "Average_Valuation": 746948.0,
+    "Score": 5.20276
+  },
+  {
+    "Manager": "Slavoljub Muslin",
+    "Average_Point": 1.1,
+    "Matches_Played": 57,
+    "Average_Valuation": 1548172.0,
+    "Score": 5.20066
+  },
+  {
+    "Manager": "Albert Celades",
+    "Average_Point": 1.4,
+    "Matches_Played": 39,
+    "Average_Valuation": 23897392.0,
+    "Score": 5.19936
+  },
+  {
+    "Manager": "José Morais",
+    "Average_Point": 1.1,
+    "Matches_Played": 45,
+    "Average_Valuation": 1078471.0,
+    "Score": 5.19919
+  },
+  {
+    "Manager": "Ümit Özat",
+    "Average_Point": 1.1,
+    "Matches_Played": 61,
+    "Average_Valuation": 1133172.0,
+    "Score": 5.19772
+  },
+  {
+    "Manager": "Eddie Howe",
+    "Average_Point": 1.3,
+    "Matches_Played": 290,
+    "Average_Valuation": 12086774.0,
+    "Score": 5.19537
+  },
+  {
+    "Manager": "Hervé Renard",
+    "Average_Point": 1.1,
+    "Matches_Played": 42,
+    "Average_Valuation": 1733274.0,
+    "Score": 5.17111
+  },
+  {
+    "Manager": "Davide Ballardini",
+    "Average_Point": 1.2,
+    "Matches_Played": 150,
+    "Average_Valuation": 3020117.0,
+    "Score": 5.16952
+  },
+  {
+    "Manager": "Hannes Wolf",
+    "Average_Point": 1.2,
+    "Matches_Played": 53,
+    "Average_Valuation": 6322817.0,
+    "Score": 5.16891
+  },
+  {
+    "Manager": "Irfan Buz",
+    "Average_Point": 1.1,
+    "Matches_Played": 79,
+    "Average_Valuation": 1433769.0,
+    "Score": 5.16569
+  },
+  {
+    "Manager": "Jurgen Streppel",
+    "Average_Point": 1.1,
+    "Matches_Played": 178,
+    "Average_Valuation": 1043426.0,
+    "Score": 5.16474
+  },
+  {
+    "Manager": "Constantin Galca",
+    "Average_Point": 1.1,
+    "Matches_Played": 54,
+    "Average_Valuation": 1502830.0,
+    "Score": 5.16253
+  },
+  {
+    "Manager": "Christian Nielsen",
+    "Average_Point": 1.0,
+    "Matches_Played": 34,
+    "Average_Valuation": 294324.0,
+    "Score": 5.16183
+  },
+  {
+    "Manager": "Frank Lampard",
+    "Average_Point": 1.4,
+    "Matches_Played": 132,
+    "Average_Valuation": 31572350.0,
+    "Score": 5.16156
+  },
+  {
+    "Manager": "Bernd Schuster",
+    "Average_Point": 1.2,
+    "Matches_Played": 40,
+    "Average_Valuation": 2696062.0,
+    "Score": 5.15793
+  },
+  {
+    "Manager": "Javier Aguirre",
+    "Average_Point": 1.2,
+    "Matches_Played": 158,
+    "Average_Valuation": 3533306.0,
+    "Score": 5.15682
+  },
+  {
+    "Manager": "João Henriques",
+    "Average_Point": 1.1,
+    "Matches_Played": 128,
+    "Average_Valuation": 973299.0,
+    "Score": 5.15604
+  },
+  {
+    "Manager": "Vadim Evseev",
+    "Average_Point": 1.1,
+    "Matches_Played": 77,
+    "Average_Valuation": 952328.0,
+    "Score": 5.15078
+  },
+  {
+    "Manager": "Dmitri Khokhlov",
+    "Average_Point": 1.1,
+    "Matches_Played": 70,
+    "Average_Valuation": 1842396.0,
+    "Score": 5.14923
+  },
+  {
+    "Manager": "Steve McClaren",
+    "Average_Point": 1.2,
+    "Matches_Played": 60,
+    "Average_Valuation": 5792806.0,
+    "Score": 5.14809
+  },
+  {
+    "Manager": "Leonel Pontes",
+    "Average_Point": 1.1,
+    "Matches_Played": 34,
+    "Average_Valuation": 1949179.0,
+    "Score": 5.14805
+  },
+  {
+    "Manager": "Valeriy Kryventsov",
+    "Average_Point": 1.0,
+    "Matches_Played": 33,
+    "Average_Valuation": 307531.0,
+    "Score": 5.1439
+  },
+  {
+    "Manager": "Giannis Matzourakis",
+    "Average_Point": 1.0,
+    "Matches_Played": 118,
+    "Average_Valuation": 428233.0,
+    "Score": 5.14
+  },
+  {
+    "Manager": "Fuat Capa",
+    "Average_Point": 1.1,
+    "Matches_Played": 98,
+    "Average_Valuation": 1480912.0,
+    "Score": 5.13502
+  },
+  {
+    "Manager": "Quique Sánchez Flores",
+    "Average_Point": 1.2,
+    "Matches_Played": 202,
+    "Average_Valuation": 5358825.0,
+    "Score": 5.12966
+  },
+  {
+    "Manager": "Stuart Kettlewell",
+    "Average_Point": 1.0,
+    "Matches_Played": 75,
+    "Average_Valuation": 320503.0,
+    "Score": 5.12713
+  },
+  {
+    "Manager": "Martin Schmidt",
+    "Average_Point": 1.2,
+    "Matches_Played": 139,
+    "Average_Valuation": 4549421.0,
+    "Score": 5.1245
+  },
+  {
+    "Manager": "Adnan Custovic",
+    "Average_Point": 1.1,
+    "Matches_Played": 55,
+    "Average_Valuation": 1034005.0,
+    "Score": 5.12018
+  },
+  {
+    "Manager": "Clarence Seedorf",
+    "Average_Point": 1.2,
+    "Matches_Played": 38,
+    "Average_Valuation": 6594799.0,
+    "Score": 5.1201
+  },
+  {
+    "Manager": "Pascal Gastien",
+    "Average_Point": 1.1,
+    "Matches_Played": 93,
+    "Average_Valuation": 1941009.0,
+    "Score": 5.11689
+  },
+  {
+    "Manager": "Dmitriy Parfenov",
+    "Average_Point": 1.1,
+    "Matches_Played": 124,
+    "Average_Valuation": 1017788.0,
+    "Score": 5.11569
+  },
+  {
+    "Manager": "Bruno Labbadia",
+    "Average_Point": 1.2,
+    "Matches_Played": 181,
+    "Average_Valuation": 5865147.0,
+    "Score": 5.11557
+  },
+  {
+    "Manager": "Jean-Luc Vasseur",
+    "Average_Point": 1.1,
+    "Matches_Played": 31,
+    "Average_Valuation": 1707016.0,
+    "Score": 5.11399
+  },
+  {
+    "Manager": "Safet Susic",
+    "Average_Point": 1.1,
+    "Matches_Played": 38,
+    "Average_Valuation": 1264065.0,
+    "Score": 5.11337
+  },
+  {
+    "Manager": "Mbaye Leye",
+    "Average_Point": 1.1,
+    "Matches_Played": 54,
+    "Average_Valuation": 1752133.0,
+    "Score": 5.10741
+  },
+  {
+    "Manager": "Andoni Iraola",
+    "Average_Point": 1.2,
+    "Matches_Played": 101,
+    "Average_Valuation": 5402771.0,
+    "Score": 5.1062
+  },
+  {
+    "Manager": "Miodrag Bozovic",
+    "Average_Point": 1.1,
+    "Matches_Played": 198,
+    "Average_Valuation": 1585773.0,
+    "Score": 5.10478
+  },
+  {
+    "Manager": "Petit",
+    "Average_Point": 1.1,
+    "Matches_Played": 265,
+    "Average_Valuation": 733709.0,
+    "Score": 5.1033
+  },
+  {
+    "Manager": "Tony Pulis",
+    "Average_Point": 1.2,
+    "Matches_Played": 180,
+    "Average_Valuation": 4675214.0,
+    "Score": 5.10237
+  },
+  {
+    "Manager": "António Folha",
+    "Average_Point": 1.1,
+    "Matches_Played": 47,
+    "Average_Valuation": 1326470.0,
+    "Score": 5.10106
+  },
+  {
+    "Manager": "René Eijer",
+    "Average_Point": 1.1,
+    "Matches_Played": 35,
+    "Average_Valuation": 721103.0,
+    "Score": 5.09427
+  },
+  {
+    "Manager": "Chris Coleman",
+    "Average_Point": 1.0,
+    "Matches_Played": 48,
+    "Average_Valuation": 594067.0,
+    "Score": 5.09286
+  },
+  {
+    "Manager": "Juan Ignacio Martínez",
+    "Average_Point": 1.1,
+    "Matches_Played": 107,
+    "Average_Valuation": 1657671.0,
+    "Score": 5.09026
+  },
+  {
+    "Manager": "Anton Janssen",
+    "Average_Point": 1.1,
+    "Matches_Played": 33,
+    "Average_Valuation": 763824.0,
+    "Score": 5.08925
+  },
+  {
+    "Manager": "José Gomes",
+    "Average_Point": 1.1,
+    "Matches_Played": 67,
+    "Average_Valuation": 757489.0,
+    "Score": 5.08803
+  },
+  {
+    "Manager": "Pablo Machín",
+    "Average_Point": 1.2,
+    "Matches_Played": 115,
+    "Average_Valuation": 6434764.0,
+    "Score": 5.08353
+  },
+  {
+    "Manager": "Michael Hansen",
+    "Average_Point": 1.0,
+    "Matches_Played": 36,
+    "Average_Valuation": 360108.0,
+    "Score": 5.08044
+  },
+  {
+    "Manager": "Mauricio Pellegrino",
+    "Average_Point": 1.2,
+    "Matches_Played": 136,
+    "Average_Valuation": 6235293.0,
+    "Score": 5.07092
+  },
+  {
+    "Manager": "Sérgio Vieira",
+    "Average_Point": 1.0,
+    "Matches_Played": 44,
+    "Average_Valuation": 494139.0,
+    "Score": 5.07051
+  },
+  {
+    "Manager": "Ertugrul Saglam",
+    "Average_Point": 1.1,
+    "Matches_Played": 102,
+    "Average_Valuation": 2146440.0,
+    "Score": 5.0703
+  },
+  {
+    "Manager": "Darije Kalezic",
+    "Average_Point": 1.0,
+    "Matches_Played": 36,
+    "Average_Valuation": 531072.0,
+    "Score": 5.06769
+  },
+  {
+    "Manager": "Rubén Baraja",
+    "Average_Point": 1.2,
+    "Matches_Played": 36,
+    "Average_Valuation": 9183860.0,
+    "Score": 5.06769
+  },
+  {
+    "Manager": "Filipe Martins",
+    "Average_Point": 1.0,
+    "Matches_Played": 55,
+    "Average_Valuation": 597093.0,
+    "Score": 5.065
+  },
+  {
+    "Manager": "Alan Pardew",
+    "Average_Point": 1.2,
+    "Matches_Played": 240,
+    "Average_Valuation": 5921638.0,
+    "Score": 5.05399
+  },
+  {
+    "Manager": "Alessio Dionisi",
+    "Average_Point": 1.2,
+    "Matches_Played": 99,
+    "Average_Valuation": 9068489.0,
+    "Score": 5.04095
+  },
+  {
+    "Manager": "Armin Veh",
+    "Average_Point": 1.2,
+    "Matches_Played": 112,
+    "Average_Valuation": 3608010.0,
+    "Score": 5.03533
+  },
+  {
+    "Manager": "Marco Giampaolo",
+    "Average_Point": 1.2,
+    "Matches_Played": 209,
+    "Average_Valuation": 6176196.0,
+    "Score": 5.03218
+  },
+  {
+    "Manager": "Ronny Van Geneugden",
+    "Average_Point": 1.0,
+    "Matches_Played": 72,
+    "Average_Valuation": 705364.0,
+    "Score": 5.02792
+  },
+  {
+    "Manager": "Javi Gracia",
+    "Average_Point": 1.2,
+    "Matches_Played": 261,
+    "Average_Valuation": 5447014.0,
+    "Score": 5.02561
+  },
+  {
+    "Manager": "Ivan Juric",
+    "Average_Point": 1.2,
+    "Matches_Played": 232,
+    "Average_Valuation": 5743721.0,
+    "Score": 5.02249
+  },
+  {
+    "Manager": "Paulo Sérgio",
+    "Average_Point": 1.1,
+    "Matches_Played": 160,
+    "Average_Valuation": 799432.0,
+    "Score": 5.02146
+  },
+  {
+    "Manager": "Mário Silva",
+    "Average_Point": 1.1,
+    "Matches_Played": 48,
+    "Average_Valuation": 953903.0,
+    "Score": 5.01605
+  },
+  {
+    "Manager": "Giannis Christopoulos",
+    "Average_Point": 1.0,
+    "Matches_Played": 91,
+    "Average_Valuation": 491733.0,
+    "Score": 5.01418
+  },
+  {
+    "Manager": "Oleksandr Babych",
+    "Average_Point": 1.0,
+    "Matches_Played": 147,
+    "Average_Valuation": 426568.0,
+    "Score": 5.01407
+  },
+  {
+    "Manager": "Cuco Ziganda",
+    "Average_Point": 1.2,
+    "Matches_Played": 48,
+    "Average_Valuation": 8585898.0,
+    "Score": 5.00424
+  },
+  {
+    "Manager": "Roberto Donadoni",
+    "Average_Point": 1.1,
+    "Matches_Played": 225,
+    "Average_Valuation": 2942653.0,
+    "Score": 5.00398
+  },
+  {
+    "Manager": "Alain Casanova",
+    "Average_Point": 1.2,
+    "Matches_Played": 152,
+    "Average_Valuation": 3421718.0,
+    "Score": 5.00232
+  },
+  {
+    "Manager": "Natxo González",
+    "Average_Point": 1.0,
+    "Matches_Played": 35,
+    "Average_Valuation": 650736.0,
+    "Score": 4.99461
+  },
+  {
+    "Manager": "Friedhelm Funkel",
+    "Average_Point": 1.1,
+    "Matches_Played": 63,
+    "Average_Valuation": 2950923.0,
+    "Score": 4.98641
+  },
+  {
+    "Manager": "Erwin Sánchez",
+    "Average_Point": 1.0,
+    "Matches_Played": 31,
+    "Average_Valuation": 700662.0,
+    "Score": 4.98498
+  },
+  {
+    "Manager": "Thierry Laurey",
+    "Average_Point": 1.1,
+    "Matches_Played": 181,
+    "Average_Valuation": 3064084.0,
+    "Score": 4.97728
+  },
+  {
+    "Manager": "Paco López",
+    "Average_Point": 1.2,
+    "Matches_Played": 148,
+    "Average_Valuation": 4268371.0,
+    "Score": 4.97681
+  },
+  {
+    "Manager": "Dmitriy Alenichev",
+    "Average_Point": 1.1,
+    "Matches_Played": 93,
+    "Average_Valuation": 1939298.0,
+    "Score": 4.97238
+  },
+  {
+    "Manager": "Pepe Mel",
+    "Average_Point": 1.1,
+    "Matches_Played": 128,
+    "Average_Valuation": 2744724.0,
+    "Score": 4.96674
+  },
+  {
+    "Manager": "Stijn Vreven",
+    "Average_Point": 1.0,
+    "Matches_Played": 76,
+    "Average_Valuation": 573654.0,
+    "Score": 4.96654
+  },
+  {
+    "Manager": "Dick Lukkien",
+    "Average_Point": 1.0,
+    "Matches_Played": 133,
+    "Average_Valuation": 532853.0,
+    "Score": 4.96653
+  },
+  {
+    "Manager": "Thomas Reis",
+    "Average_Point": 1.1,
+    "Matches_Played": 66,
+    "Average_Valuation": 1989200.0,
+    "Score": 4.95709
+  },
+  {
+    "Manager": "Daniel Sanchez",
+    "Average_Point": 1.1,
+    "Matches_Played": 47,
+    "Average_Valuation": 2001420.0,
+    "Score": 4.95645
+  },
+  {
+    "Manager": "Florian Kohfeldt",
+    "Average_Point": 1.2,
+    "Matches_Played": 181,
+    "Average_Valuation": 6741203.0,
+    "Score": 4.95608
+  },
+  {
+    "Manager": "Tayfun Korkut",
+    "Average_Point": 1.2,
+    "Matches_Played": 93,
+    "Average_Valuation": 5473183.0,
+    "Score": 4.9552
+  },
+  {
+    "Manager": "Nuno Manta Santos",
+    "Average_Point": 1.0,
+    "Matches_Played": 117,
+    "Average_Valuation": 504506.0,
+    "Score": 4.94999
+  },
+  {
+    "Manager": "Rolando Maran",
+    "Average_Point": 1.1,
+    "Matches_Played": 290,
+    "Average_Valuation": 3431273.0,
+    "Score": 4.94495
+  },
+  {
+    "Manager": "Sylvain Ripoll",
+    "Average_Point": 1.1,
+    "Matches_Played": 86,
+    "Average_Valuation": 2024034.0,
+    "Score": 4.94486
+  },
+  {
+    "Manager": "Pascal Dupraz",
+    "Average_Point": 1.1,
+    "Matches_Played": 200,
+    "Average_Valuation": 2258304.0,
+    "Score": 4.93161
+  },
+  {
+    "Manager": "Georgios Simos",
+    "Average_Point": 1.0,
+    "Matches_Played": 55,
+    "Average_Valuation": 422085.0,
+    "Score": 4.92692
+  },
+  {
+    "Manager": "Víctor Fernández",
+    "Average_Point": 1.1,
+    "Matches_Played": 51,
+    "Average_Valuation": 1962637.0,
+    "Score": 4.92571
+  },
+  {
+    "Manager": "Mykola Pavlov",
+    "Average_Point": 1.0,
+    "Matches_Played": 90,
+    "Average_Valuation": 729966.0,
+    "Score": 4.92154
+  },
+  {
+    "Manager": "Dennis van Wijk",
+    "Average_Point": 1.0,
+    "Matches_Played": 35,
+    "Average_Valuation": 814570.0,
+    "Score": 4.9122
+  },
+  {
+    "Manager": "Henk de Jong",
+    "Average_Point": 1.0,
+    "Matches_Played": 124,
+    "Average_Valuation": 461325.0,
+    "Score": 4.90357
+  },
+  {
+    "Manager": "Markus Gisdol",
+    "Average_Point": 1.2,
+    "Matches_Played": 209,
+    "Average_Valuation": 4368908.0,
+    "Score": 4.90203
+  },
+  {
+    "Manager": "Giuseppe Iachini",
+    "Average_Point": 1.2,
+    "Matches_Played": 164,
+    "Average_Valuation": 5580133.0,
+    "Score": 4.89855
+  },
+  {
+    "Manager": "Nigel Pearson",
+    "Average_Point": 1.2,
+    "Matches_Played": 63,
+    "Average_Valuation": 4781340.0,
+    "Score": 4.89703
+  },
+  {
+    "Manager": "Jan de Jonge",
+    "Average_Point": 1.0,
+    "Matches_Played": 40,
+    "Average_Valuation": 583409.0,
+    "Score": 4.89582
+  },
+  {
+    "Manager": "Alex Pastoor",
+    "Average_Point": 1.0,
+    "Matches_Played": 110,
+    "Average_Valuation": 593716.0,
+    "Score": 4.88937
+  },
+  {
+    "Manager": "José Luis Mendilibar",
+    "Average_Point": 1.1,
+    "Matches_Played": 326,
+    "Average_Valuation": 3195339.0,
+    "Score": 4.88575
+  },
+  {
+    "Manager": "Wim Jonk",
+    "Average_Point": 1.0,
+    "Matches_Played": 36,
+    "Average_Valuation": 614091.0,
+    "Score": 4.87699
+  },
+  {
+    "Manager": "Erwin Koeman",
+    "Average_Point": 1.0,
+    "Matches_Played": 76,
+    "Average_Valuation": 735468.0,
+    "Score": 4.87518
+  },
+  {
+    "Manager": "Oleg Taran",
+    "Average_Point": 1.0,
+    "Matches_Played": 57,
+    "Average_Valuation": 641302.0,
+    "Score": 4.86117
+  },
+  {
+    "Manager": "Olivier Guégan",
+    "Average_Point": 1.1,
+    "Matches_Played": 42,
+    "Average_Valuation": 1694793.0,
+    "Score": 4.85551
+  },
+  {
+    "Manager": "Graham Potter",
+    "Average_Point": 1.2,
+    "Matches_Played": 152,
+    "Average_Valuation": 15915219.0,
+    "Score": 4.84808
+  },
+  {
+    "Manager": "Freyr Alexandersson",
+    "Average_Point": 1.0,
+    "Matches_Played": 41,
+    "Average_Valuation": 354550.0,
+    "Score": 4.8385
+  },
+  {
+    "Manager": "Aurelio Andreazzoli",
+    "Average_Point": 1.1,
+    "Matches_Played": 100,
+    "Average_Valuation": 4536139.0,
+    "Score": 4.83442
+  },
+  {
+    "Manager": "Michael Laudrup",
+    "Average_Point": 1.1,
+    "Matches_Played": 69,
+    "Average_Valuation": 4885582.0,
+    "Score": 4.83192
+  },
+  {
+    "Manager": "Hans de Koning",
+    "Average_Point": 1.0,
+    "Matches_Played": 64,
+    "Average_Valuation": 463808.0,
+    "Score": 4.82622
+  },
+  {
+    "Manager": "Sergio",
+    "Average_Point": 1.1,
+    "Matches_Played": 247,
+    "Average_Valuation": 2924008.0,
+    "Score": 4.82535
+  },
+  {
+    "Manager": "Dirk Schuster",
+    "Average_Point": 1.1,
+    "Matches_Played": 52,
+    "Average_Valuation": 1549492.0,
+    "Score": 4.8234
+  },
+  {
+    "Manager": "Olivier Dall'Oglio",
+    "Average_Point": 1.1,
+    "Matches_Played": 209,
+    "Average_Valuation": 2999065.0,
+    "Score": 4.81715
+  },
+  {
+    "Manager": "Gadzhi Gadzhiev",
+    "Average_Point": 1.0,
+    "Matches_Played": 168,
+    "Average_Valuation": 1101702.0,
+    "Score": 4.81115
+  },
+  {
+    "Manager": "Claude Makélélé",
+    "Average_Point": 1.0,
+    "Matches_Played": 58,
+    "Average_Valuation": 945953.0,
+    "Score": 4.8053
+  },
+  {
+    "Manager": "Stanley Menzo",
+    "Average_Point": 1.0,
+    "Matches_Played": 36,
+    "Average_Valuation": 751943.0,
+    "Score": 4.80399
+  },
+  {
+    "Manager": "Oleksandr Sevidov",
+    "Average_Point": 1.0,
+    "Matches_Played": 93,
+    "Average_Valuation": 582993.0,
+    "Score": 4.79079
+  },
+  {
+    "Manager": "Víctor Sánchez",
+    "Average_Point": 1.1,
+    "Matches_Played": 75,
+    "Average_Valuation": 2830644.0,
+    "Score": 4.7837
+  },
+  {
+    "Manager": "Gertjan Verbeek",
+    "Average_Point": 1.1,
+    "Matches_Played": 93,
+    "Average_Valuation": 2228512.0,
+    "Score": 4.78164
+  },
+  {
+    "Manager": "Paco Jémez",
+    "Average_Point": 1.1,
+    "Matches_Played": 206,
+    "Average_Valuation": 2018982.0,
+    "Score": 4.78144
+  },
+  {
+    "Manager": "César Peixoto",
+    "Average_Point": 1.0,
+    "Matches_Played": 55,
+    "Average_Valuation": 802255.0,
+    "Score": 4.78111
+  },
+  {
+    "Manager": "Angel Chervenkov",
+    "Average_Point": 0.9,
+    "Matches_Played": 34,
+    "Average_Valuation": 365039.0,
+    "Score": 4.77652
+  },
+  {
+    "Manager": "Jonas Dal",
+    "Average_Point": 0.9,
+    "Matches_Played": 81,
+    "Average_Valuation": 357354.0,
+    "Score": 4.7697
+  },
+  {
+    "Manager": "Gaizka Garitano",
+    "Average_Point": 1.2,
+    "Matches_Played": 159,
+    "Average_Valuation": 7075560.0,
+    "Score": 4.76917
+  },
+  {
+    "Manager": "Mutlu Topcu",
+    "Average_Point": 1.0,
+    "Matches_Played": 41,
+    "Average_Valuation": 1614132.0,
+    "Score": 4.76908
+  },
+  {
+    "Manager": "José Ramón Sandoval",
+    "Average_Point": 1.1,
+    "Matches_Played": 36,
+    "Average_Valuation": 2609229.0,
+    "Score": 4.76607
+  },
+  {
+    "Manager": "Fatih Tekke",
+    "Average_Point": 1.0,
+    "Matches_Played": 43,
+    "Average_Valuation": 841128.0,
+    "Score": 4.76452
+  },
+  {
+    "Manager": "Óscar García",
+    "Average_Point": 1.1,
+    "Matches_Played": 114,
+    "Average_Valuation": 5080460.0,
+    "Score": 4.76349
+  },
+  {
+    "Manager": "Marinus Dijkhuizen",
+    "Average_Point": 1.0,
+    "Matches_Played": 90,
+    "Average_Valuation": 535491.0,
+    "Score": 4.76337
+  },
+  {
+    "Manager": "Volodymyr Pyatenko",
+    "Average_Point": 1.0,
+    "Matches_Played": 33,
+    "Average_Valuation": 856143.0,
+    "Score": 4.75835
+  },
+  {
+    "Manager": "Mitchell van der Gaag",
+    "Average_Point": 1.0,
+    "Matches_Played": 104,
+    "Average_Valuation": 579049.0,
+    "Score": 4.75728
+  },
+  {
+    "Manager": "Mark Hughes",
+    "Average_Point": 1.1,
+    "Matches_Played": 214,
+    "Average_Valuation": 6720212.0,
+    "Score": 4.75297
+  },
+  {
+    "Manager": "John McGlynn",
+    "Average_Point": 1.0,
+    "Matches_Played": 32,
+    "Average_Valuation": 576270.0,
+    "Score": 4.74722
+  },
+  {
+    "Manager": "Jorge Costa",
+    "Average_Point": 1.0,
+    "Matches_Played": 33,
+    "Average_Valuation": 890140.0,
+    "Score": 4.74483
+  },
+  {
+    "Manager": "Miroslav Djukic",
+    "Average_Point": 1.1,
+    "Matches_Played": 81,
+    "Average_Valuation": 2918905.0,
+    "Score": 4.74364
+  },
+  {
+    "Manager": "Fran Escribá",
+    "Average_Point": 1.1,
+    "Matches_Played": 223,
+    "Average_Valuation": 4704000.0,
+    "Score": 4.74293
+  },
+  {
+    "Manager": "Joaquín Caparrós",
+    "Average_Point": 1.1,
+    "Matches_Played": 113,
+    "Average_Valuation": 3423406.0,
+    "Score": 4.74058
+  },
+  {
+    "Manager": "Gabriele Cioffi",
+    "Average_Point": 1.1,
+    "Matches_Played": 41,
+    "Average_Valuation": 4994547.0,
+    "Score": 4.72818
+  },
+  {
+    "Manager": "Martin Canning",
+    "Average_Point": 0.9,
+    "Matches_Played": 153,
+    "Average_Valuation": 267670.0,
+    "Score": 4.72512
+  },
+  {
+    "Manager": "Yuri Matveev",
+    "Average_Point": 1.0,
+    "Matches_Played": 36,
+    "Average_Valuation": 948156.0,
+    "Score": 4.72306
+  },
+  {
+    "Manager": "Neil McCann",
+    "Average_Point": 0.9,
+    "Matches_Played": 51,
+    "Average_Valuation": 325465.0,
+    "Score": 4.71929
+  },
+  {
+    "Manager": "Miguel Cardoso",
+    "Average_Point": 1.1,
+    "Matches_Played": 78,
+    "Average_Valuation": 3302470.0,
+    "Score": 4.71902
+  },
+  {
+    "Manager": "Dimitrios Eleftheropoulos",
+    "Average_Point": 0.9,
+    "Matches_Played": 70,
+    "Average_Valuation": 442900.0,
+    "Score": 4.71389
+  },
+  {
+    "Manager": "Michael Skibbe",
+    "Average_Point": 1.0,
+    "Matches_Played": 35,
+    "Average_Valuation": 1509763.0,
+    "Score": 4.69916
+  },
+  {
+    "Manager": "Julio Velázquez",
+    "Average_Point": 1.0,
+    "Matches_Played": 94,
+    "Average_Valuation": 1651940.0,
+    "Score": 4.6848
+  },
+  {
+    "Manager": "Vitaliy Kvartsyanyi",
+    "Average_Point": 0.9,
+    "Matches_Played": 132,
+    "Average_Valuation": 508646.0,
+    "Score": 4.68458
+  },
+  {
+    "Manager": "Antoine Kombouaré",
+    "Average_Point": 1.1,
+    "Matches_Played": 249,
+    "Average_Valuation": 3236381.0,
+    "Score": 4.68453
+  },
+  {
+    "Manager": "Mirko Slomka",
+    "Average_Point": 1.1,
+    "Matches_Played": 75,
+    "Average_Valuation": 3922287.0,
+    "Score": 4.68092
+  },
+  {
+    "Manager": "Cedomir Janevski",
+    "Average_Point": 1.0,
+    "Matches_Played": 60,
+    "Average_Valuation": 677787.0,
+    "Score": 4.67977
+  },
+  {
+    "Manager": "Pacheta",
+    "Average_Point": 1.1,
+    "Matches_Played": 60,
+    "Average_Valuation": 3535061.0,
+    "Score": 4.67008
+  },
+  {
+    "Manager": "José Manuel Roca",
+    "Average_Point": 0.9,
+    "Matches_Played": 37,
+    "Average_Valuation": 358661.0,
+    "Score": 4.66998
+  },
+  {
+    "Manager": "Stefano Colantuono",
+    "Average_Point": 1.1,
+    "Matches_Played": 153,
+    "Average_Valuation": 2771504.0,
+    "Score": 4.66794
+  },
+  {
+    "Manager": "Pellegrino Matarazzo",
+    "Average_Point": 1.1,
+    "Matches_Played": 113,
+    "Average_Valuation": 6272408.0,
+    "Score": 4.66743
+  },
+  {
+    "Manager": "Gianluca Festa",
+    "Average_Point": 0.9,
+    "Matches_Played": 79,
+    "Average_Valuation": 567064.0,
+    "Score": 4.6579
+  },
+  {
+    "Manager": "Bruno Irles",
+    "Average_Point": 1.1,
+    "Matches_Played": 33,
+    "Average_Valuation": 2723037.0,
+    "Score": 4.65264
+  },
+  {
+    "Manager": "Bülent Uygun",
+    "Average_Point": 1.0,
+    "Matches_Played": 87,
+    "Average_Valuation": 1168747.0,
+    "Score": 4.65235
+  },
+  {
+    "Manager": "Sam Allardyce",
+    "Average_Point": 1.1,
+    "Matches_Played": 227,
+    "Average_Valuation": 6334347.0,
+    "Score": 4.64395
+  },
+  {
+    "Manager": "Pedro Emanuel",
+    "Average_Point": 1.0,
+    "Matches_Played": 122,
+    "Average_Valuation": 851909.0,
+    "Score": 4.64303
+  },
+  {
+    "Manager": "Walter Zenga",
+    "Average_Point": 1.1,
+    "Matches_Played": 48,
+    "Average_Valuation": 3881432.0,
+    "Score": 4.64131
+  },
+  {
+    "Manager": "Sean Dyche",
+    "Average_Point": 1.1,
+    "Matches_Played": 312,
+    "Average_Valuation": 8013370.0,
+    "Score": 4.63935
+  },
+  {
+    "Manager": "Christophe Pélissier",
+    "Average_Point": 1.1,
+    "Matches_Played": 178,
+    "Average_Valuation": 2486384.0,
+    "Score": 4.63703
+  },
+  {
+    "Manager": "Robert Maaskant",
+    "Average_Point": 1.0,
+    "Matches_Played": 72,
+    "Average_Valuation": 830695.0,
+    "Score": 4.63642
+  },
+  {
+    "Manager": "Mustafa Denizli",
+    "Average_Point": 1.0,
+    "Matches_Played": 58,
+    "Average_Valuation": 2137969.0,
+    "Score": 4.61336
+  },
+  {
+    "Manager": "Lucas Alcaraz",
+    "Average_Point": 1.0,
+    "Matches_Played": 127,
+    "Average_Valuation": 2317625.0,
+    "Score": 4.60963
+  },
+  {
+    "Manager": "Asier Garitano",
+    "Average_Point": 1.1,
+    "Matches_Played": 135,
+    "Average_Valuation": 3419345.0,
+    "Score": 4.60841
+  },
+  {
+    "Manager": "Francisco Rodríguez",
+    "Average_Point": 1.0,
+    "Matches_Played": 137,
+    "Average_Valuation": 2249941.0,
+    "Score": 4.6062
+  },
+  {
+    "Manager": "Lee Clark",
+    "Average_Point": 0.9,
+    "Matches_Played": 38,
+    "Average_Valuation": 311052.0,
+    "Score": 4.59829
+  },
+  {
+    "Manager": "Abelardo",
+    "Average_Point": 1.1,
+    "Matches_Played": 149,
+    "Average_Valuation": 3299385.0,
+    "Score": 4.59225
+  },
+  {
+    "Manager": "Roy Hodgson",
+    "Average_Point": 1.1,
+    "Matches_Played": 199,
+    "Average_Valuation": 11300002.0,
+    "Score": 4.58565
+  },
+  {
+    "Manager": "Brian Rice",
+    "Average_Point": 0.9,
+    "Matches_Played": 75,
+    "Average_Valuation": 239799.0,
+    "Score": 4.54757
+  },
+  {
+    "Manager": "Alex Dyer",
+    "Average_Point": 0.9,
+    "Matches_Played": 39,
+    "Average_Valuation": 373670.0,
+    "Score": 4.54624
+  },
+  {
+    "Manager": "André Breitenreiter",
+    "Average_Point": 1.1,
+    "Matches_Played": 150,
+    "Average_Valuation": 5149602.0,
+    "Score": 4.54239
+  },
+  {
+    "Manager": "Sjors Ultee",
+    "Average_Point": 0.9,
+    "Matches_Played": 109,
+    "Average_Valuation": 745629.0,
+    "Score": 4.54238
+  },
+  {
+    "Manager": "Malky Mackay",
+    "Average_Point": 1.0,
+    "Matches_Played": 98,
+    "Average_Valuation": 954873.0,
+    "Score": 4.52796
+  },
+  {
+    "Manager": "Rubi",
+    "Average_Point": 1.1,
+    "Matches_Played": 155,
+    "Average_Valuation": 5829697.0,
+    "Score": 4.52237
+  },
+  {
+    "Manager": "Robert Molenaar",
+    "Average_Point": 0.9,
+    "Matches_Played": 39,
+    "Average_Valuation": 581662.0,
+    "Score": 4.52024
+  },
+  {
+    "Manager": "Richie Foran",
+    "Average_Point": 0.9,
+    "Matches_Played": 39,
+    "Average_Valuation": 280235.0,
+    "Score": 4.51765
+  },
+  {
+    "Manager": "Luca Gotti",
+    "Average_Point": 1.1,
+    "Matches_Played": 110,
+    "Average_Valuation": 5822677.0,
+    "Score": 4.51415
+  },
+  {
+    "Manager": "Steffen Baumgart",
+    "Average_Point": 1.0,
+    "Matches_Played": 122,
+    "Average_Valuation": 3248920.0,
+    "Score": 4.51278
+  },
+  {
+    "Manager": "Luis García",
+    "Average_Point": 1.0,
+    "Matches_Played": 141,
+    "Average_Valuation": 3427872.0,
+    "Score": 4.50348
+  },
+  {
+    "Manager": "José Mota",
+    "Average_Point": 0.9,
+    "Matches_Played": 151,
+    "Average_Valuation": 652637.0,
+    "Score": 4.50115
+  },
+  {
+    "Manager": "Andrea Sottil",
+    "Average_Point": 1.1,
+    "Matches_Played": 48,
+    "Average_Valuation": 6356425.0,
+    "Score": 4.49517
+  },
+  {
+    "Manager": "Paco Herrera",
+    "Average_Point": 1.0,
+    "Matches_Played": 49,
+    "Average_Valuation": 1445937.0,
+    "Score": 4.48902
+  },
+  {
+    "Manager": "Luka Elsner",
+    "Average_Point": 1.0,
+    "Matches_Played": 88,
+    "Average_Valuation": 2295488.0,
+    "Score": 4.48836
+  },
+  {
+    "Manager": "Fabrizio Castori",
+    "Average_Point": 1.0,
+    "Matches_Played": 45,
+    "Average_Valuation": 1463582.0,
+    "Score": 4.47688
+  },
+  {
+    "Manager": "Cesare Prandelli",
+    "Average_Point": 1.1,
+    "Matches_Played": 72,
+    "Average_Valuation": 8490662.0,
+    "Score": 4.47018
+  },
+  {
+    "Manager": "Robert Evdokimov",
+    "Average_Point": 0.9,
+    "Matches_Played": 33,
+    "Average_Valuation": 551571.0,
+    "Score": 4.46963
+  },
+  {
+    "Manager": "Achim Beierlorzer",
+    "Average_Point": 1.1,
+    "Matches_Played": 38,
+    "Average_Valuation": 6676393.0,
+    "Score": 4.46297
+  },
+  {
+    "Manager": "Cihat Arslan",
+    "Average_Point": 1.0,
+    "Matches_Played": 81,
+    "Average_Valuation": 1079826.0,
+    "Score": 4.44779
+  },
+  {
+    "Manager": "Jordi Condom",
+    "Average_Point": 0.9,
+    "Matches_Played": 65,
+    "Average_Valuation": 587015.0,
+    "Score": 4.44183
+  },
+  {
+    "Manager": "Jens Berthel Askou",
+    "Average_Point": 0.9,
+    "Matches_Played": 59,
+    "Average_Valuation": 321875.0,
+    "Score": 4.43044
+  },
+  {
+    "Manager": "Philippe Hinschberger",
+    "Average_Point": 1.0,
+    "Matches_Played": 48,
+    "Average_Valuation": 1279746.0,
+    "Score": 4.42973
+  },
+  {
+    "Manager": "Roberto D'Aversa",
+    "Average_Point": 1.0,
+    "Matches_Played": 142,
+    "Average_Valuation": 4038877.0,
+    "Score": 4.42355
+  },
+  {
+    "Manager": "Luigi Delneri",
+    "Average_Point": 1.0,
+    "Matches_Played": 82,
+    "Average_Valuation": 2989229.0,
+    "Score": 4.4125
+  },
+  {
+    "Manager": "Adrie Poldervaart",
+    "Average_Point": 0.9,
+    "Matches_Played": 31,
+    "Average_Valuation": 604197.0,
+    "Score": 4.4104
+  },
+  {
+    "Manager": "Eugenio Corini",
+    "Average_Point": 1.0,
+    "Matches_Played": 95,
+    "Average_Valuation": 2517663.0,
+    "Score": 4.41012
+  },
+  {
+    "Manager": "Serse Cosmi",
+    "Average_Point": 1.0,
+    "Matches_Played": 32,
+    "Average_Valuation": 1589597.0,
+    "Score": 4.40989
+  },
+  {
+    "Manager": "Chris Hughton",
+    "Average_Point": 1.0,
+    "Matches_Played": 161,
+    "Average_Valuation": 5243261.0,
+    "Score": 4.40976
+  },
+  {
+    "Manager": "Manuel Baum",
+    "Average_Point": 1.0,
+    "Matches_Played": 94,
+    "Average_Valuation": 4482424.0,
+    "Score": 4.37947
+  },
+  {
+    "Manager": "Ole Werner",
+    "Average_Point": 1.0,
+    "Matches_Played": 51,
+    "Average_Valuation": 3763434.0,
+    "Score": 4.3772
+  },
+  {
+    "Manager": "Robin Dutt",
+    "Average_Point": 1.0,
+    "Matches_Played": 43,
+    "Average_Valuation": 2884959.0,
+    "Score": 4.36974
+  },
+  {
+    "Manager": "Steve Bruce",
+    "Average_Point": 1.1,
+    "Matches_Played": 176,
+    "Average_Valuation": 7535678.0,
+    "Score": 4.36134
+  },
+  {
+    "Manager": "Jos Luhukay",
+    "Average_Point": 1.0,
+    "Matches_Played": 61,
+    "Average_Valuation": 2338021.0,
+    "Score": 4.35972
+  },
+  {
+    "Manager": "Ruud Brood",
+    "Average_Point": 0.9,
+    "Matches_Played": 89,
+    "Average_Valuation": 661855.0,
+    "Score": 4.35931
+  },
+  {
+    "Manager": "Martin Jol",
+    "Average_Point": 1.0,
+    "Matches_Played": 52,
+    "Average_Valuation": 3996476.0,
+    "Score": 4.35829
+  },
+  {
+    "Manager": "Foeke Booy",
+    "Average_Point": 0.9,
+    "Matches_Played": 81,
+    "Average_Valuation": 475883.0,
+    "Score": 4.35827
+  },
+  {
+    "Manager": "Álvaro Cervera",
+    "Average_Point": 1.0,
+    "Matches_Played": 60,
+    "Average_Valuation": 1870822.0,
+    "Score": 4.35077
+  },
+  {
+    "Manager": "Nicky Hayen",
+    "Average_Point": 0.9,
+    "Matches_Played": 39,
+    "Average_Valuation": 668218.0,
+    "Score": 4.34922
+  },
+  {
+    "Manager": "Paulo Alves",
+    "Average_Point": 0.9,
+    "Matches_Played": 39,
+    "Average_Valuation": 698486.0,
+    "Score": 4.3349
+  },
+  {
+    "Manager": "Josef Zinnbauer",
+    "Average_Point": 1.0,
+    "Matches_Played": 39,
+    "Average_Valuation": 3286647.0,
+    "Score": 4.33178
+  },
+  {
+    "Manager": "Igor Kolyvanov",
+    "Average_Point": 0.9,
+    "Matches_Played": 46,
+    "Average_Valuation": 668060.0,
+    "Score": 4.31958
+  },
+  {
+    "Manager": "Gary O'Neil",
+    "Average_Point": 1.1,
+    "Matches_Played": 54,
+    "Average_Valuation": 10947628.0,
+    "Score": 4.30726
+  },
+  {
+    "Manager": "Thomas Schaaf",
+    "Average_Point": 1.0,
+    "Matches_Played": 80,
+    "Average_Valuation": 3675762.0,
+    "Score": 4.29972
+  },
+  {
+    "Manager": "Eric Hély",
+    "Average_Point": 1.0,
+    "Matches_Played": 45,
+    "Average_Valuation": 1884608.0,
+    "Score": 4.29858
+  },
+  {
+    "Manager": "Chris Wilder",
+    "Average_Point": 1.0,
+    "Matches_Played": 75,
+    "Average_Valuation": 6776504.0,
+    "Score": 4.2978
+  },
+  {
+    "Manager": "Steve Cooper",
+    "Average_Point": 1.1,
+    "Matches_Played": 65,
+    "Average_Valuation": 11992256.0,
+    "Score": 4.29454
+  },
+  {
+    "Manager": "Leonardo Semplici",
+    "Average_Point": 1.0,
+    "Matches_Played": 137,
+    "Average_Valuation": 3599452.0,
+    "Score": 4.27426
+  },
+  {
+    "Manager": "Filippo Inzaghi",
+    "Average_Point": 1.0,
+    "Matches_Played": 113,
+    "Average_Valuation": 4891279.0,
+    "Score": 4.25731
+  },
+  {
+    "Manager": "Andrey Kobelev",
+    "Average_Point": 1.0,
+    "Matches_Played": 46,
+    "Average_Valuation": 2290073.0,
+    "Score": 4.24566
+  },
+  {
+    "Manager": "Delio Rossi",
+    "Average_Point": 1.0,
+    "Matches_Played": 44,
+    "Average_Valuation": 3250733.0,
+    "Score": 4.23643
+  },
+  {
+    "Manager": "Ulisses Morais",
+    "Average_Point": 0.9,
+    "Matches_Played": 34,
+    "Average_Valuation": 764932.0,
+    "Score": 4.23346
+  },
+  {
+    "Manager": "Brian McDermott",
+    "Average_Point": 0.9,
+    "Matches_Played": 35,
+    "Average_Valuation": 2045895.0,
+    "Score": 4.21748
+  },
+  {
+    "Manager": "Dominique Arribagé",
+    "Average_Point": 0.9,
+    "Matches_Played": 37,
+    "Average_Valuation": 2172032.0,
+    "Score": 4.21395
+  },
+  {
+    "Manager": "Sergiy Lavrynenko",
+    "Average_Point": 0.8,
+    "Matches_Played": 77,
+    "Average_Valuation": 261058.0,
+    "Score": 4.19625
+  },
+  {
+    "Manager": "Paul Lambert",
+    "Average_Point": 1.0,
+    "Matches_Played": 118,
+    "Average_Valuation": 5310244.0,
+    "Score": 4.162
+  },
+  {
+    "Manager": "Mustafa Kaplan",
+    "Average_Point": 0.9,
+    "Matches_Played": 51,
+    "Average_Valuation": 714574.0,
+    "Score": 4.16029
+  },
+  {
+    "Manager": "Peter Hyballa",
+    "Average_Point": 0.9,
+    "Matches_Played": 36,
+    "Average_Valuation": 707164.0,
+    "Score": 4.15563
+  },
+  {
+    "Manager": "Martin O'Neill",
+    "Average_Point": 1.0,
+    "Matches_Played": 31,
+    "Average_Valuation": 6284497.0,
+    "Score": 4.1524
+  },
+  {
+    "Manager": "Quim Machado",
+    "Average_Point": 0.9,
+    "Matches_Played": 35,
+    "Average_Valuation": 677033.0,
+    "Score": 4.14989
+  },
+  {
+    "Manager": "Luís Norton de Matos",
+    "Average_Point": 0.8,
+    "Matches_Played": 35,
+    "Average_Valuation": 443284.0,
+    "Score": 4.14223
+  },
+  {
+    "Manager": "Robert Moreno",
+    "Average_Point": 1.0,
+    "Matches_Played": 37,
+    "Average_Valuation": 6946656.0,
+    "Score": 4.126
+  },
+  {
+    "Manager": "Jesse Marsch",
+    "Average_Point": 1.1,
+    "Matches_Played": 53,
+    "Average_Valuation": 17338892.0,
+    "Score": 4.12031
+  },
+  {
+    "Manager": "Davide Nicola",
+    "Average_Point": 1.0,
+    "Matches_Played": 174,
+    "Average_Valuation": 3442288.0,
+    "Score": 4.11991
+  },
+  {
+    "Manager": "Paul Clement",
+    "Average_Point": 1.0,
+    "Matches_Played": 62,
+    "Average_Valuation": 4614781.0,
+    "Score": 4.09933
+  },
+  {
+    "Manager": "Bob Peeters",
+    "Average_Point": 0.9,
+    "Matches_Played": 69,
+    "Average_Valuation": 794720.0,
+    "Score": 4.09103
+  },
+  {
+    "Manager": "Fred Grim",
+    "Average_Point": 0.8,
+    "Matches_Played": 93,
+    "Average_Valuation": 522416.0,
+    "Score": 4.03444
+  },
+  {
+    "Manager": "Pablo Correa",
+    "Average_Point": 0.9,
+    "Matches_Played": 42,
+    "Average_Valuation": 1013470.0,
+    "Score": 4.02883
+  },
+  {
+    "Manager": "Gérald Baticle",
+    "Average_Point": 0.9,
+    "Matches_Played": 53,
+    "Average_Valuation": 3105497.0,
+    "Score": 4.02004
+  },
+  {
+    "Manager": "Juan Muñiz",
+    "Average_Point": 0.9,
+    "Matches_Played": 36,
+    "Average_Valuation": 1898231.0,
+    "Score": 3.99668
+  },
+  {
+    "Manager": "Nikolaos Karageorgiou",
+    "Average_Point": 0.8,
+    "Matches_Played": 52,
+    "Average_Valuation": 371920.0,
+    "Score": 3.99565
+  },
+  {
+    "Manager": "Dean Smith",
+    "Average_Point": 1.0,
+    "Matches_Played": 128,
+    "Average_Valuation": 13295773.0,
+    "Score": 3.99366
+  },
+  {
+    "Manager": "Nigel Adkins",
+    "Average_Point": 0.9,
+    "Matches_Played": 33,
+    "Average_Valuation": 2886905.0,
+    "Score": 3.97231
+  },
+  {
+    "Manager": "Stéphane Jobard",
+    "Average_Point": 0.9,
+    "Matches_Played": 37,
+    "Average_Valuation": 2255482.0,
+    "Score": 3.96291
+  },
+  {
+    "Manager": "Enrico Maaßen",
+    "Average_Point": 0.9,
+    "Matches_Played": 42,
+    "Average_Valuation": 4139066.0,
+    "Score": 3.96149
+  },
+  {
+    "Manager": "Ostap Markevych",
+    "Average_Point": 0.8,
+    "Matches_Played": 47,
+    "Average_Valuation": 409612.0,
+    "Score": 3.95963
+  },
+  {
+    "Manager": "Norbert Meier",
+    "Average_Point": 0.9,
+    "Matches_Played": 48,
+    "Average_Valuation": 1249535.0,
+    "Score": 3.95496
+  },
+  {
+    "Manager": "David Wagner",
+    "Average_Point": 1.0,
+    "Matches_Played": 102,
+    "Average_Valuation": 6420219.0,
+    "Score": 3.94347
+  },
+  {
+    "Manager": "Alekos Vosniadis",
+    "Average_Point": 0.8,
+    "Matches_Played": 31,
+    "Average_Valuation": 350346.0,
+    "Score": 3.94171
+  },
+  {
+    "Manager": "Jacky Mathijssen",
+    "Average_Point": 0.8,
+    "Matches_Played": 50,
+    "Average_Valuation": 545401.0,
+    "Score": 3.93663
+  },
+  {
+    "Manager": "Paul Heckingbottom",
+    "Average_Point": 0.9,
+    "Matches_Played": 47,
+    "Average_Valuation": 3765442.0,
+    "Score": 3.92752
+  },
+  {
+    "Manager": "Ton Lokhoff",
+    "Average_Point": 0.8,
+    "Matches_Played": 35,
+    "Average_Valuation": 602372.0,
+    "Score": 3.90724
+  },
+  {
+    "Manager": "Valeriy Petrakov",
+    "Average_Point": 0.8,
+    "Matches_Played": 50,
+    "Average_Valuation": 625853.0,
+    "Score": 3.89604
+  },
+  {
+    "Manager": "Diego López",
+    "Average_Point": 0.9,
+    "Matches_Played": 89,
+    "Average_Valuation": 3431355.0,
+    "Score": 3.88259
+  },
+  {
+    "Manager": "José González",
+    "Average_Point": 0.9,
+    "Matches_Played": 32,
+    "Average_Valuation": 2519616.0,
+    "Score": 3.85865
+  },
+  {
+    "Manager": "Costinha",
+    "Average_Point": 0.8,
+    "Matches_Played": 43,
+    "Average_Valuation": 610726.0,
+    "Score": 3.85781
+  },
+  {
+    "Manager": "João de Deus",
+    "Average_Point": 0.8,
+    "Matches_Played": 45,
+    "Average_Valuation": 1058589.0,
+    "Score": 3.85256
+  },
+  {
+    "Manager": "Fabio Liverani",
+    "Average_Point": 0.9,
+    "Matches_Played": 65,
+    "Average_Valuation": 2953857.0,
+    "Score": 3.82586
+  },
+  {
+    "Manager": "Vicente Moreno",
+    "Average_Point": 0.9,
+    "Matches_Played": 84,
+    "Average_Valuation": 3890515.0,
+    "Score": 3.82467
+  },
+  {
+    "Manager": "Dimitrios Spanos",
+    "Average_Point": 0.8,
+    "Matches_Played": 49,
+    "Average_Valuation": 377959.0,
+    "Score": 3.8218
+  },
+  {
+    "Manager": "Babis Tennes",
+    "Average_Point": 0.7,
+    "Matches_Played": 66,
+    "Average_Valuation": 309906.0,
+    "Score": 3.81663
+  },
+  {
+    "Manager": "Jean-Louis Garcia",
+    "Average_Point": 0.8,
+    "Matches_Played": 51,
+    "Average_Valuation": 1289744.0,
+    "Score": 3.80452
+  },
+  {
+    "Manager": "Pako Ayestarán",
+    "Average_Point": 0.9,
+    "Matches_Played": 82,
+    "Average_Valuation": 2727645.0,
+    "Score": 3.79787
+  },
+  {
+    "Manager": "Nikolay Kostov",
+    "Average_Point": 0.8,
+    "Matches_Played": 49,
+    "Average_Valuation": 689474.0,
+    "Score": 3.74958
+  },
+  {
+    "Manager": "Paolo Zanetti",
+    "Average_Point": 0.9,
+    "Matches_Played": 78,
+    "Average_Valuation": 3732829.0,
+    "Score": 3.74466
+  },
+  {
+    "Manager": "Giuseppe Sannino",
+    "Average_Point": 0.8,
+    "Matches_Played": 41,
+    "Average_Valuation": 1789410.0,
+    "Score": 3.7439
+  },
+  {
+    "Manager": "Aitor Karanka",
+    "Average_Point": 0.9,
+    "Matches_Played": 39,
+    "Average_Valuation": 4300648.0,
+    "Score": 3.70994
+  },
+  {
+    "Manager": "Athanasios Staikos",
+    "Average_Point": 0.7,
+    "Matches_Played": 42,
+    "Average_Valuation": 423402.0,
+    "Score": 3.70299
+  },
+  {
+    "Manager": "Frank Kramer",
+    "Average_Point": 0.8,
+    "Matches_Played": 67,
+    "Average_Valuation": 2406544.0,
+    "Score": 3.69739
+  },
+  {
+    "Manager": "Vyacheslav Groznyi",
+    "Average_Point": 0.7,
+    "Matches_Played": 90,
+    "Average_Valuation": 524404.0,
+    "Score": 3.67417
+  },
+  {
+    "Manager": "Jean-Marc Furlan",
+    "Average_Point": 0.8,
+    "Matches_Played": 64,
+    "Average_Valuation": 1029036.0,
+    "Score": 3.66807
+  },
+  {
+    "Manager": "Albert Cartier",
+    "Average_Point": 0.8,
+    "Matches_Played": 38,
+    "Average_Valuation": 1193185.0,
+    "Score": 3.66747
+  },
+  {
+    "Manager": "Roberto Stellone",
+    "Average_Point": 0.8,
+    "Matches_Played": 39,
+    "Average_Valuation": 1355586.0,
+    "Score": 3.65918
+  },
+  {
+    "Manager": "Giovanni Martusciello",
+    "Average_Point": 0.8,
+    "Matches_Played": 39,
+    "Average_Valuation": 2170668.0,
+    "Score": 3.65534
+  },
+  {
+    "Manager": "Domingos Paciência",
+    "Average_Point": 0.8,
+    "Matches_Played": 31,
+    "Average_Valuation": 1100151.0,
+    "Score": 3.61748
+  },
+  {
+    "Manager": "Harry Redknapp",
+    "Average_Point": 0.8,
+    "Matches_Played": 52,
+    "Average_Valuation": 4509220.0,
+    "Score": 3.5897
+  },
+  {
+    "Manager": "Fabio Pecchia",
+    "Average_Point": 0.8,
+    "Matches_Played": 43,
+    "Average_Valuation": 1707191.0,
+    "Score": 3.58147
+  },
+  {
+    "Manager": "Neil Warnock",
+    "Average_Point": 0.8,
+    "Matches_Played": 59,
+    "Average_Valuation": 3871561.0,
+    "Score": 3.55874
+  },
+  {
+    "Manager": "Giovanni Stroppa",
+    "Average_Point": 0.8,
+    "Matches_Played": 49,
+    "Average_Valuation": 2118686.0,
+    "Score": 3.55167
+  },
+  {
+    "Manager": "Scott Parker",
+    "Average_Point": 0.9,
+    "Matches_Played": 67,
+    "Average_Valuation": 10091662.0,
+    "Score": 3.48905
+  },
+  {
+    "Manager": "Daniel Farke",
+    "Average_Point": 0.9,
+    "Matches_Played": 89,
+    "Average_Valuation": 8533354.0,
+    "Score": 3.47791
+  },
+  {
+    "Manager": "Sergey Pervushin",
+    "Average_Point": 0.7,
+    "Matches_Played": 47,
+    "Average_Valuation": 502136.0,
+    "Score": 3.47677
+  },
+  {
+    "Manager": "Hakan Kutlu",
+    "Average_Point": 0.7,
+    "Matches_Played": 53,
+    "Average_Valuation": 1181523.0,
+    "Score": 3.42076
+  },
+  {
+    "Manager": "Magomed Adiev",
+    "Average_Point": 0.7,
+    "Matches_Played": 31,
+    "Average_Valuation": 396422.0,
+    "Score": 3.41594
+  },
+  {
+    "Manager": "Jean Fernandez",
+    "Average_Point": 0.7,
+    "Matches_Played": 36,
+    "Average_Valuation": 2114064.0,
+    "Score": 3.34727
+  },
+  {
+    "Manager": "Marco Baroni",
+    "Average_Point": 0.8,
+    "Matches_Played": 88,
+    "Average_Valuation": 2800541.0,
+    "Score": 3.33362
+  },
+  {
+    "Manager": "Fabien Mercadal",
+    "Average_Point": 0.8,
+    "Matches_Played": 48,
+    "Average_Valuation": 2616492.0,
+    "Score": 3.29897
+  },
+  {
+    "Manager": "Zdenek Zeman",
+    "Average_Point": 0.7,
+    "Matches_Played": 38,
+    "Average_Valuation": 2088411.0,
+    "Score": 3.2913
+  },
+  {
+    "Manager": "Jan Vreman",
+    "Average_Point": 0.6,
+    "Matches_Played": 36,
+    "Average_Valuation": 351748.0,
+    "Score": 3.25181
+  },
+  {
+    "Manager": "Aleksandr Grigoryan",
+    "Average_Point": 0.7,
+    "Matches_Played": 36,
+    "Average_Valuation": 657731.0,
+    "Score": 3.23466
+  },
+  {
+    "Manager": "Olivier Pantaloni",
+    "Average_Point": 0.7,
+    "Matches_Played": 38,
+    "Average_Valuation": 1016804.0,
+    "Score": 3.21523
+  },
+  {
+    "Manager": "Torsten Lieberknecht",
+    "Average_Point": 0.7,
+    "Matches_Played": 51,
+    "Average_Valuation": 1281962.0,
+    "Score": 3.1718
+  },
+  {
+    "Manager": "Domenico Di Carlo",
+    "Average_Point": 0.7,
+    "Matches_Played": 73,
+    "Average_Valuation": 1833539.0,
+    "Score": 3.14878
+  },
+  {
+    "Manager": "Massimo Oddo",
+    "Average_Point": 0.6,
+    "Matches_Played": 51,
+    "Average_Valuation": 2776843.0,
+    "Score": 2.83476
+  },
+  {
+    "Manager": "Giannis Chatzinikolaou",
+    "Average_Point": 0.5,
+    "Matches_Played": 31,
+    "Average_Valuation": 331766.0,
+    "Score": 2.80402
+  },
+  {
+    "Manager": "Moreno Longo",
+    "Average_Point": 0.7,
+    "Matches_Played": 32,
+    "Average_Valuation": 5249255.0,
+    "Score": 2.75671
+  },
+  {
+    "Manager": "Dejan Stanković",
+    "Average_Point": 0.5,
+    "Matches_Played": 31,
+    "Average_Valuation": 2947927.0,
+    "Score": 2.39284
+  },
+  {
+    "Manager": "Stefan Leitl",
+    "Average_Point": 0.5,
+    "Matches_Played": 36,
+    "Average_Valuation": 1474584.0,
+    "Score": 2.28811
+  }
+]
